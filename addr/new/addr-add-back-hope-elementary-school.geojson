@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[-118.20937790041107,33.969107654131072]},"properties":{"FID":0,"PreDir":" ","PreType":" ","HouseNum":"7560","StreetName":"State","SufDir":" ","StreetType":"St","UnitType":" ","UnitName":" ","ZipCode":"90255","FullName":"State St","Address":"7560 State St 90255"}}]
+}

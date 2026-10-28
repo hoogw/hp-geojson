@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[-118.19577277237389,33.985149361665108]},"properties":{"FID":0,"PreDir":" ","PreType":" ","HouseNum":"6055","StreetName":"Corona","SufDir":" ","StreetType":"Ave","UnitType":" ","UnitName":" ","ZipCode":"90255","FullName":"Corona Ave","Address":"6055 Corona Ave 90255"}}]
+}

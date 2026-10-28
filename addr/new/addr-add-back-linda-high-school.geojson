@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[-118.2342811673353,33.983062110945376]},"properties":{"FID":0,"PreDir":" ","PreType":" ","HouseNum":"6361","StreetName":"Cottage","SufDir":" ","StreetType":"St","UnitType":" ","UnitName":" ","ZipCode":"90255","FullName":"Cottage St","Address":"6361 Cottage St 90255"}},{"type":"Feature","id":1,"geometry":{"type":"Point","coordinates":[-118.23557845197065,33.985471937229335]},"properties":{"FID":1,"PreDir":"S","PreType":" ","HouseNum":"6208","StreetName":"Alameda","SufDir":" ","StreetType":"St","UnitType":" ","UnitName":" ","ZipCode":"90255","FullName":"S Alameda St","Address":"6208 S Alameda St 90255"}}]
+}

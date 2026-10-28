@@ -1,0 +1,6766 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2269454,
+          33.9281209
+        ]
+      },
+      "properties": {
+        "poi_id": "IFFE5117E289D4A61",
+        "name": "Los Angeles County Sheriff's Department",
+        "category": "Police",
+        "stNo": "11705",
+        "strName": "S Alameda St",
+        "stPrefix": "S",
+        "stName": "ALAMEDA",
+        "stType": "ST",
+        "city": "Lynwood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90262",
+        "fmtAddr": "11705 S Alameda St, Lynwood, CA 90262, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2270065,
+          33.9281885
+        ]
+      },
+      "properties": {
+        "poi_id": "I18FD65CFFA7BAF32",
+        "name": "Century Sheriff's Station",
+        "category": "Police",
+        "stNo": "11703",
+        "strName": "S Alameda St",
+        "stPrefix": "S",
+        "stName": "ALAMEDA",
+        "stType": "ST",
+        "city": "Lynwood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90262",
+        "fmtAddr": "11703 S Alameda St, Lynwood, CA  90262, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.230839,
+          34.060561
+        ]
+      },
+      "properties": {
+        "poi_id": "IE4B477BB4E8E60F",
+        "name": "Men's Central Jail (MCJ)",
+        "stNo": "441",
+        "strName": "Bauchet St",
+        "stPrefix": "",
+        "stName": "BAUCHET",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90012",
+        "fmtAddr": "441 Bauchet St, Los Angeles, CA  90012, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2318753,
+          34.059486
+        ]
+      },
+      "properties": {
+        "poi_id": "I16F840B5EC810483",
+        "name": "Los Angeles County – Men’s Central Jail",
+        "stNo": "441",
+        "strName": "Bauchet St",
+        "stPrefix": "",
+        "stName": "BAUCHET",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90012",
+        "fmtAddr": "441 Bauchet St, Los Angeles, CA  90012, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1618363,
+          33.9363655
+        ]
+      },
+      "properties": {
+        "poi_id": "I92387290906C8A78",
+        "name": "Los Padrinos Juvenile Hall",
+        "stNo": "7285",
+        "strName": "Quill Dr",
+        "stPrefix": "",
+        "stName": "QUILL",
+        "stType": "DR",
+        "city": "Downey",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90242",
+        "fmtAddr": "7285 Quill Dr, Downey, CA  90242, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238318,
+          34.0534861
+        ]
+      },
+      "properties": {
+        "poi_id": "I912CD1B721F8D96D",
+        "name": "Metropolitan Detention Center",
+        "stNo": "535",
+        "strName": "N Alameda St",
+        "stPrefix": "N",
+        "stName": "ALAMEDA",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90012",
+        "fmtAddr": "535 N Alameda St, Los Angeles, CA  90012, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2052732,
+          33.9567319
+        ]
+      },
+      "properties": {
+        "poi_id": "I5ABA0A366DBB23BE",
+        "name": "South Gate Jail",
+        "stNo": "8620",
+        "strName": "California Ave",
+        "stPrefix": "",
+        "stName": "CALIFORNIA",
+        "stType": "AVE",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90280",
+        "fmtAddr": "8620 California Ave, South Gate, CA  90280, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.610276,
+          34.4517416
+        ]
+      },
+      "properties": {
+        "poi_id": "IC5691368F08D0EC7",
+        "name": "Pitchess Detention Center North",
+        "stNo": "29330",
+        "strName": "The Old Rd",
+        "stPrefix": "",
+        "stName": "THE OLD",
+        "stType": "RD",
+        "city": "Castaic",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91384",
+        "fmtAddr": "29330 The Old Rd\nCastaic, CA  91384\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2306468,
+          34.0585038
+        ]
+      },
+      "properties": {
+        "poi_id": "IEE8D533E1373A9E5",
+        "name": "Twin Towers Correctional Facility",
+        "stNo": "450",
+        "strName": "Bauchet St",
+        "stPrefix": "",
+        "stName": "BAUCHET",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90012",
+        "fmtAddr": "450 Bauchet St, Los Angeles, CA  90012, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5289052,
+          34.0812472
+        ]
+      },
+      "properties": {
+        "poi_id": "I13145C5B5680177A",
+        "name": "West Valley Detention Center",
+        "stNo": "9500",
+        "strName": "Etiwanda Ave",
+        "stPrefix": "",
+        "stName": "ETIWANDA",
+        "stType": "AVE",
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91739",
+        "fmtAddr": "9500 Etiwanda Ave, Rancho Cucamonga, CA 91739, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.610415,
+          34.451794
+        ]
+      },
+      "properties": {
+        "poi_id": "I3E1D21206BFE110C",
+        "name": "North County Correctional Facility",
+        "stNo": "29340",
+        "strName": "The Old Rd",
+        "stPrefix": "",
+        "stName": "THE OLD",
+        "stType": "RD",
+        "city": "Castaic",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91384",
+        "fmtAddr": "29340 The Old Rd, Castaic, CA 91384, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2303308,
+          34.0601028
+        ]
+      },
+      "properties": {
+        "poi_id": "I8FA4CF0E85DB2921",
+        "name": "Los Angeles County Central Jail Hospital",
+        "category": "Hospital",
+        "stNo": "441",
+        "strName": "Bauchet St",
+        "stPrefix": "",
+        "stName": "BAUCHET",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90012",
+        "fmtAddr": "441 Bauchet St, Los Angeles, CA  90012, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2410055,
+          34.052695
+        ]
+      },
+      "properties": {
+        "poi_id": "I1F22AC1790E9334",
+        "name": "Los Angeles Police Department",
+        "category": "Police",
+        "stNo": "180",
+        "strName": "N Los Angeles St",
+        "stPrefix": "N",
+        "stName": "LOS ANGELES",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90012",
+        "fmtAddr": "180 N Los Angeles St, Los Angeles, CA  90012, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2780348,
+          33.9706132
+        ]
+      },
+      "properties": {
+        "poi_id": "IFC38287951492513",
+        "name": "Bail Bonds 77th Street Jail",
+        "stNo": "7600",
+        "strName": "S Broadway",
+        "stPrefix": "S",
+        "stName": "BROADWAY",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90003",
+        "fmtAddr": "7600 S Broadway, Los Angeles, CA  90003, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8781617,
+          33.7486792
+        ]
+      },
+      "properties": {
+        "poi_id": "I7808EFD32BC9A8EC",
+        "name": "Orange County Jail",
+        "stNo": "550",
+        "strName": "N Flower St",
+        "stPrefix": "N",
+        "stName": "FLOWER",
+        "stType": "ST",
+        "city": "Santa Ana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92703",
+        "fmtAddr": "550 N Flower St, Santa Ana, CA  92703, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5688691,
+          35.1154771
+        ]
+      },
+      "properties": {
+        "poi_id": "ID09371273AD4D0F1",
+        "name": "California Correctional Institution",
+        "stNo": "24900",
+        "strName": "Highway 202",
+        "stPrefix": "",
+        "stName": "HIGHWAY",
+        "stType": "",
+        "city": "Tehachapi",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93561",
+        "fmtAddr": "24900 Highway 202, Tehachapi, CA 93561, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24049,
+          34.050459
+        ]
+      },
+      "properties": {
+        "poi_id": "I906761445A473084",
+        "name": "LA County Jail Inmate Search",
+        "stNo": "106",
+        "strName": "Judge John Aiso St",
+        "stPrefix": "",
+        "stName": "JUDGE JOHN AISO",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90012",
+        "fmtAddr": "106 Judge John Aiso St, Los Angeles, CA  90012, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.880581,
+          33.7501422
+        ]
+      },
+      "properties": {
+        "poi_id": "I1A85092026FB03F2",
+        "name": "Santa Ana City Jail",
+        "stNo": "62",
+        "strName": "Civic Center Plaza",
+        "stPrefix": "",
+        "stName": "CIVIC CENTER",
+        "stType": "PLZ",
+        "city": "Santa Ana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92701",
+        "fmtAddr": "62 Civic Center Plaza, Santa Ana, CA  92701, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2479192,
+          33.967215
+        ]
+      },
+      "properties": {
+        "poi_id": "I746A8AEB776BF646",
+        "name": "Sheriff's Youth Foundation",
+        "stNo": "7901",
+        "strName": "Compton Ave",
+        "stPrefix": "",
+        "stName": "COMPTON",
+        "stType": "AVE",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90001",
+        "fmtAddr": "7901 Compton Ave, Los Angeles, CA  90001, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6825106,
+          33.9820596
+        ]
+      },
+      "properties": {
+        "poi_id": "I603C6E791C7806C0",
+        "name": "California Institution for Men",
+        "stNo": "14901",
+        "strName": "Central Ave",
+        "stPrefix": "",
+        "stName": "CENTRAL",
+        "stType": "AVE",
+        "city": "Chino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91710",
+        "fmtAddr": "14901 Central Ave, Chino, CA 91710, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2305664,
+          34.0591704
+        ]
+      },
+      "properties": {
+        "poi_id": "I801CBE7DC7AB601B",
+        "name": "Los Angeles Inmate Reception Center",
+        "stNo": "450",
+        "strName": "Bauchet St",
+        "stPrefix": "",
+        "stName": "BAUCHET",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90012",
+        "fmtAddr": "450 Bauchet St, Los Angeles, CA  90012, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1683448,
+          34.0595993
+        ]
+      },
+      "properties": {
+        "poi_id": "ICD617E1FE55C0FEA",
+        "name": "Los Angeles Sheriff’s Department - Headquarters",
+        "category": "Police",
+        "stNo": "4700",
+        "strName": "Ramona Blvd",
+        "stPrefix": "",
+        "stName": "RAMONA",
+        "stType": "BLVD",
+        "city": "Monterey Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91754",
+        "fmtAddr": "4700 Ramona Blvd, Monterey Park, CA 91754, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1265297,
+          34.0920213
+        ]
+      },
+      "properties": {
+        "poi_id": "IF80832F0C93BAB53",
+        "name": "Alhambra City Jail",
+        "stNo": "211",
+        "strName": "S 1st St",
+        "stPrefix": "S",
+        "stName": "1ST",
+        "stType": "ST",
+        "city": "Alhambra",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91801",
+        "fmtAddr": "211 S 1st St, Alhambra, CA  91801, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2982197,
+          33.9302839
+        ]
+      },
+      "properties": {
+        "poi_id": "I47AD00CCB4F22620",
+        "name": "South Los Angeles Sheriff's Station",
+        "category": "Police",
+        "stNo": "1310",
+        "strName": "W Imperial Hwy",
+        "stPrefix": "W",
+        "stName": "IMPERIAL",
+        "stType": "HWY",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90044",
+        "fmtAddr": "1310 W Imperial Hwy, Los Angeles, CA  90044, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1578445,
+          34.0343296
+        ]
+      },
+      "properties": {
+        "poi_id": "I30EB9CCC0EE05AFB",
+        "name": "East Los Angeles Sheriff's Station",
+        "category": "Library",
+        "stNo": "5019",
+        "strName": "E 3rd St",
+        "stPrefix": "E",
+        "stName": "3RD",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90022",
+        "fmtAddr": "5019 E 3rd St, Los Angeles, CA  90022, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0534118,
+          34.0705379
+        ]
+      },
+      "properties": {
+        "poi_id": "IB715173B06DB415F",
+        "name": "California Department of Corrections & Rehabilitation",
+        "stNo": "9900",
+        "strName": "Baldwin Pl",
+        "stPrefix": "",
+        "stName": "BALDWIN",
+        "stType": "PL",
+        "city": "El Monte",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91731",
+        "fmtAddr": "9900 Baldwin Pl, El Monte, CA  91731, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2074082,
+          34.0642056
+        ]
+      },
+      "properties": {
+        "poi_id": "IB91F9673F9B1A6C6",
+        "name": "Central Juvenille Hall Probation Camp",
+        "stNo": "1605",
+        "strName": "Eastlake Ave",
+        "stPrefix": "",
+        "stName": "EASTLAKE",
+        "stType": "AVE",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90033",
+        "fmtAddr": "1605 Eastlake Ave, Los Angeles, CA  90033, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2426073,
+          34.0558958
+        ]
+      },
+      "properties": {
+        "poi_id": "I15EAEA24A2FFC5BA",
+        "name": "Los Angeles County Sheriff's Department",
+        "category": "Police",
+        "stNo": "211",
+        "strName": "W Temple St",
+        "stPrefix": "W",
+        "stName": "TEMPLE",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90012",
+        "fmtAddr": "211 W Temple St, Los Angeles, CA 90012, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3087184,
+          34.183381
+        ]
+      },
+      "properties": {
+        "poi_id": "IAB346984C66D0FD5",
+        "name": "Burbank City Jail",
+        "stNo": "200",
+        "strName": "N Third St",
+        "stPrefix": "N",
+        "stName": "THIRD",
+        "stType": "ST",
+        "city": "Burbank",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91502",
+        "fmtAddr": "200 N Third St, Burbank, CA  91502, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4452665,
+          34.1837963
+        ]
+      },
+      "properties": {
+        "poi_id": "I3DCDBFC85F33F40",
+        "name": "Van Nuys Community Police Station",
+        "category": "Police",
+        "stNo": "6240",
+        "strName": "Sylmar Ave",
+        "stPrefix": "",
+        "stName": "SYLMAR",
+        "stType": "AVE",
+        "city": "Van Nuys",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91401",
+        "fmtAddr": "6240 Sylmar Ave, Van Nuys, CA 91401, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6040358,
+          34.4668379
+        ]
+      },
+      "properties": {
+        "poi_id": "IA0B14988B64FCC96",
+        "name": "Los Angeles County Sheriff - Pitchess Detention Center South Facility",
+        "category": "Police",
+        "stNo": "29340 ",
+        "strName": "The Old Rd",
+        "stPrefix": "",
+        "stName": "THE OLD",
+        "stType": "RD",
+        "city": "Castaic",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91384",
+        "fmtAddr": "29340 The Old Rd\nCastaic, CA  91384\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4845126,
+          34.314774
+        ]
+      },
+      "properties": {
+        "poi_id": "I3C2CD542D72C2BE4",
+        "name": "Barry J. Nidorf Juvenile Hall",
+        "stNo": "16350",
+        "strName": "Filbert St",
+        "stPrefix": "",
+        "stName": "FILBERT",
+        "stType": "ST",
+        "city": "Sylmar",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91324",
+        "fmtAddr": "16350 Filbert St, Sylmar, CA 91324, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8878605,
+          33.7824736
+        ]
+      },
+      "properties": {
+        "poi_id": "I4A18AFF620184698",
+        "name": "Theo Lacy Facility",
+        "stNo": "501",
+        "strName": "The City Dr S",
+        "stPrefix": "",
+        "stName": "THE CITY",
+        "stType": "DR",
+        "city": "Orange",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92868",
+        "fmtAddr": "501 The City Dr S, Orange, CA  92868, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1972528,
+          33.7689855
+        ]
+      },
+      "properties": {
+        "poi_id": "IA159277A4DA1C8F4",
+        "name": "Long Beach City Jail",
+        "stNo": "400",
+        "strName": "W Broadway",
+        "stPrefix": "W",
+        "stName": "BROADWAY",
+        "stType": "",
+        "city": "Long Beach",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90802",
+        "fmtAddr": "400 W Broadway, Long Beach, CA  90802, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3425571,
+          33.8398581
+        ]
+      },
+      "properties": {
+        "poi_id": "I1AB63780C746C76A",
+        "name": "Torrance City Jail",
+        "stNo": "3300",
+        "strName": "Civic Center Dr",
+        "stPrefix": "",
+        "stName": "CIVIC CENTER",
+        "stType": "DR",
+        "city": "Torrance",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90503",
+        "fmtAddr": "3300 Civic Center Dr, Torrance, CA  90503, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1972528,
+          33.7689855
+        ]
+      },
+      "properties": {
+        "poi_id": "I7DBC151A6093C237",
+        "name": "Long Beach Jail Information",
+        "stNo": "400",
+        "strName": "W Broadway",
+        "stPrefix": "W",
+        "stName": "BROADWAY",
+        "stType": "",
+        "city": "Long Beach",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90802",
+        "fmtAddr": "400 W Broadway, Long Beach, CA  90802, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3205867,
+          33.7854608
+        ]
+      },
+      "properties": {
+        "poi_id": "I2C31D460B6CB88AF",
+        "name": "Lomita Sheriff’s Station",
+        "category": "Police",
+        "stNo": "26123",
+        "strName": "Narbonne Ave",
+        "stPrefix": "",
+        "stName": "NARBONNE",
+        "stType": "AVE",
+        "city": "Lomita",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90717",
+        "fmtAddr": "26123 Narbonne Ave, Lomita, CA  90717, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2279571,
+          34.6939383
+        ]
+      },
+      "properties": {
+        "poi_id": "I6252AEB3FA8FAA7",
+        "name": "California State Prison",
+        "stNo": "44750",
+        "strName": "60th St W",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "Lancaster",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93536",
+        "fmtAddr": "44750 60th St W, Lancaster, CA  93536, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9193627,
+          33.8302764
+        ]
+      },
+      "properties": {
+        "poi_id": "I5E507FC3C64571BD",
+        "name": "Anaheim Detention Facility",
+        "stNo": "425",
+        "strName": "S Harbor Blvd",
+        "stPrefix": "",
+        "stName": "S",
+        "stType": "HBR",
+        "city": "Anaheim",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92805",
+        "fmtAddr": "425 S Harbor Blvd, Anaheim, CA  92805, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37442,
+          33.978825
+        ]
+      },
+      "properties": {
+        "poi_id": "I604912851D7B75CD",
+        "name": "Robert Presley Detention Center",
+        "stNo": "4000",
+        "strName": "Orange St",
+        "stPrefix": "",
+        "stName": "ORANGE",
+        "stType": "ST",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "4000 Orange St, Riverside, CA  92501, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3743908,
+          33.9788616
+        ]
+      },
+      "properties": {
+        "poi_id": "I9265562F8D5F8D46",
+        "name": "Riverside County Jail",
+        "stNo": "4000",
+        "strName": "Orange St",
+        "stPrefix": "",
+        "stName": "ORANGE",
+        "stType": "ST",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "4000 Orange St, Riverside, CA  92501, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8696833,
+          33.910475
+        ]
+      },
+      "properties": {
+        "poi_id": "IF2DB1037FF2DCDF1",
+        "name": "Larry D. Smith Correctional Facility",
+        "stNo": "1627",
+        "strName": "S Hargrave St",
+        "stPrefix": "S",
+        "stName": "HARGRAVE",
+        "stType": "ST",
+        "city": "Banning",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92220",
+        "fmtAddr": "1627 S Hargrave St, Banning, CA  92220, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0003631,
+          33.8443374
+        ]
+      },
+      "properties": {
+        "poi_id": "ID5207F6B014811CB",
+        "name": "Ghost Town Jail and Sad Eye Joe",
+        "category": "AmusementPark",
+        "stNo": "8039",
+        "strName": "Beach Blvd",
+        "stPrefix": "",
+        "stName": "BEACH",
+        "stType": "BLVD",
+        "city": "Buena Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90620",
+        "fmtAddr": "8039 Beach Blvd, Buena Park, CA  90620, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4567758,
+          34.5471833
+        ]
+      },
+      "properties": {
+        "poi_id": "I798903FBC6CDDCDC",
+        "name": "High Desert Detention Center",
+        "stNo": "9438",
+        "strName": "Commerce Way",
+        "stPrefix": "",
+        "stName": "COMMERCE",
+        "stType": "WAY",
+        "city": "Adelanto",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92301",
+        "fmtAddr": "9438 Commerce Way, Adelanto, CA  92301, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6368058,
+          33.9494032
+        ]
+      },
+      "properties": {
+        "poi_id": "IDCFBA7FFE732C364",
+        "name": "California Institution for Women",
+        "stNo": "16756",
+        "strName": "Chino Corona Rd",
+        "stPrefix": "",
+        "stName": "CHINO CORONA",
+        "stType": "RD",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92880",
+        "fmtAddr": "16756 Chino Corona Rd\nCorona, CA 92880\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8771766,
+          33.7487361
+        ]
+      },
+      "properties": {
+        "poi_id": "IF1AF92DC889F7E2D",
+        "name": "Intake Release Center",
+        "stNo": "550",
+        "strName": "N Flower St",
+        "stPrefix": "N",
+        "stName": "FLOWER",
+        "stType": "ST",
+        "city": "Santa Ana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92703",
+        "fmtAddr": "550 N Flower St, Santa Ana, CA  92703, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8879571,
+          33.785093
+        ]
+      },
+      "properties": {
+        "poi_id": "I9168E661188BEA6D",
+        "name": "Juvenile Hall - Orange County",
+        "stNo": "331",
+        "strName": "The City Dr",
+        "stPrefix": "",
+        "stName": "THE CITY",
+        "stType": "DR",
+        "city": "Orange",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92868",
+        "fmtAddr": "331 The City Dr, Orange, CA 92868, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.904181,
+          33.6633891
+        ]
+      },
+      "properties": {
+        "poi_id": "I81D4F2C7BADB4E01",
+        "name": "Costa Mesa City Jail",
+        "stNo": "99",
+        "strName": "Fair Dr",
+        "stPrefix": "",
+        "stName": "FAIR",
+        "stType": "DR",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92626",
+        "fmtAddr": "99 Fair Dr, Costa Mesa, CA  92626, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.122026,
+          33.581749
+        ]
+      },
+      "properties": {
+        "poi_id": "IF2187C75872BAFCB",
+        "name": "Southwest County Detention Center",
+        "stNo": "30755",
+        "strName": "Auld Rd",
+        "stPrefix": "",
+        "stName": "AULD",
+        "stType": "RD",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92563",
+        "fmtAddr": "30755 Auld Rd, Unit B, Murrieta, CA  92563, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8805387,
+          33.7482532
+        ]
+      },
+      "properties": {
+        "poi_id": "ICBC5DD41FDC4444",
+        "name": "Orange County Sheriff’s Department",
+        "category": "Police",
+        "stNo": "1071",
+        "strName": "W Santa Ana Blvd",
+        "stPrefix": "W",
+        "stName": "SANTA ANA",
+        "stType": "BLVD",
+        "city": "Santa Ana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92703",
+        "fmtAddr": "1071 W Santa Ana Blvd, Santa Ana, CA  92703, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8777218,
+          33.7473589
+        ]
+      },
+      "properties": {
+        "poi_id": "ID8BACA6EBC73D10C",
+        "name": "OC Crime Lab",
+        "category": "Police",
+        "stNo": "320",
+        "strName": "N Flower St",
+        "stPrefix": "N",
+        "stName": "FLOWER",
+        "stType": "ST",
+        "city": "Santa Ana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92703",
+        "fmtAddr": "320 N Flower St, Santa Ana, CA  92703, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.933753,
+          32.584969
+        ]
+      },
+      "properties": {
+        "poi_id": "I7454D232E1BD8429",
+        "name": "Richard J. Donovan Correctional Facility",
+        "stNo": "480",
+        "strName": "Alta Rd",
+        "stPrefix": "",
+        "stName": "ALTA",
+        "stType": "RD",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92179",
+        "fmtAddr": "480 Alta Rd, San Diego, CA 92179, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.866446,
+          33.853086
+        ]
+      },
+      "properties": {
+        "poi_id": "IB6367B5ECCBE0050",
+        "name": "California Department Of Corrections Adult Parole",
+        "stNo": "2911",
+        "strName": "E Coronado St",
+        "stPrefix": "E",
+        "stName": "CORONADO",
+        "stType": "ST",
+        "city": "Anaheim",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92806",
+        "fmtAddr": "2911 E Coronado St, Anaheim, CA  92806, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.877234,
+          33.747582
+        ]
+      },
+      "properties": {
+        "poi_id": "I59571278A2DD777D",
+        "name": "ORANGE COUNTY SHERIFF’S DEPARTMENT",
+        "category": "Police",
+        "stNo": "320",
+        "strName": "N Flower St",
+        "stPrefix": "N",
+        "stName": "FLOWER",
+        "stType": "ST",
+        "city": "Santa Ana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92703",
+        "fmtAddr": "320 N Flower St, Santa Ana, CA  92703, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1642811,
+          32.7173127
+        ]
+      },
+      "properties": {
+        "poi_id": "IDB203462DF9B548F",
+        "name": "San Diego County Sheriff’s Department",
+        "category": "Police",
+        "stNo": "1173",
+        "strName": "Front St",
+        "stPrefix": "",
+        "stName": "ST",
+        "stType": "",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92101",
+        "fmtAddr": "1173 Front St, San Diego, CA  92101, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.876736,
+          33.747428
+        ]
+      },
+      "properties": {
+        "poi_id": "I6A1D60FB6E48858D",
+        "name": "Sheriff’s Department",
+        "category": "Police",
+        "stNo": "320",
+        "strName": "N Flower St",
+        "stPrefix": "N",
+        "stName": "FLOWER",
+        "stType": "ST",
+        "city": "Santa Ana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92703",
+        "fmtAddr": "320 N Flower St, Santa Ana, CA  92703, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.745905,
+          33.765102
+        ]
+      },
+      "properties": {
+        "poi_id": "I4AE46596D771A37D",
+        "name": "Orange County Sheriff’s Department",
+        "category": "Police",
+        "stNo": "2644",
+        "strName": "Santiago Canyon Rd",
+        "stPrefix": "",
+        "stName": "SANTIAGO CANYON",
+        "stType": "RD",
+        "city": "Silverado",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92676",
+        "fmtAddr": "2644 Santiago Canyon Rd, Silverado, CA 92676, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.657554,
+          33.668842
+        ]
+      },
+      "properties": {
+        "poi_id": "I8567997217D4634E",
+        "name": "Orange County Sheriff's Department",
+        "category": "Police",
+        "stNo": "20202",
+        "strName": "Windrow Dr",
+        "stPrefix": "",
+        "stName": "WINDROW",
+        "stType": "DR",
+        "city": "Lake Forest",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92630",
+        "fmtAddr": "20202 Windrow Dr, Lake Forest, CA  92630, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1224546,
+          33.5809734
+        ]
+      },
+      "properties": {
+        "poi_id": "I51276BD538881719",
+        "name": "Cois M. Byrd Detention Center",
+        "stNo": "30755-B",
+        "strName": "Auld Rd",
+        "stPrefix": "",
+        "stName": "AULD",
+        "stType": "RD",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92563",
+        "fmtAddr": "30755-B Auld Rd\nMurrieta, CA  92563\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5724918,
+          33.6779524
+        ]
+      },
+      "properties": {
+        "poi_id": "I877AE2763D51C93D",
+        "name": "Joplin Youth Center",
+        "stNo": "19480",
+        "strName": "Rose Canyon Road",
+        "stPrefix": "",
+        "stName": "ROSE CANYON",
+        "stType": "RD",
+        "city": "Trabuco Canyon",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92678",
+        "fmtAddr": "19480 Rose Canyon Road, Trabuco Canyon, CA 92678, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.728685,
+          33.567493
+        ]
+      },
+      "properties": {
+        "poi_id": "I660E6C83F6EC23FC",
+        "name": "Orange County Sheriff's Department",
+        "stNo": "11",
+        "strName": "Journey",
+        "stPrefix": "",
+        "stName": "JOURNEY",
+        "stType": "",
+        "city": "Aliso Viejo",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92656",
+        "fmtAddr": "11 Journey, Aliso Viejo, CA 92656, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6972467,
+          33.4795989
+        ]
+      },
+      "properties": {
+        "poi_id": "IB05685B002E4124A",
+        "name": "Orange County Sheriff's Department",
+        "category": "Police",
+        "stNo": "33282",
+        "strName": "Golden Lantern St",
+        "stPrefix": "",
+        "stName": "GOLDEN LANTERN",
+        "stType": "ST",
+        "city": "Dana Point",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92629",
+        "fmtAddr": "33282 Golden Lantern St, Unit 140, Dana Point, CA  92629, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6713097,
+          33.5618702
+        ]
+      },
+      "properties": {
+        "poi_id": "IF70DFA57F3A9B8FB",
+        "name": "Orange County Sheriff's Department",
+        "stNo": "27673",
+        "strName": "Puerta Real",
+        "stPrefix": "",
+        "stName": "PUERTA",
+        "stType": "",
+        "city": "Mission Viejo",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92691",
+        "fmtAddr": "27673 Puerta Real, Mission Viejo, CA  92691, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6995874,
+          33.489861
+        ]
+      },
+      "properties": {
+        "poi_id": "IFA8594E2A5E63073",
+        "name": "Prison Professors",
+        "stNo": "32565",
+        "strName": "Golden Lantern",
+        "stPrefix": "",
+        "stName": "GOLDEN",
+        "stType": "",
+        "city": "Dana Point",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92629",
+        "fmtAddr": "32565 Golden Lantern, Ste B-1026, Dana Point, CA  92629, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7287734,
+          33.5674845
+        ]
+      },
+      "properties": {
+        "poi_id": "IEEBE4488F755A4F8",
+        "name": "Orange County Sheriff’s Department",
+        "category": "Police",
+        "stNo": "12",
+        "strName": "Journey",
+        "stPrefix": "",
+        "stName": "JOURNEY",
+        "stType": "",
+        "city": "Aliso Viejo",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92656",
+        "fmtAddr": "12 Journey, Unit 100, Aliso Viejo, CA  92656, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9153192,
+          32.5758182
+        ]
+      },
+      "properties": {
+        "poi_id": "I9F7689388173C086",
+        "name": "Otay Mesa Detention Center",
+        "stNo": "7488",
+        "strName": "Calzada De La Fuente",
+        "stPrefix": "",
+        "stName": "CALZADA DE",
+        "stType": "LN",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92154",
+        "fmtAddr": "7488 Calzada De La Fuente, San Diego, CA 92154, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1532518,
+          32.7943907
+        ]
+      },
+      "properties": {
+        "poi_id": "I671479A792C40F8A",
+        "name": "Kearny Juvenile Detention Facility",
+        "stNo": "2801",
+        "strName": "Meadow Lark Dr",
+        "stPrefix": "",
+        "stName": "MEADOW LARK",
+        "stType": "DR",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92123",
+        "fmtAddr": "2801 Meadow Lark Dr, San Diego, CA  92123, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.358788,
+          34.5692598
+        ]
+      },
+      "properties": {
+        "poi_id": "I16F8938A7ECCB0B0",
+        "name": "Victorville Federal Correctional Complex",
+        "stNo": "13777",
+        "strName": "Air Expressway Blvd",
+        "stPrefix": "",
+        "stName": "AIR EXPRESSWAY",
+        "stType": "BLVD",
+        "city": "Victorville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92394",
+        "fmtAddr": "13777 Air Expressway Blvd, Victorville, CA  92394, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3365103,
+          33.3012004
+        ]
+      },
+      "properties": {
+        "poi_id": "I4C65CF20D988169C",
+        "name": "Camp Pendleton Base Brig",
+        "stNo": "24100",
+        "strName": "Powder Magazine Rd",
+        "stPrefix": "",
+        "stName": "POWDER MAGAZINE",
+        "stType": "RD",
+        "city": "Camp Pendleton North",
+        "zipCode": "92055",
+        "fmtAddr": "24100 Powder Magazine Rd, Camp Pendleton North, CA 92055, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.077526,
+          32.632954
+        ]
+      },
+      "properties": {
+        "poi_id": "I318C61A60E781433",
+        "name": "South Bay Detention Facility",
+        "stNo": "500",
+        "strName": "Third Ave",
+        "stPrefix": "",
+        "stName": "THIRD",
+        "stType": "AVE",
+        "city": "Chula Vista",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91910",
+        "fmtAddr": "500 Third Ave, Chula Vista, CA  91910, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3360658,
+          33.3010134
+        ]
+      },
+      "properties": {
+        "poi_id": "I365484E38A13ACD9",
+        "name": "Marines",
+        "stNo": "SSGT",
+        "strName": "Powder Magazine Rd",
+        "stPrefix": "",
+        "stName": "POWDER MAGAZINE",
+        "stType": "RD",
+        "city": "Camp Pendleton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92055",
+        "fmtAddr": "SSGT Powder Magazine Rd, Camp Pendleton, CA  92055, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2568825,
+          33.1917906
+        ]
+      },
+      "properties": {
+        "poi_id": "I74F58566DDC6C175",
+        "name": "Vista Detention Facility",
+        "category": "Police",
+        "stNo": "325",
+        "strName": "S Melrose Dr",
+        "stPrefix": "S",
+        "stName": "MELROSE",
+        "stType": "DR",
+        "city": "Vista",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92081",
+        "fmtAddr": "325 S Melrose Dr, Unit 200, Vista, CA 92081, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2565436,
+          33.1923539
+        ]
+      },
+      "properties": {
+        "poi_id": "IB8662D06721A2EB2",
+        "name": "San Diego County Sheriff's Office",
+        "category": "Police",
+        "stNo": "325",
+        "strName": "S Melrose Dr",
+        "stPrefix": "S",
+        "stName": "MELROSE",
+        "stType": "DR",
+        "city": "Vista",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92081",
+        "fmtAddr": "325 S Melrose Dr, Unit 200, Vista, CA  92081, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9181347,
+          32.5914879
+        ]
+      },
+      "properties": {
+        "poi_id": "I544239AA6DEBBE43",
+        "name": "East Mesa Juvenile Detention Facility",
+        "stNo": "446",
+        "strName": "Alta Rd",
+        "stPrefix": "",
+        "stName": "ALTA",
+        "stType": "RD",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92158",
+        "fmtAddr": "446 Alta Rd, Unit 6100, San Diego, CA  92158, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.601186,
+          33.07655
+        ]
+      },
+      "properties": {
+        "poi_id": "I24BA5B0FD89431CF",
+        "name": "Julian Jail",
+        "category": "Landmark",
+        "stNo": "1927",
+        "strName": "4th St",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "Julian",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92036",
+        "fmtAddr": "1927 4th St, Julian, CA 92036, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9212409,
+          32.5902027
+        ]
+      },
+      "properties": {
+        "poi_id": "I9D5D3FC15ECF04F1",
+        "name": "George Bailey Detention Facility",
+        "category": "Police",
+        "stNo": "446",
+        "strName": "Alta Rd",
+        "stPrefix": "",
+        "stName": "ALTA",
+        "stType": "RD",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92158",
+        "fmtAddr": "446 Alta Rd, Unit 5300, San Diego, CA 92158, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1043551,
+          33.1200263
+        ]
+      },
+      "properties": {
+        "poi_id": "I148404FC5684265C",
+        "name": "Division Of Adult Parole Operations",
+        "stNo": "1301",
+        "strName": "Simpson Way",
+        "stPrefix": "",
+        "stName": "SIMPSON",
+        "stType": "WAY",
+        "city": "Escondido",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92029",
+        "fmtAddr": "1301 Simpson Way, Escondido, CA  92029, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7891178,
+          32.8207219
+        ]
+      },
+      "properties": {
+        "poi_id": "I8ADC4E0169AFA8BD",
+        "name": "Centinela State Prison",
+        "stNo": "2302",
+        "strName": "Brown Road",
+        "stPrefix": "",
+        "stName": "BROWN",
+        "stType": "RD",
+        "city": "Imperial",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92251",
+        "fmtAddr": "2302 Brown Road, Imperial, CA 92251, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.166,
+          32.7139
+        ]
+      },
+      "properties": {
+        "poi_id": "I28D0D3726BB02D31",
+        "name": "Metropolitan Correctional Center",
+        "stNo": "808",
+        "strName": "Union St",
+        "stPrefix": "",
+        "stName": "UNION",
+        "stType": "ST",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92101",
+        "fmtAddr": "808 Union St, San Diego, CA  92101, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2585499,
+          33.0493119
+        ]
+      },
+      "properties": {
+        "poi_id": "IA352C24E25712B7E",
+        "name": "North Coastal Station",
+        "category": "Police",
+        "stNo": "175",
+        "strName": "N El Camino Real",
+        "stPrefix": "N",
+        "stName": "EL",
+        "stType": "",
+        "city": "Encinitas",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92024",
+        "fmtAddr": "175 N El Camino Real, Encinitas, CA  92024, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1651151,
+          32.7169091
+        ]
+      },
+      "properties": {
+        "poi_id": "I2FE6EB1109D07C22",
+        "name": "Western Region Detention Facility",
+        "stNo": "220",
+        "strName": "W C St",
+        "stPrefix": "W",
+        "stName": "C",
+        "stType": "ST",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92101",
+        "fmtAddr": "220 W C St, San Diego, CA  92101, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1212691,
+          32.8188736
+        ]
+      },
+      "properties": {
+        "poi_id": "IF718CB0BAAE03308",
+        "name": "San Diego County Sheriff's Department - Headquarters",
+        "category": "Police",
+        "stNo": "9621",
+        "strName": "Ridgehaven Ct",
+        "stPrefix": "",
+        "stName": "RIDGEHAVEN",
+        "stType": "CT",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92123",
+        "fmtAddr": "9621 Ridgehaven Ct, San Diego, CA 92123, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1190214,
+          33.0214654
+        ]
+      },
+      "properties": {
+        "poi_id": "I34C395D4866B4F2C",
+        "name": "San Diego County Sheriff’s Department",
+        "category": "Police",
+        "stNo": "10282",
+        "strName": "Rancho Bernardo Rd",
+        "stPrefix": "",
+        "stName": "RANCHO BERNARDO",
+        "stType": "RD",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92127",
+        "fmtAddr": "10282 Rancho Bernardo Rd, San Diego, CA  92127, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.118824,
+          32.907317
+        ]
+      },
+      "properties": {
+        "poi_id": "I3147FEE85817DBE8",
+        "name": "San Diego County Sheriff TRNG",
+        "category": "Police",
+        "stNo": "10440",
+        "strName": "Black Mountain Rd",
+        "stPrefix": "",
+        "stName": "BLACK MOUNTAIN",
+        "stType": "RD",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92126",
+        "fmtAddr": "10440 Black Mountain Rd, San Diego, CA  92126, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1179205,
+          32.8546721
+        ]
+      },
+      "properties": {
+        "poi_id": "I20879975EC3D23B6",
+        "name": "San Diego County Sheriff Training Facility",
+        "category": "Police",
+        "strName": "CA-163 N",
+        "stPrefix": "",
+        "stName": "CA-163",
+        "stType": "",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92123",
+        "fmtAddr": "CA-163 N, San Diego, CA  92123, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1015515,
+          32.754045
+        ]
+      },
+      "properties": {
+        "poi_id": "I4CA65657D43D2348",
+        "name": "Who's In Jail San Diego Inmate Search",
+        "stNo": "4245",
+        "strName": "43rd St",
+        "stPrefix": "",
+        "stName": "RD",
+        "stType": "ST",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92105",
+        "fmtAddr": "4245 43rd St, San Diego, CA  92105, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1353075,
+          32.7692521
+        ]
+      },
+      "properties": {
+        "poi_id": "I65AACCFA145C08E4",
+        "name": "San Diego Jailbreak",
+        "stNo": "2667",
+        "strName": "Camino Del Rio S",
+        "stPrefix": "",
+        "stName": "CAMINO",
+        "stType": "",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92108",
+        "fmtAddr": "2667 Camino Del Rio S, Ste 105, San Diego, CA  92108, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1306295,
+          32.8359871
+        ]
+      },
+      "properties": {
+        "poi_id": "I10932FDB860111C0",
+        "name": "San Diego County Sheriff’s Department",
+        "category": "Police",
+        "stNo": "5590",
+        "strName": "Overland Ave",
+        "stPrefix": "",
+        "stName": "OVERLAND",
+        "stType": "AVE",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92123",
+        "fmtAddr": "5590 Overland Ave, San Diego, CA  92123, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1518423,
+          32.8801071
+        ]
+      },
+      "properties": {
+        "poi_id": "ICE26C1DE7C898DF8",
+        "name": "Naval Consolidated Brig Miramar",
+        "stNo": "7863",
+        "strName": "Miramar Way",
+        "stPrefix": "",
+        "stName": "MIRAMAR",
+        "stType": "WAY",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92145",
+        "fmtAddr": "7863 Miramar Way, San Diego, CA  92145, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9727659,
+          32.8437733
+        ]
+      },
+      "properties": {
+        "poi_id": "I3F7F5161362A9D26",
+        "name": "Las Colinas Detention & Re-Entry Facility",
+        "category": "Police",
+        "stNo": "451",
+        "strName": "Riverview Pkwy",
+        "stPrefix": "",
+        "stName": "RIVERVIEW",
+        "stType": "PKWY",
+        "city": "Santee",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92071",
+        "fmtAddr": "451 Riverview Pkwy, Santee, CA  92071, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9231812,
+          32.5921281
+        ]
+      },
+      "properties": {
+        "poi_id": "IEE069AD3CD5683D7",
+        "name": "Rock Mountain Detention Facility",
+        "stNo": "446",
+        "strName": "Alta Rd",
+        "stPrefix": "",
+        "stName": "ALTA",
+        "stType": "RD",
+        "city": "Chula Vista",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92158",
+        "fmtAddr": "446 Alta Rd, Unit 5400, Chula Vista, CA  92158, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9196476,
+          32.589544
+        ]
+      },
+      "properties": {
+        "poi_id": "IC3BBF17CEFA85707",
+        "name": "East Mesa Reentry Facility",
+        "category": "Police",
+        "stNo": "446",
+        "strName": "Alta Rd",
+        "stPrefix": "",
+        "stName": "ALTA",
+        "stType": "RD",
+        "city": "Chula Vista",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92158",
+        "fmtAddr": "446 Alta Rd, Unit 5200, Chula Vista, CA  92158, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16606,
+          32.71391
+        ]
+      },
+      "properties": {
+        "poi_id": "IF2DED1A9BC782032",
+        "name": "US Prison Bureau",
+        "stNo": "808",
+        "strName": "Union St",
+        "stPrefix": "",
+        "stName": "UNION",
+        "stType": "ST",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92101",
+        "fmtAddr": "808 Union St, San Diego, CA  92101, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1350237,
+          32.6935339
+        ]
+      },
+      "properties": {
+        "poi_id": "IA05F271FCD5B2D46",
+        "name": "Correctional Alternatives",
+        "stNo": "2727",
+        "strName": "Boston Ave",
+        "stPrefix": "",
+        "stName": "BOSTON",
+        "stType": "AVE",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92113",
+        "fmtAddr": "2727 Boston Ave, San Diego, CA  92113, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9474244,
+          32.7401076
+        ]
+      },
+      "properties": {
+        "poi_id": "I42BAFB9E1820E2C",
+        "name": "San Diego County Sheriff's Department",
+        "category": "Police",
+        "stNo": "11486",
+        "strName": "Campo Rd",
+        "stPrefix": "",
+        "stName": "CAMPO",
+        "stType": "RD",
+        "city": "Spring Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91978",
+        "fmtAddr": "11486 Campo Rd, Spring Valley, CA  91978, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0320452,
+          32.627433
+        ]
+      },
+      "properties": {
+        "poi_id": "I757916128815A7CF",
+        "name": "Re-Entry Prison & Jail Ministry",
+        "stNo": "610",
+        "strName": "Paseo del Rey",
+        "stPrefix": "",
+        "stName": "PASEO",
+        "stType": "",
+        "city": "Chula Vista",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91910",
+        "fmtAddr": "610 Paseo del Rey, Chula Vista, CA  91910, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4847736,
+          33.1630777
+        ]
+      },
+      "properties": {
+        "poi_id": "I3B5088139DEA9404",
+        "name": "Calipatria State Prison",
+        "stNo": "7018",
+        "strName": "Blair Rd",
+        "stPrefix": "",
+        "stName": "BLAIR",
+        "stType": "RD",
+        "city": "Calipatria",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92233",
+        "fmtAddr": "7018 Blair Rd, Calipatria, CA  92233, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9700311,
+          32.5058378
+        ]
+      },
+      "properties": {
+        "poi_id": "I41411D29ED748BFA",
+        "name": "Cereso La Mesa Tijuana",
+        "stNo": "140",
+        "strName": "Avenida de los Charros",
+        "stPrefix": "",
+        "stName": "AVENIDA",
+        "stType": "",
+        "city": "Tijuana",
+        "state": "B.C.",
+        "state1": "Baja California",
+        "zipCode": "22105",
+        "fmtAddr": "Avenida de los Charros 140, José Sandoval, 22105 Tijuana, B.C., Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9888669,
+          32.5156151
+        ]
+      },
+      "properties": {
+        "poi_id": "IA58A143A4661F13A",
+        "name": "City Jail",
+        "stNo": "12693",
+        "strName": "Eje vial vía Rápida Poniente",
+        "stPrefix": "",
+        "stName": "EJE",
+        "stType": "",
+        "city": "Tijuana",
+        "state": "B.C.",
+        "state1": "Baja California",
+        "zipCode": "22100",
+        "fmtAddr": "Eje vial vía Rápida Poniente 12693, 20 de Noviembre, 22100 Tijuana, B.C., Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2211516,
+          33.7146086
+        ]
+      },
+      "properties": {
+        "poi_id": "IE09F459C187EAE7F",
+        "name": "John J. Benoit Detention Center",
+        "stNo": "82675",
+        "strName": "CA-111 S",
+        "stPrefix": "",
+        "stName": "CA-111",
+        "stType": "",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "82675 CA-111 S, Indio, CA  92201, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.754166,
+          32.834116
+        ]
+      },
+      "properties": {
+        "poi_id": "IE09455EFA4D8DEC4",
+        "name": "San Diego County Sheriff’s Department",
+        "category": "Police",
+        "stNo": "2751",
+        "strName": "Alpine Blvd",
+        "stPrefix": "",
+        "stName": "ALPINE",
+        "stType": "BLVD",
+        "city": "Alpine",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91901",
+        "fmtAddr": "2751 Alpine Blvd, Alpine, CA  91901, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5313518,
+          32.82565
+        ]
+      },
+      "properties": {
+        "poi_id": "I6B285E60E5246302",
+        "name": "San Diego County Sheriff's Pine Valley Substation",
+        "stNo": "28696",
+        "strName": "Old Highway 80",
+        "stPrefix": "",
+        "stName": "OLD",
+        "stType": "HWY",
+        "city": "Pine Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91962",
+        "fmtAddr": "28696 Old Highway 80, Pine Valley, CA  91962, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2218772,
+          33.7140284
+        ]
+      },
+      "properties": {
+        "poi_id": "I97E485EB9A4A5E92",
+        "name": "Riverside County Jail Bureau",
+        "stNo": "82675",
+        "strName": "CA-111 S",
+        "stPrefix": "",
+        "stName": "CA-111",
+        "stType": "",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "82675 CA-111 S, Indio, CA  92201, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.909718,
+          33.5615394
+        ]
+      },
+      "properties": {
+        "poi_id": "I728EFA4F7AADEDB1",
+        "name": "Chuckawalla Valley State Prison (CVSP)",
+        "stNo": "19025",
+        "strName": "Wiley's Well Rd",
+        "stPrefix": "",
+        "stName": "WILEYS WELL",
+        "stType": "RD",
+        "city": "Blythe",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92225",
+        "fmtAddr": "19025 Wiley's Well Rd, Blythe, CA 92225, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.92691,
+          33.558125
+        ]
+      },
+      "properties": {
+        "poi_id": "I9AE56B2A4173A04",
+        "name": "Ironwood State Prison",
+        "stNo": "19005",
+        "strName": "Wiley’s Well Road",
+        "stPrefix": "",
+        "stName": "WILEYS WELL",
+        "stType": "RD",
+        "city": "Blythe",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92225",
+        "fmtAddr": "19005 Wiley’s Well Road, Blythe, CA 92225, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.80672,
+          25.814735
+        ]
+      },
+      "properties": {
+        "name": "Jail",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Tonk",
+        "state1": "Rajasthan",
+        "fmtAddr": "Jail, Nagarfort, Tonk, 304026, Rajasthan, India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5689902,
+          32.8030733
+        ]
+      },
+      "properties": {
+        "poi_id": "I92444B4891994FE8",
+        "name": "Imperial County Jail",
+        "stNo": "1115",
+        "strName": "N Imperial Ave",
+        "stPrefix": "N",
+        "stName": "IMPERIAL",
+        "stType": "AVE",
+        "city": "El Centro",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92243",
+        "fmtAddr": "1115 N Imperial Ave, El Centro, CA  92243, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3980489,
+          32.6914952
+        ]
+      },
+      "properties": {
+        "poi_id": "IEBF5ECAB97C501D1",
+        "name": "Imperial Regional Detention Facility",
+        "stNo": "1572",
+        "strName": "Gateway Rd",
+        "stPrefix": "",
+        "stName": "GATEWAY",
+        "stType": "RD",
+        "city": "Calexico",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92231",
+        "fmtAddr": "1572 Gateway Rd, Calexico, CA  92231, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5633831,
+          32.7483149
+        ]
+      },
+      "properties": {
+        "poi_id": "I2589517039B30FCB",
+        "name": "Imperial County Sheriff's Office",
+        "category": "Police",
+        "stNo": "328",
+        "strName": "Applestill Rd",
+        "stPrefix": "",
+        "stName": "APPLESTILL",
+        "stType": "RD",
+        "city": "El Centro",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92243",
+        "fmtAddr": "328 Applestill Rd, El Centro, CA  92243, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5637808,
+          32.7514652
+        ]
+      },
+      "properties": {
+        "poi_id": "I2D7752C2A9EF64CE",
+        "name": "Imperial County Juvenile Hall",
+        "stNo": "324",
+        "strName": "Applestill Rd",
+        "stPrefix": "",
+        "stName": "APPLESTILL",
+        "stType": "RD",
+        "city": "El Centro",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92243",
+        "fmtAddr": "324 Applestill Rd, El Centro, CA  92243, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.638749,
+          32.487747
+        ]
+      },
+      "properties": {
+        "poi_id": "I874B85D06C4FBBDA",
+        "name": "Arizona Department of Corrections Rehabilitation & Reentry",
+        "stNo": "7125",
+        "strName": "East Cesar Chavez Blvd",
+        "stPrefix": "E",
+        "stName": "CESAR CHAVEZ",
+        "stType": "BLVD",
+        "city": "Yuma",
+        "state": "AZ",
+        "state1": "Arizona",
+        "zipCode": "85349",
+        "fmtAddr": "7125 East Cesar Chavez Blvd, Yuma, AZ 85349, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.563569,
+          32.7481495
+        ]
+      },
+      "properties": {
+        "poi_id": "IA1092E16378E27FE",
+        "name": "Herbert Hughes Correctional Center",
+        "stNo": "328",
+        "strName": "Applestill Rd",
+        "stPrefix": "",
+        "stName": "APPLESTILL",
+        "stType": "RD",
+        "city": "El Centro",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92243",
+        "fmtAddr": "328 Applestill Rd, El Centro, CA  92243, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6838437,
+          33.3239147
+        ]
+      },
+      "properties": {
+        "poi_id": "I1625CD6956C5262D",
+        "name": "Puerta La Cruz Conservation Camp #14",
+        "stNo": "32363",
+        "strName": "CA-79",
+        "stPrefix": "",
+        "stName": "CA",
+        "stType": "",
+        "city": "Warner Springs",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92070",
+        "fmtAddr": "32363 CA-79, Warner Springs, CA  92070, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8091718,
+          33.6425901
+        ]
+      },
+      "properties": {
+        "poi_id": "I651096CC41F18868",
+        "name": "Bautista Conservation",
+        "stNo": "33015",
+        "strName": "Bautista Rd",
+        "stPrefix": "",
+        "stName": "BAUTISTA",
+        "stType": "RD",
+        "city": "Hemet",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92544",
+        "fmtAddr": "33015 Bautista Rd, Hemet, CA  92544, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.640395,
+          32.494121
+        ]
+      },
+      "properties": {
+        "poi_id": "I7D3776766D2CBFD3",
+        "name": "Arizona State Prison Complex",
+        "stNo": "7125",
+        "strName": "E. Cesar Chavez Blvd",
+        "stPrefix": "E",
+        "stName": "CESAR CHAVEZ",
+        "stType": "BLVD",
+        "city": "Yuma",
+        "state": "AZ",
+        "state1": "Arizona",
+        "zipCode": "85349",
+        "fmtAddr": "7125 E. Cesar Chavez Blvd\nYuma, AZ 85349\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2515736,
+          32.4844248
+        ]
+      },
+      "properties": {
+        "poi_id": "IB47DDD4B2749DBD8",
+        "name": "Penitenciaria El Hongo",
+        "strName": "Carretera Federal Mexicali - Tecate Km. 94",
+        "stPrefix": "",
+        "stName": "CARRETERA",
+        "stType": "",
+        "city": "Tecate",
+        "state": "B.C.",
+        "state1": "Baja California",
+        "zipCode": "21505",
+        "fmtAddr": "Carretera Federal Mexicali - Tecate Km. 94, Licenciado Luis Echeverria Alvarez, 21505 Tecate, B.C., Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6845452,
+          32.4846816
+        ]
+      },
+      "properties": {
+        "poi_id": "IE80AA672BC55081",
+        "name": "San luis detention center",
+        "stNo": "404",
+        "strName": "N. Avenue D",
+        "stPrefix": "",
+        "stName": "N",
+        "stType": "AVE",
+        "city": "San Luis",
+        "state": "AZ",
+        "state1": "Arizona",
+        "zipCode": "85349",
+        "fmtAddr": "404 N. Avenue D, San Luis, AZ 85349, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.563569,
+          32.7481495
+        ]
+      },
+      "properties": {
+        "poi_id": "I57C37BD81A1B6F5F",
+        "name": "Imperial County Superior Court, Jail Division",
+        "stNo": "328",
+        "strName": "Applestill Rd",
+        "stPrefix": "",
+        "stName": "APPLESTILL",
+        "stType": "RD",
+        "city": "El Centro",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92243",
+        "fmtAddr": "328 Applestill Rd, El Centro, CA  92243, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4794986,
+          32.6555217
+        ]
+      },
+      "properties": {
+        "poi_id": "I8ED822FB0E6CD329",
+        "name": "Centro de Justicia Mexicali",
+        "stNo": "212",
+        "strName": "Callejón Bajos de Pasadina",
+        "stPrefix": "",
+        "stName": "CALLEJ",
+        "stType": "",
+        "city": "Mexicali",
+        "state": "B.C.",
+        "state1": "Baja California",
+        "zipCode": "21150",
+        "fmtAddr": "Callejón Bajos de Pasadina 212, Bellavista, 21150 Mexicali, B.C., Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4792014,
+          32.656017
+        ]
+      },
+      "properties": {
+        "poi_id": "IB34F21B5BA668837",
+        "name": "CERESO",
+        "strName": "Calle Sur",
+        "stPrefix": "",
+        "stName": "CALLE",
+        "stType": "",
+        "city": "Mexicali",
+        "state": "B.C.",
+        "state1": "Baja California",
+        "zipCode": "21150",
+        "fmtAddr": "Calle Sur, Bellavista, 21150 Mexicali, B.C., Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5813507,
+          33.1804321
+        ]
+      },
+      "properties": {
+        "poi_id": "IB3EA1796EF933C45",
+        "name": "San Diego County Sheriff’s Department",
+        "category": "Police",
+        "stNo": "25704",
+        "strName": "San Felipe Rd",
+        "stPrefix": "",
+        "stName": "SAN FELIPE",
+        "stType": "RD",
+        "city": "Warner Springs",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92086",
+        "fmtAddr": "25704 San Felipe Rd, Warner Springs, CA  92086, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2541806,
+          32.4865652
+        ]
+      },
+      "properties": {
+        "poi_id": "ICEABC57B9E703766",
+        "name": "Cereso de Hongo",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Tecate",
+        "state": "B.C.",
+        "state1": "Baja California",
+        "zipCode": "21519",
+        "fmtAddr": "21519 Tecate, B.C., Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.598007,
+          33.613279
+        ]
+      },
+      "properties": {
+        "poi_id": "I8967101983328D0D",
+        "name": "Riverside County Sheriff - Blythe Jail",
+        "category": "Police",
+        "stNo": "260",
+        "strName": "N Spring St",
+        "stPrefix": "",
+        "stName": "N",
+        "stType": "SPG",
+        "city": "Blythe",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92225",
+        "fmtAddr": "260 N Spring St, Blythe, CA  92225, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2903912,
+          34.1457425
+        ]
+      },
+      "properties": {
+        "poi_id": "I8808749C2732B282",
+        "name": "La Paz County Jail",
+        "category": "Police",
+        "stNo": "1109",
+        "strName": "W Arizona Ave",
+        "stPrefix": "W",
+        "stName": "ARIZONA",
+        "stType": "AVE",
+        "city": "Parker",
+        "state": "AZ",
+        "state1": "Arizona",
+        "zipCode": "85344",
+        "fmtAddr": "1109 W Arizona Ave, Parker, AZ  85344, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3100323,
+          34.1282887
+        ]
+      },
+      "properties": {
+        "poi_id": "I5F6FCA149A48659F",
+        "name": "Colorado River Indian Tribe DTNTN Center",
+        "stNo": "26600",
+        "strName": "Mohave Rd",
+        "stPrefix": "",
+        "stName": "MOHAVE",
+        "stType": "RD",
+        "city": "Parker",
+        "state": "AZ",
+        "state1": "Arizona",
+        "zipCode": "85344",
+        "fmtAddr": "26600 Mohave Rd, Parker, AZ  85344, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2731423,
+          34.102214
+        ]
+      },
+      "properties": {
+        "poi_id": "I2976532282E3F572",
+        "name": "San Bernardino County Sheriff's Department - Central Detention Center",
+        "stNo": "630",
+        "strName": "East Rialto Ave",
+        "stPrefix": "E",
+        "stName": "RIALTO",
+        "stType": "AVE",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92415",
+        "fmtAddr": "630 East Rialto Ave, San Bernardino, CA 92415, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2060136,
+          34.6353801
+        ]
+      },
+      "properties": {
+        "poi_id": "ICE7AC05AF1168D27",
+        "name": "High Desert Juvenile Detention and Assessment Center",
+        "stNo": "21101",
+        "strName": "Dale Evans Pkwy",
+        "stPrefix": "",
+        "stName": "DALE EVANS",
+        "stType": "PKWY",
+        "city": "Apple Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92307",
+        "fmtAddr": "21101 Dale Evans Pkwy, Apple Valley, CA  92307, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2685533,
+          34.1290713
+        ]
+      },
+      "properties": {
+        "poi_id": "IFB4AA6EA27590CFD",
+        "name": "Central Valley Juvenile Detention and Assessment Center",
+        "stNo": "900",
+        "strName": "E Gilbert St",
+        "stPrefix": "E",
+        "stName": "GILBERT",
+        "stType": "ST",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92415",
+        "fmtAddr": "900 E Gilbert St, San Bernardino, CA  92415, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1699072,
+          34.0122493
+        ]
+      },
+      "properties": {
+        "poi_id": "I84C388AE62654545",
+        "name": "Dorothy Kirby Center",
+        "stNo": "1500",
+        "strName": "S McDonnell Ave",
+        "stPrefix": "S",
+        "stName": "MCDONNELL",
+        "stType": "AVE",
+        "city": "Commerce",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90022",
+        "fmtAddr": "1500 S McDonnell Ave, Commerce, CA 90022, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.344708,
+          33.995886
+        ]
+      },
+      "properties": {
+        "poi_id": "ID94D3346AB4E285A",
+        "name": "Corrections Department",
+        "stNo": "1777",
+        "strName": "Atlanta Ave",
+        "stPrefix": "",
+        "stName": "ATLANTA",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92507",
+        "fmtAddr": "1777 Atlanta Ave, Unit G3, Riverside, CA 92507, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2696969,
+          34.1273799
+        ]
+      },
+      "properties": {
+        "poi_id": "IA8E4C79B53EC404",
+        "name": "San Bernardino County - Juvenile Detention and Assessment Center",
+        "stNo": "900",
+        "strName": "E Gilbert St",
+        "stPrefix": "E",
+        "stName": "GILBERT",
+        "stType": "ST",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92415",
+        "fmtAddr": "900 E Gilbert St, San Bernardino, CA  92415, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5755548,
+          33.9300882
+        ]
+      },
+      "properties": {
+        "poi_id": "IDC4A4E4809CD2A61",
+        "name": "California Rehabilitation Center (CRC)",
+        "strName": "5th Street & Western",
+        "stPrefix": "",
+        "stName": "",
+        "stType": "",
+        "city": "Norco",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92860",
+        "fmtAddr": "5th Street & Western, Norco, CA 92860, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9062766,
+          34.0338636
+        ]
+      },
+      "properties": {
+        "poi_id": "I7B5344DEE1D7EDD8",
+        "name": "Oak Glen Consevation Camp #35",
+        "stNo": "41100",
+        "strName": "Pine Bench Rd",
+        "stPrefix": "",
+        "stName": "PINE BENCH",
+        "stType": "RD",
+        "city": "Yucaipa",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92399",
+        "fmtAddr": "41100 Pine Bench Rd, Yucaipa, CA 92399, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.362356,
+          34.57078
+        ]
+      },
+      "properties": {
+        "poi_id": "I976C96A1D92267A1",
+        "name": "Fci Victorville Medium I",
+        "stNo": "13777",
+        "strName": "Air Expressway Blvd",
+        "stPrefix": "",
+        "stName": "AIR EXPRESSWAY",
+        "stType": "BLVD",
+        "city": "Victorville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92394",
+        "fmtAddr": "13777 Air Expressway Blvd, Victorville, CA  92394, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4389007,
+          34.5605492
+        ]
+      },
+      "properties": {
+        "poi_id": "I5B534194C0054766",
+        "name": "U S Immigration and customs Enforcement",
+        "stNo": "10400",
+        "strName": "Rancho Rd",
+        "stPrefix": "",
+        "stName": "RANCHO",
+        "stType": "RD",
+        "city": "Adelanto",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92301",
+        "fmtAddr": "10400 Rancho Rd, Adelanto, CA  92301, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3588353,
+          34.5692373
+        ]
+      },
+      "properties": {
+        "poi_id": "IA8CE0EB4EBECB2D5",
+        "name": "USP Victorville",
+        "stNo": "13777",
+        "strName": "Air Expressway Blvd",
+        "stPrefix": "",
+        "stName": "AIR EXPRESSWAY",
+        "stType": "BLVD",
+        "city": "Victorville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92394",
+        "fmtAddr": "13777 Air Expressway Blvd, Victorville, CA  92394, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.236333,
+          34.701733
+        ]
+      },
+      "properties": {
+        "poi_id": "IA3503A310F3567A9",
+        "name": "CA State Prison of LA County",
+        "stNo": "44750",
+        "strName": "60th St W",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "Lancaster",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93536-7620",
+        "fmtAddr": "4475060th St W, Lancaster, CA 93536-7620, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7765111,
+          34.4444753
+        ]
+      },
+      "properties": {
+        "poi_id": "I37A20587F5829629",
+        "name": "Santa Barbara County Main Jail",
+        "stNo": "4436",
+        "strName": "Calle Real",
+        "stPrefix": "",
+        "stName": "CALLE",
+        "stType": "",
+        "city": "Santa Barbara",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93110",
+        "fmtAddr": "4436 Calle Real, Santa Barbara, CA  93110, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.11201,
+          34.3098025
+        ]
+      },
+      "properties": {
+        "poi_id": "IF06653E1C14EFC8E",
+        "name": "Todd Road Jail",
+        "stNo": "600",
+        "strName": "Todd Rd S",
+        "stPrefix": "",
+        "stName": "TODD",
+        "stType": "RD",
+        "city": "Santa Paula",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93060",
+        "fmtAddr": "600 Todd Rd S, Santa Paula, CA 93060, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3095382,
+          35.7826029
+        ]
+      },
+      "properties": {
+        "poi_id": "I70EA669BB3D19634",
+        "name": "North Kern State Prison",
+        "stNo": "2737",
+        "strName": "Cecil Ave",
+        "stPrefix": "",
+        "stName": "CECIL",
+        "stType": "AVE",
+        "city": "Delano",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93215",
+        "fmtAddr": "2737 Cecil Ave, Delano, CA  93215, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.110599,
+          35.5106
+        ]
+      },
+      "properties": {
+        "poi_id": "IA499335EC26A9215",
+        "name": "Kern County- Lerdo Pre-Trial Facility",
+        "stNo": "17695",
+        "strName": "Industrial Farm Rd",
+        "stPrefix": "",
+        "stName": "INDUSTRIAL FARM",
+        "stType": "RD",
+        "city": "Bakersfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93308",
+        "fmtAddr": "17695 Industrial Farm Rd, Bakersfield, CA  93308, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.83461,
+          34.247661
+        ]
+      },
+      "properties": {
+        "poi_id": "I28C17769B78C1F4B",
+        "name": "Ventura County Sheriff's Office",
+        "category": "Police",
+        "stNo": "2101",
+        "strName": "E Olsen Rd",
+        "stPrefix": "E",
+        "stName": "OLSEN",
+        "stType": "RD",
+        "city": "Thousand Oaks",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91360",
+        "fmtAddr": "2101 E Olsen Rd, Thousand Oaks, CA  91360, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0480281,
+          35.420366
+        ]
+      },
+      "properties": {
+        "poi_id": "ID4F06AB8A64636CC",
+        "name": "Kern County Sheriff's Office",
+        "stNo": "1350",
+        "strName": "Norris Rd",
+        "stPrefix": "",
+        "stName": "NORRIS",
+        "stType": "RD",
+        "city": "Bakersfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93308",
+        "fmtAddr": "1350 Norris Rd, Bakersfield, CA 93308, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.325664,
+          35.7674557
+        ]
+      },
+      "properties": {
+        "poi_id": "I67128073284009A4",
+        "name": "Kern Valley State Prison",
+        "stNo": "3000",
+        "strName": "W Cecil Ave",
+        "stPrefix": "W",
+        "stName": "CECIL",
+        "stType": "AVE",
+        "city": "Delano",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93216",
+        "fmtAddr": "3000 W Cecil Ave, Delano, CA 93216, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.123353,
+          35.9738299
+        ]
+      },
+      "properties": {
+        "poi_id": "ID6A19C1EBF840B9F",
+        "name": "Avenal State Prison",
+        "stNo": "1",
+        "strName": "Kings Way",
+        "stPrefix": "",
+        "stName": "KINGS",
+        "stType": "WAY",
+        "city": "Avenal",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93204",
+        "fmtAddr": "1 Kings Way, Avenal, CA  93204, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4389007,
+          34.5605492
+        ]
+      },
+      "properties": {
+        "poi_id": "IC09770B5436DDECA",
+        "name": "Adelanto Correctional Facility",
+        "stNo": "10400",
+        "strName": "Rancho Rd",
+        "stPrefix": "",
+        "stName": "RANCHO",
+        "stType": "RD",
+        "city": "Adelanto",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92301",
+        "fmtAddr": "10400 Rancho Rd, Adelanto, CA  92301, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4389607,
+          34.5603889
+        ]
+      },
+      "properties": {
+        "poi_id": "I3984A67E80C0FA16",
+        "name": "Adelanto ICE Processing Center",
+        "stNo": "10400",
+        "strName": "Rancho Rd",
+        "stPrefix": "",
+        "stName": "RANCHO",
+        "stType": "RD",
+        "city": "Adelanto",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92301",
+        "fmtAddr": "10400 Rancho Rd, Adelanto, CA  92301, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1471257,
+          36.1671297
+        ]
+      },
+      "properties": {
+        "poi_id": "I5D975B13C4133FAB",
+        "name": "Clark County Detention Center",
+        "stNo": "330",
+        "strName": "S Casino Center Blvd",
+        "stPrefix": "S",
+        "stName": "CASINO CENTER",
+        "stType": "BLVD",
+        "city": "Las Vegas",
+        "state": "NV",
+        "state1": "Nevada",
+        "zipCode": "89116",
+        "fmtAddr": "330 S Casino Center Blvd, Las Vegas, NV 89116, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3150856,
+          35.7733055
+        ]
+      },
+      "properties": {
+        "poi_id": "IA7CCD50FE8E7EC07",
+        "name": "Jean Conservation Camp",
+        "stNo": "3",
+        "strName": "Prison Rd",
+        "stPrefix": "",
+        "stName": "PRISON",
+        "stType": "RD",
+        "city": "Jean",
+        "state": "NV",
+        "state1": "Nevada",
+        "zipCode": "89019",
+        "fmtAddr": "3 Prison Rd, Jean, NV  89019, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9786401,
+          36.0309804
+        ]
+      },
+      "properties": {
+        "poi_id": "I82935A6A7EFC3F47",
+        "name": "Henderson Detention Center",
+        "stNo": "18",
+        "strName": "E Basic Rd",
+        "stPrefix": "E",
+        "stName": "BASIC",
+        "stType": "RD",
+        "city": "Henderson",
+        "state": "NV",
+        "state1": "Nevada",
+        "zipCode": "89015",
+        "fmtAddr": "18 E Basic Rd, Henderson, NV  89015, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0064961,
+          35.3800669
+        ]
+      },
+      "properties": {
+        "poi_id": "IC9BBF22E8C8EDBC9",
+        "name": "Mesa Verde Detention Facility",
+        "stNo": "425",
+        "strName": "Golden State Ave",
+        "stPrefix": "",
+        "stName": "GOLDEN STATE",
+        "stType": "AVE",
+        "city": "Bakersfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93301",
+        "fmtAddr": "425 Golden State Ave, Bakersfield, CA  93301, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0606403,
+          36.0375091
+        ]
+      },
+      "properties": {
+        "poi_id": "I6034D5A1D0B2B11A",
+        "name": "South County Detention Center - Tulare County",
+        "stNo": "1960",
+        "strName": "W Scranton Ave",
+        "stPrefix": "W",
+        "stName": "SCRANTON",
+        "stType": "AVE",
+        "city": "Porterville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93257",
+        "fmtAddr": "1960 W Scranton Ave, Porterville, CA  93257, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0178162,
+          35.3722198
+        ]
+      },
+      "properties": {
+        "poi_id": "I9B993E27D29AE8D6",
+        "name": "Kern County Sheriff's Office",
+        "category": "Police",
+        "stNo": "1415",
+        "strName": "Truxtun Ave",
+        "stPrefix": "",
+        "stName": "TRUXTUN",
+        "stType": "AVE",
+        "city": "Bakersfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93301",
+        "fmtAddr": "1415 Truxtun Ave, Bakersfield, CA 93301, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3222091,
+          36.4597945
+        ]
+      },
+      "properties": {
+        "poi_id": "I9F7B63E93D111063",
+        "name": "Juvenile Detention Facility",
+        "stNo": "11200",
+        "strName": "Avenue 368",
+        "stPrefix": "",
+        "stName": "AVENUE",
+        "stType": "",
+        "city": "Visalia",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93291",
+        "fmtAddr": "11200 Avenue 368, Visalia, CA  93291, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2290868,
+          35.6681538
+        ]
+      },
+      "properties": {
+        "poi_id": "ICE6EAC24C4E9EFC8",
+        "name": "Central Valley Modified Community Correctional Facility",
+        "stNo": "254",
+        "strName": "Taylor Ave",
+        "stPrefix": "",
+        "stName": "TAYLOR",
+        "stType": "AVE",
+        "city": "McFarland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93250",
+        "fmtAddr": "254 Taylor Ave, McFarland, CA  93250, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.441486,
+          35.13427
+        ]
+      },
+      "properties": {
+        "poi_id": "I1F6B74FC7B0EB200",
+        "name": "Taft Community Correctional",
+        "stNo": "330",
+        "strName": "Commerce Way",
+        "stPrefix": "",
+        "stName": "COMMERCE",
+        "stType": "WAY",
+        "city": "Taft",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93268",
+        "fmtAddr": "330 Commerce Way, Taft, CA  93268, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3171767,
+          36.3279114
+        ]
+      },
+      "properties": {
+        "poi_id": "I78523F87AA4B0DF5",
+        "name": "Tulare County Sheriff",
+        "category": "Police",
+        "stNo": "2404",
+        "strName": "W Burrel Ave",
+        "stPrefix": "W",
+        "stName": "BURREL",
+        "stType": "AVE",
+        "city": "Visalia",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93291",
+        "fmtAddr": "2404 W Burrel Ave, Visalia, CA  93291, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.110583,
+          35.5107145
+        ]
+      },
+      "properties": {
+        "poi_id": "I71EDD13D31DA7D6C",
+        "name": "Lerdo Maximum-Medium Facility ",
+        "stNo": "17645",
+        "strName": "Industrial Farm Rd",
+        "stPrefix": "",
+        "stName": "INDUSTRIAL FARM",
+        "stType": "RD",
+        "city": "Bakersfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93308",
+        "fmtAddr": "17645 Industrial Farm Rd, Bakersfield, CA  93308, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2278246,
+          35.6699318
+        ]
+      },
+      "properties": {
+        "poi_id": "IE23230023B7C2F48",
+        "name": "Golden State Modified Community Correctional Facility",
+        "stNo": "611",
+        "strName": "S Frontage Rd",
+        "stPrefix": "S",
+        "stName": "FRONTAGE",
+        "stType": "RD",
+        "city": "McFarland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93250",
+        "fmtAddr": "611 S Frontage Rd, Mc Farland, CA  93250, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4283793,
+          35.7686309
+        ]
+      },
+      "properties": {
+        "poi_id": "IB5688C9C3CC55E97",
+        "name": "Camp Erwin Owen -Detention Center",
+        "stNo": "14401",
+        "strName": "Sierra Way",
+        "stPrefix": "",
+        "stName": "SIERRA",
+        "stType": "WAY",
+        "city": "Kernville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93238",
+        "fmtAddr": "14401 Sierra Way, Kernville, CA  93238, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.249352,
+          36.12978
+        ]
+      },
+      "properties": {
+        "poi_id": "IC74E53371B2E95F5",
+        "name": "Pleasant Valley State Prison",
+        "stNo": "24863",
+        "strName": "W Jayne Ave",
+        "stPrefix": "W",
+        "stName": "JAYNE",
+        "stType": "AVE",
+        "city": "Coalinga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93210",
+        "fmtAddr": "24863 W Jayne Ave, Coalinga, CA  93210, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6950176,
+          35.3252886
+        ]
+      },
+      "properties": {
+        "poi_id": "I5770654E5E07BAD8",
+        "name": "California Men's Colony",
+        "stNo": "8101",
+        "strName": "San Luis",
+        "stPrefix": "",
+        "stName": "SAN",
+        "stType": "",
+        "city": "San Luis Obispo",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93409",
+        "fmtAddr": "8101 San Luis, Obispo, CA 93409, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.726715,
+          35.320705
+        ]
+      },
+      "properties": {
+        "poi_id": "I16A8617169CD9F40",
+        "name": "San Luis Obispo County Jail",
+        "stNo": "1585",
+        "strName": "Kansas Ave",
+        "stPrefix": "",
+        "stName": "KANSAS",
+        "stType": "AVE",
+        "city": "San Luis Obispo",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93405",
+        "fmtAddr": "1585 Kansas Ave, San Luis Obispo, CA  93405, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4073319,
+          35.5938871
+        ]
+      },
+      "properties": {
+        "poi_id": "I4CB2A62E5A03D44",
+        "name": "Wasco State Prison‑Reception Center",
+        "stNo": "701",
+        "strName": "Scofield Ave",
+        "stPrefix": "",
+        "stName": "SCOFIELD",
+        "stType": "AVE",
+        "city": "Wasco",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93280",
+        "fmtAddr": "701 Scofield Ave, Wasco, CA  93280, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.549721,
+          36.060242
+        ]
+      },
+      "properties": {
+        "poi_id": "I7F4924336B4A5ABC",
+        "name": "California State Prison",
+        "stNo": "4001",
+        "strName": "King Ave",
+        "stPrefix": "",
+        "stName": "KING",
+        "stType": "AVE",
+        "city": "Corcoran",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93212",
+        "fmtAddr": "4001 King Ave, Corcoran, CA  93212, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7260454,
+          35.3207279
+        ]
+      },
+      "properties": {
+        "poi_id": "I7ED9A46C09A01068",
+        "name": "San Luis Obispo County Sheriff's Office",
+        "category": "Police",
+        "stNo": "1585",
+        "strName": "Kansas Ave",
+        "stPrefix": "",
+        "stName": "KANSAS",
+        "stType": "AVE",
+        "city": "San Luis Obispo",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93405",
+        "fmtAddr": "1585 Kansas Ave, San Luis Obispo, CA  93405, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4924905,
+          34.918335
+        ]
+      },
+      "properties": {
+        "poi_id": "I319A84C2C8385860",
+        "name": "Santa Barbara County North Branch Jail",
+        "category": "Police",
+        "stNo": "2301",
+        "strName": "Black Rd",
+        "stPrefix": "",
+        "stName": "BLACK",
+        "stType": "RD",
+        "city": "Santa Maria",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93455",
+        "fmtAddr": "2301 Black Rd, Santa Maria, CA  93455, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3760799,
+          36.48137
+        ]
+      },
+      "properties": {
+        "poi_id": "IE1B0A6C99AF52F51",
+        "name": "Salinas Valley State Prison",
+        "stNo": "31625",
+        "strName": "Highway 101",
+        "stPrefix": "",
+        "stName": "HIGHWAY",
+        "stType": "",
+        "city": "Soledad",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93960",
+        "fmtAddr": "31625 Highway 101, Soledad, CA 93960, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4975587,
+          34.6775206
+        ]
+      },
+      "properties": {
+        "poi_id": "I1CFA11DCFD12C443",
+        "name": "Fed Correctional Institution Lompoc",
+        "stNo": "3600",
+        "strName": "Guard Rd",
+        "stPrefix": "",
+        "stName": "GUARD",
+        "stType": "RD",
+        "city": "Lompoc",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93436",
+        "fmtAddr": "3600 Guard Rd, Lompoc, CA  93436, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5535445,
+          36.052586
+        ]
+      },
+      "properties": {
+        "poi_id": "IDFD280B2C49532C5",
+        "name": "Substance Abuse Treatment Facility and State Prison",
+        "stNo": "900",
+        "strName": "Quebec Ave",
+        "stPrefix": "",
+        "stName": "QUEBEC",
+        "stType": "AVE",
+        "city": "Corcoran",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93212",
+        "fmtAddr": "900 Quebec Ave, Corcoran, CA  93212, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5056214,
+          34.6786496
+        ]
+      },
+      "properties": {
+        "poi_id": "IEE3972C7B1A0615A",
+        "name": "USP Lompoc",
+        "stNo": "3901",
+        "strName": "Klein Blvd",
+        "stPrefix": "",
+        "stName": "KLEIN",
+        "stType": "BLVD",
+        "city": "Lompoc",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93436",
+        "fmtAddr": "3901 Klein Blvd, Lompoc, CA  93436, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4975587,
+          34.6775206
+        ]
+      },
+      "properties": {
+        "poi_id": "I8B8682BB11A04B27",
+        "name": "Federal Bureau Of Prisons",
+        "stNo": "3600",
+        "strName": "Guard Rd",
+        "stPrefix": "",
+        "stName": "GUARD",
+        "stType": "RD",
+        "city": "Lompoc",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93436",
+        "fmtAddr": "3600 Guard Rd, Lompoc, CA  93436, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4463483,
+          34.8820027
+        ]
+      },
+      "properties": {
+        "poi_id": "ID2258B456B8FBE46",
+        "name": "Santa Barbara County Sheriff's Office",
+        "category": "Police",
+        "stNo": "812",
+        "strName": "W Foster Rd",
+        "stPrefix": "W",
+        "stName": "FOSTER",
+        "stType": "RD",
+        "city": "Santa Maria",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93455",
+        "fmtAddr": "812 W Foster Rd, Santa Maria, CA  93455, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6695392,
+          36.332907
+        ]
+      },
+      "properties": {
+        "poi_id": "I4F99299BDC2F4543",
+        "name": "Kings County Jail",
+        "stNo": "1570",
+        "strName": "Kings County Dr",
+        "stPrefix": "",
+        "stName": "KINGS COUNTY",
+        "stType": "DR",
+        "city": "Hanford",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93230",
+        "fmtAddr": "1570 Kings County Dr, Hanford, CA  93230, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.153069,
+          37.101269
+        ]
+      },
+      "properties": {
+        "poi_id": "I16D67DB4A6B3CB05",
+        "name": "Valley State Prison",
+        "stNo": "21633",
+        "strName": "Avenue 24",
+        "stPrefix": "",
+        "stName": "AVENUE",
+        "stType": "",
+        "city": "Chowchilla",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93610",
+        "fmtAddr": "21633 Avenue 24, Chowchilla, CA  93610, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7897019,
+          36.738221
+        ]
+      },
+      "properties": {
+        "poi_id": "I2B01471531C2C51A",
+        "name": "The Fresno County Sheriff’s Office",
+        "stNo": "1225",
+        "strName": "M St",
+        "stPrefix": "",
+        "stName": "M",
+        "stType": "ST",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93721",
+        "fmtAddr": "1225 M St, Fresno, CA  93721, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3827896,
+          36.4699153
+        ]
+      },
+      "properties": {
+        "poi_id": "I9624153371B25A7A",
+        "name": "Correctional Training Facility",
+        "strName": "Soledad Prison Road",
+        "stPrefix": "",
+        "stName": "SOLEDAD PRISON",
+        "stType": "RD",
+        "city": "Soledad",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93960",
+        "fmtAddr": "Soledad Prison Road, Soledad, CA 93960, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3921425,
+          36.7327537
+        ]
+      },
+      "properties": {
+        "poi_id": "IA2966CCCD6DCF8BC",
+        "name": "Federal Correctional Institution",
+        "stNo": "33500",
+        "strName": "W California Ave",
+        "stPrefix": "W",
+        "stName": "CALIFORNIA",
+        "stType": "AVE",
+        "city": "Mendota",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93640",
+        "fmtAddr": "33500 W California Ave, Mendota, CA  93640, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9063032,
+          37.3516182
+        ]
+      },
+      "properties": {
+        "poi_id": "IC54534F41DDE6263",
+        "name": "County of Santa Clara - Main Jail Complex",
+        "stNo": "150",
+        "strName": "W Hedding St",
+        "stPrefix": "W",
+        "stName": "HEDDING",
+        "stType": "ST",
+        "city": "San Jose",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95110",
+        "fmtAddr": "150 W Hedding St, San Jose CA 95110, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0350761,
+          36.9543287
+        ]
+      },
+      "properties": {
+        "poi_id": "I4A332CFCE51490DB",
+        "name": "The Madera County Department of Corrections",
+        "stNo": "14191",
+        "strName": "Road 28",
+        "stPrefix": "",
+        "stName": "ROAD",
+        "stType": "",
+        "city": "Madera",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93638",
+        "fmtAddr": "14191 Road 28, Madera, CA 93638, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5581065,
+          37.3862899
+        ]
+      },
+      "properties": {
+        "poi_id": "IDD376BAED38682B5",
+        "name": "USP",
+        "stNo": "1",
+        "strName": "Federal Way",
+        "stPrefix": "",
+        "stName": "FEDERAL",
+        "stType": "WAY",
+        "city": "Atwater",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95301",
+        "fmtAddr": "1 Federal Way, Atwater, CA  95301, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7265202,
+          36.6603034
+        ]
+      },
+      "properties": {
+        "poi_id": "IE6179F4E2503AFDE",
+        "name": "Juvenile Justice Campus",
+        "stNo": "3333",
+        "strName": "E American Ave",
+        "stPrefix": "E",
+        "stName": "AMERICAN",
+        "stType": "AVE",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93725",
+        "fmtAddr": "3333 E American Ave, Fresno, CA  93725, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.790405,
+          36.7385961
+        ]
+      },
+      "properties": {
+        "poi_id": "I65AA27B8629F8EE7",
+        "name": "North Annex Jail",
+        "category": "Police",
+        "stNo": "1265",
+        "strName": "M St",
+        "stPrefix": "",
+        "stName": "M",
+        "stType": "ST",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93721",
+        "fmtAddr": "1265 M St, Fresno, CA  93721, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7892904,
+          36.7375183
+        ]
+      },
+      "properties": {
+        "poi_id": "I523CCE2DE7339CA7",
+        "name": "Fresno County South Jail Annex",
+        "stNo": "2280",
+        "strName": "Fresno St",
+        "stPrefix": "",
+        "stName": "FRESNO",
+        "stType": "ST",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93721",
+        "fmtAddr": "2280 Fresno St, Fresno, CA  93721, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.774855,
+          36.709783
+        ]
+      },
+      "properties": {
+        "poi_id": "I4B9DFB250D84DBEF",
+        "name": "California Department of Corrections and Rehabilitation",
+        "stNo": "2510",
+        "strName": "S East Ave",
+        "stPrefix": "S",
+        "stName": "EAST",
+        "stType": "AVE",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93706",
+        "fmtAddr": "2510 S East Ave, Fresno, CA  93706, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8020863,
+          36.7574443
+        ]
+      },
+      "properties": {
+        "poi_id": "I6F81DCE9D3E1B12",
+        "name": "The Library At Detention",
+        "category": "Nightlife",
+        "stNo": "750",
+        "strName": "E Olive Ave",
+        "stPrefix": "E",
+        "stName": "OLIVE",
+        "stType": "AVE",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93728",
+        "fmtAddr": "750 E Olive Ave, Fresno, CA  93728, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5519191,
+          36.5143746
+        ]
+      },
+      "properties": {
+        "poi_id": "I1C3152D63C993D30",
+        "name": "Historic Kingsburg Jail",
+        "category": "Landmark",
+        "stNo": "1400",
+        "strName": "Marion St",
+        "stPrefix": "",
+        "stName": "MARION",
+        "stType": "ST",
+        "city": "Kingsburg",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93631",
+        "fmtAddr": "1400 Marion St, Kingsburg, CA  93631, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.789764,
+          36.736751
+        ]
+      },
+      "properties": {
+        "poi_id": "IBD2A31C200E5401D",
+        "name": "Fresno County Sheriff's Office",
+        "category": "Police",
+        "stNo": "2200",
+        "strName": "Fresno St",
+        "stPrefix": "",
+        "stName": "FRESNO",
+        "stType": "ST",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93721",
+        "fmtAddr": "2200 Fresno St, Fresno, CA  93721, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7931732,
+          36.7386032
+        ]
+      },
+      "properties": {
+        "poi_id": "IEAD6EDFD83A2B151",
+        "name": "Fresno Deputy Sheriffs'assn",
+        "stNo": "1360",
+        "strName": "Van Ness Ave",
+        "stPrefix": "",
+        "stName": "VAN NESS",
+        "stType": "AVE",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93721",
+        "fmtAddr": "1360 Van Ness Ave, Fresno, CA  93721, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3232238,
+          36.459826
+        ]
+      },
+      "properties": {
+        "poi_id": "I3F87B81C34AB1157",
+        "name": "Juvenile Justice Center",
+        "stNo": "11200",
+        "strName": "Avenue 368",
+        "stPrefix": "",
+        "stName": "AVENUE",
+        "stType": "",
+        "city": "Visalia",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93291",
+        "fmtAddr": "11200 Avenue 368, Unit 108, Visalia, CA  93291, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.870898,
+          36.811517
+        ]
+      },
+      "properties": {
+        "poi_id": "I6CAD758ED9951B34",
+        "name": "California Department of Corrections and Rehabilitation",
+        "stNo": "5168",
+        "strName": "N Blythe Ave",
+        "stPrefix": "N",
+        "stName": "BLYTHE",
+        "stType": "AVE",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93722",
+        "fmtAddr": "5168 N Blythe Ave, Unit 101, Fresno, CA 93722, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.772562,
+          36.824211
+        ]
+      },
+      "properties": {
+        "poi_id": "I96F67CE6B6277FA4",
+        "name": "California Correctional Peace Officers Association",
+        "category": "Police",
+        "stNo": "6041",
+        "strName": "N First St",
+        "stPrefix": "N",
+        "stName": "FIRST",
+        "stType": "ST",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93710",
+        "fmtAddr": "6041 N First St, Fresno, CA  93710, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7733448,
+          36.8097059
+        ]
+      },
+      "properties": {
+        "poi_id": "IA106EE80CAB19A83",
+        "name": "Sheriff's Office Civil Unit",
+        "stNo": "770",
+        "strName": "E Shaw Ave",
+        "stPrefix": "E",
+        "stName": "SHAW",
+        "stType": "AVE",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93710",
+        "fmtAddr": "770 E Shaw Ave, Unit 300, Fresno, CA  93710, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.795604,
+          36.743336
+        ]
+      },
+      "properties": {
+        "poi_id": "I487994375C77011F",
+        "name": "Fresno Sheriff's Office",
+        "category": "Police",
+        "stNo": "1256",
+        "strName": "E Divisadero St",
+        "stPrefix": "E",
+        "stName": "DIVISADERO",
+        "stType": "ST",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93721",
+        "fmtAddr": "1256 E Divisadero St, Fresno, CA 93721, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7733448,
+          36.8097059
+        ]
+      },
+      "properties": {
+        "poi_id": "ID04C396ED719899E",
+        "name": "Fresno County Sherffs",
+        "category": "Police",
+        "stNo": "770",
+        "strName": "E Shaw Ave",
+        "stPrefix": "E",
+        "stName": "SHAW",
+        "stType": "AVE",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93710",
+        "fmtAddr": "770 E Shaw Ave, Fresno, CA  93710, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6737959,
+          36.7528158
+        ]
+      },
+      "properties": {
+        "poi_id": "I52BD45653B10DB55",
+        "name": "The Fresno County Sheriff's Office Area 2",
+        "stNo": "1129",
+        "strName": "Armstrong Ave",
+        "stPrefix": "",
+        "stName": "ARMSTRONG",
+        "stType": "AVE",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93727",
+        "fmtAddr": "1129 Armstrong Ave, Fresno, CA  93727, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7879243,
+          36.766695
+        ]
+      },
+      "properties": {
+        "poi_id": "I12B0CA54BEF3F355",
+        "name": "Water Divison",
+        "stNo": "1776",
+        "strName": "N Effie St",
+        "stPrefix": "N",
+        "stName": "EFFIE",
+        "stType": "ST",
+        "city": "Fresno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93703",
+        "fmtAddr": "1776 N Effie St, Fresno, CA  93703, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5384816,
+          37.1895229
+        ]
+      },
+      "properties": {
+        "poi_id": "I4482982643F979EE",
+        "name": "John Latorraca Correctional Center",
+        "stNo": "2584",
+        "strName": "W Sandy Mush Rd",
+        "stPrefix": "W",
+        "stName": "SANDY MUSH",
+        "stType": "RD",
+        "city": "El Nido",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95317",
+        "fmtAddr": "2584 W Sandy Mush Rd\nEl Nido, CA 95317\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.538101,
+          37.189779
+        ]
+      },
+      "properties": {
+        "poi_id": "I79E35831EF7F9585",
+        "name": "Merced County Sheriffs Office",
+        "stNo": "2584",
+        "strName": "W Sandy Mush Rd",
+        "stPrefix": "W",
+        "stName": "SANDY MUSH",
+        "stType": "RD",
+        "city": "Merced",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95341",
+        "fmtAddr": "2584 W Sandy Mush Rd, Merced, CA  95341, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5404799,
+          37.1874973
+        ]
+      },
+      "properties": {
+        "poi_id": "I3752EBAB1CC31F44",
+        "name": "Juvenile Justice Correctional Complex",
+        "stNo": "2840",
+        "strName": "W Sandy Mush Rd",
+        "stPrefix": "W",
+        "stName": "SANDY MUSH",
+        "stType": "RD",
+        "city": "Merced",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95341",
+        "fmtAddr": "2840 W Sandy Mush Rd, Merced, CA  95341, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8879066,
+          37.7178286
+        ]
+      },
+      "properties": {
+        "poi_id": "IE07D48E06BF1EB6F",
+        "name": "Alameda County Sheriff's Office",
+        "category": "Police",
+        "stNo": "5325",
+        "strName": "Broder Blvd",
+        "stPrefix": "",
+        "stName": "BRODER",
+        "stType": "BLVD",
+        "city": "Dublin",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94568",
+        "fmtAddr": "5325 Broder Blvd, Dublin, CA  94568, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4838322,
+          37.3073077
+        ]
+      },
+      "properties": {
+        "poi_id": "IC5997B1996EB68F",
+        "name": "Merced county jail",
+        "stNo": "700",
+        "strName": "W 22nd St",
+        "stPrefix": "W",
+        "stName": "22ND",
+        "stType": "ST",
+        "city": "Merced",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95340",
+        "fmtAddr": "700 W 22nd St, Merced, CA  95340, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.185147,
+          37.8946
+        ]
+      },
+      "properties": {
+        "poi_id": "I12FBF627ECA5F407",
+        "name": "California Health Care Facility",
+        "stNo": "7707",
+        "strName": "Austin Rd",
+        "stPrefix": "",
+        "stName": "AUSTIN",
+        "stType": "RD",
+        "city": "Stockton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95215",
+        "fmtAddr": "7707 Austin Rd, Stockton, CA  95215, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.538147,
+          37.893448
+        ]
+      },
+      "properties": {
+        "poi_id": "I2B8412E0294B1EC9",
+        "name": "Sierra Conservation Center",
+        "stNo": "5100",
+        "strName": "O'Byrnes Ferry Rd",
+        "stPrefix": "",
+        "stName": "OBYRNES FERRY",
+        "stType": "RD",
+        "city": "Jamestown",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95327",
+        "fmtAddr": "5100 O'Byrnes Ferry Rd, Jamestown, CA  95327, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.98927,
+          37.586361
+        ]
+      },
+      "properties": {
+        "poi_id": "I505FDF6822F8D1A1",
+        "name": "Stanislaus County Men's Jail",
+        "stNo": "250",
+        "strName": "E Hackett Rd",
+        "stPrefix": "E",
+        "stName": "HACKETT",
+        "stType": "RD",
+        "city": "Ceres",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95358",
+        "fmtAddr": "250 E Hackett Rd, Modesto, CA  95358, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9876184,
+          37.5000373
+        ]
+      },
+      "properties": {
+        "poi_id": "I6FC490955CC9CE32",
+        "name": "Mariposa County Adult Detention Facility",
+        "stNo": "5379",
+        "strName": "Highway 49 N",
+        "stPrefix": "",
+        "stName": "HIGHWAY 49",
+        "stType": "",
+        "city": "Mariposa",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95338",
+        "fmtAddr": "5379 CA-49, Mariposa, CA 95338, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1633152,
+          38.6958519
+        ]
+      },
+      "properties": {
+        "poi_id": "I93F0A658DB50F765",
+        "name": "Folsom State Prison",
+        "stNo": "300",
+        "strName": "Prison Rd",
+        "stPrefix": "",
+        "stName": "PRISON",
+        "stType": "RD",
+        "city": "Represa",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95671",
+        "fmtAddr": "300 Prison Rd, Represa, CA 95671, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.421891,
+          38.305489
+        ]
+      },
+      "properties": {
+        "poi_id": "I2884459786143B6E",
+        "name": "Rio Cosumnes Correctional Center",
+        "stNo": "12500",
+        "strName": "Bruceville Rd",
+        "stPrefix": "",
+        "stName": "BRUCEVILLE",
+        "stType": "RD",
+        "city": "Elk Grove",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95757",
+        "fmtAddr": "12500 Bruceville Rd, Elk Grove, CA  95757, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.49736,
+          38.583126
+        ]
+      },
+      "properties": {
+        "poi_id": "IE8FD92AA0EDD437A",
+        "name": "Sacramento County Main Jail",
+        "stNo": "651",
+        "strName": "I St",
+        "stPrefix": "",
+        "stName": "I",
+        "stType": "ST",
+        "city": "Sacramento",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95814",
+        "fmtAddr": "651 I St, Sacramento, CA  95814, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2963688,
+          37.8858536
+        ]
+      },
+      "properties": {
+        "poi_id": "I95CA78FF4908E859",
+        "name": "San Joaquin County Sheriff's Office",
+        "category": "Police",
+        "stNo": "7000",
+        "strName": "Michael Canlis Blvd",
+        "stPrefix": "",
+        "stName": "MICHAEL CANLIS",
+        "stType": "BLVD",
+        "city": "French Camp",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95231",
+        "fmtAddr": "7000 Michael Canlis Blvd, French Camp, CA  95231, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.989304,
+          37.586479
+        ]
+      },
+      "properties": {
+        "poi_id": "I5E6B0BB63F72FD70",
+        "name": "Stanislaus County Sheriff's",
+        "stNo": "200",
+        "strName": "E Hackett Rd",
+        "stPrefix": "E",
+        "stName": "HACKETT",
+        "stType": "RD",
+        "city": "Modesto",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95358",
+        "fmtAddr": "200 E Hackett Rd, Modesto, CA 95358, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9745198,
+          38.3208389
+        ]
+      },
+      "properties": {
+        "poi_id": "I52B6119DFCB5C1FD",
+        "name": "California State Prison",
+        "stNo": "2100",
+        "strName": "Peabody Rd",
+        "stPrefix": "",
+        "stName": "PEABODY",
+        "stType": "RD",
+        "city": "Vacaville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95687",
+        "fmtAddr": "2100 Peabody Rd, Vacaville, CA  95687, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0237303,
+          36.9800588
+        ]
+      },
+      "properties": {
+        "poi_id": "I25B1039B6EEFE0B1",
+        "name": "Santa Cruz Main Jail",
+        "stNo": "259",
+        "strName": "Water St",
+        "stPrefix": "",
+        "stName": "WATER",
+        "stType": "ST",
+        "city": "Santa Cruz",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95060",
+        "fmtAddr": "259 Water St, Santa Cruz, CA  95060, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.489182,
+          37.938343
+        ]
+      },
+      "properties": {
+        "poi_id": "I58483BB19BCA971",
+        "name": "San Quentin Rehabilitation Center",
+        "stNo": "100",
+        "strName": "Main Street",
+        "stPrefix": "",
+        "stName": "MAIN",
+        "stType": "ST",
+        "city": "San Quentin",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94964",
+        "fmtAddr": "100 Main Street\nSan Quentin, CA 94964\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4049526,
+          37.7752137
+        ]
+      },
+      "properties": {
+        "poi_id": "I49EF34E89A91572E",
+        "name": "San Francisco County Jail #1",
+        "stNo": "425",
+        "strName": "7th St",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "San Francisco",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94103",
+        "fmtAddr": "425 7th St, San Francisco, CA 94103, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4602595,
+          37.6271972
+        ]
+      },
+      "properties": {
+        "poi_id": "IE4EFA4793508D337",
+        "name": "San Francisco Sheriff’s Office - County Jail #3",
+        "stNo": "1",
+        "strName": "Moreland Drive",
+        "stPrefix": "",
+        "stName": "MORELAND",
+        "stType": "DR",
+        "city": "San Bruno",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94066",
+        "fmtAddr": "1 Moreland Drive, San Bruno, CA 94066, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9893022,
+          37.5865351
+        ]
+      },
+      "properties": {
+        "poi_id": "I646A0BB27415E7D1",
+        "name": "Stanislaus County Sheriff's Department",
+        "category": "Police",
+        "stNo": "250",
+        "strName": "E Hackett Rd",
+        "stPrefix": "E",
+        "stName": "HACKETT",
+        "stType": "RD",
+        "city": "Modesto",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95358",
+        "fmtAddr": "250 E Hackett Rd, Modesto, CA 95358, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9087064,
+          37.4187683
+        ]
+      },
+      "properties": {
+        "poi_id": "I261C15B6FA2AD4AB",
+        "name": "Elmwood Correctional Facility",
+        "stNo": "701",
+        "strName": "S Abel St",
+        "stPrefix": "S",
+        "stName": "ABEL",
+        "stType": "ST",
+        "city": "Milpitas",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95035",
+        "fmtAddr": "701 S Abel St, Milpitas, CA  95035, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2190621,
+          37.4929601
+        ]
+      },
+      "properties": {
+        "poi_id": "ICD37FD46A8374694",
+        "name": "Maple Street Correctional Center",
+        "stNo": "1300",
+        "strName": "Maple St",
+        "stPrefix": "",
+        "stName": "MAPLE",
+        "stType": "ST",
+        "city": "Redwood City",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94063",
+        "fmtAddr": "1300 Maple St, Redwood City, CA 94063, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1942913,
+          37.0114327
+        ]
+      },
+      "properties": {
+        "poi_id": "IA4A29F53D6D730FC",
+        "name": "Davenport Jail",
+        "category": "Museum",
+        "stNo": "70",
+        "strName": "Center St",
+        "stPrefix": "",
+        "stName": "CENTER",
+        "stType": "ST",
+        "city": "Davenport",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95017",
+        "fmtAddr": "70 Center St, Davenport, CA  95017, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.411836,
+          36.883896
+        ]
+      },
+      "properties": {
+        "poi_id": "I8C8C1B25F2792AA8",
+        "name": "San Benito County Jail",
+        "stNo": "710",
+        "strName": "Flynn Rd",
+        "stPrefix": "",
+        "stName": "FLYNN",
+        "stType": "RD",
+        "city": "Hollister",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95023",
+        "fmtAddr": "710 Flynn Rd, Hollister, CA  95023, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6304219,
+          36.6988081
+        ]
+      },
+      "properties": {
+        "poi_id": "IF2ED9BFAA9E4FD66",
+        "name": "Monterey County Jail",
+        "stNo": "1414",
+        "strName": "Natividad Rd",
+        "stPrefix": "",
+        "stName": "NATIVIDAD",
+        "stType": "RD",
+        "city": "Salinas",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93906",
+        "fmtAddr": "1414 Natividad Rd, Salinas, CA  93906, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.328485,
+          38.289133
+        ]
+      },
+      "properties": {
+        "poi_id": "I7936F5DF40310C50",
+        "name": "California Department of Corrections and Rehabilitation",
+        "stNo": "9850",
+        "strName": "Twin Cities Rd",
+        "stPrefix": "",
+        "stName": "TWIN CITIES",
+        "stType": "RD",
+        "city": "Galt",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95632",
+        "fmtAddr": "9850 Twin Cities Rd, Galt, CA  95632, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6306985,
+          36.7010135
+        ]
+      },
+      "properties": {
+        "poi_id": "I639AEC94DB01C5C7",
+        "name": "Monterey County Sheriff's Office",
+        "category": "Police",
+        "stNo": "1414",
+        "strName": "Natividad Rd",
+        "stPrefix": "",
+        "stName": "NATIVIDAD",
+        "stType": "RD",
+        "city": "Salinas",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93906",
+        "fmtAddr": "1414 Natividad Rd, Salinas, CA  93906, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3548104,
+          37.9938815
+        ]
+      },
+      "properties": {
+        "poi_id": "I1A253471CB5D9789",
+        "name": "West County Detention Facility",
+        "stNo": "5555",
+        "strName": "Giant Highway",
+        "stPrefix": "",
+        "stName": "GIANT",
+        "stType": "HWY",
+        "city": "Richmond",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94806",
+        "fmtAddr": "5555 Giant Highway, San Pablo, CA  94806, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8097485,
+          36.9147787
+        ]
+      },
+      "properties": {
+        "poi_id": "I8B814D7F9ACBE4EA",
+        "name": "Rountree Lane Men's Facilities Jails",
+        "stNo": "90",
+        "strName": "Rountree Ln",
+        "stPrefix": "",
+        "stName": "ROUNTREE",
+        "stType": "LN",
+        "city": "Watsonville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95076",
+        "fmtAddr": "90 Rountree Ln, Watsonville, CA  95076, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0236509,
+          36.9806334
+        ]
+      },
+      "properties": {
+        "poi_id": "I42C97F50718129C3",
+        "name": "Blaine Street Women's Facility Jail",
+        "stNo": "141",
+        "strName": "Blaine St",
+        "stPrefix": "",
+        "stName": "BLAINE",
+        "stType": "ST",
+        "city": "Santa Cruz",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95060",
+        "fmtAddr": "141 Blaine St, Santa Cruz, CA  95060, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2316873,
+          37.4876715
+        ]
+      },
+      "properties": {
+        "poi_id": "I8123C1625A65B1FF",
+        "name": "Maguire Correctional Facility",
+        "stNo": "300",
+        "strName": "Bradford St",
+        "stPrefix": "",
+        "stName": "BRADFORD",
+        "stType": "ST",
+        "city": "Redwood City",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94063",
+        "fmtAddr": "300 Bradford St, Redwood City, CA 94063, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9104123,
+          37.4183081
+        ]
+      },
+      "properties": {
+        "poi_id": "ID756733669D0FFAE",
+        "name": "Elmwood Complex",
+        "stNo": "945",
+        "strName": "Thompson St",
+        "stPrefix": "",
+        "stName": "THOMPSON",
+        "stType": "ST",
+        "city": "Milpitas",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95035",
+        "fmtAddr": "945 Thompson St, Milpitas, CA  95035, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9681334,
+          37.5521649
+        ]
+      },
+      "properties": {
+        "poi_id": "I2DCD9C876664A7B9",
+        "name": "Fremont Jail",
+        "stNo": "1990",
+        "strName": "Stevenson Blvd",
+        "stPrefix": "",
+        "stName": "STEVENSON",
+        "stType": "BLVD",
+        "city": "Fremont",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94538",
+        "fmtAddr": "1990 Stevenson Blvd, Fremont, CA  94538, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.906884,
+          37.350328
+        ]
+      },
+      "properties": {
+        "poi_id": "I9701CE988488B75A",
+        "name": "San Jose Juvenile Hall",
+        "stNo": "840",
+        "strName": "Guadalupe Pkwy",
+        "stPrefix": "",
+        "stName": "GUADALUPE",
+        "stType": "PKWY",
+        "city": "San Jose",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95110",
+        "fmtAddr": "840 Guadalupe Pkwy, San Jose, CA  95110, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9059257,
+          37.3552254
+        ]
+      },
+      "properties": {
+        "poi_id": "I2BF8B659A9FCD407",
+        "name": "Santa Clara County Sheriff's Office",
+        "category": "Police",
+        "stNo": "55",
+        "strName": "W Younger Ave",
+        "stPrefix": "W",
+        "stName": "YOUNGER",
+        "stType": "AVE",
+        "city": "San Jose",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95110",
+        "fmtAddr": "55 W Younger Ave, San Jose, CA  95110, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.863376,
+          37.894885
+        ]
+      },
+      "properties": {
+        "poi_id": "I2A4C144B83723346",
+        "name": "Marsh Creek Detention Facility",
+        "stNo": "12000",
+        "strName": "Marsh Creek Rd",
+        "stPrefix": "",
+        "stName": "MARSH CREEK",
+        "stType": "RD",
+        "city": "Clayton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94517",
+        "fmtAddr": "12000 Marsh Creek Rd, Clayton, CA  94517, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1324869,
+          38.0171781
+        ]
+      },
+      "properties": {
+        "poi_id": "IC5E4A92680DEA8A5",
+        "name": "Martinez Detention Facility",
+        "stNo": "901",
+        "strName": "Court St",
+        "stPrefix": "",
+        "stName": "COURT",
+        "stType": "ST",
+        "city": "Martinez",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94553",
+        "fmtAddr": "901 Court St, Martinez, CA  94553, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.532526,
+          37.999539
+        ]
+      },
+      "properties": {
+        "poi_id": "IDA7F53B5B5748EBC",
+        "name": "Marin County Jail",
+        "stNo": "13",
+        "strName": "Peter Behr Dr",
+        "stPrefix": "",
+        "stName": "PETER BEHR",
+        "stType": "DR",
+        "city": "San Rafael",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94903",
+        "fmtAddr": "13 Peter Behr Dr, San Rafael, CA  94903, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9776464,
+          38.3285425
+        ]
+      },
+      "properties": {
+        "poi_id": "ICE65675BBC9E6F01",
+        "name": "California Medical Facility",
+        "stNo": "1600",
+        "strName": "California Dr",
+        "stPrefix": "",
+        "stName": "CALIFORNIA",
+        "stType": "DR",
+        "city": "Vacaville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95687",
+        "fmtAddr": "1600 California Dr, Vacaville, CA 95687, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0395396,
+          38.2472757
+        ]
+      },
+      "properties": {
+        "poi_id": "I159C0C06CB5132A4",
+        "name": "Justice Center Detention Facility",
+        "stNo": "500",
+        "strName": "Union Ave",
+        "stPrefix": "",
+        "stName": "UNION",
+        "stType": "AVE",
+        "city": "Fairfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94533",
+        "fmtAddr": "500 Union Ave, Fairfield, CA  94533, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.340952,
+          38.5460165
+        ]
+      },
+      "properties": {
+        "poi_id": "I542C17B2C0206A2D",
+        "name": "Youth Detention Facility",
+        "stNo": "9601",
+        "strName": "Kiefer Blvd",
+        "stPrefix": "",
+        "stName": "KIEFER",
+        "stType": "BLVD",
+        "city": "Sacramento",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95827",
+        "fmtAddr": "9601 Kiefer Blvd, Sacramento, CA  95827, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2994437,
+          37.8839335
+        ]
+      },
+      "properties": {
+        "poi_id": "IED4774D6168E0ED2",
+        "name": "San Joaquin County Jail",
+        "stNo": "7000",
+        "strName": "Michael Canlis Blvd",
+        "stPrefix": "",
+        "stName": "MICHAEL CANLIS",
+        "stType": "BLVD",
+        "city": "French Camp",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95231",
+        "fmtAddr": "7000 Michael Canlis Blvd, French Camp, CA  95231, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9536576,
+          38.3703117
+        ]
+      },
+      "properties": {
+        "poi_id": "IDDE97BD7ED270299",
+        "name": "Mule Creek State Prison (MCSP)",
+        "stNo": "4001",
+        "strName": "Highway 104",
+        "stPrefix": "",
+        "stName": "HIGHWAY",
+        "stType": "",
+        "city": "Ione",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95640",
+        "fmtAddr": "4001 Highway 104, Ione, CA 95640, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3014433,
+          38.8083132
+        ]
+      },
+      "properties": {
+        "poi_id": "I9788D8BFFF92E218",
+        "name": "South Placer Jail",
+        "stNo": "11801",
+        "strName": "Go For Broke Rd",
+        "stPrefix": "",
+        "stName": "GO FOR BROKE",
+        "stType": "RD",
+        "city": "Roseville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95678",
+        "fmtAddr": "11801 Go For Broke Rd, Roseville, CA  95678, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7315143,
+          38.6620146
+        ]
+      },
+      "properties": {
+        "poi_id": "IC9D0D7B9EFF42364",
+        "name": "Monroe Detention Center",
+        "stNo": "140",
+        "strName": "Tony Diaz Drive",
+        "stPrefix": "",
+        "stName": "TONY DIAZ",
+        "stType": "DR",
+        "city": "Woodland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95776",
+        "fmtAddr": "140 Tony Diaz Drive\nWoodland, CA  95776\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.106791,
+          38.935974
+        ]
+      },
+      "properties": {
+        "poi_id": "I8CF04F0A1ED36199",
+        "name": "Auburn Jail",
+        "stNo": "2775",
+        "strName": "Richardson Dr",
+        "stPrefix": "",
+        "stName": "RICHARDSON",
+        "stType": "DR",
+        "city": "Auburn",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95603",
+        "fmtAddr": "2775 Richardson Dr, Auburn, CA  95603, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8238854,
+          38.7242368
+        ]
+      },
+      "properties": {
+        "poi_id": "IEBD83F04D583A384",
+        "name": "El Dorado County Placerville Jail",
+        "stNo": "300",
+        "strName": "Forni Rd",
+        "stPrefix": "",
+        "stName": "FORNI",
+        "stType": "RD",
+        "city": "Placerville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95667",
+        "fmtAddr": "300 Forni Rd, Placerville, CA  95667, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9996655,
+          38.2737919
+        ]
+      },
+      "properties": {
+        "poi_id": "I26F360223B3B5F29",
+        "name": "Stanton Correctional Facility",
+        "stNo": "2450",
+        "strName": "Clay Bank Rd",
+        "stPrefix": "",
+        "stName": "CLAY BANK",
+        "stType": "RD",
+        "city": "Fairfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94533",
+        "fmtAddr": "2450 Clay Bank Rd, Fairfield, CA  94533, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.725981,
+          38.467697
+        ]
+      },
+      "properties": {
+        "poi_id": "I70EDF91F5E32959D",
+        "name": "Main Adult Detention Facility",
+        "stNo": "2777",
+        "strName": "Ventura Ave",
+        "stPrefix": "",
+        "stName": "VENTURA",
+        "stType": "AVE",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95403",
+        "fmtAddr": "2777 Ventura Ave, Santa Rosa, CA  95403, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4049526,
+          37.7752137
+        ]
+      },
+      "properties": {
+        "poi_id": "I24C3367084F90E33",
+        "name": "San Francisco County Jail #2",
+        "stNo": "425",
+        "strName": "7th St",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "San Francisco",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94103",
+        "fmtAddr": "425 7th St, San Francisco, CA  94103, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4039871,
+          37.7754214
+        ]
+      },
+      "properties": {
+        "poi_id": "I10B7198D1D1C3800",
+        "name": "San Francisco Sheriff's Department County - Jail #4",
+        "stNo": "850",
+        "strName": "Bryant St",
+        "stPrefix": "",
+        "stName": "BRYANT",
+        "stType": "ST",
+        "city": "San Francisco",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94103",
+        "fmtAddr": "850 Bryant St, San Francisco, CA  94103, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2732061,
+          37.8700466
+        ]
+      },
+      "properties": {
+        "poi_id": "I36F7100F6F8263C9",
+        "name": "Berkeley City Jail",
+        "stNo": "2100",
+        "strName": "Martin Luther King Jr Way",
+        "stPrefix": "",
+        "stName": "MARTIN LUTHER KING JR",
+        "stType": "WAY",
+        "city": "Berkeley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94703",
+        "fmtAddr": "2100 Martin Luther King Jr Way, Berkeley, CA  94703, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0001492,
+          38.2747101
+        ]
+      },
+      "properties": {
+        "poi_id": "I5145D23308CDFD4",
+        "name": "Solano County Sheriff Sentenced Detention Facility",
+        "stNo": "2500",
+        "strName": "Clay Bank Rd",
+        "stPrefix": "",
+        "stName": "CLAY BANK",
+        "stType": "RD",
+        "city": "Fairfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94533",
+        "fmtAddr": "2500 Clay Bank Rd, Fairfield, CA  94533, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5817531,
+          38.4410982
+        ]
+      },
+      "properties": {
+        "poi_id": "I120BE5B7E6764D0C",
+        "name": "Sonoma County Juvenile Hall",
+        "stNo": "7425",
+        "strName": "Rancho Los Guilicos Rd",
+        "stPrefix": "",
+        "stName": "RANCHO LOS GUILICOS",
+        "stType": "RD",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95409",
+        "fmtAddr": "7425 Rancho Los Guilicos Rd, Santa Rosa, CA  95409, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8024345,
+          38.5130156
+        ]
+      },
+      "properties": {
+        "poi_id": "I95AC42A732B04C03",
+        "name": "North County Detention Facility",
+        "stNo": "2254",
+        "strName": "Ordinance Rd",
+        "stPrefix": "",
+        "stName": "ORDINANCE",
+        "stType": "RD",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95403",
+        "fmtAddr": "2254 Ordinance Rd, Unit 201, Santa Rosa, CA  95403, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0398549,
+          38.247667
+        ]
+      },
+      "properties": {
+        "poi_id": "I5AEE2D4C53975FA",
+        "name": "Solano County Sheriff's Office",
+        "category": "Police",
+        "stNo": "530",
+        "strName": "Union Ave",
+        "stPrefix": "",
+        "stName": "UNION",
+        "stType": "AVE",
+        "city": "Fairfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94533",
+        "fmtAddr": "530 Union Ave\nSuite 100\nFairfield, CA  94533\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0001151,
+          38.2745413
+        ]
+      },
+      "properties": {
+        "poi_id": "ID7D0B96EACF8F8EB",
+        "name": "Clay Bank Detention Facility",
+        "stNo": "2500",
+        "strName": "Clay Bank Rd",
+        "stPrefix": "",
+        "stName": "CLAY BANK",
+        "stType": "RD",
+        "city": "Fairfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94533",
+        "fmtAddr": "2500 Clay Bank Rd, Fairfield, CA  94533, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9976586,
+          37.6393334
+        ]
+      },
+      "properties": {
+        "poi_id": "ID5502FDA78B04A23",
+        "name": "Civil Division - Stanislaus County Sheriff's Department",
+        "stNo": "801",
+        "strName": "11th St",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "Modesto",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95354",
+        "fmtAddr": "801 11th St, Ste 2200, Modesto, CA  95354, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0329738,
+          37.2955145
+        ]
+      },
+      "properties": {
+        "poi_id": "I518069DD60616C5B",
+        "name": "Santa Clara County Sheriff’s Office",
+        "category": "Police",
+        "stNo": "1601",
+        "strName": "S De Anza Blvd",
+        "stPrefix": "S",
+        "stName": "DE ANZA",
+        "stType": "BLVD",
+        "city": "Cupertino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95014",
+        "fmtAddr": "1601 S De Anza Blvd, Unit 148, Cupertino, CA 95014, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1991119,
+          37.891823
+        ]
+      },
+      "properties": {
+        "poi_id": "ICF7FC6A80FF0F095",
+        "name": "N.A Chaderjian Youth Correctional Facility",
+        "stNo": "7650",
+        "strName": "Newcastle Rd",
+        "stPrefix": "",
+        "stName": "NEWCASTLE",
+        "stType": "RD",
+        "city": "Stockton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95215",
+        "fmtAddr": "7650 Newcastle Rd, Stockton, CA  95215, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1991119,
+          37.8918399
+        ]
+      },
+      "properties": {
+        "poi_id": "I6D84E914987C11B5",
+        "name": "O.H. Close Youth Correctional Facility",
+        "stNo": "7650",
+        "strName": "S Newcastle Rd",
+        "stPrefix": "S",
+        "stName": "NEWCASTLE",
+        "stType": "RD",
+        "city": "Stockton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95215",
+        "fmtAddr": "7650 S Newcastle Rd, Stockton, CA  95215, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.125364,
+          37.634641
+        ]
+      },
+      "properties": {
+        "poi_id": "IFAFA7CD66C512E7D",
+        "name": "Detention Device Systems",
+        "stNo": "25545",
+        "strName": "Seaboard Ln",
+        "stPrefix": "",
+        "stName": "SEABOARD",
+        "stType": "LN",
+        "city": "Hayward",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94545",
+        "fmtAddr": "25545 Seaboard Ln, Hayward, CA  94545, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0085651,
+          37.3237734
+        ]
+      },
+      "properties": {
+        "poi_id": "I9B868CF1B866959E",
+        "name": "Santa Clara County Sheriff - Satellite Office",
+        "stNo": "19349",
+        "strName": "Stevens Creek Blvd",
+        "stPrefix": "",
+        "stName": "STEVENS CREEK",
+        "stType": "BLVD",
+        "city": "Cupertino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95014",
+        "fmtAddr": "19349 Stevens Creek Blvd, Unit 150, Cupertino, CA 95014, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4530757,
+          37.7468297
+        ]
+      },
+      "properties": {
+        "poi_id": "I10CE4FEDB4159767",
+        "name": "Center On Juvenile and Criminal Justice",
+        "stNo": "375",
+        "strName": "Woodside Ave",
+        "stPrefix": "",
+        "stName": "WOODSIDE",
+        "stType": "AVE",
+        "city": "San Francisco",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94127",
+        "fmtAddr": "375 Woodside Ave, San Francisco, CA  94127, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.219797,
+          39.1600732
+        ]
+      },
+      "properties": {
+        "poi_id": "I3AD8AA21165E21A6",
+        "name": "Mendocino County Sheriff’s Office",
+        "stNo": "951",
+        "strName": "Low Gap Rd",
+        "stPrefix": "",
+        "stName": "LOW GAP",
+        "stType": "RD",
+        "city": "Ukiah",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95482",
+        "fmtAddr": "951 Low Gap Rd, Ukiah, CA  95482, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419619,
+          37.7795597
+        ]
+      },
+      "properties": {
+        "poi_id": "I88E39FBDC1E543C9",
+        "name": "San Francisco Sheriff's Office",
+        "category": "Police",
+        "stNo": "1",
+        "strName": "Dr Carlton B Goodlett Pl",
+        "stPrefix": "",
+        "stName": "DR CARLTON B GOODLETT",
+        "stType": "PL",
+        "city": "San Francisco",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94102",
+        "fmtAddr": "1 Dr Carlton B Goodlett Pl, Unit 456, San Francisco, CA 94102, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.913275,
+          39.104139
+        ]
+      },
+      "properties": {
+        "poi_id": "I852C3CFBB6A83A3",
+        "name": "Lake County Hill Road Correctional Fac",
+        "stNo": "4913",
+        "strName": "Helbush Dr",
+        "stPrefix": "",
+        "stName": "HELBUSH",
+        "stType": "DR",
+        "city": "Lakeport",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "95453",
+        "fmtAddr": "4913 Helbush Dr, Lakeport, CA  95453, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416066,
+          37.768946
+        ]
+      },
+      "properties": {
+        "poi_id": "IFE2569616ED93575",
+        "name": "City and County of San Francisco Sheriff's Department",
+        "category": "Police",
+        "stNo": "120",
+        "strName": "14th St",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "San Francisco",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94103",
+        "fmtAddr": "120 14th St, San Francisco, CA  94103, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6505761,
+          39.2975677
+        ]
+      },
+      "properties": {
+        "poi_id": "I6197FE6DF423B1F9",
+        "name": "Storey County Detention Facility",
+        "stNo": "911",
+        "strName": "Occidental Grade",
+        "stPrefix": "",
+        "stName": "OCCIDENTAL",
+        "stType": "",
+        "city": "Virginia City",
+        "state": "NV",
+        "state1": "Nevada",
+        "zipCode": "89403",
+        "fmtAddr": "911 Occidental Grade, Virginia City, NV  89403, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4113446,
+          37.8018673
+        ]
+      },
+      "properties": {
+        "poi_id": "I19F136203E57B2BA",
+        "name": "Prison Bars",
+        "category": "Restaurant",
+        "stNo": "1859",
+        "strName": "Powell St",
+        "stPrefix": "",
+        "stName": "POWELL",
+        "stType": "ST",
+        "city": "San Francisco",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "94133",
+        "fmtAddr": "1859 Powell St, Ste 213, San Francisco, CA  94133, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3221702,
+          36.4452658
+        ]
+      },
+      "properties": {
+        "poi_id": "I75319AA6EAA89217",
+        "name": "Tulare County Mens Correctional Facility",
+        "stNo": "36168",
+        "strName": "Road 112",
+        "stPrefix": "",
+        "stName": "ROAD",
+        "stType": "",
+        "city": "Visalia",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93291",
+        "fmtAddr": "36168 Road 112, Visalia, CA  93291, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5547998,
+          36.0599878
+        ]
+      },
+      "properties": {
+        "poi_id": "I72FB42BA2A2301BC",
+        "name": "State Prison Administration Lot Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Corcoran",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Corcoran, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0179304,
+          35.3728601
+        ]
+      },
+      "properties": {
+        "poi_id": "IFC29C1A3A5A181F",
+        "name": "Kern Co Sherriff's Dept Kern Co Jail",
+        "stNo": "1415",
+        "strName": "Truxtun Ave",
+        "stPrefix": "",
+        "stName": "TRUXTUN",
+        "stType": "AVE",
+        "city": "Bakersfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93301",
+        "fmtAddr": "1415 Truxtun Ave, Bakersfield, CA  93301, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0466307,
+          35.4308385
+        ]
+      },
+      "properties": {
+        "poi_id": "I67C00B409F204D8A",
+        "name": "Correctional Litigation Solutions",
+        "stNo": "1601",
+        "strName": "Skyway Dr",
+        "stPrefix": "",
+        "stName": "SKYWAY",
+        "stType": "DR",
+        "city": "Bakersfield",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93308",
+        "fmtAddr": "1601 Skyway Dr, Ste 223, Bakersfield, CA  93308, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.060264,
+          36.0370931
+        ]
+      },
+      "properties": {
+        "poi_id": "I4840D4427EA4D354",
+        "name": "South County Detention Center Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Porterville",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Porterville, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.540718,
+          36.051568
+        ]
+      },
+      "properties": {
+        "poi_id": "ID1258A82339835BB",
+        "name": "Substance Abuse Prison Administration Lot Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Corcoran",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Corcoran, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6460505,
+          36.3267085
+        ]
+      },
+      "properties": {
+        "poi_id": "I99964BA7A7D91683",
+        "name": "Free Jail Info - Hanford Bail Service",
+        "stNo": "206",
+        "strName": "N Douty St",
+        "stPrefix": "N",
+        "stName": "DOUTY",
+        "stType": "ST",
+        "city": "Hanford",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "93230",
+        "fmtAddr": "206 N Douty St, Hanford, CA  93230, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.036406,
+          35.39171
+        ]
+      },
+      "properties": {
+        "poi_id": "I30AADB4D9DCF7426",
+        "name": "North Sillect & Corrections Department Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bakersfield",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bakersfield, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.972091,
+          38.933849
+        ]
+      },
+      "properties": {
+        "poi_id": "I4D803290536962AD",
+        "name": "El Dorado County Jail",
+        "stNo": "1051",
+        "strName": "Al Tahoe Blvd",
+        "stPrefix": "",
+        "stName": "AL TAHOE",
+        "stType": "BLVD",
+        "city": "South Lake Tahoe",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "96150",
+        "fmtAddr": "1051 Al Tahoe Blvd, South Lake Tahoe, CA  96150, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7654026,
+          38.9559148
+        ]
+      },
+      "properties": {
+        "poi_id": "I1EBFB576FED2DAED",
+        "name": "Douglas County Jail",
+        "stNo": "1038",
+        "strName": "Buckeye Rd",
+        "stPrefix": "",
+        "stName": "BUCKEYE",
+        "stType": "RD",
+        "city": "Minden",
+        "state": "NV",
+        "state1": "Nevada",
+        "zipCode": "89423",
+        "fmtAddr": "1038 Buckeye Rd, Minden, NV  89423, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1003051,
+          36.1666489
+        ]
+      },
+      "properties": {
+        "poi_id": "I6D694F159466C9B1",
+        "name": "public safety",
+        "stNo": "3300",
+        "strName": "Stewart Ave",
+        "stPrefix": "",
+        "stName": "STEWART",
+        "stType": "AVE",
+        "city": "Las Vegas",
+        "state": "NV",
+        "state1": "Nevada",
+        "zipCode": "89101",
+        "fmtAddr": "3300 Stewart Ave, Las Vegas, NV 89101, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1185334,
+          36.2015424
+        ]
+      },
+      "properties": {
+        "poi_id": "IC767694AD59D9005",
+        "name": "North Las Vegas Detention Center",
+        "stNo": "2332",
+        "strName": "N Las Vegas Blvd",
+        "stPrefix": "N",
+        "stName": "LAS VEGAS",
+        "stType": "BLVD",
+        "city": "North Las Vegas",
+        "state": "NV",
+        "state1": "Nevada",
+        "zipCode": "89030",
+        "fmtAddr": "2332 N Las Vegas Blvd\nNorth Las Vegas, NV  89030\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6525984,
+          33.202106
+        ]
+      },
+      "properties": {
+        "poi_id": "ID4090F88895F4F4B",
+        "name": "Arizona State Prison - Complex Lewis",
+        "stNo": "26700",
+        "strName": "SR-85 S",
+        "stPrefix": "",
+        "stName": "SR-85",
+        "stType": "",
+        "city": "Buckeye",
+        "state": "AZ",
+        "state1": "Arizona",
+        "zipCode": "85326",
+        "fmtAddr": "26700 SR-85 S, Buckeye, AZ  85326, United States"
+      }
+    }
+  ]
+}

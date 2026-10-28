@@ -1,0 +1,410 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2310951652753,
+          33.98373135281704
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "CLARENDON",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "CLARENDON AVE",
+        "Address": "2309 CLARENDON AVE HUNTINGTON PARK 90255",
+        "HouseNum": "2309",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23109516473995,
+          33.98368018129407
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "CLARENDON",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "CLARENDON AVE",
+        "Address": "2309 1/2 CLARENDON AVE HUNTINGTON PARK 90255",
+        "HouseNum": "2309 1/2",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23102522448765,
+          33.98373703924486
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "CLARENDON",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "CLARENDON AVE",
+        "Address": "2311 CLARENDON AVE HUNTINGTON PARK 90255",
+        "HouseNum": "2311",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23102385295049,
+          33.983673358967344
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "CLARENDON",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "CLARENDON AVE",
+        "Address": "2311 1/2 CLARENDON AVE HUNTINGTON PARK 90255",
+        "HouseNum": "2311 1/2",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23063109240303,
+          33.98397102251834
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "SANTA FE",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "SANTA FE AVE",
+        "Address": "6219 SANTA FE AVE HUNTINGTON PARK 90255",
+        "HouseNum": "6219",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23111589744906,
+          33.98397178258307
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "MARBRISA",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "MARBRISA AVE",
+        "Address": "6220 MARBRISA AVE HUNTINGTON PARK 90255",
+        "HouseNum": "6220",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2309580268353,
+          33.98395764601308
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "MARBRISA",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "MARBRISA AVE",
+        "Address": "6222 MARBRISA AVE HUNTINGTON PARK 90255",
+        "HouseNum": "6222",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23063085247801,
+          33.98383361777457
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "SANTA FE",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "SANTA FE AVE",
+        "Address": "6223 SANTA FE AVE HUNTINGTON PARK 90255",
+        "HouseNum": "6223",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23063274545217,
+          33.983696946403725
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "SANTA FE",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "SANTA FE AVE",
+        "Address": "6225 SANTA FE AVE HUNTINGTON PARK 90255",
+        "HouseNum": "6225",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23111571625,
+          33.983834377726275
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "MARBRISA",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "MARBRISA AVE",
+        "Address": "6226 MARBRISA AVE HUNTINGTON PARK 90255",
+        "HouseNum": "6226",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23121447553986,
+          33.983864399570294
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "MARBRISA",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "MARBRISA AVE",
+        "Address": "6228 MARBRISA AVE HUNTINGTON PARK 90255",
+        "HouseNum": "6228",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23123621644034,
+          33.98372654972392
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "MARBRISA",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "MARBRISA AVE",
+        "Address": "6232 MARBRISA AVE HUNTINGTON PARK 90255",
+        "HouseNum": "6232",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23127207394862,
+          33.98374045015065
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "MARBRISA",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "MARBRISA AVE",
+        "Address": "6232 1/2 MARBRISA AVE HUNTINGTON PARK 90255",
+        "HouseNum": "6232 1/2",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23127207441118,
+          33.98370065047598
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "MARBRISA",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "MARBRISA AVE",
+        "Address": "6234 MARBRISA AVE HUNTINGTON PARK 90255",
+        "HouseNum": "6234",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23121310392096,
+          33.98368472984469
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "OBJECTID_1": 0,
+        "PreDir": " ",
+        "PreType": " ",
+        "StreetName": "MARBRISA",
+        "UnitType": " ",
+        "ZipCode": "90255",
+        "FullName": "MARBRISA AVE",
+        "Address": "6234 1/2 MARBRISA AVE HUNTINGTON PARK 90255",
+        "HouseNum": "6234 1/2",
+        "StreetType": "AVE",
+        "SufDir": " ",
+        "UnitNumber": " ",
+        "CityCode": " "
+      }
+    }
+  ]
+}

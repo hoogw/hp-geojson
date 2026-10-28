@@ -1,0 +1,1705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2253947,
+          33.8941736
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJxVILZGzLwoARim_glgvQgRo",
+        "name": "Compton Courthouse",
+        "open": "OPERATIONAL",
+        "stNo": "200",
+        "strName": "West Compton Boulevard",
+        "stPrefix": "W",
+        "stName": "COMPTON",
+        "stType": "BLVD",
+        "stNmAbre": "W Compton Blvd",
+        "county": "Los Angeles County",
+        "city": "Compton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90220",
+        "fmtAddr": "200 W Compton Blvd, Compton, CA 90220, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "local_government_office",
+          "government_office",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22540330000001,
+          33.8941751
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJdTSpaWzLwoARhkKyWuyCBQ4",
+        "name": "Corte De Compton",
+        "open": "OPERATIONAL",
+        "stNo": "200",
+        "strName": "West Compton Boulevard",
+        "stPrefix": "W",
+        "stName": "COMPTON",
+        "stType": "BLVD",
+        "stNmAbre": "W Compton Blvd",
+        "county": "Los Angeles County",
+        "city": "Compton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90220",
+        "fmtAddr": "200 W Compton Blvd, Compton, CA 90220, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "government_office",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22540330000001,
+          33.8941751
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJxVILZGzLwoAR1nPALR7Ue8s",
+        "name": "Juvenile Court",
+        "open": "OPERATIONAL",
+        "stNo": "200",
+        "strName": "West Compton Boulevard",
+        "stPrefix": "W",
+        "stName": "COMPTON",
+        "stType": "BLVD",
+        "stNmAbre": "W Compton Blvd",
+        "county": "Los Angeles County",
+        "city": "Compton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90220",
+        "fmtAddr": "200 W Compton Blvd # 261, Compton, CA 90220, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "government_office",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5113076,
+          33.8223038
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ2-wfXIAc24ARSzW-CWhAnwU",
+        "name": "Superior Court of California, County of Riverside - Palm Springs Courthouse",
+        "open": "OPERATIONAL",
+        "stNo": "3255",
+        "strName": "East Tahquitz Canyon Way",
+        "stPrefix": "E",
+        "stName": "TAHQUITZ CANYON",
+        "stType": "WAY",
+        "stNmAbre": "E Tahquitz Canyon Way",
+        "county": "Riverside County",
+        "city": "Palm Springs",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92262",
+        "fmtAddr": "3255 E Tahquitz Canyon Way, Palm Springs, CA 92262, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "local_government_office",
+          "government_office",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.51122099999999,
+          33.8221584
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJfcKvXoAc24AREKTG_62IWg8",
+        "name": "Riverside County Civil Court",
+        "open": "OPERATIONAL",
+        "stNo": "3255",
+        "strName": "East Tahquitz Canyon Way",
+        "stPrefix": "E",
+        "stName": "TAHQUITZ CANYON",
+        "stType": "WAY",
+        "stNmAbre": "E Tahquitz Canyon Way",
+        "county": "Riverside County",
+        "city": "Palm Springs",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92262",
+        "fmtAddr": "3255 E Tahquitz Canyon Way, Palm Springs, CA 92262, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "government_office",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.376047,
+          33.9829311
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJQUlCBHqu3IARmnewJgO7noo",
+        "name": "Us Trustee",
+        "open": "OPERATIONAL",
+        "stNo": "3801",
+        "strName": "University Avenue",
+        "stPrefix": "",
+        "stName": "UNIVERSITY",
+        "stType": "AVE",
+        "stNmAbre": "University Ave",
+        "county": "Riverside County",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "3801 University Ave # 720, Riverside, CA 92501, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3759592,
+          33.982958499999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ49SHMfCx3IARd5GtpYd112I",
+        "name": "US Bankruptcy Court",
+        "open": "OPERATIONAL",
+        "stNo": "3801",
+        "strName": "University Avenue",
+        "stPrefix": "",
+        "stName": "UNIVERSITY",
+        "stType": "AVE",
+        "stNmAbre": "University Ave",
+        "county": "Riverside County",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "3801 University Ave, Riverside, CA 92501, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "local_government_office",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37349119999999,
+          33.9806161
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJo872g--x3IARmoBigLUFx5c",
+        "name": "US Poultry Grading Branch",
+        "open": "OPERATIONAL",
+        "stNo": "3890",
+        "strName": "Orange Street",
+        "stPrefix": "",
+        "stName": "ORANGE",
+        "stType": "ST",
+        "stNmAbre": "Orange St",
+        "county": "Riverside County",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "3890 Orange St, Riverside, CA 92501, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37629079999999,
+          33.978367399999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJqZ4x4O6x3IARBHufIKz1sQs",
+        "name": "Superior Court of California, County of Riverside - Riverside Hall of Justice",
+        "open": "OPERATIONAL",
+        "stNo": "4100",
+        "strName": "Main Street",
+        "stPrefix": "",
+        "stName": "MAIN",
+        "stType": "ST",
+        "stNmAbre": "Main St",
+        "county": "Riverside County",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "4100 Main St, Riverside, CA 92501, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "local_government_office",
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37514709999999,
+          33.978908
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ110yB--x3IARnp2GfYCCxC8",
+        "name": "Superior Court of California, County of Riverside - Riverside Historic Courthouse",
+        "open": "OPERATIONAL",
+        "stNo": "4050",
+        "strName": "Main Street",
+        "stPrefix": "",
+        "stName": "MAIN",
+        "stType": "ST",
+        "stNmAbre": "Main St",
+        "county": "Riverside County",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "4050 Main St, Riverside, CA 92501, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "local_government_office",
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37715399999999,
+          33.9784947
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJa50L7-6x3IARGTcoQnrspgY",
+        "name": "Superior Court of California, County of Riverside - Family Law Courthouse",
+        "open": "OPERATIONAL",
+        "stNo": "4175",
+        "strName": "Main Street",
+        "stPrefix": "",
+        "stName": "MAIN",
+        "stType": "ST",
+        "stNmAbre": "Main St",
+        "county": "Riverside County",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "4175 Main St, Riverside, CA 92501, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "local_government_office",
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3770603,
+          33.9788947
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ011S--6x3IARHFAeqTRmt0Q",
+        "name": "Coordinated Court Services",
+        "open": "OPERATIONAL",
+        "stNo": "4129",
+        "strName": "Main Street",
+        "stPrefix": "",
+        "stName": "MAIN",
+        "stType": "ST",
+        "stNmAbre": "Main St",
+        "county": "Riverside County",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "4129 Main St, Riverside, CA 92501, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37422520000001,
+          33.9760847
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJERTlo-ix3IARcPGfyL0KVZE",
+        "name": "US Bankruptcy Court",
+        "open": "OPERATIONAL",
+        "stNo": "3420",
+        "strName": "12th Street",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "stNmAbre": "12th St",
+        "county": "Riverside County",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "3420 12th St, Riverside, CA 92501, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "government_office",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37295610000001,
+          33.9765061
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJZRYPoOix3IARi0KvriOBlHs",
+        "name": "Court of Appeal",
+        "open": "OPERATIONAL",
+        "stNo": "3389",
+        "strName": "12th Street",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "stNmAbre": "12th St",
+        "county": "Riverside County",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "3389 12th St, Riverside, CA 92501, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "government_office",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.41634,
+          34.1003948
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJZSBouvtMw4AR8aHLxDTA2gw",
+        "name": "Fontana Superior Court of California",
+        "open": "OPERATIONAL",
+        "stNo": "17780",
+        "strName": "Arrow Boulevard",
+        "stPrefix": "",
+        "stName": "ARROW",
+        "stType": "BLVD",
+        "stNmAbre": "Arrow Blvd",
+        "county": "San Bernardino County",
+        "city": "Fontana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92335",
+        "fmtAddr": "17780 Arrow Blvd, Fontana, CA 92335, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.26857550000001,
+          34.129038699999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJX3iEAGJTw4ARXy_qDi7TDPQ",
+        "name": "San Bernardino Juvenile Court",
+        "open": "OPERATIONAL",
+        "stNo": "900",
+        "strName": "East Gilbert Street",
+        "stPrefix": "E",
+        "stName": "GILBERT",
+        "stType": "ST",
+        "stNmAbre": "E Gilbert St",
+        "county": "San Bernardino County",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92415",
+        "fmtAddr": "900 E Gilbert St, San Bernardino, CA 92415, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "service",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.26834590000001,
+          34.1290012
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJX3iEAGJTw4ARFimr5ukzKEE",
+        "name": "San Bernardino County Detention Center",
+        "open": "OPERATIONAL",
+        "stNo": "900",
+        "strName": "East Gilbert Street",
+        "stPrefix": "E",
+        "stName": "GILBERT",
+        "stType": "ST",
+        "stNmAbre": "E Gilbert St",
+        "county": "San Bernardino County",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92415",
+        "fmtAddr": "900 E Gilbert St, San Bernardino, CA 92415, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "service",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.22787720000001,
+          34.1469564
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ4-_DtABVw4ARh_YBfAj4_6E",
+        "name": "San Manuel Band of Indians - Tribal Courthouse",
+        "open": "OPERATIONAL",
+        "stNo": "3214",
+        "strName": "North Victoria Avenue",
+        "stPrefix": "N",
+        "stName": "VICTORIA",
+        "stType": "AVE",
+        "stNmAbre": "N Victoria Ave",
+        "county": "San Bernardino County",
+        "city": "Highland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92346",
+        "fmtAddr": "3214 N Victoria Ave, Highland, CA 92346, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "service",
+          "local_government_office",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.87272139999999,
+          33.9264854
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJXV3TFEJB24ARAMDUVHPv-XI",
+        "name": "Superior Court of California, County of Riverside - Banning Justice Center",
+        "open": "OPERATIONAL",
+        "stNo": "311",
+        "strName": "East Ramsey Street",
+        "stPrefix": "E",
+        "stName": "RAMSEY",
+        "stType": "ST",
+        "stNmAbre": "E Ramsey St",
+        "county": "Riverside County",
+        "city": "Banning",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92220",
+        "fmtAddr": "311 E Ramsey St, Banning, CA 92220, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "local_government_office",
+          "government_office",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.87493339999999,
+          33.9266167
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ9USwbUJB24ARJztmSsIMMoA",
+        "name": "Riverside County Traffic Court",
+        "open": "OPERATIONAL",
+        "stNo": "155",
+        "strName": "East Hays Street",
+        "stPrefix": "E",
+        "stName": "HAYS",
+        "stType": "ST",
+        "stNmAbre": "E Hays St",
+        "county": "Riverside County",
+        "city": "Banning",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92220",
+        "fmtAddr": "155 E Hays St, Banning, CA 92220, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "government_office",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8881841,
+          34.243776
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJA3HIP721xIARPKjXVin1coA",
+        "name": "Big Bear Superior Court of California",
+        "open": "OPERATIONAL",
+        "stNo": "477",
+        "strName": "Summit Boulevard",
+        "stPrefix": "",
+        "stName": "SUMMIT",
+        "stType": "BLVD",
+        "stNmAbre": "Summit Blvd",
+        "county": "San Bernardino County",
+        "city": "Big Bear Lake",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92315",
+        "fmtAddr": "477 Summit Blvd, Big Bear Lake, CA 92315, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "local_government_office",
+          "government_office",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.88818359999999,
+          34.243808
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJpdLnoXe0xIARND6u85py8dg",
+        "name": "San Bernardino County Courts",
+        "open": "OPERATIONAL",
+        "stNo": "477",
+        "strName": "Summit Boulevard",
+        "stPrefix": "",
+        "stName": "SUMMIT",
+        "stType": "BLVD",
+        "stNmAbre": "Summit Blvd",
+        "county": "San Bernardino County",
+        "city": "Big Bear Lake",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92315",
+        "fmtAddr": "477 Summit Blvd, Big Bear Lake, CA 92315, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "government_office",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.24287360000001,
+          33.920304
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJo2VjFkCm3IARfY5xxfNJsmw",
+        "name": "Superior Court of California, County of Riverside - Moreno Valley Courthouse",
+        "open": "OPERATIONAL",
+        "stNo": "13800",
+        "strName": "Heacock Street",
+        "stPrefix": "",
+        "stName": "HEACOCK",
+        "stType": "ST",
+        "stNmAbre": "Heacock St",
+        "county": "Riverside County",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92553",
+        "fmtAddr": "13800 Heacock St #D201, Moreno Valley, CA 92553, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "local_government_office",
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.24287360000001,
+          33.920304
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJwxUj9wan3IARZyZoi7m89-4",
+        "name": "Moreno Valley Traffic Court",
+        "open": "OPERATIONAL",
+        "stNo": "13800",
+        "strName": "Heacock Street",
+        "stPrefix": "",
+        "stName": "HEACOCK",
+        "stType": "ST",
+        "stNmAbre": "Heacock St",
+        "county": "Riverside County",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92553",
+        "fmtAddr": "13800 Heacock St #D201, Moreno Valley, CA 92553, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "local_government_office",
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2197906,
+          33.714423599999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ3TIm98b32oAR2_eB3jPWm20",
+        "name": "Superior Court of California, County of Riverside - Larson Justice Center",
+        "open": "OPERATIONAL",
+        "stNo": "46-200",
+        "strName": "Oasis Street",
+        "stPrefix": "",
+        "stName": "OASIS",
+        "stType": "ST",
+        "stNmAbre": "Oasis St",
+        "county": "Riverside County",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "46-200 Oasis St, Indio, CA 92201, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "local_government_office",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.22177239999999,
+          33.7031886
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ68PqB4332oARHtLL5H4CLlA",
+        "name": "Riverside Superior Court",
+        "open": "OPERATIONAL",
+        "stNo": "47671",
+        "strName": "Oasis Street",
+        "stPrefix": "",
+        "stName": "OASIS",
+        "stType": "ST",
+        "stNmAbre": "Oasis St",
+        "county": "Riverside County",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "47671 Oasis St, Indio, CA 92201, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2197037,
+          33.7141911
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJRxDDXYX32oARHjkjRRe_UT4",
+        "name": "Riverside County Court Services Division",
+        "open": "OPERATIONAL",
+        "stNo": "46200",
+        "strName": "Oasis Street",
+        "stPrefix": "",
+        "stName": "OASIS",
+        "stType": "ST",
+        "stNmAbre": "Oasis St",
+        "county": "Riverside County",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "46200 Oasis St # B15, Indio, CA 92201, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2209934,
+          33.7141775
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJWb2IcYX32oAR3Jk5MDA5hu0",
+        "name": "Judicial Council-Indio",
+        "open": "OPERATIONAL",
+        "stNo": "46200",
+        "strName": "Oasis Street",
+        "stPrefix": "",
+        "stName": "OASIS",
+        "stType": "ST",
+        "stNmAbre": "Oasis St",
+        "county": "Riverside County",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "46200 Oasis St, Indio, CA 92201, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.21970309999999,
+          33.7143781
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJsZH9SiX42oARECpLczs_qRc",
+        "name": "Riverside Municipal Court",
+        "open": "OPERATIONAL",
+        "stNo": "82675",
+        "strName": "California 111",
+        "stPrefix": "",
+        "stName": "CALIFORNIA",
+        "stType": "",
+        "stNmAbre": "CA-111",
+        "county": "Riverside County",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "82675 CA-111, Indio, CA 92201, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.21705229999999,
+          33.6991884
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJsxk35-332oARtS_TxEBYDuM",
+        "name": "Dpss Court Services",
+        "open": "OPERATIONAL",
+        "stNo": "48113",
+        "strName": "Jackson Street",
+        "stPrefix": "",
+        "stName": "JACKSON",
+        "stType": "ST",
+        "stNmAbre": "Jackson St",
+        "county": "Riverside County",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "48113 Jackson St, Indio, CA 92201, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2197037,
+          33.7141911
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJRxDDXYX32oARBa3c6HIoHno",
+        "name": "Superior Court Reporters",
+        "open": "OPERATIONAL",
+        "stNo": "46200",
+        "strName": "Oasis Street",
+        "stPrefix": "",
+        "stName": "OASIS",
+        "stType": "ST",
+        "stNmAbre": "Oasis St",
+        "county": "Riverside County",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "46200 Oasis St #314, Indio, CA 92201, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.22212730000001,
+          33.7138474
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJsZH9SiX42oARvtC_QHs9g7g",
+        "name": "Riverside County Post Court",
+        "open": "OPERATIONAL",
+        "stNo": "82675",
+        "strName": "California 111",
+        "stPrefix": "",
+        "stName": "CALIFORNIA",
+        "stType": "",
+        "stNmAbre": "CA-111",
+        "county": "Riverside County",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "82675 CA-111, Indio, CA 92201, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.53726590000001,
+          33.8235065
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJP5PLRAAb24ARmEEcm2d65QE",
+        "name": "Agua Caliente Tribal Court",
+        "open": "OPERATIONAL",
+        "stNo": "82675",
+        "strName": "East Tahquitz Canyon Way",
+        "stPrefix": "E",
+        "stName": "TAHQUITZ CANYON",
+        "stType": "WAY",
+        "stNmAbre": "E Tahquitz Canyon Way",
+        "county": "Riverside County",
+        "city": "Palm Springs",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92262",
+        "fmtAddr": "E Tahquitz Canyon Way, Palm Springs, CA 92262, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "point_of_interest",
+          "local_government_office",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2178993,
+          33.776918699999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJpZGfAIOf3IARNrWjAxXssrE",
+        "name": "Riverside County Public Administration",
+        "open": "OPERATIONAL",
+        "stNo": "800",
+        "strName": "South Redlands Avenue",
+        "stPrefix": "S",
+        "stName": "REDLANDS",
+        "stType": "AVE",
+        "stNmAbre": "S Redlands Ave",
+        "county": "Riverside County",
+        "city": "Perris",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92570",
+        "fmtAddr": "800 S Redlands Ave, Perris, CA 92570, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.12115469999999,
+          33.5821037
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJH3HPD0x824ARK5dQu_bnDl8",
+        "name": "Superior Court of California, County of Riverside - Southwest Justice Center",
+        "open": "OPERATIONAL",
+        "stNo": "30755-D",
+        "strName": "Auld Road",
+        "stPrefix": "",
+        "stName": "AULD",
+        "stType": "RD",
+        "stNmAbre": "Auld Rd",
+        "county": "Riverside County",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92563",
+        "fmtAddr": "30755-D Auld Rd, Murrieta, CA 92563, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "local_government_office",
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11956320000002,
+          33.581308799999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJH3HPD0x824ARTTk2JVyi2ic",
+        "name": "Riverside County Southwest Juvenile Hall",
+        "open": "OPERATIONAL",
+        "stNo": "30755",
+        "strName": "Auld Road",
+        "stPrefix": "",
+        "stName": "AULD",
+        "stType": "RD",
+        "stNmAbre": "Auld Rd",
+        "county": "Riverside County",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92563",
+        "fmtAddr": "30755 Auld Rd, Murrieta, CA 92563, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.12139270000002,
+          33.5821092
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJPeeBZXV924ARLlG_k1rwlvs",
+        "name": "Superior Court of California, County of Riverside - Southwest Juvenile Courthouse",
+        "open": "OPERATIONAL",
+        "stNo": "30755",
+        "strName": "Auld Road",
+        "stPrefix": "",
+        "stName": "AULD",
+        "stType": "RD",
+        "stNmAbre": "Auld Rd",
+        "county": "Riverside County",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92563",
+        "fmtAddr": "Auld Rd, Murrieta, CA 92563, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "local_government_office",
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.45755299999999,
+          33.92110520000001
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJe1lUyDK33IARNdzFxY8oFsU",
+        "name": "Superior Court of California, County of Riverside - Riverside Juvenile Courthouse",
+        "open": "OPERATIONAL",
+        "stNo": "9991",
+        "strName": "County Farm Road",
+        "stPrefix": "",
+        "stName": "COUNTY FARM",
+        "stType": "RD",
+        "stNmAbre": "County Farm Rd",
+        "county": "Riverside County",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92503",
+        "fmtAddr": "9991 County Farm Rd, Riverside, CA 92503, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "local_government_office",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4591946,
+          33.920348100000005
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ6yBK_Myw3IARdHDUSpRLnbM",
+        "name": "Riverside Juvenile Hall",
+        "open": "OPERATIONAL",
+        "stNo": "3933",
+        "strName": "Harrison Street",
+        "stPrefix": "",
+        "stName": "HARRISON",
+        "stType": "ST",
+        "stNmAbre": "Harrison St",
+        "county": "Riverside County",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92503",
+        "fmtAddr": "3933 Harrison St, Riverside, CA 92503, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "service",
+          "point_of_interest",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2890175,
+          34.1055347
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJmbo2c0hTw4ARzPxBXZmzPXE",
+        "name": "San Bernardino County Superior Court - Family Law Division",
+        "open": "OPERATIONAL",
+        "stNo": "351",
+        "strName": "North Arrowhead Avenue",
+        "stPrefix": "N",
+        "stName": "ARROWHEAD",
+        "stType": "AVE",
+        "stNmAbre": "N Arrowhead Ave",
+        "county": "San Bernardino County",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92415",
+        "fmtAddr": "351 N Arrowhead Ave, San Bernardino, CA 92415, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "local_government_office",
+          "government_office",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2889256,
+          34.1043877
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJm5m6NFS04RQRcLD_E2cenpU",
+        "name": "San Bernardino Superior Court Civil Division",
+        "open": "OPERATIONAL",
+        "stNo": "247",
+        "strName": "West 3rd Street",
+        "stPrefix": "W",
+        "stName": "3RD",
+        "stType": "ST",
+        "stNmAbre": "W 3rd St",
+        "county": "San Bernardino County",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92415",
+        "fmtAddr": "247 W 3rd St, San Bernardino, CA 92415, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "local_government_office",
+          "government_office",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.28909549999997,
+          34.1043933
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJFRAnVEhTw4ARymy31Lg0j0Q",
+        "name": "San Bernardino Justice Center",
+        "open": "OPERATIONAL",
+        "stNo": "247",
+        "strName": "West 3rd Street",
+        "stPrefix": "W",
+        "stName": "3RD",
+        "stType": "ST",
+        "stNmAbre": "W 3rd St",
+        "county": "San Bernardino County",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92415",
+        "fmtAddr": "247 W 3rd St, San Bernardino, CA 92415, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "government_office",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.57698089999998,
+          33.8779737
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJSbLZk2vI3IAR3Me9cpqnkXs",
+        "name": "Corona Court",
+        "open": "OPERATIONAL",
+        "stNo": "505",
+        "strName": "South Buena Vista Avenue",
+        "stPrefix": "S",
+        "stName": "BUENA VISTA",
+        "stType": "AVE",
+        "stNmAbre": "S Buena Vista Ave",
+        "county": "Riverside County",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92882",
+        "fmtAddr": "505 S Buena Vista Ave #201, Corona, CA 92882, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "local_government_office",
+          "government_office",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2885378,
+          34.1041443
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJlRrhO0hTw4ARguqF08IlysU",
+        "name": "Superior Court of California San Bernardino Jury Administration",
+        "open": "OPERATIONAL",
+        "stNo": "247",
+        "strName": "West 3rd Street",
+        "stPrefix": "W",
+        "stName": "3RD",
+        "stType": "ST",
+        "stNmAbre": "W 3rd St",
+        "county": "San Bernardino County",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92415",
+        "fmtAddr": "247 W 3rd St, San Bernardino, CA 92415, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "government_office",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.57248440000001,
+          33.6779739
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJh6F75r_q3IAR4FnQFh_9NSo",
+        "name": "Joplin Youth Center",
+        "open": "OPERATIONAL",
+        "stNo": "20059-20089",
+        "strName": "Joplin Ranch Road",
+        "stPrefix": "",
+        "stName": "JOPLIN RANCH",
+        "stType": "RD",
+        "stNmAbre": "Joplin Ranch Rd",
+        "county": "Orange County",
+        "city": "Trabuco Canyon",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92679",
+        "fmtAddr": "20059-20089 Joplin Ranch Rd, Trabuco Canyon, CA 92679, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1611409,
+          33.526576
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJbwBc8Rd-24ARvM0KyLS7F3g",
+        "name": "Superior Court of California, County of Riverside - Temecula Courthouse",
+        "open": "OPERATIONAL",
+        "stNo": "41002",
+        "strName": "County Center Drive",
+        "stPrefix": "",
+        "stName": "COUNTY CENTER",
+        "stType": "DR",
+        "stNmAbre": "County Center Dr",
+        "county": "Riverside County",
+        "city": "Temecula",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92591",
+        "fmtAddr": "41002 County Center Dr #100, Temecula, CA 92591, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "service",
+          "local_government_office",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.139686,
+          33.553243
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJZwKuEth924ARnWZqwrK_RdA",
+        "name": "Supreme Court Athletics",
+        "open": "OPERATIONAL",
+        "stNo": "29910",
+        "strName": "Murrieta Hot Springs Road",
+        "stPrefix": "",
+        "stName": "MURRIETA HOT SPRINGS",
+        "stType": "RD",
+        "stNmAbre": "Murrieta Hot Springs Rd",
+        "county": "Riverside County",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92563",
+        "fmtAddr": "29910 Murrieta Hot Springs Rd, Murrieta, CA 92563, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "service",
+          "government_office",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1697355,
+          33.5198517
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJxyInMiF-24ARJ9g0yBvHs4Q",
+        "name": "Redwood City Court Reporting",
+        "open": "OPERATIONAL",
+        "stNo": "41689",
+        "strName": "Enterprise Circle North",
+        "stPrefix": "",
+        "stName": "ENTERPRISE",
+        "stType": "CIR",
+        "stNmAbre": "Enterprise Cir N",
+        "county": "Riverside County",
+        "city": "Temecula",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92590",
+        "fmtAddr": "41689 Enterprise Cir N #214, Temecula, CA 92590, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "point_of_interest",
+          "service",
+          "government_office",
+          "establishment"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3962 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.213928,
+          33.9788688
+        ]
+      },
+      "properties": {
+        "poi_id": "I9FC11602C3DC591D",
+        "name": "Appwinners",
+        "url": "http://www.appwinners.com",
+        "stNo": "6617",
+        "strName": "Cedar St",
+        "stPrefix": "",
+        "stName": "CEDAR",
+        "stType": "ST",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6617 Cedar St, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2139138,
+          33.9783714
+        ]
+      },
+      "properties": {
+        "poi_id": "I2E7C45E810FD5410",
+        "name": "Al's Quality Construction & Engineering",
+        "phone": "+13235856575",
+        "url": "https://www.yelp.com/biz/als-quality-construction-and-engineering-huntington-park",
+        "stNo": "6701",
+        "strName": "Cedar St",
+        "stPrefix": "",
+        "stName": "CEDAR",
+        "stType": "ST",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6701 Cedar St, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2138437,
+          33.9779062
+        ]
+      },
+      "properties": {
+        "poi_id": "IF3D65D817927B28",
+        "name": "Gaby's Deals",
+        "category": "Store",
+        "phone": "+13106296371",
+        "url": "https://www.yelp.com/biz/gabys-deals-huntington-park",
+        "stNo": "6723",
+        "strName": "Cedar St",
+        "stPrefix": "",
+        "stName": "CEDAR",
+        "stType": "ST",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6723 Cedar St, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2138418,
+          33.9806839
+        ]
+      },
+      "properties": {
+        "poi_id": "I149B3BA5D91FB6C4",
+        "name": "Roberts Hair",
+        "category": "Beauty",
+        "phone": "+13237496622",
+        "url": "https://www.yelp.com/biz/gabys-deals-huntington-park",
+        "stNo": "3054",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3054 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2144049,
+          33.9806866
+        ]
+      },
+      "properties": {
+        "poi_id": "I8D8AD2F027DF3AC2",
+        "name": "Praise Chapel Christian Fellowship",
+        "category": "ReligiousSite",
+        "phone": "+13235898957",
+        "url": "http://www.praisechapelcf.com",
+        "stNo": "3050",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3050 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2137918,
+          33.9807251
+        ]
+      },
+      "properties": {
+        "poi_id": "I3CDE5A52D0E9310B",
+        "name": "Unisex Salon",
+        "category": "Beauty",
+        "phone": "+13238356499",
+        "url": "http://www.praisechapelcf.com",
+        "stNo": "3056",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3056 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2135571,
+          33.9806805
+        ]
+      },
+      "properties": {
+        "poi_id": "I810351DC6EA5886B",
+        "name": "Michel Family Dentistry",
+        "phone": "+13235812603",
+        "url": "http://michelfamilydentistry.com",
+        "stNo": "3058",
+        "strName": "E Gage Ave",
+        "stPrefix": "E",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3058 E Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2135571,
+          33.9806805
+        ]
+      },
+      "properties": {
+        "poi_id": "I7D8688BA6B9DE5AF",
+        "name": "Huntington Park Smiles",
+        "url": "https://www.huntingtonparksmiles.com/",
+        "stNo": "3058",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3058 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2142103,
+          33.9807562
+        ]
+      },
+      "properties": {
+        "poi_id": "I3D27775AE8E20250",
+        "name": "Natural Wood Furniture",
+        "category": "Store",
+        "phone": "+13235876121",
+        "url": "http://naturalfurniture.com",
+        "stNo": "3044",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3044 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.214176,
+          33.980778
+        ]
+      },
+      "properties": {
+        "name": "Casa De Cafe & Snacks",
+        "category": "Restaurant",
+        "phone": "+13233858741",
+        "url": "http://naturalfurniture.com",
+        "stNo": "3047",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3047 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2140747,
+          33.980806
+        ]
+      },
+      "properties": {
+        "poi_id": "I88E4886B60174012",
+        "name": "Our 99 Cents",
+        "category": "Store",
+        "url": "http://naturalfurniture.com",
+        "stNo": "3048",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3048 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2140761,
+          33.9808061
+        ]
+      },
+      "properties": {
+        "poi_id": "I73A01B4DB0E0F352",
+        "name": "Zapatito’s Auto Parts",
+        "category": "AutomotiveRepair",
+        "phone": "+12134462908",
+        "url": "https://www.yelp.com/biz/zapatito-s-auto-parts-huntington-park",
+        "stNo": "3048",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3048 Gage Ave, Ste B, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2141466,
+          33.9808109
+        ]
+      },
+      "properties": {
+        "poi_id": "IDE442AC30DBC206",
+        "name": "Modern Glass & Mirror Works",
+        "phone": "+12134342142",
+        "url": "https://www.yelp.com/biz/modern-glass-and-mirror-works-huntington-park",
+        "stNo": "3046",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3046 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2142297,
+          33.9808081
+        ]
+      },
+      "properties": {
+        "poi_id": "IA97769079D434F7",
+        "name": "Jubilee Furniture",
+        "category": "Store",
+        "phone": "+13235876121",
+        "url": "https://www.yelp.com/biz/jubilee-furniture-huntington-park",
+        "stNo": "3044",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3044 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2129797,
+          33.9805132
+        ]
+      },
+      "properties": {
+        "poi_id": "I9D95AE48EC4DEF95",
+        "name": "Nabil Mobile Mart LLC",
+        "category": "FoodMarket",
+        "phone": "+13106191662",
+        "url": "https://www.yelp.com/biz/jubilee-furniture-huntington-park",
+        "stNo": "3084",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3084 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2129335,
+          33.9806094
+        ]
+      },
+      "properties": {
+        "poi_id": "ID8B1C47A8281D401",
+        "name": "Mobil",
+        "category": "GasStation",
+        "phone": "+13235835716",
+        "url": "https://www.exxon.com/en/find-station/huntingtonpark-ca-nabilsmobilservice-200314458",
+        "stNo": "3084",
+        "strName": "E Gage Ave",
+        "stPrefix": "E",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3084 E Gage Ave, Huntington Park, CA 90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2127243,
+          33.9807284
+        ]
+      },
+      "properties": {
+        "poi_id": "IDE07670CA4117375",
+        "name": "Gage & State Stop",
+        "category": "PublicTransport",
+        "url": "https://www.exxon.com/en/find-station/huntingtonpark-ca-nabilsmobilservice-200314458",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2130136,
+          33.9809162
+        ]
+      },
+      "properties": {
+        "poi_id": "IF9BDFA90D35EE15A",
+        "name": "Quality Cleaners",
+        "category": "Laundry",
+        "phone": "+13235898977",
+        "url": "https://www.yelp.com/biz/quality-cleaners-huntington-park",
+        "stNo": "3079",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3079 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2122415,
+          33.9805383
+        ]
+      },
+      "properties": {
+        "poi_id": "IB776BCB04ADDE6A1",
+        "name": "KFC",
+        "category": "Restaurant",
+        "phone": "+13235833201",
+        "url": "https://locations.kfc.com/ca/huntington-park/3100-e-gage-ave",
+        "stNo": "3100",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3100 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2121309,
+          33.9805692
+        ]
+      },
+      "properties": {
+        "poi_id": "IE74C44150D64CF81",
+        "name": "Hernandez Carpet Service",
+        "phone": "+13235895618",
+        "url": "https://www.yelp.com/biz/hernandez-carpet-service-huntington-park",
+        "stNo": "3108",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3108 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2468148,
+          33.9287591
+        ]
+      },
+      "properties": {
+        "poi_id": "IB0C5872C53CDC241",
+        "name": "Car City Custom",
+        "category": "AutomotiveRepair",
+        "phone": "+13233023118",
+        "url": "https://carcitycustom.com/",
+        "strName": "I-105 E",
+        "stPrefix": "",
+        "stName": "I-105",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "I-105 E, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.246371,
+          33.9291564
+        ]
+      },
+      "properties": {
+        "poi_id": "IEE30492BA0FEE399",
+        "name": "Compton & Imperial Stop",
+        "category": "PublicTransport",
+        "url": "https://carcitycustom.com/",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2464477,
+          33.929405
+        ]
+      },
+      "properties": {
+        "poi_id": "I12FC954FFBE9F588",
+        "name": "Imperial & Compton Stop",
+        "category": "PublicTransport",
+        "url": "https://carcitycustom.com/",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.246124,
+          33.929264
+        ]
+      },
+      "properties": {
+        "poi_id": "I881830181D2B16A",
+        "name": "Compton & Imperial Stop",
+        "category": "PublicTransport",
+        "url": "https://carcitycustom.com/",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.246574,
+          33.929611
+        ]
+      },
+      "properties": {
+        "poi_id": "I9ED87C78113ACB98",
+        "name": "Imperial & Compton Stop",
+        "category": "PublicTransport",
+        "url": "https://carcitycustom.com/",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2465738,
+          33.9297321
+        ]
+      },
+      "properties": {
+        "poi_id": "I78453C76CAC43636",
+        "name": "NL Market",
+        "category": "FoodMarket",
+        "phone": "+13233570028",
+        "url": "https://www.yelp.com/biz/nl-market-los-angeles",
+        "stNo": "1575",
+        "strName": "E Imperial Hwy",
+        "stPrefix": "E",
+        "stName": "IMPERIAL",
+        "stType": "HWY",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "1575 E Imperial Hwy, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2465469,
+          33.9297361
+        ]
+      },
+      "properties": {
+        "poi_id": "I1034BF3C0F88E85A",
+        "name": "Tacos El Bronco Taco Truck",
+        "category": "Restaurant",
+        "url": "https://www.yelp.com/biz/tacos-el-bronco-taco-truck-los-angeles",
+        "stNo": "1575",
+        "strName": "E Imperial Hwy",
+        "stPrefix": "E",
+        "stName": "IMPERIAL",
+        "stType": "HWY",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "1575 E Imperial Hwy, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2465469,
+          33.9297361
+        ]
+      },
+      "properties": {
+        "poi_id": "I34265A1CAF323FD1",
+        "name": "Fast & Fair Market",
+        "category": "FoodMarket",
+        "url": "https://www.yelp.com/biz/tacos-el-bronco-taco-truck-los-angeles",
+        "stNo": "1575",
+        "strName": "E Imperial Hwy",
+        "stPrefix": "E",
+        "stName": "IMPERIAL",
+        "stType": "HWY",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "1575 E Imperial Hwy, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2474609,
+          33.9298354
+        ]
+      },
+      "properties": {
+        "poi_id": "I6BACB51F4996BA73",
+        "name": "Vinted Go Parcel Shop",
+        "category": "PostOffice",
+        "url": "https://vintedgo.com/en/carrier-locations?selected_point=144779",
+        "stNo": "1539",
+        "strName": "E Imperial Hwy",
+        "stPrefix": "E",
+        "stName": "IMPERIAL",
+        "stType": "HWY",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "1539 E Imperial Hwy, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2458389,
+          33.9297321
+        ]
+      },
+      "properties": {
+        "poi_id": "IC6197D34C5C8C44B",
+        "name": "China Bowl Express",
+        "category": "Restaurant",
+        "phone": "+13235638838",
+        "url": "https://louisianafriedchickenhq.com",
+        "stNo": "1601",
+        "strName": "E Imperial Hwy",
+        "stPrefix": "E",
+        "stName": "IMPERIAL",
+        "stType": "HWY",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "1601 E Imperial Hwy, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2458335,
+          33.9297544
+        ]
+      },
+      "properties": {
+        "poi_id": "I5A39936A48B9AEA8",
+        "name": "Benjamin Tax Services",
+        "phone": "+13238922520",
+        "url": "https://www.benjamintaxes.com",
+        "stNo": "1601",
+        "strName": "E Imperial Hwy",
+        "stPrefix": "E",
+        "stName": "IMPERIAL",
+        "stType": "HWY",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "1601 E Imperial Hwy, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2460728,
+          33.9276019
+        ]
+      },
+      "properties": {
+        "poi_id": "IAD578AFA9E64DECB",
+        "name": "Max Happy Market",
+        "category": "FoodMarket",
+        "phone": "+12133068378",
+        "url": "https://www.yelp.com/biz/max-happy-market-los-angeles",
+        "stNo": "11700",
+        "strName": "Compton Ave",
+        "stPrefix": "",
+        "stName": "COMPTON",
+        "stType": "AVE",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "11700 Compton Ave, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2460266,
+          33.9275912
+        ]
+      },
+      "properties": {
+        "poi_id": "I6E4B7F1FF92A890D",
+        "name": "Tampico Market",
+        "category": "FoodMarket",
+        "phone": "+15625079221",
+        "url": "https://www.yelp.com/biz/tampico-market-los-angeles-2",
+        "stNo": "11700",
+        "strName": "Compton Ave",
+        "stPrefix": "",
+        "stName": "COMPTON",
+        "stType": "AVE",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "11700 Compton Ave, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2458669,
+          33.9299575
+        ]
+      },
+      "properties": {
+        "poi_id": "I75F5A0F2924E550E",
+        "name": "Golden Seafood Express & Burger",
+        "category": "Restaurant",
+        "phone": "+13235666119",
+        "url": "https://www.yelp.com/biz/seafood-express-los-angeles",
+        "stNo": "1601",
+        "strName": "E Imperial Hwy",
+        "stPrefix": "E",
+        "stName": "IMPERIAL",
+        "stType": "HWY",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "1601 E Imperial Hwy, Ste 103, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2466212,
+          33.9307765
+        ]
+      },
+      "properties": {
+        "poi_id": "IFAB517D3EEB176C2",
+        "name": "Nickerson Gardens Management",
+        "phone": "+13233576777",
+        "url": "http://www.hacla.org",
+        "stNo": "1590",
+        "strName": "E 114th St",
+        "stPrefix": "E",
+        "stName": "114TH",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "1590 E 114th St, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24778,
+          33.93072
+        ]
+      },
+      "properties": {
+        "poi_id": "I1F6D5399F48D53A9",
+        "name": "TriceBizness",
+        "category": "Store",
+        "phone": "+14244208581",
+        "url": "http://www.hacla.org",
+        "stNo": "1492",
+        "strName": "E 114th St",
+        "stPrefix": "E",
+        "stName": "114TH",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "1492 E 114th St, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2459671,
+          33.9309135
+        ]
+      },
+      "properties": {
+        "poi_id": "I3D21ACFFF3F565E5",
+        "name": "New Way Missionary Baptist Church",
+        "category": "ReligiousSite",
+        "phone": "+13235679726",
+        "url": "https://www.yelp.com/biz/new-way-missionary-baptist-church-los-angeles",
+        "stNo": "11402",
+        "strName": "S Compton Ave",
+        "stPrefix": "S",
+        "stName": "COMPTON",
+        "stType": "AVE",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "11402 S Compton Ave, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2465855,
+          33.9312851
+        ]
+      },
+      "properties": {
+        "poi_id": "I61F3141EB5EA2950",
+        "name": "Double S Nail Boutique",
+        "category": "Beauty",
+        "phone": "+13235397160",
+        "url": "https://www.yelp.com/biz/double-s-nail-boutique-los-angeles-2",
+        "stNo": "1597",
+        "strName": "E 114th St",
+        "stPrefix": "E",
+        "stName": "114TH",
+        "stType": "ST",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90059",
+        "fmtAddr": "1597 E 114th St, Ste 1106, Los Angeles, CA  90059, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.246155,
+          33.931938
+        ]
+      },
+      "properties": {
+        "poi_id": "IB4F6EF389F4DDEA7",
+        "name": "Compton & 113th Stop",
+        "category": "PublicTransport",
+        "url": "https://www.yelp.com/biz/double-s-nail-boutique-los-angeles-2",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2123569,
+          33.9808007
+        ]
+      },
+      "properties": {
+        "poi_id": "I3267A06D05078BE9",
+        "name": "Gage & State Stop",
+        "category": "PublicTransport",
+        "url": "https://www.yelp.com/biz/double-s-nail-boutique-los-angeles-2",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2120048,
+          33.980531
+        ]
+      },
+      "properties": {
+        "poi_id": "I3116F6060607D0A3",
+        "name": "Adonis Party Supplies",
+        "category": "Store",
+        "phone": "+13235892249",
+        "url": "https://www.yelp.com/biz/double-s-nail-boutique-los-angeles-2",
+        "stNo": "3112",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3112 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2137975,
+          33.9809821
+        ]
+      },
+      "properties": {
+        "poi_id": "IC133999F6518F9D4",
+        "name": "Cedar & Gage Stop",
+        "category": "PublicTransport",
+        "url": "https://www.yelp.com/biz/double-s-nail-boutique-los-angeles-2",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2142075,
+          33.9810371
+        ]
+      },
+      "properties": {
+        "poi_id": "I9C60CEC50B47F9FD",
+        "name": "Cafe Inka",
+        "category": "Restaurant",
+        "phone": "+13234953456",
+        "url": "https://www.yelp.com/biz/cafe-inka-huntington-park",
+        "stNo": "3047",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3047 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2140225,
+          33.9811543
+        ]
+      },
+      "properties": {
+        "poi_id": "IB1A30F1EFEA1FDCF",
+        "name": "Jose Barber Shop",
+        "category": "Beauty",
+        "phone": "+13239520282",
+        "url": "https://www.yelp.com/biz/cafe-inka-huntington-park",
+        "stNo": "3049",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3049 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2142787,
+          33.9810986
+        ]
+      },
+      "properties": {
+        "poi_id": "I418184E43CB8145D",
+        "name": "Princessa Liquor",
+        "category": "FoodMarket",
+        "phone": "+13235870315",
+        "url": "https://www.yelp.com/biz/princessa-liquor-huntington-park",
+        "stNo": "3043",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3043 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2143717,
+          33.9810562
+        ]
+      },
+      "properties": {
+        "poi_id": "I3AA286635ACAA078",
+        "name": "Nohemi's Nails",
+        "category": "Beauty",
+        "phone": "+13238123016",
+        "url": "https://www.facebook.com/Nohemis-Nails-229534997210273",
+        "stNo": "3041",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3041 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2152939,
+          33.9813034
+        ]
+      },
+      "properties": {
+        "poi_id": "IC23B13B827C5AA8C",
+        "name": "Gage Hand Car Wash",
+        "category": "AutomotiveRepair",
+        "phone": "+13238356522",
+        "url": "https://www.facebook.com/Nohemis-Nails-229534997210273",
+        "stNo": "3003",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3003 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2153061,
+          33.9813493
+        ]
+      },
+      "properties": {
+        "poi_id": "I8D7CF7DA81DA615F",
+        "name": "Crystal Clean Car Wash",
+        "category": "AutomotiveRepair",
+        "phone": "+13238356522",
+        "url": "https://www.facebook.com/HuntingtonParkCA90255/",
+        "stNo": "3003",
+        "strName": "E Gage Ave",
+        "stPrefix": "E",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3003 E Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2153061,
+          33.9813493
+        ]
+      },
+      "properties": {
+        "poi_id": "IDCEC0AAC1299B40C",
+        "name": "Ace Auto Sound",
+        "category": "AutomotiveRepair",
+        "phone": "+13235812939",
+        "url": "http://www.aceautosound.com",
+        "stNo": "3003",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3003 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.215388,
+          33.981313
+        ]
+      },
+      "properties": {
+        "poi_id": "IB3518360C15C13CE",
+        "name": "Jugos Y Cafe",
+        "category": "Restaurant",
+        "phone": "+13234840418",
+        "url": "http://www.aceautosound.com",
+        "stNo": "3003",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3003 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2154014,
+          33.9813304
+        ]
+      },
+      "properties": {
+        "poi_id": "I3495F928ACC18358",
+        "name": "Mr Torta Fruit & Juice",
+        "category": "Restaurant",
+        "phone": "+13237145521",
+        "url": "https://www.instagram.com/p/CrfI9s-OPiF/",
+        "stNo": "3003",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3003 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2153171,
+          33.9814966
+        ]
+      },
+      "properties": {
+        "poi_id": "IAC9729FC01B73DE4",
+        "name": "Santi The Tint King",
+        "category": "AutomotiveRepair",
+        "phone": "+13233828664",
+        "url": "https://www.yelp.com/biz/santi-the-tint-king-huntington-park-2",
+        "stNo": "3003",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3003 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.215805,
+          33.980968
+        ]
+      },
+      "properties": {
+        "poi_id": "IFBA987EBA8B4E0BE",
+        "name": "Gage & Marconi Stop",
+        "category": "PublicTransport",
+        "url": "https://www.yelp.com/biz/santi-the-tint-king-huntington-park-2",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.215935,
+          33.981243
+        ]
+      },
+      "properties": {
+        "poi_id": "IA5204EB42FDECF03",
+        "name": "Gage & Marconi Stop",
+        "category": "PublicTransport",
+        "url": "https://www.yelp.com/biz/santi-the-tint-king-huntington-park-2",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2163716,
+          33.9814925
+        ]
+      },
+      "properties": {
+        "poi_id": "I571EE8999D9655A1",
+        "name": "Salvation Army Child Care Center",
+        "phone": "+13235874221",
+        "url": "https://www.salvationarmyusa.org",
+        "stNo": "2965",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2965 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2163716,
+          33.9814925
+        ]
+      },
+      "properties": {
+        "poi_id": "I6CB238492D9507C5",
+        "name": "The Salvation Army",
+        "phone": "+13235874221",
+        "url": "https://www.salvationarmy.org",
+        "stNo": "2965",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2965 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2170829,
+          33.9814502
+        ]
+      },
+      "properties": {
+        "poi_id": "I4FE216235726CF7A",
+        "name": "Joe's Service Center",
+        "category": "AutomotiveRepair",
+        "phone": "+13235882345",
+        "url": "https://www.yelp.com/biz/joes-service-center-huntington-park",
+        "stNo": "2931",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2931 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2172894,
+          33.9814635
+        ]
+      },
+      "properties": {
+        "poi_id": "IE29E0F0610D83C53",
+        "name": "J & J Smog",
+        "category": "AutomotiveRepair",
+        "phone": "+13235882312",
+        "url": "https://www.yelp.com/biz/j-and-j-smog-huntington-park",
+        "stNo": "2931",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2931 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2163773,
+          33.9827769
+        ]
+      },
+      "properties": {
+        "poi_id": "I9CF5CAC699E6C6E8",
+        "name": "Closets by Jayden",
+        "phone": "+13238308567",
+        "url": "https://www.yelp.com/biz/closets-by-jayden-huntington-park",
+        "stNo": "6320",
+        "strName": "Passaic St",
+        "stPrefix": "",
+        "stName": "PASSAIC",
+        "stType": "ST",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6320 Passaic St, Ste C, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2176958,
+          33.9810998
+        ]
+      },
+      "properties": {
+        "poi_id": "I4F847AFFD7CA8F8F",
+        "name": "M's Beauty Boutique",
+        "category": "Beauty",
+        "url": "https://www.yelp.com/biz/ms-beauty-boutique-huntington-park",
+        "stNo": "2882",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2882 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2177079,
+          33.9809119
+        ]
+      },
+      "properties": {
+        "poi_id": "I632DBF447F2EB724",
+        "name": "Henry T. Gage Middle School",
+        "category": "School",
+        "phone": "+13238261500",
+        "url": "https://www.gagems.net",
+        "stNo": "2880",
+        "strName": "E Gage Ave",
+        "stPrefix": "E",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2880 E Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2146057,
+          33.9830267
+        ]
+      },
+      "properties": {
+        "poi_id": "IACE164AADA9F3034",
+        "name": "General Gates",
+        "phone": "+13235820720",
+        "url": "https://www.gagems.net",
+        "stNo": "6306",
+        "strName": "Arbutus Ave",
+        "stPrefix": "",
+        "stName": "ARBUTUS",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6306 Arbutus Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2127941,
+          33.9809653
+        ]
+      },
+      "properties": {
+        "poi_id": "IFF15368A1F924588",
+        "name": "Palomino Market",
+        "category": "FoodMarket",
+        "phone": "+13234849226",
+        "url": "https://www.facebook.com/palominomarket/?rf=486395758153285",
+        "stNo": "3085",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3085 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2120048,
+          33.980531
+        ]
+      },
+      "properties": {
+        "poi_id": "I712492CE38B7B019",
+        "name": "Eddie's Family Party Store & Flowers",
+        "category": "Store",
+        "phone": "+13235539250",
+        "url": "https://www.yelp.com/biz/eddies-family-party-store-and-flowers-huntington-park",
+        "stNo": "3112",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3112 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2119894,
+          33.9805205
+        ]
+      },
+      "properties": {
+        "poi_id": "IA0C4617A6EFBF064",
+        "name": "Joselyn Beauty Salon",
+        "category": "Beauty",
+        "phone": "+13235853556",
+        "url": "https://locality.com/place/joselyn-beauty-salon-huntington-park-ca",
+        "stNo": "3114",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3114 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2121154,
+          33.9808155
+        ]
+      },
+      "properties": {
+        "poi_id": "I49C16FCADE75B97A",
+        "name": "Julya's Fashion",
+        "category": "Store",
+        "phone": "+15622123578",
+        "url": "https://locality.com/place/joselyn-beauty-salon-huntington-park-ca",
+        "stNo": "3111",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3111 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2123864,
+          33.981081
+        ]
+      },
+      "properties": {
+        "poi_id": "IA41DB065485AC226",
+        "name": "Brands Electronic Sales & Service",
+        "phone": "+13235851892",
+        "url": "https://locality.com/place/joselyn-beauty-salon-huntington-park-ca",
+        "stNo": "3101",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3101 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2121378,
+          33.9809446
+        ]
+      },
+      "properties": {
+        "poi_id": "IA75DBE773B58333E",
+        "name": "Printwerks",
+        "url": "https://locality.com/place/joselyn-beauty-salon-huntington-park-ca",
+        "stNo": "3111",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3111 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2123127,
+          33.9810824
+        ]
+      },
+      "properties": {
+        "poi_id": "ID805754468B74B43",
+        "name": "J & J Mufflers",
+        "phone": "+13235881385",
+        "url": "https://www.yelp.com/biz/j-and-j-mufflers-huntington-park",
+        "stNo": "3101",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3101 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2123127,
+          33.9810824
+        ]
+      },
+      "properties": {
+        "poi_id": "I506940BCED1BF853",
+        "name": "Montano's Smog Test Only",
+        "category": "AutomotiveRepair",
+        "phone": "+13232360123",
+        "url": "https://www.yelp.com/biz/montanos-smog-test-only-huntington-park-2",
+        "stNo": "3101",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3101 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2119596,
+          33.9807983
+        ]
+      },
+      "properties": {
+        "poi_id": "I9C1728E9DC884EEA",
+        "name": "Payless Income Tax",
+        "url": "https://www.yelp.com/biz/montanos-smog-test-only-huntington-park-2",
+        "stNo": "3115",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3115 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2122183,
+          33.9810825
+        ]
+      },
+      "properties": {
+        "poi_id": "I9DD54264FC71B9FB",
+        "name": "H & N Complete Auto Repair",
+        "category": "AutomotiveRepair",
+        "phone": "+13238356767",
+        "url": "https://www.yelp.com/biz/h-and-n-complete-auto-repair-huntington-park",
+        "stNo": "3101",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3101 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2117415,
+          33.9805502
+        ]
+      },
+      "properties": {
+        "poi_id": "IABE7F7A5DC9D8708",
+        "name": "Iras Discount",
+        "category": "Store",
+        "url": "https://www.yelp.com/biz/h-and-n-complete-auto-repair-huntington-park",
+        "stNo": "3122",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3122 Gage Ave, Unit A, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2116998,
+          33.9805457
+        ]
+      },
+      "properties": {
+        "poi_id": "I101748161B4FA027",
+        "name": "Thunder Squad Fitness",
+        "category": "FitnessCenter",
+        "phone": "+13237027710",
+        "url": "https://www.yelp.com/biz/thunder-squad-fitness-huntington-park",
+        "stNo": "3122",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3122 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2118615,
+          33.9808281
+        ]
+      },
+      "properties": {
+        "poi_id": "IF29D500849F6A9DA",
+        "name": "Jerry's Auto Body",
+        "category": "AutomotiveRepair",
+        "phone": "+13235881131",
+        "url": "http://jerrysbodyshop.com",
+        "stNo": "3125",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "3125 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21788,
+          33.981483
+        ]
+      },
+      "properties": {
+        "poi_id": "ICDD59F9678812393",
+        "name": "Yum Yum Bionicos",
+        "category": "Restaurant",
+        "phone": "+13238356403",
+        "url": "https://www.facebook.com/yumyumbionicos/",
+        "stNo": "2889",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2889 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2182068,
+          33.9817749
+        ]
+      },
+      "properties": {
+        "poi_id": "IA31A88CE91BF3F01",
+        "name": "Leo's Snacks",
+        "category": "Restaurant",
+        "phone": "+13238356556",
+        "url": "https://www.yelp.com/biz/leos-snacks-huntington-park-3",
+        "stNo": "2889",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2889 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2182698,
+          33.9817989
+        ]
+      },
+      "properties": {
+        "poi_id": "IF54677F7B85487AB",
+        "name": "Delicadeza Boutique",
+        "category": "Store",
+        "phone": "+13232099827",
+        "url": "https://www.yelp.com/biz/delicadeza-boutique-los-angeles-2",
+        "stNo": "2885",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2885 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2182698,
+          33.9817989
+        ]
+      },
+      "properties": {
+        "poi_id": "I55BAFA48E16BC9",
+        "name": "Power Pc Solutions",
+        "phone": "+13238938224",
+        "url": "https://www.yelp.com/biz/power-pc-solutions-huntington-park",
+        "stNo": "2885",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2885 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2183218,
+          33.9817477
+        ]
+      },
+      "properties": {
+        "poi_id": "IBB47C5436165A97B",
+        "name": "Joey's Boutique",
+        "category": "Store",
+        "url": "https://www.yelp.com/biz/power-pc-solutions-huntington-park",
+        "stNo": "2883",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2883 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2183251,
+          33.9817479
+        ]
+      },
+      "properties": {
+        "poi_id": "ID6787669A120D228",
+        "name": "Velvetdreams la",
+        "category": "Store",
+        "phone": "+13235016309",
+        "url": "https://www.yelp.com/biz/power-pc-solutions-huntington-park",
+        "stNo": "2883",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2883 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2183212,
+          33.9818004
+        ]
+      },
+      "properties": {
+        "poi_id": "I861C692B1A68EC96",
+        "name": "Mgt Accessories",
+        "phone": "+13237496339",
+        "url": "https://www.yelp.com/biz/power-pc-solutions-huntington-park",
+        "stNo": "2883",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2883 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2183212,
+          33.9818004
+        ]
+      },
+      "properties": {
+        "poi_id": "IF1E563B2E1E9C531",
+        "name": "Centric Tax Services",
+        "phone": "+13234053865",
+        "url": "https://www.yelp.com/biz/centric-tax-services-huntington-park",
+        "stNo": "2883",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2883 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2183212,
+          33.9818004
+        ]
+      },
+      "properties": {
+        "poi_id": "I60FCC7CECE1A512",
+        "name": "New V boutique",
+        "category": "Store",
+        "url": "https://www.yelp.com/biz/centric-tax-services-huntington-park",
+        "stNo": "2883",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2883 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2183949,
+          33.9816462
+        ]
+      },
+      "properties": {
+        "poi_id": "I3811E67B34E6C9A9",
+        "name": "Lueur Beauty Salon",
+        "category": "Beauty",
+        "phone": "+15623903477",
+        "url": "https://www.facebook.com/lueursalon/",
+        "stNo": "2873",
+        "strName": "E Gage Ave",
+        "stPrefix": "E",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2873 E Gage Ave\nHuntington Park, CA  90255\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2184267,
+          33.9816014
+        ]
+      },
+      "properties": {
+        "poi_id": "IEECBD6E207FCEBAE",
+        "name": "98 Discount Store",
+        "category": "Store",
+        "phone": "+13235852353",
+        "url": "https://www.facebook.com/lueursalon/",
+        "stNo": "2871",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2871 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2184273,
+          33.9816462
+        ]
+      },
+      "properties": {
+        "poi_id": "I2FDE7745E0E54732",
+        "name": "Judith’s Beauty Salon",
+        "category": "Beauty",
+        "phone": "+13239108905",
+        "url": "https://www.instagram.com/beautysalon_byjudith/",
+        "stNo": "2873",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2873 E Gage Ave, Huntington Park, CA 90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.218369,
+          33.9818016
+        ]
+      },
+      "properties": {
+        "poi_id": "I91FDE6B0D4B4282B",
+        "name": "Birrieria Marys",
+        "category": "Restaurant",
+        "phone": "+12135050468",
+        "url": "https://www.facebook.com/tacosdemary3/",
+        "stNo": "2881",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2881 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.218369,
+          33.9818016
+        ]
+      },
+      "properties": {
+        "poi_id": "IE26D9A437D4BFCBF",
+        "name": "Birrieria la Chivita",
+        "category": "Restaurant",
+        "phone": "+13238499080",
+        "url": "https://www.facebook.com/p/Birrieria-la-Chivita-61594650163900/",
+        "stNo": "2881",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2881 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185437,
+          33.9815974
+        ]
+      },
+      "properties": {
+        "poi_id": "I2FEA826363259E29",
+        "name": "Glamour Land",
+        "category": "Store",
+        "phone": "+13236747387",
+        "url": "https://www.yelp.com/biz/glamourland-huntington-lake",
+        "stNo": "2867",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2867 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2184314,
+          33.9817327
+        ]
+      },
+      "properties": {
+        "poi_id": "I61665DCDFF75982B",
+        "name": "Hat Headz",
+        "category": "Store",
+        "url": "https://www.yelp.com/biz/hat-headz-huntington-park",
+        "stNo": "2879",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2879 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.218506,
+          33.981682
+        ]
+      },
+      "properties": {
+        "poi_id": "I26DC8F3190371A47",
+        "name": "Deluxe Flowers",
+        "category": "Store",
+        "phone": "+13238356354",
+        "url": "https://www.yelp.com/biz/hat-headz-huntington-park",
+        "stNo": "2885",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2885 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2190181,
+          33.9816559
+        ]
+      },
+      "properties": {
+        "poi_id": "IE640CD883B99DC4A",
+        "name": "Gage & Miles Stop",
+        "category": "PublicTransport",
+        "url": "https://www.yelp.com/biz/hat-headz-huntington-park",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2189074,
+          33.9819045
+        ]
+      },
+      "properties": {
+        "poi_id": "I8D972B99F43D5BA8",
+        "name": "Nueva Nutricion",
+        "url": "https://www.yelp.com/biz/hat-headz-huntington-park",
+        "stNo": "2853",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2853 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2189293,
+          33.9819481
+        ]
+      },
+      "properties": {
+        "poi_id": "IFE2318F1458C8FF2",
+        "name": "Record Nations",
+        "phone": "+13104022791",
+        "url": "https://www.recordnations.com/huntington-park-ca/#apple",
+        "stNo": "2851",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2851 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2189578,
+          33.9819528
+        ]
+      },
+      "properties": {
+        "poi_id": "IBBA59D5D632A3CB0",
+        "name": "OK Printing Design and Digital Print",
+        "phone": "+13235829402",
+        "url": "http://okprintingdigital.com",
+        "stNo": "2851",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2851 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2187754,
+          33.981935
+        ]
+      },
+      "properties": {
+        "poi_id": "I2D109E4864B7D3B8",
+        "name": "La Mesa Auto Sales",
+        "category": "AutomotiveDealership",
+        "phone": "+13235810672",
+        "url": "https://www.lamesaautosales.com",
+        "stNo": "2857",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2857 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185769,
+          33.9816726
+        ]
+      },
+      "properties": {
+        "poi_id": "IDF59CC884B27B439",
+        "name": "Robert's Cigar Store",
+        "category": "Store",
+        "phone": "+13235898036",
+        "url": "https://www.yelp.com/biz/roberts-cigar-store-huntington-park",
+        "stNo": "2867",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2867 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2189238,
+          33.9820559
+        ]
+      },
+      "properties": {
+        "poi_id": "IEF945D3FDF52AECF",
+        "name": "Shanti Creative Studio & Modesta Designs",
+        "url": "https://www.yelp.com/biz/roberts-cigar-store-huntington-park",
+        "stNo": "6352",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6352 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2189238,
+          33.9820559
+        ]
+      },
+      "properties": {
+        "poi_id": "I166C3B101566BD64",
+        "name": "Mode Sta Designs",
+        "category": "Laundry",
+        "phone": "+13234811357",
+        "url": "https://www.yelp.com/biz/mode-sta-designs-huntington-park",
+        "stNo": "6352",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6352 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2189238,
+          33.9820559
+        ]
+      },
+      "properties": {
+        "poi_id": "I349DD69A0D12F6C6",
+        "name": "Bg Printing",
+        "phone": "+13235870341",
+        "url": "https://www.yelp.com/biz/mode-sta-designs-huntington-park",
+        "stNo": "6352",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6352 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2189238,
+          33.9820559
+        ]
+      },
+      "properties": {
+        "poi_id": "I3FF82536C8013090",
+        "name": "Shanti Creative",
+        "category": "Laundry",
+        "phone": "+16266207752",
+        "url": "http://www.karinacardona.com",
+        "stNo": "6352",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6352 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.219307,
+          33.981491
+        ]
+      },
+      "properties": {
+        "poi_id": "IC6A5338159D62DB8",
+        "name": "Gage & Miles Stop",
+        "category": "PublicTransport",
+        "url": "http://www.karinacardona.com",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2193387,
+          33.9818327
+        ]
+      },
+      "properties": {
+        "poi_id": "I1EE9A486152B7A4B",
+        "name": "Union Latina",
+        "phone": "+13235851540",
+        "url": "https://www.yelp.com/biz/union-latina-huntington-park",
+        "stNo": "2823",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2823 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.219365,
+          33.9818625
+        ]
+      },
+      "properties": {
+        "poi_id": "I9922E5A015C2BD5",
+        "name": "Spanish Suppliers 99c",
+        "category": "Store",
+        "phone": "+13238356599",
+        "url": "https://www.yelp.com/biz/union-latina-huntington-park",
+        "stNo": "2825",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2825 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.219365,
+          33.9818625
+        ]
+      },
+      "properties": {
+        "poi_id": "I128F7F2EC37EFEB3",
+        "name": "Jose & Karen Sweets",
+        "category": "Store",
+        "phone": "+13238356325",
+        "url": "https://www.yelp.com/biz/union-latina-huntington-park",
+        "stNo": "2825",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2825 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2193977,
+          33.9820596
+        ]
+      },
+      "properties": {
+        "poi_id": "IF506BC6924714969",
+        "name": "El Molinito Meat Market",
+        "category": "FoodMarket",
+        "phone": "+13238356449",
+        "url": "https://www.instagram.com/el_molinito_meat_market/",
+        "stNo": "6353",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6353 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2194236,
+          33.9820714
+        ]
+      },
+      "properties": {
+        "poi_id": "I54ECDB1085B0168D",
+        "name": "Nayarit Meat Market",
+        "category": "FoodMarket",
+        "phone": "+13235891482",
+        "url": "http://alamo.com",
+        "stNo": "6353",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6353 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2194299,
+          33.981766
+        ]
+      },
+      "properties": {
+        "poi_id": "IE3A6BF2D5A59B20E",
+        "name": "Raspados Guadalajara",
+        "category": "Restaurant",
+        "phone": "+13234566351",
+        "url": "https://www.facebook.com/people/Raspados-Guadalajara/100063615671205/",
+        "stNo": "2821",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2821 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2197206,
+          33.9817962
+        ]
+      },
+      "properties": {
+        "poi_id": "I91040F5904F14D85",
+        "name": "Lipstick Bail Bonds",
+        "phone": "+13235879700",
+        "url": "https://lipstickbailbonds.net",
+        "stNo": "2809",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2809 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2197206,
+          33.9817962
+        ]
+      },
+      "properties": {
+        "poi_id": "I15BC6537C12028FF",
+        "name": "JNAVARRO BAIL BONDS",
+        "phone": "+19098554232",
+        "url": "https://www.yelp.com/biz/jnavarro-bail-bonds-huntington-park",
+        "stNo": "2809",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2809 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2197206,
+          33.9817962
+        ]
+      },
+      "properties": {
+        "poi_id": "I5B60A64144967855",
+        "name": "The Bail Guy Bail Bonds",
+        "phone": "+13239290976",
+        "url": "https://www.yelp.com/biz/jnavarro-bail-bonds-huntington-park",
+        "stNo": "2809",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2809 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2197571,
+          33.9817927
+        ]
+      },
+      "properties": {
+        "poi_id": "I51E2F14FF6FAD0DC",
+        "name": "Jose Navarro Bail Bonds",
+        "phone": "+13235879700",
+        "url": "https://www.facebook.com/JOSENBAILBONDS/",
+        "stNo": "2809",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2809 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2195335,
+          33.9814762
+        ]
+      },
+      "properties": {
+        "poi_id": "IE13498A6A26B41D7",
+        "name": "Gage Laundry",
+        "category": "Laundry",
+        "phone": "+13235840705",
+        "url": "https://www.yelp.com/biz/gage-laundry-huntington-park",
+        "stNo": "2814",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2814 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2196873,
+          33.9814991
+        ]
+      },
+      "properties": {
+        "poi_id": "I2F57D1D26DA4371A",
+        "name": "Fernando's Income Tax",
+        "phone": "+13235820080",
+        "url": "https://www.yelp.com/biz/fernandos-income-tax-huntington-park",
+        "stNo": "2810",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2810 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.219691,
+          33.9815
+        ]
+      },
+      "properties": {
+        "poi_id": "I5EEC0C9CC3C1F0C8",
+        "name": "Grabados En Cristal",
+        "category": "Store",
+        "phone": "+13235885522",
+        "url": "https://www.yelp.com/biz/fernandos-income-tax-huntington-park",
+        "stNo": "2810",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2810 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2196015,
+          33.9814502
+        ]
+      },
+      "properties": {
+        "poi_id": "IE5146FCC85E8E288",
+        "name": "Los Lavaderos Coin Laundries",
+        "category": "Laundry",
+        "phone": "+13234636354",
+        "url": "https://www.yelp.com/biz/los-lavaderos-coin-laundries-huntington-park-7",
+        "stNo": "2814",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2814 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2197569,
+          33.9815204
+        ]
+      },
+      "properties": {
+        "poi_id": "I7700F737F833BB12",
+        "name": "Yareli Flowers & Party Supplies",
+        "category": "Store",
+        "phone": "+13235885522",
+        "url": "https://www.facebook.com/profile.php?id=100070006022751",
+        "stNo": "2810",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2810 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2193693,
+          33.9813706
+        ]
+      },
+      "properties": {
+        "poi_id": "I25CCBDB5A5CA3298",
+        "name": "The Place",
+        "category": "Restaurant",
+        "url": "https://www.yelp.com/biz/the-place-huntington-park",
+        "stNo": "2822",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2822 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2193266,
+          33.9813821
+        ]
+      },
+      "properties": {
+        "poi_id": "ID571AB2936199443",
+        "name": "Day And Night Donuts",
+        "category": "Cafe",
+        "phone": "+13237496330",
+        "url": "https://www.yelp.com/biz/the-place-huntington-park",
+        "stNo": "2822",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2822 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2194292,
+          33.981372
+        ]
+      },
+      "properties": {
+        "poi_id": "IB1AE06399E4B4F32",
+        "name": "Moya’s Bakery",
+        "category": "Bakery",
+        "phone": "+13235891241",
+        "url": "https://moya-s-bakery.hub.biz",
+        "stNo": "2820",
+        "strName": "E Gage Ave",
+        "stPrefix": "E",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2820 E Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2194781,
+          33.9813612
+        ]
+      },
+      "properties": {
+        "poi_id": "IEF64EB3DE7F876C7",
+        "name": "Supreme Donut House",
+        "category": "Cafe",
+        "url": "https://moya-s-bakery.hub.biz",
+        "stNo": "2822",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2822 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2194996,
+          33.9814101
+        ]
+      },
+      "properties": {
+        "poi_id": "IAE024693E9CA5EEE",
+        "name": "Rancho Fiesta Mercado",
+        "category": "FoodMarket",
+        "phone": "+13235832939",
+        "url": "https://moya-s-bakery.hub.biz",
+        "stNo": "2818",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2818 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2196077,
+          33.9813873
+        ]
+      },
+      "properties": {
+        "poi_id": "I862B76A91AB960A2",
+        "name": "LibertyX Bitcoin ATM",
+        "category": "ATM",
+        "phone": "+18005118940",
+        "url": "https://libertyx.com/a/locations/CA/huntington-park/2814-e-gage-ave",
+        "stNo": "2814",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2814 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2196739,
+          33.9808775
+        ]
+      },
+      "properties": {
+        "poi_id": "I2C00DEC255801B0E",
+        "name": "Seaboard Healthcare",
+        "url": "https://libertyx.com/a/locations/CA/huntington-park/2814-e-gage-ave",
+        "stNo": "6425",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6425 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.219741,
+          33.9814991
+        ]
+      },
+      "properties": {
+        "poi_id": "I2A2A3267BCF34ABD",
+        "name": "Grabados En Cristal",
+        "phone": "+13235885522",
+        "url": "https://www.yelp.com/biz/yarelis-flowers-and-party-supplies-huntington-park",
+        "stNo": "2810",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2810 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2198215,
+          33.9814591
+        ]
+      },
+      "properties": {
+        "poi_id": "I5E25FF4FAA59C342",
+        "name": "Salon Glory Alice",
+        "category": "Beauty",
+        "phone": "+13235632100",
+        "url": "http://chiropracticassociate.com",
+        "stNo": "2808",
+        "strName": "Gage Ave",
+        "stPrefix": "",
+        "stName": "GAGE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2808 Gage Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2198292,
+          33.9808634
+        ]
+      },
+      "properties": {
+        "poi_id": "I3370825A8D04943C",
+        "name": "Huntington Park Nursing Center",
+        "phone": "+13235895941",
+        "url": "http://www.huntingtonparknursingcenter.com",
+        "stNo": "6425",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6425 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2186865,
+          33.9803489
+        ]
+      },
+      "properties": {
+        "poi_id": "I6E888DAE18B4A469",
+        "name": "LA County Library - Huntington Park Library",
+        "category": "Library",
+        "phone": "+13235831461",
+        "url": "https://www.yelp.com/biz/la-county-library-huntington-park-library-huntington-park",
+        "stNo": "6518",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6518 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.218703,
+          33.9796678
+        ]
+      },
+      "properties": {
+        "poi_id": "I3667CB253330F020",
+        "name": "Huntington Park Police Department",
+        "category": "Police",
+        "phone": "+13235846254",
+        "url": "http://hppolice.org",
+        "stNo": "6542",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6542 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2204399,
+          33.9803699
+        ]
+      },
+      "properties": {
+        "poi_id": "IA14BD4B4FB557DEC",
+        "name": "Ramz Air Duct Cleaning",
+        "phone": "+13235365114",
+        "url": "http://www.ramzairductcleaningcompany.com",
+        "stNo": "6501",
+        "strName": "Templeton St",
+        "stPrefix": "",
+        "stName": "TEMPLETON",
+        "stType": "ST",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6501 Templeton St, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.218851,
+          33.979307
+        ]
+      },
+      "properties": {
+        "poi_id": "I5B334F48EB695E48",
+        "name": "USPS Collection Box",
+        "category": "Mailbox",
+        "url": "https://www.usps.com",
+        "stNo": "6542",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6542 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.219202,
+          33.9791354
+        ]
+      },
+      "properties": {
+        "poi_id": "I32356DAD7DCA4C0B",
+        "name": "Miles & Zoe Stop",
+        "category": "PublicTransport",
+        "url": "https://www.usps.com",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2186842,
+          33.9789191
+        ]
+      },
+      "properties": {
+        "poi_id": "IBC84393309859FF8",
+        "name": "City of Huntington Park",
+        "phone": "+13235826161",
+        "url": "https://www.hpca.gov",
+        "stNo": "6550",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6550 Miles Ave\nHuntington Park, CA  90255\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.217995,
+          33.979088
+        ]
+      },
+      "properties": {
+        "poi_id": "IF1EE70D0DE3E7257",
+        "name": "Robert Keller Park",
+        "category": "Park",
+        "phone": "+13235846218",
+        "url": "https://www.hpca.gov/30/Robert-Keller-Park",
+        "stNo": "6550",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6550 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2197693,
+          33.9791225
+        ]
+      },
+      "properties": {
+        "poi_id": "ID429D3115780C277",
+        "name": "Leo’s Construcción",
+        "phone": "+13237614472",
+        "url": "https://www.yelp.com/biz/leo-s-construcción-huntington-park",
+        "stNo": "2808",
+        "strName": "Zoe Ave",
+        "stPrefix": "",
+        "stName": "ZOE",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2808 Zoe Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185972,
+          33.9788677
+        ]
+      },
+      "properties": {
+        "poi_id": "I9C2FC9EEF70C3993",
+        "name": "USPS Collection Box",
+        "category": "Mailbox",
+        "url": "https://www.usps.com",
+        "stNo": "6550",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6550 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185972,
+          33.9788677
+        ]
+      },
+      "properties": {
+        "poi_id": "IA95541F1EB6AD4F8",
+        "name": "Lucky Snack Shop",
+        "category": "Restaurant",
+        "phone": "+13235891881",
+        "url": "https://www.usps.com",
+        "stNo": "6550",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6550 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185972,
+          33.9788677
+        ]
+      },
+      "properties": {
+        "poi_id": "IBE6AE7E6B4262211",
+        "name": "Huntington Park Farmers Market",
+        "category": "FoodMarket",
+        "phone": "+13235826161",
+        "url": "https://www.hpca.gov/689/Farmers-Market",
+        "stNo": "6550",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6550 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185972,
+          33.9788677
+        ]
+      },
+      "properties": {
+        "poi_id": "ID4DACC2D450AC972",
+        "name": "Huntington Park Managers Office",
+        "url": "https://www.hpca.gov/689/Farmers-Market",
+        "stNo": "6550",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6550 Miles Ave, Rm 205, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185972,
+          33.9788677
+        ]
+      },
+      "properties": {
+        "poi_id": "IF775EA2C4FCE391D",
+        "name": "Huntington Park City Hall",
+        "url": "https://locator.lacounty.gov/lac/Location/3176626/huntington-park-city-hall",
+        "stNo": "6550",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6550 Miles Ave, Rm 127, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185972,
+          33.9788677
+        ]
+      },
+      "properties": {
+        "poi_id": "I454FB523D59CC9C7",
+        "name": "L A County Huntington Courthouse",
+        "phone": "+13235826161",
+        "url": "https://www.yelp.com/biz/l-a-county-huntington-courthouse-huntington-park",
+        "stNo": "6550",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6550 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185972,
+          33.9788677
+        ]
+      },
+      "properties": {
+        "poi_id": "I5305DFCA4EA9D314",
+        "name": "Huntington Park Interstate Moves",
+        "phone": "+12133742292",
+        "url": "https://www.longdistancemovingusa.com/long-distance-moving-directory/huntington-park-interstate-moves",
+        "stNo": "6550",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6550 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2186735,
+          33.9778425
+        ]
+      },
+      "properties": {
+        "poi_id": "I82F6498205575BB9",
+        "name": "Miles Ave Elementary School",
+        "category": "School",
+        "phone": "+13235888296",
+        "url": "http://miles-lausd-ca.schoolloop.com",
+        "stNo": "6720",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6720 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185609,
+          33.9771982
+        ]
+      },
+      "properties": {
+        "poi_id": "IA9BA3981929B4F56",
+        "name": "Miles Avenue Early Education Center",
+        "category": "School",
+        "phone": "+13235812410",
+        "url": "https://milesaveeec.lausd.org",
+        "stNo": "2855",
+        "strName": "Saturn Ave",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2855 Saturn Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.218534,
+          33.977187
+        ]
+      },
+      "properties": {
+        "poi_id": "I61961BA6F3F69A1E",
+        "name": "Miles Avenue Combination Children's Center",
+        "category": "School",
+        "phone": "+13235812410",
+        "url": "https://milesaveeec.lausd.org/?cfredir=1",
+        "stNo": "6720",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6720 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2198454,
+          33.9780261
+        ]
+      },
+      "properties": {
+        "poi_id": "ID056D3FEA9D26648",
+        "name": "J.G.Demolition",
+        "phone": "+13235105058",
+        "url": "https://www.yelp.com/biz/j-g-demolition-huntington-park",
+        "stNo": "6712",
+        "strName": "Templeton St",
+        "stPrefix": "",
+        "stName": "TEMPLETON",
+        "stType": "ST",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6712 Templeton St, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2182124,
+          33.9768134
+        ]
+      },
+      "properties": {
+        "poi_id": "I89DA062C188D78BC",
+        "name": "Esperanza Market",
+        "category": "FoodMarket",
+        "phone": "+13235848440",
+        "url": "https://www.yelp.com/biz/j-g-demolition-huntington-park",
+        "stNo": "2872",
+        "strName": "Saturn Ave",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2872 Saturn Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185839,
+          33.9767521
+        ]
+      },
+      "properties": {
+        "poi_id": "ID5074DF87C94D3D2",
+        "name": "LJuana Civic Property Services",
+        "phone": "+13233202826",
+        "url": "https://www.yelp.com/biz/ljuana-civic-property-services-huntington-park",
+        "stNo": "6904",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6904 Miles Ave, Apt 11, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2185839,
+          33.9767521
+        ]
+      },
+      "properties": {
+        "poi_id": "IDF2AAC5482B2253",
+        "name": "J&J Mobile Car Wash",
+        "phone": "+13234085638",
+        "url": "https://www.yelp.com/biz/j-and-j-mobile-car-wash-huntington-park",
+        "stNo": "6904",
+        "strName": "Miles Ave",
+        "stPrefix": "",
+        "stName": "MILES",
+        "stType": "AVE",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6904 Miles Ave, Huntington Park, CA  90255, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2132098,
+          33.975766
+        ]
+      },
+      "properties": {
+        "poi_id": "IFCEBB95AC1E2CF9F",
+        "name": "RP Equity Group",
+        "phone": "+13232892638",
+        "url": "https://www.yelp.com/biz/rp-equity-group-huntington-park",
+        "stNo": "6926",
+        "strName": "Cedar St",
+        "stPrefix": "",
+        "stName": "CEDAR",
+        "stType": "ST",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6926 Cedar St, Huntington Park, CA  90255, United States"
+      }
+    }
+  ]
+}

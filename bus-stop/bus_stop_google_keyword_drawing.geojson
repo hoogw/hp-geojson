@@ -1,0 +1,4580 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238083,
+          33.989075
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJg4Q69uLIwoARBCRVId4KBVc",
+        "name": "Slauson / Alameda",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90001",
+        "fmtAddr": "Huntington Park, CA 90001, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23744200000002,
+          33.989342
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJu1QrReLIwoARq9a2UUuiPBA",
+        "name": "Slauson / Alameda",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90058",
+        "fmtAddr": "Vernon, CA 90058, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.236549,
+          33.981899
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJtWBJ7RvJwoAR1A0Zt7a6kOY",
+        "name": "Gage / Alameda",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90001",
+        "fmtAddr": "Huntington Park, CA 90001, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.235535,
+          33.98151
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJaUPp3RvJwoARFMnaBhLZtHI",
+        "name": "Gage / Alameda",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238777,
+          33.982113
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJAWaZghzJwoAR5ODyEVpiTk4",
+        "name": "Gage / Wilmington",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90001",
+        "fmtAddr": "Firestone Park, CA 90001, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239182,
+          33.981915
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJLfbvYRvJwoARqmCM3uOOqO8",
+        "name": "Gage / Wilmington",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Florence-Graham",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90001",
+        "fmtAddr": "Florence-Graham, CA 90001, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23896199999999,
+          33.98216
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ10pVnBzJwoARmWvGYr_KCEc",
+        "name": "Wilmington & Gage Ave. (Northbound)",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Florence-Graham",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90001",
+        "fmtAddr": "Florence-Graham, CA 90001, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23410799999998,
+          33.974861
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJR-TJxBbJwoARtgUASGPxYm8",
+        "name": "Florence / Alameda",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2408168,
+          33.9748547
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJb4zQIBDJwoARYGrwIhNZCNo",
+        "name": "Florence Ave & Holmes Ave",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Florence-Graham",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90001",
+        "fmtAddr": "Florence-Graham, CA 90001, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23316199999998,
+          33.974606
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ6cPw7BbJwoARLgXWD5bfTVk",
+        "name": "Florence / Roseberry",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Florence-Graham",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Florence-Graham, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238335,
+          33.974606
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJh-SOVBDJwoARLUfCU297bKo",
+        "name": "Florence / Bell",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Florence-Graham",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90001",
+        "fmtAddr": "Florence-Graham, CA 90001, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23748799999998,
+          33.974857
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ9YdV_BDJwoAR8yDU9Mk0MJU",
+        "name": "Florence / Wilson",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90001",
+        "fmtAddr": "Huntington Park, CA 90001, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23004199999998,
+          33.989353
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJIwFYHeDIwoARVafmplHZKu4",
+        "name": "Slauson / Santa Fe",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.230499,
+          33.989098
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJndmo4R_JwoAR3l3U59ifrno",
+        "name": "Slauson / Santa Fe",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23497799999998,
+          33.98909
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ_RnY9eHIwoARkZaREyYSIPc",
+        "name": "Slauson / Regent",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.234352,
+          33.989346
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJOb6O7eHIwoARPBKruGzRvoA",
+        "name": "Slauson / 2nd",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90058",
+        "fmtAddr": "Vernon, CA 90058, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22757000000001,
+          33.981773
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJK-pR8iLJwoARxdn4yR_qf5I",
+        "name": "Gage / Malabar",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.227936,
+          33.981567999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ7dOZkiLJwoARS6DTQMv5ZFY",
+        "name": "Gage Ave & Malabar St (Eastbound)",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23285019999999,
+          33.981746699999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ329jGhnJwoARz8r2sBWE3xk",
+        "name": "Gage / Albany",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2307757,
+          33.981752799999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJQVxtixjJwoARFne1_dTideM",
+        "name": "Gage / Santa Fe",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.229698,
+          33.98159
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJJR3ZfBjJwoARIQ-L0HpZUvQ",
+        "name": "Gage / Santa Fe",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2322982,
+          33.981565499999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJqxwLAhnJwoAR95M7zpf4PgE",
+        "name": "Gage / Albany",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22750500000001,
+          33.974342
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ3-0WdD7JwoARHxKaowfY44I",
+        "name": "Florence Ave & Malabar St",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Walnut Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23060600000001,
+          33.974606
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJGXzjEhbJwoARKZkLMUjatAQ",
+        "name": "Florence / Santa Fe",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Florence-Graham",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Florence-Graham, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22753110000001,
+          33.9745831
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJHxRmdD7JwoARb_Risk8zDzo",
+        "name": "Florence / Malabar",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2282029,
+          33.974772699999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJe6rQCj7JwoAR9p7dEgAVukI",
+        "name": "Huntington Park East Florence Ave",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.226204,
+          33.974441999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJGfunhz7JwoAR5TjRckEH6I8",
+        "name": "Huntington Park",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2275527,
+          33.97432690000001
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJe-trdD7JwoAR5rV6UllAOGw",
+        "name": "Huntington Park",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Walnut Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23074299999999,
+          33.974869
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ8YUyaxbJwoARzoHmxz2aPcc",
+        "name": "Florence / Santa Fe",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.226677,
+          33.974232
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJOVaifD7JwoARkggDj1pxHc4",
+        "name": "Florence / Rugby",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Walnut Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.221471,
+          33.973936
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJeZy9GznJwoARhmeKyeyKz4c",
+        "name": "Florence Ave & Standford Ave",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22448700000001,
+          33.973988
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJFclJxz7JwoARAMnXbDZR3D4",
+        "name": "Florence / Pacific",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Walnut Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22155,
+          33.973911
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJgZFoGznJwoARGQkbUk_ySpM",
+        "name": "Florence / Stafford",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22531099999998,
+          33.978092
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ__1D8TzJwoARQPKTE9ZrZGc",
+        "name": "Pacific / Zoe",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224486,
+          33.974016999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJo01Oxz7JwoARCmetbiuGgoc",
+        "name": "Florence Ave & Rita Ave",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Walnut Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22343999999998,
+          33.974133
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ-bUtyz7JwoARLth0RteEhnI",
+        "name": "Florence Ave & Rita Ave",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225226,
+          33.975595999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJeTCPITzJwoARMMR24ldOIGQ",
+        "name": "Pacific / Florence",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225006,
+          33.975521
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJg_ltJDzJwoARu2kjxLk5fpU",
+        "name": "Pacific / Florence",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22544099999999,
+          33.973949
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJT_EEkz7JwoARsCyse7pWeDs",
+        "name": "Pacific / Florence",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Walnut Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22271,
+          33.973819999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJzyjxLznJwoARhjlTcSdsfqE",
+        "name": "Florence / Seville",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Walnut Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22346499999999,
+          33.974194
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJNRLQyj7JwoARxQvfLNZOOqs",
+        "name": "Florence / Seville",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22240399999998,
+          33.98177
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJYcc3uiTJwoAR5LNxEthGH64",
+        "name": "Gage / Seville",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2229321,
+          33.9815367
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJfYiOryTJwoARQvQcSjoPr2Q",
+        "name": "Gage / Seville",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225342,
+          33.985699
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJg56MYyHJwoAR_r3sfkgMEhs",
+        "name": "Pacific / Randolph",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22503699999999,
+          33.985203
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJyXlk3iPJwoARfHXbxTiErvA",
+        "name": "Pacific / Randolph",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225327,
+          33.98258200000001
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJte9ACSPJwoARkFjUMgvq-as",
+        "name": "Pacific / Clarendon",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22485270000001,
+          33.9815481
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJRU2yPCPJwoARzXUbNlG2XJY",
+        "name": "Gage / Pacific",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22502100000001,
+          33.982605
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJQapkCyPJwoARHk_lapOqqvg",
+        "name": "Pacific / Gage",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224968,
+          33.981773
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJEToiFSPJwoARwPKAdlb7ePg",
+        "name": "Gage / Pacific",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22507999999999,
+          33.9802597
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ0Q-ZMyPJwoARldz5SV7gRl0",
+        "name": "Pacific / Gage",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.222954,
+          33.989329999999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJV3ihMSfJwoAR8NqbUUg7MDE",
+        "name": "Slauson / Seville",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2229209,
+          33.9890943
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJKeMJLyfJwoAR-Q8ySSIIKso",
+        "name": "Slauson / Seville",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225044,
+          33.989002
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ0WMp6iDJwoARAeMF3Ecxh80",
+        "name": "Pacific / Slauson",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22499799999999,
+          33.989212
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ2Sjs6iDJwoARals6uzSD6vw",
+        "name": "Pacific / Slauson",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22486899999998,
+          33.989094
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJZWbhwSDJwoARfTO5xlaBqrM",
+        "name": "Slauson / Pacific",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225642,
+          33.9893255
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJXU-KkiDJwoARWkOtI7-8xJI",
+        "name": "Slauson / Pacific",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22538,
+          33.989639
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJMRajkyDJwoARfiVw2_Pc0IE",
+        "name": "Pacific / Slauson",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22534900000001,
+          33.987366
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJJbNtGiHJwoARRy6tX39iPqA",
+        "name": "Pacific / Belgrave",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225044,
+          33.987010999999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ4ZPLFSHJwoARxxdc7SSHVSc",
+        "name": "Pacific / Belgrave",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22506000000001,
+          33.990963
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJs4EnZ9_IwoARDnPsDSxF2Es",
+        "name": "Pacific / 57th",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225365,
+          33.991237999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJrcxsb9_IwoAR8TmAZdAMkxc",
+        "name": "Pacific / 57th",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2254529,
+          33.9931459
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJQySIHd_IwoARwFG2A0y9W-o",
+        "name": "Pacific / 55th",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22506700000001,
+          33.993075999999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJf9LKH9_IwoARkEt2wxvjJZg",
+        "name": "Pacific / 55th",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22507499999999,
+          33.996201
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJc8sAI9zIwoARMvnlFXEIfPo",
+        "name": "Pacific / Fruitland",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90058",
+        "fmtAddr": "Vernon, CA 90058, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22538,
+          33.996475
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ6YqvO9zIwoARMtwgcx9YDjE",
+        "name": "Pacific / Fruitland",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90058",
+        "fmtAddr": "Vernon, CA 90058, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22031399999999,
+          33.989081999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJHQQDVSbJwoARsQQ4S_9QVms",
+        "name": "Slauson / Templeton",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22001600000002,
+          33.989292
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJkas3TSbJwoARGlvWSeoGKXE",
+        "name": "Slauson / Soto",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21917699999997,
+          33.989464
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ_1fQSibJwoARO9f8akc5Ra0",
+        "name": "Soto / Slauson",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21574399999999,
+          33.989067
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJnxIA6ijJwoARiSe7zZxv_fA",
+        "name": "Slauson / Bickett",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.215874,
+          33.989323
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJswSP6yjJwoARKbQnwhSRVdM",
+        "name": "Slauson / Bickett",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21952100000001,
+          33.991222
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ30y6kSfJwoAR_DpEf8oOxjg",
+        "name": "Soto / 57th",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21581300000001,
+          33.980968
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJPTLsQzDJwoAR17V-0-G-vB4",
+        "name": "Gage / Marconi",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21894100000002,
+          33.981708999999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ1Sd1tTrJwoARlaR2H3GcSEc",
+        "name": "Gage / Miles",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.215842,
+          33.9812102
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJE0peQDDJwoARlVybpQt0Y4Y",
+        "name": "Gage / Marconi",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21930700000001,
+          33.981491
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJJxLoyzrJwoARFyXjxcnlA2k",
+        "name": "Gage / Miles",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21729999999998,
+          33.973526
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJfxS_izfJwoARbTlxtUMM-Kk",
+        "name": "Florence / Mountain View",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.217773,
+          33.97332
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJI1SpITjJwoARhS3iT2q65xI",
+        "name": "Florence / Mountain View",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Walnut Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.217517,
+          33.972991
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJy9fs9TfJwoARruBYBuO_IfE",
+        "name": "Mountain View & Florence Ave",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.212166,
+          33.972984
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJd0kL_EnJwoARVCs-zVrkLC8",
+        "name": "Florence / Mission",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21784099999999,
+          33.971613
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ68SV_kfJwoARv5QC9V0bqW8",
+        "name": "Mountain View Ave & California St",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Walnut Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21773199999998,
+          33.971592
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJzzd5_kfJwoARK2DRxKIKT5c",
+        "name": "Mountain View Ave & California St",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Walnut Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21259709999998,
+          33.9727728
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJGVX15EnJwoARYa6xGQAK5J0",
+        "name": "Florence / Mission",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209755,
+          33.970248999999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJAylFvEvJwoAR8sR3NH0yXh0",
+        "name": "State / Live Oak",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209999,
+          33.97023
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJOdzAvkvJwoAR14sujYaoOF0",
+        "name": "State / Live Oak",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.210236,
+          33.966972
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJbfJbR0zJwoARgIAQMRmUxbY",
+        "name": "State / Olive",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21047999999999,
+          33.966953
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJZ-8xOUzJwoARu814Qk3KKro",
+        "name": "State / Olive",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21072400000001,
+          33.965328
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ_0Fhz03JwoARVuC2Zd_1dS0",
+        "name": "State / Broadway",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21052599999999,
+          33.965027
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ8RJKwU3JwoAR6EL8ONZsPSw",
+        "name": "State / Broadway",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20874800000001,
+          33.963192
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJZScQiFLJwoARigcVrnKD1i0",
+        "name": "Santa Ana / Victoria",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90280",
+        "fmtAddr": "South Gate, CA 90280, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.208885,
+          33.963406
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJE1a9fVLJwoAR5lDQQA57kQE",
+        "name": "Santa Ana / Victoria",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.210732,
+          33.963668999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJhfjI9k3JwoAR4kKQvyf5QJs",
+        "name": "State / Santa Ana",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.210617,
+          33.963577
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ4QIr9E3JwoAR--s90Rzf4BA",
+        "name": "Santa Ana / State",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21064000000001,
+          33.963378999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJswKr8E3JwoARI6eDsAWBOcY",
+        "name": "Santa Ana / State",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90280",
+        "fmtAddr": "South Gate, CA 90280, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21097599999999,
+          33.963654
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJswKr8E3JwoARTLxDpVmaJKY",
+        "name": "State / Santa Ana",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20530699999999,
+          33.963009
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJIduOOq3OwoARGSCtPHb8dVk",
+        "name": "Santa Ana / California",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19850100000001,
+          33.966904
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJRxF23bHOwoAR_Rz8591-KPE",
+        "name": "Clara / Salt Lake",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Cudahy, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20092799999998,
+          33.962364
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJx6N1O6zOwoARYMRMaAo7U_8",
+        "name": "Santa Ana / San Gabriel",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90280",
+        "fmtAddr": "South Gate, CA 90280, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20444499999999,
+          33.962742
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJoUoFIq3OwoARXFQal6uuOGU",
+        "name": "Santa Ana / California",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90280",
+        "fmtAddr": "South Gate, CA 90280, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19449499999999,
+          33.967464
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJuc3vAbDOwoARrtAnwZMW_RQ",
+        "name": "Flower / Otis",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Cudahy, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19489399999999,
+          33.96452
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ01jeea_OwoARt3NEVcq5fks",
+        "name": "Otis / Elizabeth",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Cudahy, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19224949999997,
+          33.961649699999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJM74baKbOwoAR6tJK5nEOiCw",
+        "name": "Santa Ana / Salt Lake",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Cudahy, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19419299999998,
+          33.966445
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJxTqL9a_OwoARDf-mpq_-CPw",
+        "name": "Clara / Otis",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Cudahy, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19486199999999,
+          33.961731
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJs0gsrqjOwoARcMvcl2rqt9A",
+        "name": "Santa Ana / Otis",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90280",
+        "fmtAddr": "South Gate, CA 90280, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.194969,
+          33.961945
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJsS9ssqjOwoARJCUAo-D88Rs",
+        "name": "Santa Ana / Otis",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.205482,
+          33.972031
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJcU5X0bTOwoARO4y_-42vdP0",
+        "name": "Florence / Bissell",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.198769,
+          33.971378
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJn5drSrHOwoAReAvzzAIoRPY",
+        "name": "Florence / Bear",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Bell, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20550499999999,
+          33.972286
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJSTh11rTOwoARLPTsDWQNhfo",
+        "name": "Florence / Bissell",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20193189999998,
+          33.9716587
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJLQA5ZrTOwoAR3Zinfeko2II",
+        "name": "Florence / Salt Lake",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20366159999999,
+          33.972106499999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ1bPJ9rTOwoARd-7TQ-LS4Uk",
+        "name": "Florence / Salt Lake",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19875300000001,
+          33.971568999999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJdxLgtLbOwoARqMnPFuvdD_o",
+        "name": "Florence / Bear",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Bell, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2014662,
+          33.971866
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJsdWUabTOwoARFxtfJF_IWcM",
+        "name": "Florence / California",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Bell, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2038124,
+          33.9718592
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJWSL57bTOwoARK7Ci_wi5i7o",
+        "name": "Florence / California",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19941499999997,
+          33.970413
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJo8RuW7HOwoARuuTs7HGJN9w",
+        "name": "Walnut / Bear",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Cudahy, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209702,
+          33.971996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJCXp-Q0rJwoARjHHZ6ejqpxg",
+        "name": "State / Florence",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20919800000001,
+          33.972412
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJD333W0rJwoARwwIk8vM6nII",
+        "name": "Florence / State",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20977800000001,
+          33.972698
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJL6q-aUrJwoAR3-7wLWh2AXc",
+        "name": "Florence / State",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21292859999998,
+          33.9806986
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJpRGPdjHJwoARkM4cfxynftQ",
+        "name": "City of Huntington Park",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21232599999999,
+          33.980858
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ0T1oeDHJwoARpNOk4Ivn3fU",
+        "name": "Gage / State",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209671,
+          33.98032
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJBZN9vTPJwoARW2j9nJB_gxM",
+        "name": "Gage / Hood",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209305,
+          33.980537
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJs09QojPJwoAR6SOg7itiX4o",
+        "name": "Gage / Hood",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.207146,
+          33.980301
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ4ULVXDPJwoAR10zfk_W46OQ",
+        "name": "Gage / Hollenbeck",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20751199999998,
+          33.980083
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJr91SZjPJwoAR8DkeBoiFXek",
+        "name": "Gage / Hollenbeck",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2131702,
+          33.9890865
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJD8N8SCnJwoARYGFkEIZzkzc",
+        "name": "Slauson / Boyle",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.212578,
+          33.989323
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJhZkQRSnJwoARcTYgMozDqO4",
+        "name": "Slauson / Boyle",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90058",
+        "fmtAddr": "Vernon, CA 90058, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.208221,
+          33.989307
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJPx-EhCzJwoARklsg4uBuFEc",
+        "name": "Slauson / Alcoa",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90058",
+        "fmtAddr": "Vernon, CA 90058, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20808400000001,
+          33.989056
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJT2ZUhSzJwoARzkzRBrHCkzM",
+        "name": "Slauson / Alcoa",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90058",
+        "fmtAddr": "Vernon, CA 90058, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2129445,
+          33.9892447
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJWaZbRinJwoARzYr2t9bg6NA",
+        "name": "Boyle / Slauson",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90058",
+        "fmtAddr": "California, USA",
+        "primaryType": "transit_station",
+        "type": [
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20164499999998,
+          33.979706
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJee_Nv8vOwoARF6rFZQcLm9U",
+        "name": "Gage / California",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Bell, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20244600000001,
+          33.97953
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJf7lwosvOwoARFMGeHIS4pxc",
+        "name": "Gage / Maywood",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Bell, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2039522,
+          33.979922
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJy7HtZsvOwoARn9Nba0pu-2U",
+        "name": "Gage / Salt Lake",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20451399999999,
+          33.979755
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJSyQ-XcvOwoAR6_1JiqNKBwM",
+        "name": "Gage / Salt Lake",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.203178,
+          33.989070999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJG23tCNPOwoARc9IyKl6iV2U",
+        "name": "Slauson / Maywood",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.204735,
+          33.989021
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJU-nOPtPOwoAR5bPvYB7KbW0",
+        "name": "Slauson / Downey",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90058",
+        "fmtAddr": "Vernon, CA 90058, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20421220000001,
+          33.9891699
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJMXByFdPOwoARQdLLKMt61Us",
+        "name": "Slauson / Downey",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20243099999999,
+          33.988731
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ1-xPrNPOwoARsdkVXAzDGvI",
+        "name": "Slauson / Maywood",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19848599999999,
+          33.988605
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJdVrpvdHOwoARACNr2mivrT8",
+        "name": "Slauson / Loma Vista",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.194572,
+          33.987938
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJb9YFAtDOwoAR-irFjvF152Q",
+        "name": "Slauson / Corona",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19839499999999,
+          33.988338
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ5R6hv9HOwoARRhQX7Flq56g",
+        "name": "Slauson / Loma Vista",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Maywood, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19637259999999,
+          33.9883763
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJf1wMOtDOwoARleKxyG6h5YI",
+        "name": "Slauson / Carmelita",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19679779999998,
+          33.9881892
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJc4cpMtDOwoARH6YCUz82tdM",
+        "name": "Slauson / Carmelita",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Maywood, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20105699999998,
+          33.988594
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJZXvvM9LOwoAREP1ML2J4TQ8",
+        "name": "Slauson / Everett",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.200661,
+          33.988808
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJu_-fLdLOwoAR1qPXignJb1o",
+        "name": "Slauson / Everett",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19416799999999,
+          33.988155
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJl7R4ANDOwoAR1Vpde_JG4qQ",
+        "name": "Slauson / Corona",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.187958,
+          33.987263
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJp1vCfMPOwoARGcpEm2Gn4GA",
+        "name": "Slauson / Pine",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19201699999999,
+          33.987933999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJzdwFMMXOwoARFgwyHtuP-3M",
+        "name": "Slauson / Gifford",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19242100000001,
+          33.987716999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJVUmUOcXOwoARzE8O3sNhmgM",
+        "name": "Slauson / Gifford",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18808,
+          33.987534
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ79rDfMPOwoAR7LLzc2kG_qg",
+        "name": "Slauson / Pine",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.189781,
+          33.987708999999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJXf4ylcTOwoARYEfoobVo3jQ",
+        "name": "Slauson / Fishburn",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18958300000001,
+          33.989588
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJrUgPSdvOwoARVMM9sdfXCNc",
+        "name": "E 57th St / Fishburn",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90270",
+        "fmtAddr": "Maywood, CA 90270, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18969,
+          33.987446
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJmWgVk8TOwoARoVH9vGcvOBc",
+        "name": "Slauson / Fishburn",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Maywood, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19276399999998,
+          33.978771
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJTYNZ7cfOwoARq4XINhyWipE",
+        "name": "Gage / Otis",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Bell, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19213900000001,
+          33.978435999999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJP9T-iMfOwoARp-_0gXjIPic",
+        "name": "Gage / Otis",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Bell, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18912999999999,
+          33.97858
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJGcqWpbjOwoARgod2DWakAew",
+        "name": "Civic Center",
+        "open": "OPERATIONAL",
+        "county": "Los Angeles County",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90201",
+        "fmtAddr": "Bell, CA 90201, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    }
+  ]
+}

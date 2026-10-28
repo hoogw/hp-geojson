@@ -1,0 +1,3677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "2055",
+        "StreetName": "CLARENDON",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "CLARENDON AVE",
+        "Address": "2055 CLARENDON AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23470795631911,
+          33.98372371518687
+        ]
+      },
+      "id": 1,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "2059",
+        "StreetName": "CLARENDON",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "CLARENDON AVE",
+        "Address": "2059 CLARENDON AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23454992814975,
+          33.983723701522926
+        ]
+      },
+      "id": 2,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "2063",
+        "StreetName": "CLARENDON",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "CLARENDON AVE",
+        "Address": "2063 CLARENDON AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23439994625976,
+          33.98372292105052
+        ]
+      },
+      "id": 3,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "2067",
+        "StreetName": "CLARENDON",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "CLARENDON AVE",
+        "Address": "2067 CLARENDON AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23401982427515,
+          33.98372378687892
+        ]
+      },
+      "id": 4,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "2420",
+        "StreetName": "ZOE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "ZOE AVE",
+        "Address": "2420 ZOE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22954497927452,
+          33.97911199889305
+        ]
+      },
+      "id": 5,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "2424",
+        "StreetName": "ZOE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "ZOE AVE",
+        "Address": "2424 ZOE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22942373745236,
+          33.97911181388277
+        ]
+      },
+      "id": 6,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2701",
+        "StreetName": "58TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 58TH ST",
+        "Address": "2701 E 58TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22246320282412,
+          33.990430851470116
+        ]
+      },
+      "id": 7,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2706",
+        "StreetName": "57TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 57TH ST",
+        "Address": "2706 E 57TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22234395453258,
+          33.99082969735391
+        ]
+      },
+      "id": 8,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2709",
+        "StreetName": "58TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 58TH ST",
+        "Address": "2709 E 58TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22229830621248,
+          33.9904310426516
+        ]
+      },
+      "id": 9,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2712",
+        "StreetName": "57TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 57TH ST",
+        "Address": "2712 E 57TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22214601321384,
+          33.990829868970046
+        ]
+      },
+      "id": 10,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2713",
+        "StreetName": "58TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 58TH ST",
+        "Address": "2713 E 58TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.222132895193,
+          33.99043152304303
+        ]
+      },
+      "id": 11,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2718",
+        "StreetName": "57TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 57TH ST",
+        "Address": "2718 E 57TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2219645693231,
+          33.99083039036219
+        ]
+      },
+      "id": 12,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2719",
+        "StreetName": "58TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 58TH ST",
+        "Address": "2719 E 58TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22196755083132,
+          33.990431427911375
+        ]
+      },
+      "id": 13,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2722",
+        "StreetName": "57TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 57TH ST",
+        "Address": "2722 E 57TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22179962645488,
+          33.9908305764382
+        ]
+      },
+      "id": 14,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "2724",
+        "StreetName": "BELGRAVE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "BELGRAVE AVE",
+        "Address": "2724 BELGRAVE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22173807928459,
+          33.98697272065403
+        ]
+      },
+      "id": 15,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2725",
+        "StreetName": "58TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 58TH ST",
+        "Address": "2725 E 58TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22180263534081,
+          33.99043143814491
+        ]
+      },
+      "id": 16,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2728",
+        "StreetName": "57TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 57TH ST",
+        "Address": "2728 E 57TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22163468250604,
+          33.99083076319232
+        ]
+      },
+      "id": 17,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2729",
+        "StreetName": "58TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 58TH ST",
+        "Address": "2729 E 58TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22163765495543,
+          33.99043146449976
+        ]
+      },
+      "id": 18,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2732",
+        "StreetName": "57TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 57TH ST",
+        "Address": "2732 E 57TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22146971521322,
+          33.99083112646297
+        ]
+      },
+      "id": 19,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2733",
+        "StreetName": "58TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 58TH ST",
+        "Address": "2733 E 58TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22147277782199,
+          33.99043165451742
+        ]
+      },
+      "id": 20,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2737",
+        "StreetName": "58TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 58TH ST",
+        "Address": "2737 E 58TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22130776431146,
+          33.990431841855255
+        ]
+      },
+      "id": 21,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2738",
+        "StreetName": "57TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 57TH ST",
+        "Address": "2738 E 57TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22130481455928,
+          33.990831314489746
+        ]
+      },
+      "id": 22,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2743",
+        "StreetName": "58TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 58TH ST",
+        "Address": "2743 E 58TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2211675696298,
+          33.99043102696385
+        ]
+      },
+      "id": 23,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2744",
+        "StreetName": "57TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 57TH ST",
+        "Address": "2744 E 57TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22116579502139,
+          33.9908310717122
+        ]
+      },
+      "id": 24,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3210",
+        "StreetName": "SATURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SATURN AVE",
+        "Address": "3210 SATURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.210099328372,
+          33.976002113118184
+        ]
+      },
+      "id": 25,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3211",
+        "StreetName": "SANTA ANA",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90280",
+        "FullName": "SANTA ANA ST",
+        "Address": "3211 SANTA ANA ST 90280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21143041291249,
+          33.964041555656515
+        ]
+      },
+      "id": 26,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3212",
+        "StreetName": "SATURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SATURN AVE",
+        "Address": "3212 SATURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20996616077693,
+          33.975996722120335
+        ]
+      },
+      "id": 27,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3214",
+        "StreetName": "SATURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SATURN AVE",
+        "Address": "3214 SATURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20983565269239,
+          33.97599162655819
+        ]
+      },
+      "id": 28,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3218",
+        "StreetName": "BROADWAY",
+        "SufDir": "",
+        "StreetType": "",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "BROADWAY",
+        "Address": "3218 BROADWAY 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21120116910807,
+          33.96497288311704
+        ]
+      },
+      "id": 29,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3220",
+        "StreetName": "SATURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SATURN AVE",
+        "Address": "3220 SATURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20969905674886,
+          33.97598613665101
+        ]
+      },
+      "id": 30,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3240",
+        "StreetName": "FLOWER",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FLOWER ST",
+        "Address": "3240 FLOWER ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20958302447923,
+          33.96907555604191
+        ]
+      },
+      "id": 31,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3242",
+        "StreetName": "LIVE OAK",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "LIVE OAK ST",
+        "Address": "3242 LIVE OAK ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20947729095604,
+          33.96978404335418
+        ]
+      },
+      "id": 32,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3242",
+        "StreetName": "SATURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SATURN AVE",
+        "Address": "3242 SATURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20888053089047,
+          33.9759682890843
+        ]
+      },
+      "id": 33,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3243",
+        "StreetName": "HOPE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOPE ST",
+        "Address": "3243 HOPE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20963783196403,
+          33.96859043419506
+        ]
+      },
+      "id": 34,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3243",
+        "StreetName": "FLOWER",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FLOWER ST",
+        "Address": "3243 FLOWER ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20951160820478,
+          33.969442568211136
+        ]
+      },
+      "id": 35,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3246",
+        "StreetName": "LIVE OAK",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "LIVE OAK ST",
+        "Address": "3246 LIVE OAK ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20931358319045,
+          33.96976740586841
+        ]
+      },
+      "id": 36,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3246",
+        "StreetName": "FLOWER",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FLOWER ST",
+        "Address": "3246 FLOWER ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20943542574376,
+          33.96894971158402
+        ]
+      },
+      "id": 37,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3247",
+        "StreetName": "FLOWER",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FLOWER ST",
+        "Address": "3247 FLOWER ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20942109960492,
+          33.96932265126861
+        ]
+      },
+      "id": 38,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3247",
+        "StreetName": "HOPE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOPE ST",
+        "Address": "3247 HOPE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20948555561547,
+          33.96860917455053
+        ]
+      },
+      "id": 39,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3250",
+        "StreetName": "LIVE OAK",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "LIVE OAK ST",
+        "Address": "3250 LIVE OAK ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20915001304984,
+          33.969749958352764
+        ]
+      },
+      "id": 40,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3250",
+        "StreetName": "FLOWER",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FLOWER ST",
+        "Address": "3250 FLOWER ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20927157558815,
+          33.96893259287804
+        ]
+      },
+      "id": 41,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3251",
+        "StreetName": "FLOWER",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FLOWER ST",
+        "Address": "3251 FLOWER ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20920075365828,
+          33.969409820638745
+        ]
+      },
+      "id": 42,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3251",
+        "StreetName": "HOPE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOPE ST",
+        "Address": "3251 HOPE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20932237844939,
+          33.96859221611945
+        ]
+      },
+      "id": 43,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3254",
+        "StreetName": "FLOWER",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FLOWER ST",
+        "Address": "3254 FLOWER ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20912440141183,
+          33.96891712278234
+        ]
+      },
+      "id": 44,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3255",
+        "StreetName": "HOPE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOPE ST",
+        "Address": "3255 HOPE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20917530302111,
+          33.9685805233045
+        ]
+      },
+      "id": 45,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3256",
+        "StreetName": "LIVE OAK",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "LIVE OAK ST",
+        "Address": "3256 LIVE OAK ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2090052133736,
+          33.96973092747658
+        ]
+      },
+      "id": 46,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3257",
+        "StreetName": "FLOWER",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FLOWER ST",
+        "Address": "3257 FLOWER ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20905389193058,
+          33.969394577999054
+        ]
+      },
+      "id": 47,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "3809",
+        "StreetName": "61ST",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3809 E 61ST ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19676355424353,
+          33.98487682243101
+        ]
+      },
+      "id": 48,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "3815",
+        "StreetName": "61ST",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "UNIT",
+        "UnitName": "A",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3815 E 61ST ST UNIT A 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19659937281634,
+          33.98486028650311
+        ]
+      },
+      "id": 49,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "3819",
+        "StreetName": "61ST",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3819 E 61ST ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19644437270263,
+          33.98484451522491
+        ]
+      },
+      "id": 50,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "3823",
+        "StreetName": "61ST",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3823 E 61ST ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19631660150843,
+          33.9848315221279
+        ]
+      },
+      "id": 51,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "4302",
+        "StreetName": "61ST",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "4302 E 61ST ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19039043263487,
+          33.9837471873368
+        ]
+      },
+      "id": 52,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "4310",
+        "StreetName": "61ST",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "4310 E 61ST ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19020339771387,
+          33.983727031198214
+        ]
+      },
+      "id": 53,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "4313",
+        "StreetName": "RANDOLPH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "4313 RANDOLPH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19027413260861,
+          33.98235031216686
+        ]
+      },
+      "id": 54,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "4314",
+        "StreetName": "61ST",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "4314 E 61ST ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19007871524484,
+          33.98371193960122
+        ]
+      },
+      "id": 55,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "4318",
+        "StreetName": "61ST",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "4318 E 61ST ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18995547983673,
+          33.983701661545915
+        ]
+      },
+      "id": 56,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "4322",
+        "StreetName": "61ST",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "4322 E 61ST ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18982997314143,
+          33.98368624103127
+        ]
+      },
+      "id": 57,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "4323",
+        "StreetName": "RANDOLPH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "4323 RANDOLPH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19001923010089,
+          33.9823226151116
+        ]
+      },
+      "id": 58,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "4326",
+        "StreetName": "61ST",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "4326 E 61ST ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18969812111817,
+          33.983674481539474
+        ]
+      },
+      "id": 59,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "4329",
+        "StreetName": "RANDOLPH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "APT",
+        "UnitName": "B",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "4329 RANDOLPH ST APARTMENT B 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18980546010646,
+          33.98230077764742
+        ]
+      },
+      "id": 60,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "4330",
+        "StreetName": "61ST",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "4330 E 61ST ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1895680528215,
+          33.98365898768795
+        ]
+      },
+      "id": 61,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "5702",
+        "StreetName": "SEVILLE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SEVILLE AVE",
+        "Address": "5702 SEVILLE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2224924127802,
+          33.990829502162406
+        ]
+      },
+      "id": 62,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "5714",
+        "StreetName": "PACIFIC",
+        "SufDir": "",
+        "StreetType": "BLVD",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "PACIFIC BLVD",
+        "Address": "5714 PACIFIC BLVD 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22388060569574,
+          33.99063509622915
+        ]
+      },
+      "id": 63,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6006",
+        "StreetName": "SEVILLE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SEVILLE AVE",
+        "Address": "6006 SEVILLE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22228252768309,
+          33.98700826774362
+        ]
+      },
+      "id": 64,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6012",
+        "StreetName": "SEVILLE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SEVILLE AVE",
+        "Address": "6012 SEVILLE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2222813702827,
+          33.98680221075076
+        ]
+      },
+      "id": 65,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6015",
+        "StreetName": "STAFFORD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STAFFORD AVE",
+        "Address": "6015 STAFFORD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2217768891609,
+          33.98673498000021
+        ]
+      },
+      "id": 66,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6018",
+        "StreetName": "SEVILLE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SEVILLE AVE",
+        "Address": "6018 SEVILLE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22228028013491,
+          33.986630454902794
+        ]
+      },
+      "id": 67,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6019",
+        "StreetName": "STAFFORD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STAFFORD AVE",
+        "Address": "6019 STAFFORD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2216620569542,
+          33.98662917152269
+        ]
+      },
+      "id": 68,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6022",
+        "StreetName": "SEVILLE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SEVILLE AVE",
+        "Address": "6022 SEVILLE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2222794035109,
+          33.98649306393733
+        ]
+      },
+      "id": 69,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6028",
+        "StreetName": "SEVILLE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SEVILLE AVE",
+        "Address": "6028 SEVILLE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22227867725437,
+          33.98635564745343
+        ]
+      },
+      "id": 70,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6058",
+        "StreetName": "CARMENITA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "CARMENITA AVE",
+        "Address": "6058 CARMENITA AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19648729671718,
+          33.985270507210934
+        ]
+      },
+      "id": 71,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6062",
+        "StreetName": "CARMELITA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "CARMELITA AVE",
+        "Address": "6062 CARMELITA AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19680667051003,
+          33.985155527255344
+        ]
+      },
+      "id": 72,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6063",
+        "StreetName": "BEAR",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "BEAR AVE",
+        "Address": "6063 BEAR AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19640572052363,
+          33.985087491494724
+        ]
+      },
+      "id": 73,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6068",
+        "StreetName": "CARMELITA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "CARMELITA AVE",
+        "Address": "6068 CARMELITA AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1969171692063,
+          33.984961154774346
+        ]
+      },
+      "id": 74,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6074",
+        "StreetName": "CARMELITA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "CARMELITA AVE",
+        "Address": "6074 CARMELITA AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19694265832537,
+          33.98479339967536
+        ]
+      },
+      "id": 75,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "S",
+        "PreType": "",
+        "HouseNum": "6114",
+        "StreetName": "ALAMEDA",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "S ALAMEDA ST",
+        "Address": "6114 S ALAMEDA ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23603545501172,
+          33.9857991609693
+        ]
+      },
+      "id": 76,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6114",
+        "StreetName": "FISHBURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FISHBURN AVE",
+        "Address": "6114 FISHBURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19031362631637,
+          33.983514571617235
+        ]
+      },
+      "id": 77,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6120",
+        "StreetName": "FISHBURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FISHBURN AVE",
+        "Address": "6120 FISHBURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19031306502623,
+          33.98340617129285
+        ]
+      },
+      "id": 78,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6122",
+        "StreetName": "FISHBURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FISHBURN AVE",
+        "Address": "6122 FISHBURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19032867094936,
+          33.98329020330852
+        ]
+      },
+      "id": 79,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6128",
+        "StreetName": "FISHBURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FISHBURN AVE",
+        "Address": "6128 FISHBURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19037039915331,
+          33.98315854363392
+        ]
+      },
+      "id": 80,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6150",
+        "StreetName": "FISHBURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "UNIT",
+        "UnitName": "B",
+        "ZipCode": "90255",
+        "FullName": "FISHBURN AVE",
+        "Address": "6150 FISHBURN AVE UNIT B 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19015596767491,
+          33.982958387024865
+        ]
+      },
+      "id": 81,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6156",
+        "StreetName": "FISHBURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FISHBURN AVE",
+        "Address": "6156 FISHBURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19013674496617,
+          33.982813225765476
+        ]
+      },
+      "id": 82,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6160",
+        "StreetName": "FISHBURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FISHBURN AVE",
+        "Address": "6160 FISHBURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19017248898763,
+          33.982700766361965
+        ]
+      },
+      "id": 83,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6164",
+        "StreetName": "FISHBURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FISHBURN AVE",
+        "Address": "6164 FISHBURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19017431123495,
+          33.98258966041549
+        ]
+      },
+      "id": 84,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6168",
+        "StreetName": "FISHBURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FISHBURN AVE",
+        "Address": "6168 FISHBURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19054286876968,
+          33.98251345543727
+        ]
+      },
+      "id": 85,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6172",
+        "StreetName": "FISHBURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "FISHBURN AVE",
+        "Address": "6172 FISHBURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19057333374064,
+          33.98231755727
+        ]
+      },
+      "id": 86,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "S",
+        "PreType": "",
+        "HouseNum": "6200",
+        "StreetName": "ALAMEDA",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "S ALAMEDA ST",
+        "Address": "6200 S ALAMEDA ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23647976630515,
+          33.98552613466681
+        ]
+      },
+      "id": 87,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6201",
+        "StreetName": "COTTAGE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "COTTAGE ST",
+        "Address": "6201 COTTAGE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2343042005623,
+          33.98519917680682
+        ]
+      },
+      "id": 88,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "S",
+        "PreType": "",
+        "HouseNum": "6204",
+        "StreetName": "ALAMEDA",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "S ALAMEDA ST",
+        "Address": "6204 S ALAMEDA ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2356090880522,
+          33.9854065374762
+        ]
+      },
+      "id": 89,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "S",
+        "PreType": "",
+        "HouseNum": "6208",
+        "StreetName": "ALAMEDA",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "S ALAMEDA ST",
+        "Address": "6208 S ALAMEDA ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23564894154964,
+          33.98497512349131
+        ]
+      },
+      "id": 90,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6223",
+        "StreetName": "COTTAGE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "COTTAGE ST",
+        "Address": "6223 COTTAGE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23405292858102,
+          33.98435776514746
+        ]
+      },
+      "id": 91,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6233",
+        "StreetName": "COTTAGE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "COTTAGE ST",
+        "Address": "6233 COTTAGE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23405260733887,
+          33.98392031550433
+        ]
+      },
+      "id": 92,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6303",
+        "StreetName": "COTTAGE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "COTTAGE ST",
+        "Address": "6303 COTTAGE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2340530978436,
+          33.983405073410076
+        ]
+      },
+      "id": 93,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6308",
+        "StreetName": "REGENT",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "REGENT ST",
+        "Address": "6308 REGENT ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23455391607858,
+          33.98326740883419
+        ]
+      },
+      "id": 94,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6312",
+        "StreetName": "REGENT",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "REGENT ST",
+        "Address": "6312 REGENT ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23455407450183,
+          33.98313001774252
+        ]
+      },
+      "id": 95,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6315",
+        "StreetName": "COTTAGE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "COTTAGE ST",
+        "Address": "6315 COTTAGE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23405306454785,
+          33.983130266666485
+        ]
+      },
+      "id": 96,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6319",
+        "StreetName": "COTTAGE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "COTTAGE ST",
+        "Address": "6319 COTTAGE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23405306036801,
+          33.982992871386145
+        ]
+      },
+      "id": 97,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6323",
+        "StreetName": "COTTAGE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "COTTAGE ST",
+        "Address": "6323 COTTAGE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23405296487384,
+          33.98278679892554
+        ]
+      },
+      "id": 98,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6359",
+        "StreetName": "COTTAGE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "COTTAGE ST",
+        "Address": "6359 COTTAGE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23405129152994,
+          33.981815266266274
+        ]
+      },
+      "id": 99,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6600",
+        "StreetName": "SANTA FE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SANTA FE AVE",
+        "Address": "6600 SANTA FE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22989565184655,
+          33.97895568642992
+        ]
+      },
+      "id": 100,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6603",
+        "StreetName": "MIDDLETON",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON AVE",
+        "Address": "6603 MIDDLETON AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22918954403667,
+          33.97914657643753
+        ]
+      },
+      "id": 101,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6609",
+        "StreetName": "MIDDLETON",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON AVE",
+        "Address": "6609 MIDDLETON AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935198885914,
+          33.97898710248676
+        ]
+      },
+      "id": 102,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6615",
+        "StreetName": "MIDDLETON",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "UNIT",
+        "UnitName": "B",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6615 MIDDLETON ST UNIT B 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935170497986,
+          33.97882932159001
+        ]
+      },
+      "id": 103,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6701",
+        "StreetName": "MIDDLETON",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6701 MIDDLETON ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935137368174,
+          33.97867200687389
+        ]
+      },
+      "id": 104,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6702",
+        "StreetName": "SANTA FE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SANTA FE AVE",
+        "Address": "6702 SANTA FE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22989470218677,
+          33.97864642432573
+        ]
+      },
+      "id": 105,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6706",
+        "StreetName": "SANTA FE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SANTA FE AVE",
+        "Address": "6706 SANTA FE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22989422004636,
+          33.97848893229801
+        ]
+      },
+      "id": 106,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6707",
+        "StreetName": "MIDDLETON",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON AVE",
+        "Address": "6707 MIDDLETON AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935104804665,
+          33.97853532987646
+        ]
+      },
+      "id": 107,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6900",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6900 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20917512785275,
+          33.975979679744775
+        ]
+      },
+      "id": 108,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6900",
+        "StreetName": "PLASKA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "PLASKA AVE",
+        "Address": "6900 PLASKA AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21024345304815,
+          33.97600733702656
+        ]
+      },
+      "id": 109,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6903",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6903 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20956148819478,
+          33.97598072310507
+        ]
+      },
+      "id": 110,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6910",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6910 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2091602680957,
+          33.97578724159645
+        ]
+      },
+      "id": 111,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6911",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6911 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209691571695,
+          33.97579293027019
+        ]
+      },
+      "id": 112,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6911",
+        "StreetName": "NEWELL",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "NEWELL ST",
+        "Address": "6911 NEWELL ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20887583742382,
+          33.975863160440305
+        ]
+      },
+      "id": 113,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6912",
+        "StreetName": "PLASKA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "UNIT",
+        "UnitName": "C",
+        "ZipCode": "90255",
+        "FullName": "PLASKA AVE",
+        "Address": "6912 PLASKA AVE UNIT C 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2101037872577,
+          33.97578496128631
+        ]
+      },
+      "id": 114,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6913",
+        "StreetName": "NEWELL",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "NEWELL ST",
+        "Address": "6913 NEWELL ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.208859227813,
+          33.97574763620302
+        ]
+      },
+      "id": 115,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6916",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6916 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20916351616995,
+          33.97560423987646
+        ]
+      },
+      "id": 116,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6917",
+        "StreetName": "NEWELL",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "NEWELL ST",
+        "Address": "6917 NEWELL ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20886891660365,
+          33.9756103649273
+        ]
+      },
+      "id": 117,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6920",
+        "StreetName": "PLASKA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "PLASKA AVE",
+        "Address": "6920 PLASKA AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21010016224835,
+          33.97564480657411
+        ]
+      },
+      "id": 118,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6921",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6921 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2096858793769,
+          33.9755844570532
+        ]
+      },
+      "id": 119,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6922",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6922 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20913040171978,
+          33.975467403385615
+        ]
+      },
+      "id": 120,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6923",
+        "StreetName": "NEWELL",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "NEWELL ST",
+        "Address": "6923 NEWELL ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20883562853315,
+          33.97547357643773
+        ]
+      },
+      "id": 121,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6924",
+        "StreetName": "PLASKA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "PLASKA AVE",
+        "Address": "6924 PLASKA AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21009638314857,
+          33.9755096510887
+        ]
+      },
+      "id": 122,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6927",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6927 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209680285553,
+          33.97538073560703
+        ]
+      },
+      "id": 123,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6928",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6928 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20901181776725,
+          33.97533378016423
+        ]
+      },
+      "id": 124,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6930",
+        "StreetName": "PLASKA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "PLASKA AVE",
+        "Address": "6930 PLASKA AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2100927151053,
+          33.97537260581433
+        ]
+      },
+      "id": 125,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6931",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "APT",
+        "UnitName": "A",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6931 HOOD AVE APARTMENT A 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20979955803882,
+          33.975240613365
+        ]
+      },
+      "id": 126,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6931",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6931 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2095929327779,
+          33.97524461914952
+        ]
+      },
+      "id": 127,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6932",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6932 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20900788380044,
+          33.97519569676539
+        ]
+      },
+      "id": 128,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6934",
+        "StreetName": "PLASKA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "PLASKA AVE",
+        "Address": "6934 PLASKA AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2102217238468,
+          33.975232127226306
+        ]
+      },
+      "id": 129,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6934",
+        "StreetName": "PLASKA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "APT",
+        "UnitName": "B",
+        "ZipCode": "90255",
+        "FullName": "PLASKA AVE",
+        "Address": "6934 PLASKA AVE APARTMENT B 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20994554153206,
+          33.975237640432155
+        ]
+      },
+      "id": 130,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6934",
+        "StreetName": "PLASKA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "UNIT",
+        "UnitName": "A",
+        "ZipCode": "90255",
+        "FullName": "PLASKA AVE",
+        "Address": "6934 PLASKA AVE UNIT A 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21007830883947,
+          33.97523492202691
+        ]
+      },
+      "id": 131,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6935",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "UNIT",
+        "UnitName": "A",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6935 HOOD AVE UNIT A 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20967733838519,
+          33.9751047604366
+        ]
+      },
+      "id": 132,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6935",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6935 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20953795559649,
+          33.97510759717166
+        ]
+      },
+      "id": 133,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6937",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6937 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20981221765184,
+          33.975102001691084
+        ]
+      },
+      "id": 134,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6938",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "6938 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20900394309548,
+          33.97505794333769
+        ]
+      },
+      "id": 135,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6940",
+        "StreetName": "PLASKA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "PLASKA AVE",
+        "Address": "6940 PLASKA AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21021803567193,
+          33.975094036224
+        ]
+      },
+      "id": 136,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6940",
+        "StreetName": "PLASKA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "APT",
+        "UnitName": "B",
+        "ZipCode": "90255",
+        "FullName": "PLASKA AVE",
+        "Address": "6940 PLASKA AVE APARTMENT B 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20994154866771,
+          33.97509955265689
+        ]
+      },
+      "id": 137,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6940",
+        "StreetName": "PLASKA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "UNIT",
+        "UnitName": "A",
+        "ZipCode": "90255",
+        "FullName": "PLASKA AVE",
+        "Address": "6940 PLASKA AVE UNIT A 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21007437634923,
+          33.97509683234749
+        ]
+      },
+      "id": 138,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7000",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "7000 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20914511251077,
+          33.974917810859345
+        ]
+      },
+      "id": 139,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7000 1/2",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "7000 1/2 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20892310880656,
+          33.97492251919994
+        ]
+      },
+      "id": 140,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7001",
+        "StreetName": "HOOD",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "HOOD AVE",
+        "Address": "7001 HOOD AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20983116314046,
+          33.97485542054767
+        ]
+      },
+      "id": 141,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7500",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7500 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20969789416722,
+          33.969806689570426
+        ]
+      },
+      "id": 142,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7516",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7516 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20974022592392,
+          33.969410665392246
+        ]
+      },
+      "id": 143,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7600",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7600 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20959361737258,
+          33.96913906448341
+        ]
+      },
+      "id": 144,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7608",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7608 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20974247713515,
+          33.968951625800905
+        ]
+      },
+      "id": 145,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7614",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7614 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20976329227364,
+          33.968808305775504
+        ]
+      },
+      "id": 146,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7618",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7618 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20984787409101,
+          33.96868835956877
+        ]
+      },
+      "id": 147,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7624",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7624 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20986786165196,
+          33.96855211252712
+        ]
+      },
+      "id": 148,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7901",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7901 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21096493770413,
+          33.96505952547033
+        ]
+      },
+      "id": 149,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7913",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7913 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21098863605927,
+          33.96489542189051
+        ]
+      },
+      "id": 150,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7917",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7917 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21108666579512,
+          33.96468420261611
+        ]
+      },
+      "id": 151,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7923",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7923 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21111033924248,
+          33.96452108532773
+        ]
+      },
+      "id": 152,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7925",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7925 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21112462622942,
+          33.96442522286384
+        ]
+      },
+      "id": 153,
+      "type": "Feature"
+    }
+  ]
+}

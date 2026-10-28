@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.92123439999999,
+          32.5902007
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJF_Wg6utG2YARPbWiRsy8uS8",
+        "name": "George F Bailey Detention",
+        "open": "OPERATIONAL",
+        "stNo": "446",
+        "strName": "Alta Road",
+        "stPrefix": "",
+        "stName": "ALTA",
+        "stType": "RD",
+        "stNmAbre": "Alta Rd",
+        "county": "San Diego County",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92158",
+        "fmtAddr": "446 Alta Rd #5300, San Diego, CA 92158, USA",
+        "type": [
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9195754,
+          32.5895947
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJLwM4fABH2YAR1qj7tVbGgPk",
+        "name": "East Mesa Reentry Facility",
+        "open": "OPERATIONAL",
+        "stNo": "446",
+        "strName": "Alta Road",
+        "stPrefix": "",
+        "stName": "ALTA",
+        "stType": "RD",
+        "stNmAbre": "Alta Rd",
+        "county": "San Diego County",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92158",
+        "fmtAddr": "446 Alta Rd #5200, San Diego, CA 92158, USA",
+        "type": [
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.92322729999998,
+          32.592165
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJASABf5pG2YARYX9N4PWB25s",
+        "name": "Rock Mountain Detention Facility",
+        "open": "OPERATIONAL",
+        "stNo": "446",
+        "strName": "Alta Road",
+        "stPrefix": "",
+        "stName": "ALTA",
+        "stType": "RD",
+        "stNmAbre": "Alta Rd",
+        "county": "San Diego County",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92158",
+        "fmtAddr": "446 Alta Rd #5400, San Diego, CA 92158, USA",
+        "type": [
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.91806749999998,
+          32.5908831
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJF_Wg6utG2YAR6UNforWC7OU",
+        "name": "East Mesa Juvenile Detention Facility",
+        "open": "OPERATIONAL",
+        "stNo": "446",
+        "strName": "Alta Road",
+        "stPrefix": "",
+        "stName": "ALTA",
+        "stType": "RD",
+        "stNmAbre": "Alta Rd",
+        "county": "San Diego County",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92158",
+        "fmtAddr": "446 Alta Rd Suite 6100, San Diego, CA 92158, USA",
+        "primaryType": "courthouse",
+        "type": [
+          "courthouse",
+          "government_office",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.93372570000001,
+          32.5847064
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ_35XOPNG2YARmfpKZvT8ldM",
+        "name": "Richard J. Donovan Correctional Facility",
+        "open": "OPERATIONAL",
+        "stNo": "480",
+        "strName": "Alta Road",
+        "stPrefix": "",
+        "stName": "ALTA",
+        "stType": "RD",
+        "stNmAbre": "Alta Rd",
+        "county": "San Diego County",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92179",
+        "fmtAddr": "480 Alta Rd, San Diego, CA 92179, USA",
+        "primaryType": "service",
+        "type": [
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.91512069999997,
+          32.575664599999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJFfxiKOhG2YARgf2NuXgUzsI",
+        "name": "Otay Mesa Detention Center",
+        "open": "OPERATIONAL",
+        "stNo": "7488",
+        "strName": "Calzada De La Fuente",
+        "stPrefix": "",
+        "stName": "CALZADA DE",
+        "stType": "LN",
+        "stNmAbre": "Calzada De La Fuente",
+        "county": "San Diego County",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92154",
+        "fmtAddr": "7488 Calzada De La Fuente, San Diego, CA 92154, USA",
+        "type": [
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    }
+  ]
+}

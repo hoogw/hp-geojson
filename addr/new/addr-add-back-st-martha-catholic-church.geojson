@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[-118.22228252768309,33.987008267743619]},"properties":{"FID":0,"PreDir":" ","PreType":" ","HouseNum":"6000","StreetName":"Seville","SufDir":" ","StreetType":"Ave","UnitType":" ","UnitName":" ","ZipCode":"90255","FullName":"Seville Ave","Address":"6000 Seville Ave 90255"}}]
+}

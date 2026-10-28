@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "HUNTINGTON PARK COMMUNITY CENTER",
+        "phone": "(323) 584-6352",
+        "open": "OPERATIONAL",
+        "stNo": "6925",
+        "strName": "SALT LAKE AVENUE",
+        "stPrefix": "",
+        "stName": "SALT LAKE",
+        "stType": "AVE",
+        "stNmAbre": "SALT LAKE AVE",
+        "county": "LOS ANGELES COUNTY",
+        "city": "HUNTINGTON PARK",
+        "state": "CA",
+        "state1": "CALIFORNIA",
+        "zipCode": "90255",
+        "fmtAddr": "6925 SALT LAKE AVE, HUNTINGTON PARK, CA 90255, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20432900018318,
+          33.97491929988581
+        ]
+      },
+      "id": 1,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "HUNTINGTON PARK SUPERIOR COURT",
+        "phone": null,
+        "open": null,
+        "stNo": "6548",
+        "strName": "MILES AVENUE",
+        "stPrefix": null,
+        "stName": "MILES",
+        "stType": "AVE",
+        "stNmAbre": "MILES AVE",
+        "county": null,
+        "city": "HUNTINGTON PARK",
+        "state": "CA",
+        "state1": null,
+        "zipCode": "90255",
+        "fmtAddr": "6548 MILES AVE, HUNTINGTON PARK, CA 90255, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2177698430038,
+          33.97882486127838
+        ]
+      },
+      "id": 2,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "LINDA MARQUEZ HIGH SCHOOL",
+        "phone": "(323) 584-3800",
+        "open": "OPERATIONAL",
+        "stNo": "6361",
+        "strName": "COTTAGE STREET",
+        "stPrefix": "",
+        "stName": "COTTAGE",
+        "stType": "ST",
+        "stNmAbre": "COTTAGE ST",
+        "county": "LOS ANGELES COUNTY",
+        "city": "HUNTINGTON PARK",
+        "state": "CA",
+        "state1": "CALIFORNIA",
+        "zipCode": "90255",
+        "fmtAddr": "6361 COTTAGE ST, HUNTINGTON PARK, CA 90255, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23391820006486,
+          33.98218269957198
+        ]
+      },
+      "id": 3,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "name": "ROBERT KELLER PARK",
+        "phone": null,
+        "open": null,
+        "stNo": "6546",
+        "strName": "MILES AVENUE",
+        "stPrefix": null,
+        "stName": "MILES",
+        "stType": "AVE",
+        "stNmAbre": "MILES AVE",
+        "county": null,
+        "city": "HUNTINGTON PARK",
+        "state": "CA",
+        "state1": null,
+        "zipCode": "90255",
+        "fmtAddr": "6546 MILES AVE, HUNTINGTON PARK, CA 90255, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21743122487112,
+          33.9797217299739
+        ]
+      },
+      "id": 4,
+      "type": "Feature"
+    }
+  ]
+}

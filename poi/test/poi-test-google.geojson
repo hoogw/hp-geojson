@@ -1,0 +1,4096 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22549749999999,
+          33.974841399999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJo7zv39vJwoARNfSi2ovF67A",
+        "name": "Tacos Los Cholos Hp",
+        "open": "OPERATIONAL",
+        "stNo": "7127",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7127 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "mexican_restaurant",
+        "type": [
+          "mexican_restaurant",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2249124,
+          33.974412699999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJrxWqIjnJwoARIbzA_LhAB18",
+        "name": "El Gallo Giro",
+        "open": "OPERATIONAL",
+        "stNo": "7148",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7148 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "mexican_restaurant",
+        "type": [
+          "mexican_restaurant",
+          "bakery",
+          "food_store",
+          "store",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2255469,
+          33.97521520000001
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJt9wNJzzJwoARTk-tWfbFk0g",
+        "name": "El Chamizal",
+        "open": "OPERATIONAL",
+        "stNo": "7111",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7111 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "mexican_restaurant",
+        "type": [
+          "mexican_restaurant",
+          "latin_american_restaurant",
+          "seafood_restaurant",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225496,
+          33.974503999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJVYG0mj7JwoARmZsCY6COkN4",
+        "name": "Chase Bank",
+        "open": "OPERATIONAL",
+        "stNo": "7141",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7141 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "bank",
+        "type": [
+          "bank",
+          "atm",
+          "finance",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22552619999999,
+          33.9762883
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ5_zaPjzJwoARSB3sZo3BY8g",
+        "name": "El Kalua's Night Club",
+        "open": "OPERATIONAL",
+        "stNo": "6927",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6927 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "night_club",
+        "type": [
+          "night_club",
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2247479,
+          33.9747603
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJGWPPoj7JwoARZCoQAme4-Wo",
+        "name": "La michoacana PLUS —Huntington Park—",
+        "open": "OPERATIONAL",
+        "stNo": "7130",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7130 Pacific Blvd Ste a, Huntington Park, CA 90255, USA",
+        "primaryType": "ice_cream_shop",
+        "type": [
+          "ice_cream_shop",
+          "dessert_shop",
+          "confectionery",
+          "food_store",
+          "store",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2248936,
+          33.9744552
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJy0Fmlz7JwoARdX47pqs8134",
+        "name": "Citi",
+        "open": "OPERATIONAL",
+        "stNo": "7140",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7140 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "bank",
+        "type": [
+          "bank",
+          "finance",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225226,
+          33.975595999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJeTCPITzJwoARMMR24ldOIGQ",
+        "name": "Pacific / Florence",
+        "open": "OPERATIONAL",
+        "stNo": "7140",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224723,
+          33.97543400000001
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJm9urHzzJwoARIv-xtim0MYE",
+        "name": "Cafe Factory Crepe",
+        "open": "OPERATIONAL",
+        "stNo": "7100",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7100 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "cafe",
+        "type": [
+          "cafe",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2255921,
+          33.976017899999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJc3WflyrJwoARzQaFhhT7vtM",
+        "name": "Guadalupe Wedding Chapel- Same Day Marriage Services and Events",
+        "open": "OPERATIONAL",
+        "stNo": "7007",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7007 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "wedding_venue",
+        "type": [
+          "banquet_hall",
+          "wedding_venue",
+          "event_venue",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.226204,
+          33.974441999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJGfunhz7JwoAR5TjRckEH6I8",
+        "name": "Huntington Park",
+        "open": "OPERATIONAL",
+        "stNo": "7007",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_station",
+        "type": [
+          "bus_station",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22554529999998,
+          33.9749287
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJZxKznj7JwoARPAIh9UQ1nAM",
+        "name": "Cinderella's Bridal",
+        "open": "OPERATIONAL",
+        "stNo": "7123",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7123 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2248046,
+          33.9745115
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJDfx5lz7JwoARC3g9tCKpbf4",
+        "name": "Masrour Chiropractic Inc",
+        "open": "OPERATIONAL",
+        "stNo": "7136",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7136 Pacific Blvd #240, Huntington Park, CA 90255, USA",
+        "primaryType": "chiropractor",
+        "type": [
+          "chiropractor",
+          "medical_clinic",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22477080000002,
+          33.9752474
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJJ1Kt5CLJwoARoFSxy7sTC3U",
+        "name": "Huntington Craft",
+        "open": "OPERATIONAL",
+        "stNo": "7108",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7108 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "store",
+        "type": [
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22485990000001,
+          33.9745452
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJvVutvT7JwoARwFISY8TUy70",
+        "name": "Metro by T-Mobile",
+        "open": "OPERATIONAL",
+        "stNo": "7132",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7132 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "cell_phone_store",
+        "type": [
+          "cell_phone_store",
+          "telecommunications_service_provider",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22636909999999,
+          33.9754535
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ8yfP0j3JwoARZvNtTSahQ1Q",
+        "name": "Mother's Nutritional Center",
+        "open": "OPERATIONAL",
+        "stNo": "7026",
+        "strName": "Rugby Avenue",
+        "stPrefix": "",
+        "stName": "RUGBY",
+        "stType": "AVE",
+        "stNmAbre": "Rugby Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7026 Rugby Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "grocery_store",
+        "type": [
+          "grocery_store",
+          "food_store",
+          "store",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22464749999999,
+          33.9748077
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJtckfmT7JwoARi0NDGIavGqk",
+        "name": "Pacific Dental Center – Kids & Family",
+        "open": "OPERATIONAL",
+        "stNo": "7128",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7128 Pacific Blvd # B, Huntington Park, CA 90255, USA",
+        "primaryType": "dentist",
+        "type": [
+          "dentist",
+          "doctor",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22371020000001,
+          33.9750583
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJXf3x_TTJwoARzZX0lEvfFBg",
+        "name": "Pizza Veloz",
+        "open": "OPERATIONAL",
+        "stNo": "2661",
+        "strName": "East Florence Avenue",
+        "stPrefix": "E",
+        "stName": "FLORENCE",
+        "stType": "AVE",
+        "stNmAbre": "E Florence Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2661 E Florence Ave D2, Huntington Park, CA 90255, USA",
+        "primaryType": "pizza_restaurant",
+        "type": [
+          "pizza_restaurant",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22476039999998,
+          33.9746904
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJD6oOmD7JwoARFjYkclVjnNg",
+        "name": "Cricket Wireless Authorized Retailer",
+        "open": "OPERATIONAL",
+        "stNo": "7130",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7130 Pacific Blvd Ste B, Huntington Park, CA 90255, USA",
+        "primaryType": "cell_phone_store",
+        "type": [
+          "cell_phone_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22504539999998,
+          33.973982299999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJkWV4IHPJwoARMSjNVqHuV0k",
+        "name": "Fly smoke and fashion",
+        "open": "OPERATIONAL",
+        "stNo": "2600",
+        "strName": "East Florence Avenue",
+        "stPrefix": "E",
+        "stName": "FLORENCE",
+        "stType": "AVE",
+        "stNmAbre": "E Florence Ave",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2600 E Florence Ave, Walnut Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22499439999999,
+          33.9739437
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJyXX7kzHJwoARKIE52vxgkWM",
+        "name": "CoinFlip Bitcoin ATM - CFSC The Check Cashing Place Walnut Park (Huntington Park)",
+        "open": "OPERATIONAL",
+        "stNo": "2602",
+        "strName": "East Florence Avenue",
+        "stPrefix": "E",
+        "stName": "FLORENCE",
+        "stType": "AVE",
+        "stNmAbre": "E Florence Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2602 E Florence Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "atm",
+        "type": [
+          "atm",
+          "bank",
+          "point_of_interest",
+          "finance",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22496459999999,
+          33.9739441
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ-55JlT7JwoARPElM6UdiwsQ",
+        "name": "Western Union",
+        "open": "OPERATIONAL",
+        "stNo": "2602",
+        "strName": "East Florence Avenue",
+        "stPrefix": "E",
+        "stName": "FLORENCE",
+        "stType": "AVE",
+        "stNmAbre": "E Florence Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2602 E Florence Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "finance",
+        "type": [
+          "point_of_interest",
+          "finance",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2248189,
+          33.974943599999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJC7E4nz7JwoAR1joRhyioud0",
+        "name": "Joyeria St. Michael Imperial",
+        "open": "OPERATIONAL",
+        "stNo": "7120",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7120 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "jewelry_store",
+        "type": [
+          "jewelry_store",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22564179999999,
+          33.9740705
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJWdjtGyDJwoARie0I4aczoMo",
+        "name": "Total Wireless",
+        "open": "OPERATIONAL",
+        "stNo": "7201",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Walnut Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7201 Pacific Blvd, Walnut Park, CA 90255, USA",
+        "primaryType": "cell_phone_store",
+        "type": [
+          "cell_phone_store",
+          "telecommunications_service_provider",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2248363,
+          33.974021
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ07rdzSvJwoARyFfvgKT__c4",
+        "name": "Botanica Guadalupe",
+        "open": "OPERATIONAL",
+        "stNo": "2608",
+        "strName": "East Florence Avenue",
+        "stPrefix": "E",
+        "stName": "FLORENCE",
+        "stType": "AVE",
+        "stNmAbre": "E Florence Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2608 E Florence Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "home_goods_store",
+        "type": [
+          "home_goods_store",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22550269999998,
+          33.9744974
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJqSEyhT7JwoARL61SYRBtzRg",
+        "name": "Chase ATM",
+        "open": "OPERATIONAL",
+        "stNo": "7141",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7141 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "atm",
+        "type": [
+          "atm",
+          "point_of_interest",
+          "finance",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22498669999997,
+          33.9744715
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJzSvYCSPJwoARupWB7bqaDdY",
+        "name": "DolEx Dollar Express",
+        "open": "OPERATIONAL",
+        "stNo": "7138",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7138 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "finance",
+        "type": [
+          "point_of_interest",
+          "finance",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22476259999999,
+          33.9746758
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ5zGQyuvJwoARUSNNXVJHOzE",
+        "name": "crcelldepot",
+        "open": "OPERATIONAL",
+        "stNo": "7130",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7130 Pacific Blvd # G, Huntington Park, CA 90255, USA",
+        "primaryType": "service",
+        "type": [
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2254996,
+          33.975771
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ9UqcIzzJwoAR76BAdDBye2U",
+        "name": "Lucy Fashion",
+        "open": "OPERATIONAL",
+        "stNo": "7021",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7021 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "womens_clothing_store",
+        "type": [
+          "womens_clothing_store",
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22486200000002,
+          33.975786899999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJoV-Q2LDJwoARzYa5KyMzbAk",
+        "name": "LANDY'S ARTS AND CRAFT SUPPLIES",
+        "open": "OPERATIONAL",
+        "stNo": "7020",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7020 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "home_goods_store",
+        "type": [
+          "home_goods_store",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224725,
+          33.9759078
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJK4wkiLnJwoARt13aFWmSZuY",
+        "name": "Cali Queen Dresses",
+        "open": "OPERATIONAL",
+        "stNo": "7012",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7012 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22483410000001,
+          33.975137
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJOYTNlT7JwoARU3_whkln5dY",
+        "name": "Pibe Sports",
+        "open": "OPERATIONAL",
+        "stNo": "7114",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7114 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "sporting_goods_store",
+        "type": [
+          "sporting_goods_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2249756,
+          33.975015
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ43cmHzzJwoAR9964XCWZvZw",
+        "name": "Kelly's Bridal",
+        "open": "OPERATIONAL",
+        "stNo": "7118",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7118 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2255445,
+          33.9749876
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJv6vSnD7JwoARTgRPSGOnQ4E",
+        "name": "Calebs Wireless and Video Games #2",
+        "open": "OPERATIONAL",
+        "stNo": "7119",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7119 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "store",
+        "type": [
+          "cell_phone_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224722,
+          33.975307
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJIX9JIDzJwoARPfBtpluNSj4",
+        "name": "LOS ALBERT'S FRESH MEXICAN FOOD (Pacific Blvd)",
+        "open": "OPERATIONAL",
+        "stNo": "7104",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7104 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "mexican_restaurant",
+        "type": [
+          "mexican_restaurant",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22482780000001,
+          33.9751711
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJj4w8nj7JwoAR5RZnRgz-NRw",
+        "name": "Majestic Bridal",
+        "open": "OPERATIONAL",
+        "stNo": "7112",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7112 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2247707,
+          33.9750551
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJzTg_k0jPwoARX_eG-8WSS1A",
+        "name": "Mhextensionsca",
+        "open": "OPERATIONAL",
+        "stNo": "7116",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7116 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "supplier",
+        "type": [
+          "supplier",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2256207,
+          33.9755578
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJC2FeJDzJwoAR9z7kkRE2ocQ",
+        "name": "Victoria's Bridal",
+        "open": "OPERATIONAL",
+        "stNo": "7029",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7029 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22541140000001,
+          33.9753561
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJxdHtJjzJwoAROx-LtTd8l6U",
+        "name": "Jesus Bridal",
+        "open": "OPERATIONAL",
+        "stNo": "7105",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7105 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22480499999999,
+          33.9759781
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJU_1ePDzJwoARWGtV2bnR56I",
+        "name": "Reparacion De Joyas",
+        "open": "OPERATIONAL",
+        "stNo": "7010",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7010 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "service",
+        "type": [
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22547910000002,
+          33.9766617
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJF-XoRTzJwoARNoFt48PnWX4",
+        "name": "Ibiza Nightclub",
+        "open": "OPERATIONAL",
+        "stNo": "6901",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6901 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "night_club",
+        "type": [
+          "night_club",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2249089,
+          33.9767855
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJv0TpQzzJwoAR05Q6-nuTzfI",
+        "name": "T-Mobile Experience Store",
+        "open": "OPERATIONAL",
+        "stNo": "6900",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6900 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "cell_phone_store",
+        "type": [
+          "cell_phone_store",
+          "telecommunications_service_provider",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22560490000001,
+          33.9767382
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJX-WYEg3JwoARIXQ3hoVI1ck",
+        "name": "Ps5 Repair | Restart Project | We Fix Phones | iPhones Repair | Reparacion de Telefonos | Repair Ps5 Hdmi l console Repair.",
+        "open": "OPERATIONAL",
+        "stNo": "6901",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6901 Pacific Blvd #12, Huntington Park, CA 90255, USA",
+        "type": [
+          "cell_phone_store",
+          "toy_store",
+          "electronics_store",
+          "manufacturer",
+          "supplier",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22555799999999,
+          33.976492
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJe0laQTzJwoAR6MOFo3VUWz8",
+        "name": "Pacific Jewelry & Electronics",
+        "open": "OPERATIONAL",
+        "stNo": "6915",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6915 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "jewelry_store",
+        "type": [
+          "jewelry_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22547790000002,
+          33.976547499999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJc89KxzzJwoAROFqVMjyCT8E",
+        "name": "Delicious Kitchen",
+        "open": "OPERATIONAL",
+        "stNo": "6913",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6913 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "chinese_restaurant",
+        "type": [
+          "chinese_restaurant",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2255807,
+          33.976411399999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJqe76NpnJwoARGCSFuQHNfPs",
+        "name": "Forever Quince",
+        "open": "OPERATIONAL",
+        "stNo": "6919",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6919 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2249678,
+          33.9771825
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ9eDqXDzJwoARVKIQym0NFMY",
+        "name": "Aragon Photo Studio",
+        "open": "OPERATIONAL",
+        "stNo": "6828",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6828 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "service",
+        "type": [
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2243051,
+          33.976811
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ_S8EbTzJwoARvqklKOgqm_Q",
+        "name": "Riches Barber Shop",
+        "open": "OPERATIONAL",
+        "stNo": "2622",
+        "strName": "Saturn Avenue",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "stNmAbre": "Saturn Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2622 Saturn Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "barber_shop",
+        "type": [
+          "barber_shop",
+          "hair_care",
+          "health",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22472069999999,
+          33.9770744
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJEzbHXDzJwoARe7ANTKmV61c",
+        "name": "Cincodemayo",
+        "open": "OPERATIONAL",
+        "stNo": "6836",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6836 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2248472,
+          33.9768091
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ_UMqajzJwoARMIKnXjMoQEk",
+        "name": "Luxury Formal Wear/Huntington Park Tux Shop",
+        "open": "OPERATIONAL",
+        "stNo": "2610",
+        "strName": "Saturn Avenue",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "stNmAbre": "Saturn Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2610 Saturn Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22452480000001,
+          33.976724499999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJYWpiazzJwoARp5c4NULPq44",
+        "name": "Shine Eyebrow Threading",
+        "open": "OPERATIONAL",
+        "stNo": "2614",
+        "strName": "Saturn Avenue",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "stNmAbre": "Saturn Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2614 Saturn Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "beauty_salon",
+        "type": [
+          "beauty_salon",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2248164,
+          33.9760053
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJx0E8aNrJwoAR56hb-VWyWxA",
+        "name": "DiMary’s Boutique",
+        "open": "OPERATIONAL",
+        "stNo": "7008",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7008 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22465719999998,
+          33.977033299999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJYTUXaTzJwoAR83Hpe9nXpRU",
+        "name": "Andrade Juan M MD",
+        "open": "OPERATIONAL",
+        "stNo": "2613",
+        "strName": "Saturn Avenue",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "stNmAbre": "Saturn Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2613 Saturn Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "doctor",
+        "type": [
+          "doctor",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22560490000001,
+          33.9767382
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJwdlTqAPJwoARn6M9g2bNa1Q",
+        "name": "Funeral Ribbons ı Ribbons And More ı Printing Ribbon Memorial service Ribbons ı Listones Impresos ı Copa Grabados ı Stikers .",
+        "open": "OPERATIONAL",
+        "stNo": "6901",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6901 Pacific Blvd #2, Huntington Park, CA 90255, USA",
+        "primaryType": "manufacturer",
+        "type": [
+          "art_studio",
+          "manufacturer",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22496160000001,
+          33.9758474
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ1eFNGDzJwoARLvzgHwXCW1U",
+        "name": "Mary Cellular",
+        "open": "OPERATIONAL",
+        "stNo": "7018",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7018 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "cell_phone_store",
+        "type": [
+          "cell_phone_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22480739999999,
+          33.976127000000005
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJl9XrPTzJwoARIQMEOy2Gyao",
+        "name": "Fine Discount",
+        "open": "OPERATIONAL",
+        "stNo": "7004",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "7004 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "discount_store",
+        "type": [
+          "discount_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2256434,
+          33.9767101
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJacpU5GDJwoARH00Jey1ReBw",
+        "name": "JK Ebikes",
+        "open": "OPERATIONAL",
+        "stNo": "6901",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6901 Pacific Blvd Unit 5, Huntington Park, CA 90255, USA",
+        "primaryType": "bicycle_store",
+        "type": [
+          "bicycle_store",
+          "sporting_goods_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22553459999999,
+          33.9770663
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJoYqpRDzJwoARAisTRcBJtTU",
+        "name": "AT&T Store",
+        "open": "OPERATIONAL",
+        "stNo": "6833",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6833 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "cell_phone_store",
+        "type": [
+          "cell_phone_store",
+          "telecommunications_service_provider",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22582930000002,
+          33.977003499999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJX6LIUTzJwoARtCEdoh36J9U",
+        "name": "Guerra Express Logistics",
+        "open": "OPERATIONAL",
+        "stNo": "2571",
+        "strName": "Saturn Avenue",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "stNmAbre": "Saturn Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2571 Saturn Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "shipping_service",
+        "type": [
+          "shipping_service",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2253959,
+          33.9772458
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ2eRG9zzJwoARry8WSeKPnDA",
+        "name": "Ilusiones Vertigo",
+        "open": "OPERATIONAL",
+        "stNo": "6823",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6823 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "banquet_hall",
+          "chauffeur_service",
+          "clothing_store",
+          "store",
+          "food",
+          "transportation_service",
+          "event_venue",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22616169999999,
+          33.9767554
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJW5J1TTzJwoARcC0ULWgdf2A",
+        "name": "Cafeteria America",
+        "open": "OPERATIONAL",
+        "stNo": "2558",
+        "strName": "Saturn Avenue",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "stNmAbre": "Saturn Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2558 Saturn Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "american_restaurant",
+        "type": [
+          "american_restaurant",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22640359999998,
+          33.977004
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJpaBAUzzJwoARkNx5T7zWJzQ",
+        "name": "Iglesia La Luz Del Mundo The Light of the World Church",
+        "open": "OPERATIONAL",
+        "stNo": "6828",
+        "strName": "Rugby Avenue",
+        "stPrefix": "",
+        "stName": "RUGBY",
+        "stType": "AVE",
+        "stNmAbre": "Rugby Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6828 Rugby Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "place_of_worship",
+        "type": [
+          "place_of_worship",
+          "point_of_interest",
+          "association_or_organization",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2260452,
+          33.9770567
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJqdmX7N3JwoARwJbzq-oJ7Dw",
+        "name": "Yolanda's Travel Corp",
+        "open": "OPERATIONAL",
+        "stNo": "2563",
+        "strName": "Saturn Avenue",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "stNmAbre": "Saturn Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2563 Saturn Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "travel_agency",
+        "type": [
+          "travel_agency",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2259587,
+          33.976762799999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJdRhv7BvJwoARGfOfYlvv-bY",
+        "name": "Concepcion's Tailor Shop",
+        "open": "OPERATIONAL",
+        "stNo": "2566",
+        "strName": "Saturn Avenue",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "stNmAbre": "Saturn Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2566 Saturn Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "tailor",
+        "type": [
+          "tailor",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2260598,
+          33.9767627
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJlylvKh_NwoARwux_WZKXc_o",
+        "name": "Los Panchitos Natural products .",
+        "open": "OPERATIONAL",
+        "stNo": "2562",
+        "strName": "Saturn Avenue",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "stNmAbre": "Saturn Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2562 Saturn Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "store",
+        "type": [
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22545609999999,
+          33.9773685
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJF-iSWzzJwoARauRdP2Q6siM",
+        "name": "Pacific Sports Wear",
+        "open": "OPERATIONAL",
+        "stNo": "6819",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6819 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2260834,
+          33.9771048
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJO6tcUjzJwoARbcUs6Axb-yQ",
+        "name": "AC Accounting",
+        "open": "OPERATIONAL",
+        "stNo": "2561",
+        "strName": "Saturn Avenue",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "stNmAbre": "Saturn Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2561 Saturn Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "consultant",
+        "type": [
+          "consultant",
+          "accounting",
+          "point_of_interest",
+          "finance",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2248473,
+          33.9776135
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJA6iAYDzJwoARTJAPuc394rg",
+        "name": "Telecafé",
+        "open": "OPERATIONAL",
+        "stNo": "6806",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6806 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "cafe",
+        "type": [
+          "cafe",
+          "coffee_shop",
+          "cafeteria",
+          "food_store",
+          "store",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2248294,
+          33.977424299999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ-2SXr9LJwoARzKhO75DMJ9s",
+        "name": "ACE MULTI SERVICES",
+        "open": "OPERATIONAL",
+        "stNo": "6816",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6816 Pacific Blvd Ste 309, Huntington Park, CA 90255, USA",
+        "primaryType": "consultant",
+        "type": [
+          "accounting",
+          "consultant",
+          "government_office",
+          "finance",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22451249999999,
+          33.9775013
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJnSMgZDzJwoARMOm0umQwnMs",
+        "name": "Umma Health administration",
+        "open": "OPERATIONAL",
+        "stNo": "6816",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "medical_clinic",
+        "type": [
+          "medical_clinic",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2249148,
+          33.9775877
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ6XMiZzzJwoARNcDioBKtI6U",
+        "name": "Daniel's Jewelers",
+        "open": "OPERATIONAL",
+        "stNo": "6808",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6808 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "jewelry_store",
+        "type": [
+          "jewelry_store",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225585,
+          33.9776728
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ71FZ8L3JwoARWnvofvioBXI",
+        "name": "Gala Gowns & Co",
+        "open": "OPERATIONAL",
+        "stNo": "6807",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6807 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2249801,
+          33.977437699999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJme73wrm5woARFbtjWM3EGRQ",
+        "name": "Sky Team Evolution",
+        "open": "OPERATIONAL",
+        "stNo": "6816",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6816 Pacific Blvd #213, Huntington Park, CA 90255, USA",
+        "type": [
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2243168,
+          33.9769953
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ1Ud_bjzJwoARvrLYg2R_deM",
+        "name": "Camacho's Auto Registration",
+        "open": "OPERATIONAL",
+        "stNo": "2621",
+        "strName": "Saturn Avenue",
+        "stPrefix": "",
+        "stName": "SATURN",
+        "stType": "AVE",
+        "stNmAbre": "Saturn Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2621 Saturn Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "local_government_office",
+        "type": [
+          "local_government_office",
+          "government_office",
+          "association_or_organization",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22493999999999,
+          33.9774746
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJV4WMaH7JwoARpzBWjXk0b-g",
+        "name": "Couture z bridal",
+        "open": "OPERATIONAL",
+        "stNo": "6812",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6812 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22542759999999,
+          33.9800636
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJRd82ge3JwoARlKr2oW90Gbw",
+        "name": "Hyperbees - Huntington Park",
+        "open": "OPERATIONAL",
+        "stNo": "6517",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6517 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2255771,
+          33.979138899999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ3f1VIurPwoARb3oYyV0Ff9s",
+        "name": "Melo outlet",
+        "open": "OPERATIONAL",
+        "stNo": "6601",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6601 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "discount_store",
+        "type": [
+          "discount_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22491660000001,
+          33.9795254
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJDwR6i0_JwoAR_N1O1x7eAEY",
+        "name": "Curry boys",
+        "open": "OPERATIONAL",
+        "stNo": "6534",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6534 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "indian_restaurant",
+        "type": [
+          "indian_restaurant",
+          "pakistani_restaurant",
+          "north_indian_restaurant",
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22492249999999,
+          33.978972899999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJS6bP6jzJwoAR3VLHSgdKUrw",
+        "name": "Prestige Career College- Huntington Park",
+        "open": "OPERATIONAL",
+        "stNo": "6606",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6606 Pacific Blvd Ste 204, Huntington Park, CA 90255, USA",
+        "primaryType": "educational_institution",
+        "type": [
+          "educational_institution",
+          "school",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2254098,
+          33.979965899999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJZx3ck_jJwoARXqYqgJw_FcY",
+        "name": "Sol beauty and Care Huntington Park",
+        "open": "OPERATIONAL",
+        "stNo": "6521",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6521 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224291,
+          33.9795213
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ0z2OvDzJwoARbEjQNsBzTxo",
+        "name": "Kids and Teen Dental Place",
+        "open": "OPERATIONAL",
+        "stNo": "2621",
+        "strName": "Zoe Avenue",
+        "stPrefix": "",
+        "stName": "ZOE",
+        "stType": "AVE",
+        "stNmAbre": "Zoe Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2621 Zoe Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "dentist",
+        "type": [
+          "dentist",
+          "dental_clinic",
+          "medical_clinic",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22487410000001,
+          33.979894699999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJX8Su4_rJwoARNGfDeD_6_wA",
+        "name": "Mi Nina Quinceanera",
+        "open": "OPERATIONAL",
+        "stNo": "6518",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6518 Pacific Blvd Ste B, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2249281,
+          33.9794263
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJleVRxzzJwoARnD1mQ68AV_M",
+        "name": "Corner Kitchen",
+        "open": "OPERATIONAL",
+        "stNo": "6540",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6540 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "chinese_restaurant",
+        "type": [
+          "chinese_restaurant",
+          "diner",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22541849999999,
+          33.979373599999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJZePU2jzJwoARLcS_JcwdVLE",
+        "name": "Mystique - Fajas Colombianas",
+        "open": "OPERATIONAL",
+        "stNo": "6545",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6545 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "womens_clothing_store",
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22498,
+          33.979444
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJc6LsxjzJwoARX4kTQ1mDPl0",
+        "name": "Joy Beauty Supply",
+        "open": "OPERATIONAL",
+        "stNo": "6528 Suite C",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6528 Suite C Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "store",
+        "type": [
+          "cosmetics_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22550109999999,
+          33.9798275
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJjdHY-TzJwoARWIO8xs9k8rY",
+        "name": "3 Hermanos",
+        "open": "OPERATIONAL",
+        "stNo": "6527",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6527 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224942,
+          33.979107899999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJkfSKcl_JwoARj4DSUbEHXeE",
+        "name": "Don Roberto Jewelers",
+        "open": "OPERATIONAL",
+        "stNo": "6602",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6602 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "jewelry_store",
+        "type": [
+          "jewelry_store",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22538809999998,
+          33.9787927
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJLyAG6TzJwoAR0Mj05reKoCs",
+        "name": "Lovestone",
+        "open": "OPERATIONAL",
+        "stNo": "6617",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6617 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "womens_clothing_store",
+        "type": [
+          "womens_clothing_store",
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2249762,
+          33.9787769
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJuUBA7DzJwoARVrKjOk9YpUU",
+        "name": "Zapatos El Mago",
+        "open": "OPERATIONAL",
+        "stNo": "6606",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6606 Pacific Blvd #101, Huntington Park, CA 90255, USA",
+        "primaryType": "shoe_store",
+        "type": [
+          "shoe_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22498890000001,
+          33.9786402
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJwQu_7TzJwoARD0egNdNxLz0",
+        "name": "Denim Empire",
+        "open": "OPERATIONAL",
+        "stNo": "6700",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6700 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224915,
+          33.9795602
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ_7tezDzJwoARRYclcsW2vcg",
+        "name": "Joyeria 3 Diamantes",
+        "open": "OPERATIONAL",
+        "stNo": "6518 A",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6518 A Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "service",
+        "type": [
+          "jewelry_store",
+          "store",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2260241,
+          33.9791696
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ7Q0jAwDJwoAR1WJ7VKlRGQI",
+        "name": "Alteraciones de ropa, Victoria",
+        "open": "OPERATIONAL",
+        "stNo": "2564",
+        "strName": "Zoe Avenue",
+        "stPrefix": "",
+        "stName": "ZOE",
+        "stType": "AVE",
+        "stNmAbre": "Zoe Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2564 Zoe Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "service",
+        "type": [
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2247218,
+          33.979436899999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ_9cQvzzJwoARi3SfjSUZG0U",
+        "name": "Victory Travel Agency",
+        "open": "OPERATIONAL",
+        "stNo": "2611",
+        "strName": "Zoe Avenue",
+        "stPrefix": "",
+        "stName": "ZOE",
+        "stType": "AVE",
+        "stNmAbre": "Zoe Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2611 Zoe Ave, Huntington Park, CA 90255, USA",
+        "primaryType": "travel_agency",
+        "type": [
+          "travel_agency",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22539929999999,
+          33.9790096
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJQxFwwjzJwoARjY3X5-F7XzM",
+        "name": "Aromas Perfumes",
+        "open": "OPERATIONAL",
+        "stNo": "2611",
+        "strName": "Zoe Avenue",
+        "stPrefix": "",
+        "stName": "ZOE",
+        "stType": "AVE",
+        "stNmAbre": "Zoe Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2242675,
+          33.979414999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJK0xNkeTJwoARS_8eUzQqZVQ",
+        "name": "South Coast Surgery Center",
+        "open": "OPERATIONAL",
+        "stNo": "2621",
+        "strName": "Zoe Avenue",
+        "stPrefix": "",
+        "stName": "ZOE",
+        "stType": "AVE",
+        "stNmAbre": "Zoe Ave",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "2621 Zoe Ave Ste B, Huntington Park, CA 90255, USA",
+        "primaryType": "medical_clinic",
+        "type": [
+          "dental_clinic",
+          "doctor",
+          "medical_clinic",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2249932,
+          33.9780766
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJay_CFUjJwoAR_PKYaL2pzaM",
+        "name": "Bella All Natural",
+        "open": "OPERATIONAL",
+        "stNo": "6718",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6718 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "store",
+        "type": [
+          "store",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22490959999999,
+          33.9779871
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJldNq6zzJwoARGjqxKqqtEgo",
+        "name": "Gallo Mas Gallo",
+        "open": "OPERATIONAL",
+        "stNo": "6718",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6718 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "electronics_store",
+        "type": [
+          "electronics_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22485959999999,
+          33.9779711
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ6YIaRIXJwoARKR-XWOYME1I",
+        "name": "Burlington Flag 1990–2017",
+        "open": "OPERATIONAL",
+        "stNo": "6726",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6726 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "grocery_store",
+        "type": [
+          "grocery_store",
+          "food_store",
+          "store",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22531099999998,
+          33.978092
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ__1D8TzJwoARQPKTE9ZrZGc",
+        "name": "Pacific / Zoe",
+        "open": "OPERATIONAL",
+        "stNo": "6726",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "Huntington Park, CA 90255, USA",
+        "primaryType": "bus_stop",
+        "type": [
+          "bus_stop",
+          "transit_stop",
+          "transit_station",
+          "transportation_service",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22497829999999,
+          33.977924099999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJe0R3YDzJwoARgE2VoMvW9uA",
+        "name": "Royal’s Closet",
+        "open": "OPERATIONAL",
+        "stNo": "6730",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6730 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "womens_clothing_store",
+        "type": [
+          "womens_clothing_store",
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2255932,
+          33.9780556
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJL30LOqTJwoARO_abseruGDM",
+        "name": "J&J Western Wear",
+        "open": "OPERATIONAL",
+        "stNo": "6723",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6723 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22483349999999,
+          33.978023199999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJp4u39TzJwoARyL5lIX7buWg",
+        "name": "El Centenario",
+        "open": "OPERATIONAL",
+        "stNo": "6724",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6724 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "shoe_store",
+        "type": [
+          "shoe_store",
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22485449999999,
+          33.9779863
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJdbYpYDzJwoARoOP_JtIUE58",
+        "name": "Exclusive Lingerie & Dress Shop #3",
+        "open": "OPERATIONAL",
+        "stNo": "6728",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6728 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "womens_clothing_store",
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22498549999997,
+          33.9780616
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJbzHdYWDJwoARgzF3lWmeNsY",
+        "name": "Dreams & Glamour",
+        "open": "OPERATIONAL",
+        "stNo": "6722",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6722 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "service",
+        "type": [
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2255932,
+          33.9780556
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ_9qcHwDJwoARXYUI-xvHS64",
+        "name": "Corral Western Wear",
+        "open": "OPERATIONAL",
+        "stNo": "6723",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6723 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22485449999999,
+          33.9779863
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJC0m9ILDPwoARj8MmlfcyC3A",
+        "name": "Carlitos photography",
+        "open": "OPERATIONAL",
+        "stNo": "6728",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6728 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "service",
+        "type": [
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2255703,
+          33.978001299999995
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJC3z8LXfJwoARcUuoN5xebKg",
+        "name": "Advance Air Duct Cleaning Services",
+        "open": "OPERATIONAL",
+        "stNo": "6725",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6725 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "service",
+        "type": [
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22483349999999,
+          33.978023199999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJx6BSwlnJwoARQAe5HY8Tu2Y",
+        "name": "\"Everybody Loves Raymond\" Ally's F (TV Episode 2004) - IMDb",
+        "open": "OPERATIONAL",
+        "stNo": "6724",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6724 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "service",
+        "type": [
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22484199999998,
+          33.9780145
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJQwnEeTnJwoARY3oojea-x2Y",
+        "name": "Dwireless Club",
+        "open": "OPERATIONAL",
+        "stNo": "6726",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6726 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "service",
+        "type": [
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22481730000001,
+          33.9784844
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJteZy8jzJwoARldQote7Uc1k",
+        "name": "Tierra Mia Coffee",
+        "open": "OPERATIONAL",
+        "stNo": "6706",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6706 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "coffee_shop",
+        "type": [
+          "coffee_shop",
+          "cafe",
+          "food_store",
+          "store",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22496819999999,
+          33.9784175
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJM__Kjm3JwoAR_YvSyO66ey0",
+        "name": "Vanity Couture Boutique",
+        "open": "OPERATIONAL",
+        "stNo": "6710",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6710 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22539510000001,
+          33.978586
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJQWLb7jzJwoARBEUDxgFmWRQ",
+        "name": "Milano",
+        "open": "OPERATIONAL",
+        "stNo": "6625",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6625 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2255703,
+          33.9784819
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJXxaL5TzJwoARCj1mclZ5jJQ",
+        "name": "Satisfaction Muah Beauty Academy",
+        "open": "OPERATIONAL",
+        "stNo": "6709",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6709 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "makeup_artist",
+        "type": [
+          "makeup_artist",
+          "hair_salon",
+          "hair_care",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22493070000002,
+          33.9786413
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJU7upL2hJgoYR2mfNdH--OjI",
+        "name": "Abogados de Accidentes Huntington Park",
+        "open": "OPERATIONAL",
+        "stNo": "6700",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6700 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "lawyer",
+        "type": [
+          "lawyer",
+          "consultant",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2255703,
+          33.9784819
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJUTbzrgHJwoARpj45rI_jAJE",
+        "name": "Romero’s Beauty Salon",
+        "open": "OPERATIONAL",
+        "stNo": "6709",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6709 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "beauty_salon",
+        "type": [
+          "beauty_salon",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2255703,
+          33.9784819
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJQeg__B7JwoARDUpealFHHvU",
+        "name": "Jmpphotograph",
+        "open": "OPERATIONAL",
+        "stNo": "6709",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6709 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "service",
+        "type": [
+          "banquet_hall",
+          "event_venue",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22539499999998,
+          33.978502999999996
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJH4757jzJwoAR8i04Moilo6o",
+        "name": "@Fashion Icon Hp",
+        "open": "OPERATIONAL",
+        "stNo": "6709A",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6709A Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "point_of_interest",
+        "type": [
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2254698,
+          33.9785523
+        ]
+      },
+      "properties": {
+        "poi_id": "ChIJ3QFK9YLJwoARzgKDM9WWaKI",
+        "name": "Ab Divine",
+        "open": "OPERATIONAL",
+        "stNo": "6707",
+        "strName": "Pacific Boulevard",
+        "stPrefix": "",
+        "stName": "PACIFIC",
+        "stType": "BLVD",
+        "stNmAbre": "Pacific Blvd",
+        "county": "Los Angeles County",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "90255",
+        "fmtAddr": "6707 Pacific Blvd, Huntington Park, CA 90255, USA",
+        "primaryType": "clothing_store",
+        "type": [
+          "clothing_store",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    }
+  ]
+}

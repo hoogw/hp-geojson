@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[-118.22954497927452,33.979111998893053]},"properties":{"FID":0,"PreDir":" ","PreType":" ","HouseNum":"2410","StreetName":"Zoe","SufDir":" ","StreetType":"Ave","UnitType":" ","UnitName":" ","ZipCode":"90255","FullName":"Zoe Ave","Address":"2420 Zoe Ave 90255"}}]
+}

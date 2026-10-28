@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[-118.22298620384946,33.990287536421725]},"properties":{"FID":0,"HouseNum":"2665","StreetName":"58th","StreetType":"ST","Last2Dig":"65","First2Dig":"26","REFNAME":"\u003c 65","TEXT":"\u003c 65","TXTMEMO":"\u003c 65","FullName":"E 58th St","LeftFrom":2617,"LeftTo":2699,"RightFrom":2618,"RightTo":2698,"PreDir":"E","PreType":" ","PostType":"Street","PostDir":" ","PostMod":" ","PreDirAbbr":"E","PostDirAbb":" ","PreTypeAbb":" ","PostTypeAb":"St"}}]
+}

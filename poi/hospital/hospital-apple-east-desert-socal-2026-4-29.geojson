@@ -1,0 +1,6854 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1332241,
+          34.1485429
+        ]
+      },
+      "properties": {
+        "name": "Pasadena Drug Treatment Rehab Center",
+        "category": "Hospital",
+        "phone": "+16267889844",
+        "stNo": "155",
+        "strName": "N Lake Ave",
+        "stPrefix": "",
+        "stName": "N",
+        "stType": "LK",
+        "city": "Pasadena",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91101",
+        "fmtAddr": "155 N Lake Ave, Pasadena, CA  91101, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1332297,
+          34.1427155
+        ]
+      },
+      "properties": {
+        "poi_id": "IAC48FB8BD9757B84",
+        "name": "The Mark Men's Health",
+        "category": "Hospital",
+        "phone": "+16263143090",
+        "url": "https://www.themarkmenshealth.com",
+        "stNo": "825",
+        "strName": "Cordova St",
+        "stPrefix": "",
+        "stName": "CORDOVA",
+        "stType": "ST",
+        "city": "Pasadena",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91101",
+        "fmtAddr": "825 Cordova St, Pasadena, CA  91101, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1302464,
+          34.1443008
+        ]
+      },
+      "properties": {
+        "poi_id": "I18A0586AB711B03C",
+        "name": "Thatcher Medical Center",
+        "category": "Hospital",
+        "phone": "+16267927207",
+        "url": "https://thatchermedical.com",
+        "stNo": "960",
+        "strName": "E Green St",
+        "stPrefix": "",
+        "stName": "E",
+        "stType": "GRN",
+        "city": "Pasadena",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91106",
+        "fmtAddr": "960 E Green St, Pasadena, CA  91106, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7374289,
+          34.0954486
+        ]
+      },
+      "properties": {
+        "poi_id": "IC46621308B9BB1D5",
+        "name": "AKIDO LABS MSO",
+        "category": "Hospital",
+        "phone": "+19094478585",
+        "url": "https://www.akidolabs.com/",
+        "stNo": "790",
+        "strName": "E Bonita Ave",
+        "stPrefix": "E",
+        "stName": "BONITA",
+        "stType": "AVE",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "790 E Bonita Ave, Pomona, CA  91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7469319,
+          34.0981283
+        ]
+      },
+      "properties": {
+        "poi_id": "ICC09C464DE2B6D76",
+        "name": "Casa Colina Hospital and Centers for Healthcare",
+        "category": "Hospital",
+        "phone": "+19095967733",
+        "url": "https://www.casacolina.org",
+        "stNo": "255",
+        "strName": "E Bonita Ave",
+        "stPrefix": "E",
+        "stName": "BONITA",
+        "stType": "AVE",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "255 E Bonita Ave, Pomona, CA 91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7338095,
+          34.0922786
+        ]
+      },
+      "properties": {
+        "poi_id": "I208D26E052B62B63",
+        "name": "AKIDO LABS MSO",
+        "category": "Hospital",
+        "phone": "+19093981550",
+        "url": "https://www.akidolabs.com/",
+        "stNo": "840",
+        "strName": "Towne Center Dr",
+        "stPrefix": "",
+        "stName": "TOWNE CENTER",
+        "stType": "DR",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "840 Towne Center Dr, Pomona, CA  91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7509017,
+          34.0912814
+        ]
+      },
+      "properties": {
+        "poi_id": "I30CE4FAFC77221CA",
+        "name": "Dummies Unlimited",
+        "category": "Hospital",
+        "phone": "+19093927502",
+        "url": "https://www.dummiesunlimited.com/",
+        "stNo": "166",
+        "strName": "Gentry St",
+        "stPrefix": "",
+        "stName": "GENTRY",
+        "stType": "ST",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "166 Gentry St, Pomona, CA  91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8801894,
+          34.0912737
+        ]
+      },
+      "properties": {
+        "poi_id": "IA45EBF827F58C47F",
+        "name": "Life Esteem Wellness Center",
+        "category": "Hospital",
+        "phone": "+16268933040",
+        "stNo": "543",
+        "strName": "E San Bernardino Rd",
+        "stPrefix": "E",
+        "stName": "SAN BERNARDINO",
+        "stType": "RD",
+        "city": "Covina",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91723",
+        "fmtAddr": "543 E San Bernardino Rd, Unit A, Covina, CA 91723, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.716406,
+          34.082791
+        ]
+      },
+      "properties": {
+        "poi_id": "I4DADC7F7EFE690D6",
+        "name": "Kaiser Permanente Health Care",
+        "category": "Hospital",
+        "phone": "+19093982105",
+        "url": "http://www.kaiserpermanente.org",
+        "stNo": "170",
+        "strName": "W San Jose Ave",
+        "stPrefix": "W",
+        "stName": "SAN JOSE",
+        "stType": "AVE",
+        "city": "Claremont",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91711",
+        "fmtAddr": "170 W San Jose Ave, Claremont, CA  91711, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7177859,
+          34.0941404
+        ]
+      },
+      "properties": {
+        "poi_id": "I154C0689A9CC8BCC",
+        "name": "Grand & Quincy",
+        "category": "Hospital",
+        "url": "https://www.grandquincy.com/",
+        "stNo": "250",
+        "strName": "W First St",
+        "stPrefix": "W",
+        "stName": "FIRST",
+        "stType": "ST",
+        "city": "Claremont",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91711",
+        "fmtAddr": "250 W First St, Claremont, CA  91711, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7422734,
+          34.05818
+        ]
+      },
+      "properties": {
+        "poi_id": "IF7235955E71C9811",
+        "name": "Western University Primary Medical Care",
+        "category": "Hospital",
+        "phone": "+19098652565",
+        "url": "https://www.westernuhealth.com/pomona/services/primary-medical/",
+        "stNo": "795",
+        "strName": "E Second St",
+        "stPrefix": "E",
+        "stName": "SECOND",
+        "stType": "ST",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91766",
+        "fmtAddr": "795 E Second St, Pomona, CA  91766, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.750379,
+          34.065023
+        ]
+      },
+      "properties": {
+        "poi_id": "IBB628BF06D7E7D57",
+        "name": "Inland Valley Surgery Center",
+        "category": "Hospital",
+        "phone": "+19095936222",
+        "url": "http://www.inlandvalleysurgery.com",
+        "stNo": "720",
+        "strName": "N Garey Ave",
+        "stPrefix": "N",
+        "stName": "GAREY",
+        "stType": "AVE",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "720 N Garey Ave, Pomona, CA  91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8472808,
+          33.9846035
+        ]
+      },
+      "properties": {
+        "poi_id": "IC348CEA05124DA4",
+        "name": "PRN Medical",
+        "category": "Hospital",
+        "phone": "+19098436535",
+        "stNo": "20955",
+        "strName": "Pathfinder Rd",
+        "stPrefix": "",
+        "stName": "PATHFINDER",
+        "stType": "RD",
+        "city": "Diamond Bar",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91765",
+        "fmtAddr": "20955 Pathfinder Rd, Diamond Bar, CA  91765, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.843174,
+          33.8867995
+        ]
+      },
+      "properties": {
+        "poi_id": "IF8E6699ADCED9C09",
+        "name": "UCI Health Placentia Linda ",
+        "category": "Hospital",
+        "phone": "+17149932000",
+        "url": "https://www.placentialinda.com/locations/detail/placentia-linda-hospital",
+        "stNo": "1301",
+        "strName": "N Rose Dr",
+        "stPrefix": "N",
+        "stName": "ROSE",
+        "stType": "DR",
+        "city": "Placentia",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92870",
+        "fmtAddr": "1301 N Rose Dr, Placentia, CA  92870, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8442849,
+          33.8886409
+        ]
+      },
+      "properties": {
+        "poi_id": "I2D1C491C3E410B15",
+        "name": "UCI Health - Yorba Linda Orthopaedic Services",
+        "category": "Hospital",
+        "phone": "+17145288670",
+        "url": "https://www.ucihealth.org",
+        "stNo": "16611",
+        "strName": "E Yorba Linda Blvd",
+        "stPrefix": "E",
+        "stName": "YORBA LINDA",
+        "stType": "BLVD",
+        "city": "Yorba Linda",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92886",
+        "fmtAddr": "16611 E Yorba Linda Blvd, Yorba Linda, CA  92886, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.842174,
+          33.8872473
+        ]
+      },
+      "properties": {
+        "poi_id": "I7B867EF5ABA93E42",
+        "name": "Vital Vein And Vascular - Placentia",
+        "category": "Hospital",
+        "phone": "+19492292003",
+        "url": "http://www.vvvmd.com",
+        "stNo": "1325",
+        "strName": "N Rose Dr",
+        "stPrefix": "N",
+        "stName": "ROSE",
+        "stType": "DR",
+        "city": "Placentia",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92870",
+        "fmtAddr": "1325 N Rose Dr, Ste 102, Placentia, CA  92870, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7570855,
+          34.0619949
+        ]
+      },
+      "properties": {
+        "poi_id": "IEC06FB45D7E0B483",
+        "name": "Southern California Medical Center",
+        "category": "Hospital",
+        "phone": "+19096208500",
+        "url": "https://scmedcenter.org",
+        "stNo": "502",
+        "strName": "W Holt Ave",
+        "stPrefix": "W",
+        "stName": "HOLT",
+        "stType": "AVE",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91768",
+        "fmtAddr": "502 W Holt Ave, Pomona, CA 91768, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6880778,
+          34.0090569
+        ]
+      },
+      "properties": {
+        "poi_id": "I6399B93FB69C8745",
+        "name": "Canyon Ridge Hospital",
+        "category": "Hospital",
+        "phone": "+19095903700",
+        "url": "https://canyonridgehospital.com",
+        "stNo": "5353",
+        "strName": "G St",
+        "stPrefix": "",
+        "stName": "G",
+        "stType": "ST",
+        "city": "Chino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91710",
+        "fmtAddr": "5353 G St, Chino, CA  91710, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.834531,
+          34.097605
+        ]
+      },
+      "properties": {
+        "poi_id": "I70CF01E6577B438C",
+        "name": "San Dimas Community Hospital",
+        "category": "Hospital",
+        "phone": "+19095996811",
+        "url": "https://www.sandimashospital.com",
+        "stNo": "1350",
+        "strName": "W Covina Blvd",
+        "stPrefix": "W",
+        "stName": "COVINA",
+        "stType": "BLVD",
+        "city": "San Dimas",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91773",
+        "fmtAddr": "1350 W Covina Blvd, San Dimas, CA  91773, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8337657,
+          34.0983459
+        ]
+      },
+      "properties": {
+        "poi_id": "I545F444CFF2D1088",
+        "name": "San Dimas Medical Plaza",
+        "category": "Hospital",
+        "phone": "+16269999118",
+        "stNo": "1330",
+        "strName": "W Covina Blvd",
+        "stPrefix": "W",
+        "stName": "COVINA",
+        "stType": "BLVD",
+        "city": "San Dimas",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91773",
+        "fmtAddr": "1330 W Covina Blvd, San Dimas, CA  91773, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6848258,
+          34.025073
+        ]
+      },
+      "properties": {
+        "poi_id": "I9D9FB088EAE0A29F",
+        "name": "AKIDO LABS MSO",
+        "category": "Hospital",
+        "phone": "+19094650292",
+        "url": "https://www.akidolabs.com/",
+        "stNo": "5475",
+        "strName": "Walnut Ave",
+        "stPrefix": "",
+        "stName": "WALNUT",
+        "stType": "AVE",
+        "city": "Chino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91710",
+        "fmtAddr": "5475 Walnut Ave, Chino, CA  91710, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6748422,
+          34.0636804
+        ]
+      },
+      "properties": {
+        "poi_id": "I9674EBD3BE9F21C5",
+        "name": "Physicians of Southern California",
+        "category": "Hospital",
+        "phone": "+16268592249",
+        "url": "http://physiciansofsoutherncalifornia.com",
+        "stNo": "1304",
+        "strName": "W Holt Blvd",
+        "stPrefix": "W",
+        "stName": "HOLT",
+        "stType": "BLVD",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91762",
+        "fmtAddr": "1304 W Holt Blvd, Ste A, Ontario, CA  91762, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6861477,
+          34.0257212
+        ]
+      },
+      "properties": {
+        "poi_id": "I8CFE9A207D995D7E",
+        "name": "Chino Valley Medical Center",
+        "category": "Hospital",
+        "phone": "+19094648600",
+        "url": "https://cvmc.com",
+        "stNo": "5451",
+        "strName": "Walnut Ave",
+        "stPrefix": "",
+        "stName": "WALNUT",
+        "stType": "AVE",
+        "city": "Chino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91710",
+        "fmtAddr": "5451 Walnut Ave, Chino, CA  91710, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7511315,
+          34.0750763
+        ]
+      },
+      "properties": {
+        "poi_id": "I3FE06D550603F9BC",
+        "name": "AKIDO LABS MSO",
+        "category": "Hospital",
+        "phone": "+19096294604",
+        "url": "https://www.akidolabs.com/",
+        "stNo": "160",
+        "strName": "E Artesia St",
+        "stPrefix": "E",
+        "stName": "ARTESIA",
+        "stType": "ST",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "160 E Artesia St, Pomona, CA  91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7506298,
+          34.0770661
+        ]
+      },
+      "properties": {
+        "poi_id": "I11BB7F7C1403CC5D",
+        "name": "Pomona Vly Community Hospital",
+        "category": "Hospital",
+        "phone": "+19096300990",
+        "stNo": "1798",
+        "strName": "N Garey Ave",
+        "stPrefix": "N",
+        "stName": "GAREY",
+        "stType": "AVE",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "1798 N Garey Ave, Pomona, CA  91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.751615,
+          34.0768165
+        ]
+      },
+      "properties": {
+        "poi_id": "I694F317A1DEE8F60",
+        "name": "Pomona Valley Hospital Medical Center",
+        "category": "Hospital",
+        "phone": "+19098659500",
+        "url": "https://www.pvhmc.org/locations/pomona-valley-hospital-medical-center/",
+        "stNo": "1798",
+        "strName": "N Garey Ave",
+        "stPrefix": "N",
+        "stName": "GAREY",
+        "stType": "AVE",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "1798 N Garey Ave, Pomona, CA 91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.754196,
+          34.074184
+        ]
+      },
+      "properties": {
+        "poi_id": "IEDB42FD6CB50BF9C",
+        "name": "Park Avenue Healthcare & Wellness Centre",
+        "category": "Hospital",
+        "phone": "+19096230791",
+        "url": "http://pomonahc.com",
+        "stNo": "1550",
+        "strName": "N Park Ave",
+        "stPrefix": "",
+        "stName": "N",
+        "stType": "PARK",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91768",
+        "fmtAddr": "1550 N Park Ave, Pomona, CA  91768, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7520818,
+          34.0833834
+        ]
+      },
+      "properties": {
+        "poi_id": "I4314C7F133691012",
+        "name": "Landmark Medical Center",
+        "category": "Hospital",
+        "phone": "+19095932585",
+        "url": "https://landmarkmedicalcenter.net/",
+        "stNo": "2030",
+        "strName": "N Garey Ave",
+        "stPrefix": "N",
+        "stName": "GAREY",
+        "stType": "AVE",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "2030 N Garey Ave, Pomona, CA  91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7521419,
+          34.0802715
+        ]
+      },
+      "properties": {
+        "poi_id": "I4A40FC139C5F0567",
+        "name": "S & L Medical Group",
+        "category": "Hospital",
+        "phone": "+18189475955",
+        "url": "http://www.slmedical.com",
+        "stNo": "1890",
+        "strName": "N Garey Ave",
+        "stPrefix": "N",
+        "stName": "GAREY",
+        "stType": "AVE",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "1890 N Garey Ave, Ste D, Pomona, CA  91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7521676,
+          34.0802733
+        ]
+      },
+      "properties": {
+        "poi_id": "I5FF549A7ABDC6FDE",
+        "name": "Prototypes I Can Pomona",
+        "category": "Hospital",
+        "phone": "+19096292400",
+        "url": "http://www.prototypes.org",
+        "stNo": "1890",
+        "strName": "N Garey Ave",
+        "stPrefix": "N",
+        "stName": "GAREY",
+        "stType": "AVE",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "1890 N Garey Ave, Pomona, CA  91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7398571,
+          34.1067739
+        ]
+      },
+      "properties": {
+        "poi_id": "I124D9A34F7206F0E",
+        "name": "AKIDO LABS MSO",
+        "category": "Hospital",
+        "phone": "+19096223065",
+        "url": "https://www.akidolabs.com/",
+        "stNo": "520",
+        "strName": "E Foothill Blvd",
+        "stPrefix": "E",
+        "stName": "FOOTHILL",
+        "stType": "BLVD",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91767",
+        "fmtAddr": "520 E Foothill Blvd, Pomona, CA  91767, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7785525,
+          34.1048507
+        ]
+      },
+      "properties": {
+        "poi_id": "I36B45DB7AF8A296E",
+        "name": "Enloe Health",
+        "category": "Hospital",
+        "phone": "+15303327300",
+        "url": "https://www.yelp.com/biz/enloe-health-chino",
+        "strName": "Fifth St",
+        "stPrefix": "",
+        "stName": "FIFTH",
+        "stType": "ST",
+        "city": "La Verne",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91750",
+        "fmtAddr": "Fifth St & Magnolia Ave, La Verne, CA  91750, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7554332,
+          34.0780895
+        ]
+      },
+      "properties": {
+        "poi_id": "IEE733D552E3D8145",
+        "name": "AKIDO LABS MSO",
+        "category": "Hospital",
+        "phone": "+19096231503",
+        "url": "https://www.akidolabs.com/",
+        "stNo": "297",
+        "strName": "W Artesia St",
+        "stPrefix": "W",
+        "stName": "ARTESIA",
+        "stType": "ST",
+        "city": "Pomona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91768",
+        "fmtAddr": "297 W Artesia St, Pomona, CA  91768, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7292465,
+          34.1242652
+        ]
+      },
+      "properties": {
+        "poi_id": "I40B5D444559E36B8",
+        "name": "Bright Horizon",
+        "category": "Hospital",
+        "phone": "+19094475346",
+        "stNo": "2243",
+        "strName": "N Mountain Ave",
+        "stPrefix": "",
+        "stName": "N",
+        "stType": "MTN",
+        "city": "Claremont",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91711",
+        "fmtAddr": "2243 N Mountain Ave, Claremont, CA  91711, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7214265,
+          34.1212739
+        ]
+      },
+      "properties": {
+        "poi_id": "I7E27D18808739A36",
+        "name": "AKIDO LABS MSO",
+        "category": "Hospital",
+        "phone": "+19096213916",
+        "url": "https://www.akidolabs.com/",
+        "stNo": "430",
+        "strName": "W Baseline Rd",
+        "stPrefix": "W",
+        "stName": "BASELINE",
+        "stType": "RD",
+        "city": "Claremont",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91711",
+        "fmtAddr": "430 W Baseline Rd, Claremont, CA  91711, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6515557,
+          34.0435272
+        ]
+      },
+      "properties": {
+        "poi_id": "I62A441F0BEE98E93",
+        "name": "Udoh Obioha, M.D.",
+        "category": "Hospital",
+        "phone": "+19093914139",
+        "url": "https://providers.regalmed.com/udoh-obioha-ca-ontario/",
+        "stNo": "1650",
+        "strName": "S Euclid Ave",
+        "stPrefix": "S",
+        "stName": "EUCLID",
+        "stType": "AVE",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91762",
+        "fmtAddr": "1650 S Euclid Ave, #O, Ontario, CA  91762, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6516789,
+          34.0885695
+        ]
+      },
+      "properties": {
+        "poi_id": "I50D57085B04E76F7",
+        "name": "Payne Ranch Vet Clinic",
+        "category": "Hospital",
+        "stNo": "10",
+        "strName": "W Seventh St",
+        "stPrefix": "W",
+        "stName": "SEVENTH",
+        "stType": "ST",
+        "city": "Upland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91786",
+        "fmtAddr": "10 W Seventh St, Upland, CA  91786, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6805831,
+          34.095666
+        ]
+      },
+      "properties": {
+        "poi_id": "I6682752B4DA70433",
+        "name": "Central City Community Health Center",
+        "category": "Hospital",
+        "phone": "+19096941033",
+        "url": "https://centralcityhealth.org/locations/benson-community-clinic/",
+        "stNo": "180",
+        "strName": "N Benson Ave",
+        "stPrefix": "N",
+        "stName": "BENSON",
+        "stType": "AVE",
+        "city": "Upland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91786",
+        "fmtAddr": "180 N Benson Ave, Ste A, Upland, CA  91786, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6958794,
+          34.0787959
+        ]
+      },
+      "properties": {
+        "poi_id": "I4FF4D02E14E328B2",
+        "name": "Montclair Hospital Medical Center",
+        "category": "Hospital",
+        "phone": "+19096255411",
+        "url": "http://www.montclair-hospital.org",
+        "stNo": "5000",
+        "strName": "San Bernardino St",
+        "stPrefix": "",
+        "stName": "SAN BERNARDINO",
+        "stType": "ST",
+        "city": "Montclair",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91763",
+        "fmtAddr": "5000 San Bernardino St, Montclair, CA 91763, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6422238,
+          34.0692537
+        ]
+      },
+      "properties": {
+        "poi_id": "IDBD5226F15B2E5B4",
+        "name": "Kindred Hospital Ontario",
+        "category": "Hospital",
+        "phone": "+19093910333",
+        "url": "https://www.kindredhealthcare.com/locations/transitional-care-hospitals/kindred-hospital-ontario",
+        "stNo": "550",
+        "strName": "N Monterey Ave",
+        "stPrefix": "N",
+        "stName": "MONTEREY",
+        "stType": "AVE",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91764",
+        "fmtAddr": "550 N Monterey Ave, Ontario, CA  91764, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5679176,
+          33.8726103
+        ]
+      },
+      "properties": {
+        "poi_id": "IED07F2E73500255B",
+        "name": "Direct Doctors Plus",
+        "category": "Hospital",
+        "phone": "+18008824362",
+        "url": "https://www.swhcoronaregional.com",
+        "stNo": "800",
+        "strName": "S Main St",
+        "stPrefix": "S",
+        "stName": "MAIN",
+        "stType": "ST",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92882",
+        "fmtAddr": "800 S Main St, Corona, CA  92882, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5683719,
+          33.8730211
+        ]
+      },
+      "properties": {
+        "poi_id": "I1ED06DCAF2C75C79",
+        "name": "Corona Regional Medical Center",
+        "category": "Hospital",
+        "phone": "+19517374343",
+        "url": "https://www.coronaregional.com",
+        "stNo": "800",
+        "strName": "S Main St",
+        "stPrefix": "S",
+        "stName": "MAIN",
+        "stType": "ST",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92882",
+        "fmtAddr": "800 S Main St, Corona, CA 92882, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5684247,
+          33.8730681
+        ]
+      },
+      "properties": {
+        "poi_id": "I8948515E0DDED5EA",
+        "name": "Corona Wound Care Center",
+        "category": "Hospital",
+        "phone": "+19517366205",
+        "url": "https://www.swhcoronaregional.com/services/wound-care-center",
+        "stNo": "800",
+        "strName": "S Main St",
+        "stPrefix": "S",
+        "stName": "MAIN",
+        "stType": "ST",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92882",
+        "fmtAddr": "800 S Main St, Corona, CA  92882, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5610171,
+          33.8873172
+        ]
+      },
+      "properties": {
+        "poi_id": "IE060F8C7043E5850",
+        "name": "Medix Wound Care",
+        "category": "Hospital",
+        "url": "https://medixwoundcare.com/",
+        "stNo": "355",
+        "strName": "E Rincon St",
+        "stPrefix": "E",
+        "stName": "RINCON",
+        "stType": "ST",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92879",
+        "fmtAddr": "355 E Rincon St, Ste 215, Corona, CA  92879, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5705854,
+          33.8551876
+        ]
+      },
+      "properties": {
+        "poi_id": "I118B6BB1CFABA266",
+        "name": "Integrated Medical Center - Corona",
+        "category": "Hospital",
+        "phone": "+19517371252",
+        "url": "https://www.integratedmedicalcenterofcorona.com/corona-office.html",
+        "stNo": "2250",
+        "strName": "S Main St",
+        "stPrefix": "S",
+        "stName": "MAIN",
+        "stType": "ST",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92882",
+        "fmtAddr": "2250 S Main St, Ste 203, Corona, CA  92882, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5705854,
+          33.8551876
+        ]
+      },
+      "properties": {
+        "poi_id": "I4ACBB3FF614E6BCA",
+        "name": "Apex Heart Specialists",
+        "category": "Hospital",
+        "phone": "+19516213232",
+        "url": "http://swhapexheart.com/",
+        "stNo": "2250",
+        "strName": "S Main St",
+        "stPrefix": "S",
+        "stName": "MAIN",
+        "stType": "ST",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92882",
+        "fmtAddr": "2250 S Main St, Ste 201, Corona, CA  92882, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5353375,
+          33.8486095
+        ]
+      },
+      "properties": {
+        "poi_id": "I95ABE1992C42DE57",
+        "name": "Optum - Corona",
+        "category": "Hospital",
+        "phone": "+19515490200",
+        "url": "https://www.optum.com/en/care/facilities/ca/optum-corona-97962216.html",
+        "stNo": "2071",
+        "strName": "Compton Ave",
+        "stPrefix": "",
+        "stName": "COMPTON",
+        "stType": "AVE",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92881",
+        "fmtAddr": "2071 Compton Ave, Corona, CA  92881, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5399107,
+          33.8589504
+        ]
+      },
+      "properties": {
+        "poi_id": "IE654CB16E74EAC3C",
+        "name": "Independent Options",
+        "category": "Hospital",
+        "phone": "+19512792585",
+        "url": "http://www.independentoptions.org",
+        "stNo": "1180",
+        "strName": "Olympic Dr",
+        "stPrefix": "",
+        "stName": "OLYMPIC",
+        "stType": "DR",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92881",
+        "fmtAddr": "1180 Olympic Dr, Corona, CA  92881, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5692656,
+          33.8850159
+        ]
+      },
+      "properties": {
+        "poi_id": "I940B0FF8533D1A45",
+        "name": "Centro Medico Community Clinic",
+        "category": "Hospital",
+        "phone": "+18442236876",
+        "url": "https://www.centromedicoclinic.com",
+        "stNo": "420",
+        "strName": "Harrison St",
+        "stPrefix": "",
+        "stName": "HARRISON",
+        "stType": "ST",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92880",
+        "fmtAddr": "420 Harrison St, Corona, CA  92880, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5549501,
+          33.856266
+        ]
+      },
+      "properties": {
+        "poi_id": "IA2900CC7E9BD57AD",
+        "name": "Kaiser Permanente Corona Medical Offices",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Corona-Medical-Offices-100147",
+        "stNo": "2055",
+        "strName": "Kellogg Ave",
+        "stPrefix": "",
+        "stName": "KELLOGG",
+        "stType": "AVE",
+        "city": "Corona",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92879",
+        "fmtAddr": "2055 Kellogg Ave, Corona, CA  92879, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.578055,
+          34.0667385
+        ]
+      },
+      "properties": {
+        "poi_id": "I5342C9B3351BEA35",
+        "name": "Pearson Professional Centers",
+        "category": "Hospital",
+        "phone": "+19099373223",
+        "url": "https://home.pearsonvue.com",
+        "stNo": "3401",
+        "strName": "E Centrelake Dr",
+        "stPrefix": "E",
+        "stName": "CENTRELAKE",
+        "stType": "DR",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91761",
+        "fmtAddr": "3401 E Centrelake Dr, Unit 675, Ontario, CA  91761, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6115881,
+          34.0668648
+        ]
+      },
+      "properties": {
+        "poi_id": "IED6423A591C8D6C8",
+        "name": "American Medical Diagnostic Centers",
+        "category": "Hospital",
+        "phone": "+19093907222",
+        "stNo": "337",
+        "strName": "N Vineyard Ave",
+        "stPrefix": "N",
+        "stName": "VINEYARD",
+        "stType": "AVE",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91764",
+        "fmtAddr": "337 N Vineyard Ave, Ontario, CA  91764, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6470286,
+          34.0880464
+        ]
+      },
+      "properties": {
+        "poi_id": "I3751D2590AE6F3E2",
+        "name": "Precision Surgical Institute",
+        "category": "Hospital",
+        "phone": "+19099313800",
+        "stNo": "330",
+        "strName": "E Seventh St",
+        "stPrefix": "E",
+        "stName": "SEVENTH",
+        "stType": "ST",
+        "city": "Upland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91786",
+        "fmtAddr": "330 E Seventh St, Upland, CA  91786, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.646624,
+          34.088568
+        ]
+      },
+      "properties": {
+        "poi_id": "I657379624410DB2C",
+        "name": "Fern Medical Center",
+        "category": "Hospital",
+        "phone": "+19099854724",
+        "url": "https://www.drkeesha.com",
+        "stNo": "360",
+        "strName": "E Seventh St",
+        "stPrefix": "E",
+        "stName": "SEVENTH",
+        "stType": "ST",
+        "city": "Upland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91786",
+        "fmtAddr": "360 E Seventh St, Ste D, Upland, CA  91786, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6465542,
+          34.0886718
+        ]
+      },
+      "properties": {
+        "poi_id": "I17D15E7CA34D95C3",
+        "name": "Y Kim Jennifer MD",
+        "category": "Hospital",
+        "phone": "+19096080855",
+        "stNo": "360",
+        "strName": "E Seventh St",
+        "stPrefix": "E",
+        "stName": "SEVENTH",
+        "stType": "ST",
+        "city": "Upland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91786",
+        "fmtAddr": "360 E Seventh St, Ste M, Upland, CA  91786, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6391426,
+          34.1007033
+        ]
+      },
+      "properties": {
+        "poi_id": "I40A2AD4AF2CC4207",
+        "name": "Prime Care Coordinated Care Clinic",
+        "category": "Hospital",
+        "phone": "+19095796753",
+        "stNo": "901",
+        "strName": "San Bernardino Rd",
+        "stPrefix": "",
+        "stName": "SAN BERNARDINO",
+        "stType": "RD",
+        "city": "Upland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91786",
+        "fmtAddr": "901 San Bernardino Rd, Ste 101, Upland, CA  91786, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6376426,
+          34.1017308
+        ]
+      },
+      "properties": {
+        "poi_id": "I876A7CBE6B7F54FF",
+        "name": "San Antonio Regional Hospital",
+        "category": "Hospital",
+        "phone": "+19099852811",
+        "url": "http://www.sarh.org",
+        "stNo": "999",
+        "strName": "San Bernardino Rd",
+        "stPrefix": "",
+        "stName": "SAN BERNARDINO",
+        "stType": "RD",
+        "city": "Upland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91786",
+        "fmtAddr": "999 San Bernardino Rd, Upland, CA 91786, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5695961,
+          34.1020904
+        ]
+      },
+      "properties": {
+        "poi_id": "I51C8F9285A7ED127",
+        "name": "AKIDO LABS MSO",
+        "category": "Hospital",
+        "phone": "+19099872528",
+        "url": "https://www.akidolabs.com/",
+        "stNo": "8330",
+        "strName": "Red Oak St",
+        "stPrefix": "",
+        "stName": "RED OAK",
+        "stType": "ST",
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91730",
+        "fmtAddr": "8330 Red Oak St, Rancho Cucamonga, CA  91730, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5663495,
+          34.1035447
+        ]
+      },
+      "properties": {
+        "poi_id": "IF117D945EE0C8A3E",
+        "name": "Kindred Hospital Rancho",
+        "category": "Hospital",
+        "phone": "+19095816400",
+        "url": "https://www.kindredhospitals.com/locations/california/rancho",
+        "stNo": "10841",
+        "strName": "White Oak Ave",
+        "stPrefix": "",
+        "stName": "WHITE OAK",
+        "stType": "AVE",
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91730",
+        "fmtAddr": "10841 White Oak Ave, Rancho Cucamonga, CA  91730, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.563185,
+          34.102753
+        ]
+      },
+      "properties": {
+        "poi_id": "IBF873EB2FF438772",
+        "name": "Millennium Imaging Med CTRS",
+        "category": "Hospital",
+        "phone": "+19096212179",
+        "url": "http://mimc.net",
+        "stNo": "11088",
+        "strName": "Elm Ave",
+        "stPrefix": "",
+        "stName": "ELM",
+        "stType": "AVE",
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91730",
+        "fmtAddr": "11088 Elm Ave, Rancho Cucamonga, CA  91730, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6289614,
+          34.1071846
+        ]
+      },
+      "properties": {
+        "poi_id": "IC2F28674C77E4A6C",
+        "name": "Universal Diagnostic Laboratories",
+        "category": "Hospital",
+        "stNo": "1463",
+        "strName": "E Foothill Blvd",
+        "stPrefix": "E",
+        "stName": "FOOTHILL",
+        "stType": "BLVD",
+        "city": "Upland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91786",
+        "fmtAddr": "1463 E Foothill Blvd, Upland, CA  91786, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5528029,
+          34.0702918
+        ]
+      },
+      "properties": {
+        "poi_id": "IDBBE8A24A0BBAC55",
+        "name": "Neurological Institute",
+        "category": "Hospital",
+        "phone": "+13109334590",
+        "url": "http://www.thenila.com",
+        "stNo": "4480",
+        "strName": "Mills Cir",
+        "stPrefix": "",
+        "stName": "MILLS",
+        "stType": "CIR",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91764",
+        "fmtAddr": "4480 Mills Cir, Ontario, CA  91764, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6144335,
+          34.1330295
+        ]
+      },
+      "properties": {
+        "poi_id": "I1280C89BD697D73A",
+        "name": "RVIVE Men’s Health",
+        "category": "Hospital",
+        "phone": "+18402769673",
+        "url": "https://rvivemenshealth.com/",
+        "stNo": "8790",
+        "strName": "19th St",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91701",
+        "fmtAddr": "8790 19th St, Rancho Cucamonga, CA  91701, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.555872,
+          34.108581
+        ]
+      },
+      "properties": {
+        "poi_id": "ICD1BB6EE35320CB9",
+        "name": "Rancho San Antonio Medical Plaza",
+        "category": "Hospital",
+        "phone": "+19099488000",
+        "url": "https://www.sarh.org/about-us/locations/rancho-san-antonio-medical-plaza/",
+        "stNo": "7777",
+        "strName": "Milliken Ave",
+        "stPrefix": "",
+        "stName": "MILLIKEN",
+        "stType": "AVE",
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91730",
+        "fmtAddr": "7777 Milliken Ave, Rancho Cucamonga, CA  91730, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6267264,
+          34.0469067
+        ]
+      },
+      "properties": {
+        "poi_id": "ID37B01F751F13CEF",
+        "name": "Southwest Medical Resources",
+        "category": "Hospital",
+        "phone": "+19517293130",
+        "url": "http://www.swmedicalresources.com",
+        "stNo": "1290",
+        "strName": "E Elm St",
+        "stPrefix": "E",
+        "stName": "ELM",
+        "stType": "ST",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91761",
+        "fmtAddr": "1290 E Elm St, Ste B, Ontario, CA  91761, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5576242,
+          34.0631545
+        ]
+      },
+      "properties": {
+        "poi_id": "I6604C9503DB81924",
+        "name": "Central Occupational Medical Providers",
+        "category": "Hospital",
+        "phone": "+19096058888",
+        "url": "https://centraloccupationalmedicineproviders.com",
+        "stNo": "59",
+        "strName": "S Milliken Ave",
+        "stPrefix": "S",
+        "stName": "MILLIKEN",
+        "stType": "AVE",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91761",
+        "fmtAddr": "59 S Milliken Ave, Unit 100, Ontario, CA 91761, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5587883,
+          34.0596154
+        ]
+      },
+      "properties": {
+        "poi_id": "I9B7A0AE6D5D578BC",
+        "name": "Ontario Testing Center",
+        "category": "Hospital",
+        "phone": "+19099373955",
+        "url": "https://www.ontariotestingcenter.com/",
+        "stNo": "402",
+        "strName": "S Milliken Ave",
+        "stPrefix": "S",
+        "stName": "MILLIKEN",
+        "stType": "AVE",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91761",
+        "fmtAddr": "402 S Milliken Ave, Unit E2, Ontario, CA 91761, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6086672,
+          34.0324451
+        ]
+      },
+      "properties": {
+        "poi_id": "I85E3D9F73AF5B9A4",
+        "name": "Kaiser Permanente Ontario Vineyard Medical Offices",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Ontario-Vineyard-Medical-Offices-100024",
+        "stNo": "2295",
+        "strName": "S Vineyard Ave",
+        "stPrefix": "S",
+        "stName": "VINEYARD",
+        "stType": "AVE",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91761",
+        "fmtAddr": "2295 S Vineyard Ave, Ontario, CA  91761, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6096424,
+          34.031867
+        ]
+      },
+      "properties": {
+        "poi_id": "IA66CB2553E8A8D9F",
+        "name": "Kaiser Permanente Ontario Ambulatory Surgery Center",
+        "category": "Hospital",
+        "phone": "+19096092008",
+        "url": "http://www.kp.org",
+        "stNo": "2295",
+        "strName": "S Vineyard Ave",
+        "stPrefix": "S",
+        "stName": "VINEYARD",
+        "stType": "AVE",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91761",
+        "fmtAddr": "2295 S Vineyard Ave, Ontario, CA  91761, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6088601,
+          34.0319625
+        ]
+      },
+      "properties": {
+        "poi_id": "IC3BC2A75EEED90FD",
+        "name": "Kaiser Permanente Ontario Medical Center",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Ontario-Medical-Center-300511",
+        "stNo": "2295",
+        "strName": "S Vineyard Ave",
+        "stPrefix": "S",
+        "stName": "VINEYARD",
+        "stType": "AVE",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91761",
+        "fmtAddr": "2295 S Vineyard Ave, Ontario, CA  91761, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6087651,
+          34.0320547
+        ]
+      },
+      "properties": {
+        "poi_id": "I477BCDD8EC9EA771",
+        "name": "Kaiser Permanente Ontario Medical Center",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Ontario-Medical-Center-300511",
+        "stNo": "2295",
+        "strName": "S Vineyard Ave",
+        "stPrefix": "S",
+        "stName": "VINEYARD",
+        "stType": "AVE",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91761",
+        "fmtAddr": "2295 S Vineyard Ave, Ontario, CA  91761, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6077541,
+          34.0321088
+        ]
+      },
+      "properties": {
+        "poi_id": "IF643D93D1ED57060",
+        "name": "Urgent Care | Kaiser Permanente Ontario Medical Center",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Ontario-Vineyard-Medical-Offices-100024",
+        "stNo": "2295",
+        "strName": "S Vineyard Ave",
+        "stPrefix": "S",
+        "stName": "VINEYARD",
+        "stType": "AVE",
+        "city": "Ontario",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91761",
+        "fmtAddr": "2295 S Vineyard Ave, Ontario, CA  91761, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5736835,
+          34.0975297
+        ]
+      },
+      "properties": {
+        "poi_id": "IF147308A31A8C74B",
+        "name": "Sleep & CPAP Center",
+        "category": "Hospital",
+        "phone": "+19095843764",
+        "url": "http://sleepandcpapcenter.com",
+        "stNo": "8598",
+        "strName": "Utica Ave",
+        "stPrefix": "",
+        "stName": "UTICA",
+        "stType": "AVE",
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91730",
+        "fmtAddr": "8598 Utica Ave, Ste 100, Rancho Cucamonga, CA  91730, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4454912,
+          34.1374805
+        ]
+      },
+      "properties": {
+        "poi_id": "I2579CA7DF4CB0F68",
+        "name": "Alav Medical",
+        "category": "Hospital",
+        "phone": "+19094292404",
+        "stNo": "16465",
+        "strName": "Sierra Lakes Pkwy",
+        "stPrefix": "",
+        "stName": "SIERRA LAKES",
+        "stType": "PKWY",
+        "city": "Fontana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92336",
+        "fmtAddr": "16465 Sierra Lakes Pkwy, Ste 200, Fontana, CA  92336, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3982787,
+          34.0701932
+        ]
+      },
+      "properties": {
+        "poi_id": "I19DDDA0E44F8756B",
+        "name": "Bloomington Community Health Center",
+        "category": "Hospital",
+        "phone": "(909) 546-7560",
+        "url": "https://www.chsica.org/locations/bloomington-community/",
+        "stNo": "18601",
+        "strName": "Valley Blvd",
+        "stPrefix": "",
+        "stName": "VALLEY",
+        "stType": "BLVD",
+        "city": "Bloomington",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92316",
+        "fmtAddr": "18601 Valley Blvd, Bloomington, CA  92316, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4325019,
+          34.0725642
+        ]
+      },
+      "properties": {
+        "poi_id": "IA8A86A9ACC19F804",
+        "name": "Kaiser Permanente Fontana Medical Center",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Fontana-Medical-Center-100127",
+        "stNo": "9961",
+        "strName": "Sierra Ave",
+        "stPrefix": "",
+        "stName": "SIERRA",
+        "stType": "AVE",
+        "city": "Fontana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92335",
+        "fmtAddr": "9961 Sierra Ave, Fontana, CA  92335, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4323034,
+          34.0712845
+        ]
+      },
+      "properties": {
+        "poi_id": "I2F994878B9C4462B",
+        "name": "Kaiser Permanente Fontana Emergency Department",
+        "category": "Hospital",
+        "phone": "+19094275000",
+        "url": "http://www.kaiserpermanente.org",
+        "stNo": "9961",
+        "strName": "Sierra Ave",
+        "stPrefix": "",
+        "stName": "SIERRA",
+        "stType": "AVE",
+        "city": "Fontana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92335",
+        "fmtAddr": "9961 Sierra Ave, Fontana, CA  92335, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2989957,
+          34.0966217
+        ]
+      },
+      "properties": {
+        "poi_id": "ICF88BE6548857787",
+        "name": "Loma Linda University Medical-San Bernardino Campus",
+        "category": "Hospital",
+        "phone": "+18555581100",
+        "url": "http://lomalindauniversityhealth.org/sanbernardino",
+        "stNo": "250",
+        "strName": "S G St",
+        "stPrefix": "S",
+        "stName": "G",
+        "stType": "ST",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92410",
+        "fmtAddr": "250 S G St, San Bernardino, CA  92410, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2922472,
+          34.1336698
+        ]
+      },
+      "properties": {
+        "poi_id": "IEF0D4A665278E006",
+        "name": "United Medical Center",
+        "category": "Hospital",
+        "phone": "+19098837777",
+        "url": "http://united-medicalcenter.com/",
+        "stNo": "1996",
+        "strName": "N D St",
+        "stPrefix": "N",
+        "stName": "D",
+        "stType": "ST",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92405",
+        "fmtAddr": "1996 N D St, San Bernardino, CA  92405, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.300538,
+          34.123871
+        ]
+      },
+      "properties": {
+        "poi_id": "IBD33149798A8BADA",
+        "name": "H Street Clinic",
+        "category": "Hospital",
+        "phone": "+19093810803",
+        "url": "http://communityclinicassociation.org",
+        "stNo": "1329",
+        "strName": "N H St",
+        "stPrefix": "N",
+        "stName": "H",
+        "stType": "ST",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92405",
+        "fmtAddr": "1329 N H St, San Bernardino, CA  92405, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.314129,
+          34.075377
+        ]
+      },
+      "properties": {
+        "poi_id": "I5E5D20D56FBB3B55",
+        "name": "Clinica Medica Familiar",
+        "category": "Hospital",
+        "phone": "+19092540808",
+        "url": "http://cmf1.com",
+        "stNo": "1059",
+        "strName": "N Mount Vernon Ave",
+        "stPrefix": "",
+        "stName": "N",
+        "stType": "MT",
+        "city": "Colton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92324",
+        "fmtAddr": "1059 N Mount Vernon Ave, Colton, CA  92324, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3513224,
+          34.0737203
+        ]
+      },
+      "properties": {
+        "poi_id": "I278F28A180BC67AD",
+        "name": "Arrowhead Regional Medical Center",
+        "category": "Hospital",
+        "phone": "+18778732762",
+        "url": "https://www.arrowheadregional.org/our-locations/arrowhead-regional-medical-center/",
+        "stNo": "400",
+        "strName": "N Pepper Ave",
+        "stPrefix": "N",
+        "stName": "PEPPER",
+        "stType": "AVE",
+        "city": "Colton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92324",
+        "fmtAddr": "400 N Pepper Ave, Colton, CA  92324, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3513224,
+          34.0737203
+        ]
+      },
+      "properties": {
+        "poi_id": "I3DDC1E9D2AE3C1DE",
+        "name": "City of Hope Colton",
+        "category": "Hospital",
+        "phone": "+19095802775",
+        "url": "https://www.cityofhope.org",
+        "stNo": "400",
+        "strName": "N Pepper Ave",
+        "stPrefix": "N",
+        "stName": "PEPPER",
+        "stType": "AVE",
+        "city": "Colton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92324",
+        "fmtAddr": "400 N Pepper Ave, Colton, CA 92324, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.350569,
+          34.0744357
+        ]
+      },
+      "properties": {
+        "poi_id": "I13EBD9F276B6838",
+        "name": "Arrowhead Regional Medical Center - Emergency Care",
+        "category": "Hospital",
+        "phone": "+18778732762",
+        "url": "https://www.arrowheadregional.org/services/emergency-medicine/",
+        "stNo": "400",
+        "strName": "N Pepper Ave",
+        "stPrefix": "N",
+        "stName": "PEPPER",
+        "stType": "AVE",
+        "city": "Colton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92324",
+        "fmtAddr": "400 N Pepper Ave, Colton, CA 92324, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3148855,
+          34.0773133
+        ]
+      },
+      "properties": {
+        "poi_id": "IB0D8B8172BADEFD0",
+        "name": "Benchmark Research - Socal",
+        "category": "Hospital",
+        "phone": "+18889029605",
+        "url": "https://www.benchmarkresearch.net",
+        "stNo": "1181",
+        "strName": "N Mount Vernon Ave",
+        "stPrefix": "",
+        "stName": "N",
+        "stType": "MT",
+        "city": "Colton",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92324",
+        "fmtAddr": "1181 N Mount Vernon Ave, Colton, CA  92324, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2052855,
+          34.0365072
+        ]
+      },
+      "properties": {
+        "poi_id": "IE2CBC055D326812B",
+        "name": "Redlands Community Hospital",
+        "category": "Hospital",
+        "phone": "+19093355500",
+        "url": "https://www.redlandshospital.org/",
+        "stNo": "350",
+        "strName": "Terracina Blvd",
+        "stPrefix": "",
+        "stName": "TERRACINA",
+        "stType": "BLVD",
+        "city": "Redlands",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92373",
+        "fmtAddr": "350 Terracina Blvd, Redlands, CA 92373, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2058767,
+          34.036582
+        ]
+      },
+      "properties": {
+        "poi_id": "I1A68FA826B19CE4",
+        "name": "Healogics",
+        "category": "Hospital",
+        "phone": "+19093355616",
+        "url": "https://www.healogics.com/find-wound-care-center/redlands-community-hospital/",
+        "stNo": "350",
+        "strName": "Terracina Blvd",
+        "stPrefix": "",
+        "stName": "TERRACINA",
+        "stType": "BLVD",
+        "city": "Redlands",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92373",
+        "fmtAddr": "350 Terracina Blvd, Redlands, CA  92373, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.20526,
+          34.03819
+        ]
+      },
+      "properties": {
+        "poi_id": "I2A0EE173FBEE398D",
+        "name": "Medical Clinic Of Redlands",
+        "category": "Hospital",
+        "phone": "+19097486569",
+        "url": "http://rymg.com/",
+        "stNo": "255",
+        "strName": "Terracina Blvd",
+        "stPrefix": "",
+        "stName": "TERRACINA",
+        "stType": "BLVD",
+        "city": "Redlands",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92373",
+        "fmtAddr": "255 Terracina Blvd, Unit 101A/B, Redlands, CA 92373, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2780096,
+          34.0560074
+        ]
+      },
+      "properties": {
+        "poi_id": "I9FA31C411E364A8B",
+        "name": "Loma Linda University Occupational Medicine Center",
+        "category": "Hospital",
+        "phone": "+19095586222",
+        "url": "https://lluh.org/locations/loma-linda-university-occupational-medicine-center",
+        "stNo": "328",
+        "strName": "Commercial Rd",
+        "stPrefix": "",
+        "stName": "COMMERCIAL",
+        "stType": "RD",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92408",
+        "fmtAddr": "328 Commercial Rd, Unit 101, San Bernardino, CA  92408, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2640538,
+          34.0496296
+        ]
+      },
+      "properties": {
+        "poi_id": "I56B6405FADD6224B",
+        "name": "Loma Linda University Medical Center",
+        "category": "Hospital",
+        "phone": "+19095584000",
+        "url": "https://lluh.org/locations/loma-linda-university-medical-center",
+        "stNo": "11234",
+        "strName": "Anderson St",
+        "stPrefix": "",
+        "stName": "ANDERSON",
+        "stType": "ST",
+        "city": "Loma Linda",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92354",
+        "fmtAddr": "11234 Anderson St \nLoma Linda, CA 92354\nUnited States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2640906,
+          34.0490467
+        ]
+      },
+      "properties": {
+        "poi_id": "I8CF996F956C097AA",
+        "name": "Pediatric Cardiothoracic",
+        "category": "Hospital",
+        "phone": "+19095588500",
+        "stNo": "11234",
+        "strName": "Anderson St",
+        "stPrefix": "",
+        "stName": "ANDERSON",
+        "stType": "ST",
+        "city": "Loma Linda",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92354",
+        "fmtAddr": "11234 Anderson St, Unit A, Loma Linda, CA  92354, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2629488,
+          34.0489704
+        ]
+      },
+      "properties": {
+        "poi_id": "IE77093BA399C3441",
+        "name": "Loma Linda University Children's Hospital",
+        "category": "Hospital",
+        "phone": "+18775586248",
+        "url": "https://lluch.org/locations/loma-linda-university-childrens-hospital",
+        "stNo": "11234",
+        "strName": "Anderson St",
+        "stPrefix": "",
+        "stName": "ANDERSON",
+        "stType": "ST",
+        "city": "Loma Linda",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92354",
+        "fmtAddr": "11234 Anderson St, Loma Linda, CA  92354, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2009011,
+          34.0466189
+        ]
+      },
+      "properties": {
+        "poi_id": "I58CF90DE28B42FED",
+        "name": "Redlands Free Covid Drive-Thru Testing",
+        "category": "Hospital",
+        "phone": "+19096542199",
+        "stNo": "1269",
+        "strName": "Brookside Ave",
+        "stPrefix": "",
+        "stName": "BROOKSIDE",
+        "stType": "AVE",
+        "city": "Redlands",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92373",
+        "fmtAddr": "1269 Brookside Ave, Redlands, CA  92373, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2711789,
+          34.1274944
+        ]
+      },
+      "properties": {
+        "poi_id": "IF79C9851A6CBD45A",
+        "name": "Children's Assessment Center",
+        "category": "Hospital",
+        "phone": "+19093823535",
+        "url": "http://www.cacsbc.com",
+        "stNo": "700",
+        "strName": "E Gilbert St",
+        "stPrefix": "E",
+        "stName": "GILBERT",
+        "stType": "ST",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92415",
+        "fmtAddr": "700 E Gilbert St, San Bernardino, CA 92415, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.285429,
+          34.06872
+        ]
+      },
+      "properties": {
+        "poi_id": "I54269EF7CE732804",
+        "name": "Inland Pain Medicine",
+        "category": "Hospital",
+        "phone": "+19098872991",
+        "url": "https://inlandpainmedicine.com",
+        "stNo": "1823",
+        "strName": "S Commercenter Dr W",
+        "stPrefix": "S",
+        "stName": "COMMERCENTER",
+        "stType": "DR",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92408",
+        "fmtAddr": "1823 S Commercenter Dr W, Unit B, San Bernardino, CA 92408, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2809265,
+          34.0621137
+        ]
+      },
+      "properties": {
+        "poi_id": "I7EAEA71C1EBE3B80",
+        "name": "Loma Linda University Children's Hospital Pediatric Specialty Clinics",
+        "category": "Hospital",
+        "phone": "+19095584000",
+        "url": "https://lluh.org/locations/loma-linda-university-childrens-hospital-pediatric-specialty-clinics",
+        "stNo": "2195",
+        "strName": "Club Center Dr",
+        "stPrefix": "",
+        "stName": "CLUB CENTER",
+        "stType": "DR",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92408",
+        "fmtAddr": "2195 Club Center Dr, San Bernardino, CA  92408, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2846608,
+          34.0617887
+        ]
+      },
+      "properties": {
+        "poi_id": "I589DD16CF345FFDD",
+        "name": "Loma Linda University Medical Center",
+        "category": "Hospital",
+        "stNo": "101",
+        "strName": "E Redlands Blvd",
+        "stPrefix": "E",
+        "stName": "REDLANDS",
+        "stType": "BLVD",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92408",
+        "fmtAddr": "101 E Redlands Blvd, San Bernardino, CA  92408, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.250024,
+          34.050268
+        ]
+      },
+      "properties": {
+        "poi_id": "I65EC7B87B176145",
+        "name": "Jerry L. Pettis Memorial Veterans' Hospital",
+        "category": "Hospital",
+        "phone": "+19098257084",
+        "url": "https://www.va.gov/find-locations/facility/vha_605",
+        "stNo": "11201",
+        "strName": "Benton St",
+        "stPrefix": "",
+        "stName": "BENTON",
+        "stType": "ST",
+        "city": "Loma Linda",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92357",
+        "fmtAddr": "11201 Benton St, Loma Linda, CA 92357, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2495328,
+          34.047557
+        ]
+      },
+      "properties": {
+        "poi_id": "I42F16736BDBC5E1B",
+        "name": "Loma Linda University Professional Plaza",
+        "category": "Hospital",
+        "phone": "+19095585599",
+        "url": "https://lluh.org/locations/loma-linda-university-professional-plaza",
+        "stNo": "25455",
+        "strName": "Barton Rd",
+        "stPrefix": "",
+        "stName": "BARTON",
+        "stType": "RD",
+        "city": "Loma Linda",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92354",
+        "fmtAddr": "25455 Barton Rd, Unit 102B, Loma Linda, CA 92354, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2515815,
+          34.0470724
+        ]
+      },
+      "properties": {
+        "poi_id": "IC1AAC00F7D773223",
+        "name": "Loma Linda University Medical Center East Campus",
+        "category": "Hospital",
+        "phone": "+19098258601",
+        "url": "https://lluh.org/locations/loma-linda-university-medical-center-east-campus",
+        "stNo": "25333",
+        "strName": "Barton Rd",
+        "stPrefix": "",
+        "stName": "BARTON",
+        "stType": "RD",
+        "city": "Loma Linda",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92354",
+        "fmtAddr": "25333 Barton Rd, Loma Linda, CA 92354, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2640389,
+          34.0703132
+        ]
+      },
+      "properties": {
+        "poi_id": "IFA7BBA7600CE7FB1",
+        "name": "Premier Outpatient Surgery Center",
+        "category": "Hospital",
+        "phone": "+19093702190",
+        "url": "http://premierosc.com",
+        "stNo": "1003",
+        "strName": "E Brier Dr",
+        "stPrefix": "E",
+        "stName": "BRIER",
+        "stType": "DR",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92408",
+        "fmtAddr": "1003 E Brier Dr, Unit 170, San Bernardino, CA  92408, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.274072,
+          34.1350797
+        ]
+      },
+      "properties": {
+        "poi_id": "I1CE7B9B67E8AE6CA",
+        "name": "Baby & Family Center - Dignity Health - St. Bernardine Medical Center",
+        "category": "Hospital",
+        "phone": "+19098814420",
+        "url": "https://locations.dignityhealth.org/baby-and-family-center-at-st-bernardine-medical-center",
+        "stNo": "403",
+        "strName": "E Highland Ave",
+        "stPrefix": "E",
+        "stName": "HIGHLAND",
+        "stType": "AVE",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92404",
+        "fmtAddr": "403 E Highland Ave, San Bernardino, CA  92404, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2767442,
+          34.134461
+        ]
+      },
+      "properties": {
+        "poi_id": "I8B687D6F557D87DB",
+        "name": "Cancer Services at Dignity Health - St. Bernardine Medical Center",
+        "category": "Hospital",
+        "phone": "+19098838711",
+        "url": "https://locations.dignityhealth.org/cancer-services-st-bernardine-medical-center-san-bernardino",
+        "stNo": "2101",
+        "strName": "N Waterman Ave",
+        "stPrefix": "N",
+        "stName": "WATERMAN",
+        "stType": "AVE",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92404",
+        "fmtAddr": "2101 N Waterman Ave, San Bernardino, CA  92404, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2767442,
+          34.134461
+        ]
+      },
+      "properties": {
+        "poi_id": "I20FAD2262C37A667",
+        "name": "Family Birth Center - Dignity Health - St. Bernardine Medical Center",
+        "category": "Hospital",
+        "phone": "+19098838711",
+        "url": "https://locations.dignityhealth.org/maternity-services-st-bernardine-medical-center-san-bernardino",
+        "stNo": "2101",
+        "strName": "N Waterman Ave",
+        "stPrefix": "N",
+        "stName": "WATERMAN",
+        "stType": "AVE",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92404",
+        "fmtAddr": "2101 N Waterman Ave, San Bernardino, CA  92404, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2767442,
+          34.134461
+        ]
+      },
+      "properties": {
+        "poi_id": "I509844EDA2943510",
+        "name": "Stroke Care at Dignity Health - St. Bernardine Medical Center",
+        "category": "Hospital",
+        "phone": "+19094752543",
+        "url": "https://locations.dignityhealth.org/stroke-care-department-st-bernardine-medical-center-san-bernardino",
+        "stNo": "2101",
+        "strName": "N Waterman Ave",
+        "stPrefix": "N",
+        "stName": "WATERMAN",
+        "stType": "AVE",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92404",
+        "fmtAddr": "2101 N Waterman Ave, San Bernardino, CA  92404, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2769767,
+          34.1346571
+        ]
+      },
+      "properties": {
+        "poi_id": "I36A8EB40EBCA4F6B",
+        "name": "Dignity Health - St. Bernardine Medical Center",
+        "category": "Hospital",
+        "phone": "+19098838711",
+        "url": "https://locations.dignityhealth.org/dignity-health-st-bernardine-medical-center",
+        "stNo": "2101",
+        "strName": "N Waterman Ave",
+        "stPrefix": "N",
+        "stName": "WATERMAN",
+        "stType": "AVE",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92404",
+        "fmtAddr": "2101 N Waterman Ave, San Bernardino, CA  92404, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2783875,
+          34.1319604
+        ]
+      },
+      "properties": {
+        "poi_id": "IDE70BCA3DE072211",
+        "name": "Infectious Diseases Of Southern California",
+        "category": "Hospital",
+        "phone": "+19093616180",
+        "url": "https://idofsocal.com",
+        "stNo": "1869",
+        "strName": "N Waterman Ave",
+        "stPrefix": "N",
+        "stName": "WATERMAN",
+        "stType": "AVE",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92404",
+        "fmtAddr": "1869 N Waterman Ave, Ste 200, San Bernardino, CA  92404, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2792362,
+          34.1346844
+        ]
+      },
+      "properties": {
+        "poi_id": "IDC7A450217CB3119",
+        "name": "A&B Medical Clinic Center",
+        "category": "Hospital",
+        "stNo": "2150",
+        "strName": "N Waterman Ave",
+        "stPrefix": "N",
+        "stName": "WATERMAN",
+        "stType": "AVE",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92404",
+        "fmtAddr": "2150 N Waterman Ave, Ste 202, San Bernardino, CA  92404, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3699892,
+          34.0744326
+        ]
+      },
+      "properties": {
+        "poi_id": "I132D07ADCAE4DECE",
+        "name": "Crestview Convalescent Hospital",
+        "category": "Hospital",
+        "phone": "+19098771361",
+        "stNo": "1471",
+        "strName": "S Riverside Ave",
+        "stPrefix": "S",
+        "stName": "RIVERSIDE",
+        "stType": "AVE",
+        "city": "Rialto",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92376",
+        "fmtAddr": "1471 S Riverside Ave, Rialto, CA  92376, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.320947,
+          34.131558
+        ]
+      },
+      "properties": {
+        "poi_id": "I1D4F43DC88A58C75",
+        "name": "Dignity Health - Community Hospital",
+        "category": "Hospital",
+        "phone": "+19095871027",
+        "url": "https://locations.dignityhealth.org/dignity-health-community-hospital-of-san-bernardino",
+        "stNo": "1805",
+        "strName": "Medical Center Dr",
+        "stPrefix": "",
+        "stName": "MEDICAL CENTER",
+        "stType": "DR",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92411",
+        "fmtAddr": "1805 Medical Center Dr, San Bernardino, CA 92411, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3229802,
+          34.1312833
+        ]
+      },
+      "properties": {
+        "poi_id": "I202E3385047A1C76",
+        "name": "San Bernardino Cancer Care Center",
+        "category": "Hospital",
+        "phone": "+19098878800",
+        "url": "https://sbcancercenter.com/",
+        "stNo": "1800",
+        "strName": "N Medical Center Dr",
+        "stPrefix": "N",
+        "stName": "MEDICAL CENTER",
+        "stType": "DR",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92411",
+        "fmtAddr": "1800 N Medical Center Dr, Unit 100, San Bernardino, CA 92411, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3179724,
+          34.1308495
+        ]
+      },
+      "properties": {
+        "poi_id": "ICB93BFBE4AAC248",
+        "name": "Health Education Center at Dignity Health - Community Hospital of San Bernardino",
+        "category": "Hospital",
+        "phone": "+19098061816",
+        "url": "https://locations.dignityhealth.org/health-education-center-community-hospital-of-san-bernardino-san-bernardino",
+        "stNo": "1725",
+        "strName": "N Western Ave",
+        "stPrefix": "N",
+        "stName": "WESTERN",
+        "stType": "AVE",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92411",
+        "fmtAddr": "1725 N Western Ave, Ste 200, San Bernardino, CA  92411, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2203606,
+          34.0489215
+        ]
+      },
+      "properties": {
+        "poi_id": "IA36BC82EA95293AC",
+        "name": "Loma Linda University Surgical Hospital",
+        "category": "Hospital",
+        "phone": "+19095585075",
+        "url": "https://lluh.org/locations/loma-linda-university-surgical-hospital",
+        "stNo": "26780",
+        "strName": "Barton Rd",
+        "stPrefix": "",
+        "stName": "BARTON",
+        "stType": "RD",
+        "city": "Redlands",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92373",
+        "fmtAddr": "26780 Barton Rd, Redlands, CA 92373, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1938715,
+          34.1228945
+        ]
+      },
+      "properties": {
+        "poi_id": "I3828C2346D6D9272",
+        "name": "KetchTalk Speech Therapy",
+        "category": "Hospital",
+        "phone": "+19099134194",
+        "url": "http://www.ketchtalk.com/",
+        "stNo": "7231",
+        "strName": "Boulder Ave",
+        "stPrefix": "",
+        "stName": "BOULDER",
+        "stType": "AVE",
+        "city": "Highland",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92346",
+        "fmtAddr": "7231 Boulder Ave, Highland, CA  92346, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2548179,
+          34.1345616
+        ]
+      },
+      "properties": {
+        "poi_id": "IBB6F078087CFD52E",
+        "name": "Arrowhead Family Health Center - McKee",
+        "category": "Hospital",
+        "phone": "+18554228029",
+        "url": "https://www.arrowheadregional.org/locations/arrowhead-family-health-center-mckee/",
+        "stNo": "1499",
+        "strName": "E Highland Ave",
+        "stPrefix": "E",
+        "stName": "HIGHLAND",
+        "stType": "AVE",
+        "city": "San Bernardino",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92404",
+        "fmtAddr": "1499 E Highland Ave, San Bernardino, CA  92404, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.262047,
+          34.0471457
+        ]
+      },
+      "properties": {
+        "poi_id": "I6540F8116D75653",
+        "name": "LLUMC Department",
+        "category": "Hospital",
+        "phone": "+19095582020",
+        "url": "https://www.yelp.com/biz/llumc-department-loma-linda",
+        "stNo": "11370",
+        "strName": "Anderson St",
+        "stPrefix": "",
+        "stName": "ANDERSON",
+        "stType": "ST",
+        "city": "Loma Linda",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92354",
+        "fmtAddr": "11370 Anderson St, Loma Linda, CA  92354, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2595646,
+          33.9333674
+        ]
+      },
+      "properties": {
+        "poi_id": "IED3DAEB9B98CB9B7",
+        "name": "Alpha Treatment Centers",
+        "category": "Hospital",
+        "phone": "+19512432799",
+        "stNo": "23110",
+        "strName": "Atlantic Cir",
+        "stPrefix": "",
+        "stName": "ATLANTIC",
+        "stType": "CIR",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92553",
+        "fmtAddr": "23110 Atlantic Cir, Ste D, Moreno Valley, CA  92553, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.405276,
+          33.995985
+        ]
+      },
+      "properties": {
+        "poi_id": "I1DCC243B71EF7B89",
+        "name": "Pacific Health And Wellness Clinic",
+        "category": "Hospital",
+        "phone": "+19512489113",
+        "stNo": "5524",
+        "strName": "Mission Blvd",
+        "stPrefix": "",
+        "stName": "MISSION",
+        "stType": "BLVD",
+        "city": "Jurupa Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92509",
+        "fmtAddr": "5524 Mission Blvd, Jurupa Valley, CA  92509, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3383564,
+          33.9935208
+        ]
+      },
+      "properties": {
+        "poi_id": "I487CF264985551D",
+        "name": "Option care health",
+        "category": "Hospital",
+        "phone": "+19517741844",
+        "url": "https://optioncarehealth.com/locations/riverside-ca-2010-iowa-ave",
+        "stNo": "2010",
+        "strName": "Iowa Ave",
+        "stPrefix": "",
+        "stName": "IOWA",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92507",
+        "fmtAddr": "2010 Iowa Ave, Riverside, CA  92507, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.397363,
+          33.938397
+        ]
+      },
+      "properties": {
+        "poi_id": "I6EAC2D7AEAA25FE0",
+        "name": "Riverside Neighborhood Health Center",
+        "category": "Hospital",
+        "phone": "+19513586000",
+        "url": "https://www.ruhealth.org/community-health-centers/locations/riverside",
+        "stNo": "7140",
+        "strName": "Indiana Ave",
+        "stPrefix": "",
+        "stName": "INDIANA",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92504",
+        "fmtAddr": "7140 Indiana Ave, Riverside, CA  92504, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4004208,
+          33.9377697
+        ]
+      },
+      "properties": {
+        "poi_id": "IA69F1489105E946",
+        "name": "Riverside-Nephrology Physicians Inc.",
+        "category": "Hospital",
+        "phone": "+19513431978",
+        "url": "https://riverside-nephrology.com",
+        "stNo": "7275",
+        "strName": "Indiana Ave",
+        "stPrefix": "",
+        "stName": "INDIANA",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92504",
+        "fmtAddr": "7275 Indiana Ave, Riverside, CA  92504, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3959017,
+          33.9429765
+        ]
+      },
+      "properties": {
+        "poi_id": "IC02C6A78D155AF30",
+        "name": "Riverside Medical Clinic",
+        "category": "Hospital",
+        "phone": "+19517823789",
+        "url": "https://www.riversidemedicalclinic.com",
+        "stNo": "7117",
+        "strName": "Brockton Ave",
+        "stPrefix": "",
+        "stName": "BROCKTON",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92506",
+        "fmtAddr": "7117 Brockton Ave, Riverside, CA  92506, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.391063,
+          33.943095
+        ]
+      },
+      "properties": {
+        "poi_id": "I3EB94D3E1519B678",
+        "name": "Lumina Rx & Nutraceuticals",
+        "category": "Hospital",
+        "phone": "+19516823460",
+        "stNo": "6780",
+        "strName": "Indiana Ave",
+        "stPrefix": "",
+        "stName": "INDIANA",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92506",
+        "fmtAddr": "6780 Indiana Ave, Riverside, CA  92506, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.399108,
+          33.9459974
+        ]
+      },
+      "properties": {
+        "poi_id": "I14D5C734645D31CD",
+        "name": "Central Neighborhood Health Foundation - Riverside",
+        "category": "Hospital",
+        "phone": "+19517743050",
+        "url": "https://www.cnhfclinics.org",
+        "stNo": "3750",
+        "strName": "Arlington Ave",
+        "stPrefix": "",
+        "stName": "ARLINGTON",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92506",
+        "fmtAddr": "3750 Arlington Ave, Riverside, CA  92506, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3903215,
+          33.9436982
+        ]
+      },
+      "properties": {
+        "poi_id": "I176A6A74BED47380",
+        "name": "Medpro Services",
+        "category": "Hospital",
+        "phone": "+19517740069",
+        "url": "https://www.medprosi.com/",
+        "stNo": "6700",
+        "strName": "Indiana Ave",
+        "stPrefix": "",
+        "stName": "INDIANA",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92506",
+        "fmtAddr": "6700 Indiana Ave, Ste 205, Riverside, CA  92506, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4695038,
+          33.9047715
+        ]
+      },
+      "properties": {
+        "poi_id": "I67E5656B918230E5",
+        "name": "Kaiser Permanente Riverside Medical Center",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Riverside-Medical-Center-100062",
+        "stNo": "10800",
+        "strName": "Magnolia Ave",
+        "stPrefix": "",
+        "stName": "MAGNOLIA",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92505",
+        "fmtAddr": "10800 Magnolia Ave, Riverside, CA  92505, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4693954,
+          33.9050708
+        ]
+      },
+      "properties": {
+        "poi_id": "IFC6EEBD706CD393E",
+        "name": "Riverside Medical Center",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Riverside-Medical-Center-100062",
+        "stNo": "10800",
+        "strName": "Magnolia Ave",
+        "stPrefix": "",
+        "stName": "MAGNOLIA",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92505",
+        "fmtAddr": "10800 Magnolia Ave, Riverside, CA 92505, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3970248,
+          33.9574851
+        ]
+      },
+      "properties": {
+        "poi_id": "I5C640F30059806CC",
+        "name": "Centro Medico Community Clinic",
+        "category": "Hospital",
+        "phone": "+18442236876",
+        "url": "https://www.centromedicoclinic.com",
+        "stNo": "6281",
+        "strName": "Brockton Ave",
+        "stPrefix": "",
+        "stName": "BROCKTON",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92506",
+        "fmtAddr": "6281 Brockton Ave, Riverside, CA  92506, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3970135,
+          33.9477611
+        ]
+      },
+      "properties": {
+        "poi_id": "I109BA00D6ED30C93",
+        "name": "Oracle Imaging Services",
+        "category": "Hospital",
+        "phone": "+19516824402",
+        "url": "https://www.yelp.com/biz/oracle-imaging-services-riverside",
+        "stNo": "6941",
+        "strName": "Brockton Ave",
+        "stPrefix": "",
+        "stName": "BROCKTON",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92506",
+        "fmtAddr": "6941 Brockton Ave, Riverside, CA  92506, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3962573,
+          33.9629693
+        ]
+      },
+      "properties": {
+        "poi_id": "ID5C3C489875CEAE7",
+        "name": "Institutes Of Health",
+        "category": "Hospital",
+        "phone": "+18002705016",
+        "url": "https://institutesofhealth.org",
+        "stNo": "5885",
+        "strName": "Brockton Ave",
+        "stPrefix": "",
+        "stName": "BROCKTON",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92506",
+        "fmtAddr": "5885 Brockton Ave, Riverside, CA  92506, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4441762,
+          33.9214126
+        ]
+      },
+      "properties": {
+        "poi_id": "I4654B3B4D53A3362",
+        "name": "Magnolia Community Health Center",
+        "category": "Hospital",
+        "phone": "+19513735620",
+        "url": "https://www.chsica.org/locations/magnolia/",
+        "stNo": "9380",
+        "strName": "Magnolia Ave",
+        "stPrefix": "",
+        "stName": "MAGNOLIA",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92503",
+        "fmtAddr": "9380 Magnolia Ave, Riverside, CA  92503, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4373495,
+          33.925055
+        ]
+      },
+      "properties": {
+        "poi_id": "I9D91AE8E17633FA2",
+        "name": "Sherman Indian School Health Clinic",
+        "category": "Hospital",
+        "phone": "+19512766325",
+        "stNo": "9010",
+        "strName": "Magnolia Ave",
+        "stPrefix": "",
+        "stName": "MAGNOLIA",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92503",
+        "fmtAddr": "9010 Magnolia Ave, Riverside, CA 92503, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.439273,
+          33.926883
+        ]
+      },
+      "properties": {
+        "poi_id": "I2CA78EB365FD53BE",
+        "name": "Parkview Community Hospital Medical Center",
+        "category": "Hospital",
+        "phone": "+19516882211",
+        "url": "https://www.pchmc.org",
+        "stNo": "3865",
+        "strName": "Jackson St",
+        "stPrefix": "",
+        "stName": "JACKSON",
+        "stType": "ST",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92503",
+        "fmtAddr": "3865 Jackson St, Riverside, CA 92503, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4597127,
+          33.9190004
+        ]
+      },
+      "properties": {
+        "poi_id": "IDE1AA2B45854B986",
+        "name": "Riverside University Health System - Psychiatry - Emergency and Inpatient Services",
+        "category": "Hospital",
+        "phone": "+19513584700",
+        "url": "https://www.ruhealth.org/medical-center/medical-services/psychiatry-emergency-and-inpatient-services",
+        "stNo": "9990",
+        "strName": "County Farm Rd",
+        "stPrefix": "",
+        "stName": "COUNTY FARM",
+        "stType": "RD",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92503",
+        "fmtAddr": "9990 County Farm Rd, Unit 4, Riverside, CA  92503, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4728266,
+          33.9753149
+        ]
+      },
+      "properties": {
+        "poi_id": "IBE63189FC6D651AA",
+        "name": "Magnolia Women's Center",
+        "category": "Hospital",
+        "phone": "+19516817133",
+        "url": "http://www.magnoliawmsctr.com/",
+        "stNo": "8642",
+        "strName": "Limonite Ave",
+        "stPrefix": "",
+        "stName": "LIMONITE",
+        "stType": "AVE",
+        "city": "Jurupa Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92509",
+        "fmtAddr": "8642 Limonite Ave, Jurupa Valley, CA  92509, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.383548,
+          33.97658
+        ]
+      },
+      "properties": {
+        "poi_id": "I5689BDFA7B8BBD34",
+        "name": "Riverside Outpatient Surgical Institute",
+        "category": "Hospital",
+        "phone": "+19517844088",
+        "url": "https://rosisurgery.com",
+        "stNo": "4500",
+        "strName": "Brockton Ave",
+        "stPrefix": "",
+        "stName": "BROCKTON",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "4500 Brockton Ave, Ste 105, Riverside, CA 92501, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.381204,
+          33.976578
+        ]
+      },
+      "properties": {
+        "poi_id": "I1EA726E4FBF1CCE5",
+        "name": "Riverside Community Hospital",
+        "category": "Hospital",
+        "phone": "+19517883000",
+        "url": "https://www.riversidecommunityhospital.com/",
+        "stNo": "4445",
+        "strName": "Magnolia Ave",
+        "stPrefix": "",
+        "stName": "MAGNOLIA",
+        "stType": "AVE",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92501",
+        "fmtAddr": "4445 Magnolia Ave, Riverside, CA 92501, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5765226,
+          34.0875805
+        ]
+      },
+      "properties": {
+        "poi_id": "IFB38D5780B6C691E",
+        "name": "AKIDO LABS MSO",
+        "category": "Hospital",
+        "phone": "+19095278110",
+        "url": "https://www.akidolabs.com/",
+        "stNo": "9140",
+        "strName": "Haven Ave",
+        "stPrefix": "",
+        "stName": "HAVEN",
+        "stType": "AVE",
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91730",
+        "fmtAddr": "9140 Haven Ave, Rancho Cucamonga, CA  91730, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5762486,
+          34.0881747
+        ]
+      },
+      "properties": {
+        "poi_id": "I9599CF023AA5B331",
+        "name": "Haven Surgery Center",
+        "category": "Hospital",
+        "phone": "+19092955060",
+        "url": "https://www.yelp.com/biz/haven-surgery-center-rancho-cucamonga",
+        "stNo": "9120",
+        "strName": "Haven Ave",
+        "stPrefix": "",
+        "stName": "HAVEN",
+        "stType": "AVE",
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91730",
+        "fmtAddr": "9120 Haven Ave, Ste 102, Rancho Cucamonga, CA  91730, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5684577,
+          34.0782428
+        ]
+      },
+      "properties": {
+        "poi_id": "IDD4506AF9B2DB486",
+        "name": "Kaiser Permanente Regional Office",
+        "category": "Hospital",
+        "phone": "+15622926559",
+        "stNo": "10740",
+        "strName": "E Fourth St",
+        "stPrefix": "E",
+        "stName": "FOURTH",
+        "stType": "ST",
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91730",
+        "fmtAddr": "10740 E Fourth St, Rancho Cucamonga, CA  91730, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5681336,
+          34.0790406
+        ]
+      },
+      "properties": {
+        "poi_id": "I69A9B11E358654B2",
+        "name": "Corvel Corporation",
+        "category": "Hospital",
+        "phone": "+19092573700",
+        "stNo": "10750",
+        "strName": "E Fourth St",
+        "stPrefix": "E",
+        "stName": "FOURTH",
+        "stType": "ST",
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "91730",
+        "fmtAddr": "10750 E Fourth St, Rancho Cucamonga, CA  91730, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1875015,
+          34.0562157
+        ]
+      },
+      "properties": {
+        "poi_id": "I8A2646DA78837617",
+        "name": "Vitality Institute",
+        "category": "Hospital",
+        "phone": "+19095004572",
+        "url": "https://vitalityinstituteofredlands.com",
+        "stNo": "411",
+        "strName": "W State St",
+        "stPrefix": "W",
+        "stName": "STATE",
+        "stType": "ST",
+        "city": "Redlands",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92373",
+        "fmtAddr": "411 W State St, Ste B, Redlands, CA  92373, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2285856,
+          33.9170063
+        ]
+      },
+      "properties": {
+        "poi_id": "IB846BA171E39290D",
+        "name": "Unicare Community Health Center - Moreno Valley",
+        "category": "Hospital",
+        "phone": "+19515718518",
+        "url": "http://www.unicarechc.org",
+        "stNo": "24853",
+        "strName": "Alessandro Blvd",
+        "stPrefix": "",
+        "stName": "ALESSANDRO",
+        "stType": "BLVD",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92553",
+        "fmtAddr": "24853 Alessandro Blvd, Ste 4, Moreno Valley, CA  92553, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1875912,
+          33.8966812
+        ]
+      },
+      "properties": {
+        "poi_id": "I140CCE6A90A9436B",
+        "name": "Kaiser Permanente Moreno Valley Medical Center Medical Office Building 2",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org",
+        "stNo": "27200",
+        "strName": "Iris Ave",
+        "stPrefix": "",
+        "stName": "IRIS",
+        "stType": "AVE",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92555",
+        "fmtAddr": "27200 Iris Ave, Moreno Valley, CA  92555, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.18601,
+          33.897237
+        ]
+      },
+      "properties": {
+        "poi_id": "I4B1608BB3EB0A083",
+        "name": "Kaiser Permanente - Moreno Valley Medical Center",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Moreno-Valley-Medical-Center-300019",
+        "stNo": "27300",
+        "strName": "Iris Ave",
+        "stPrefix": "",
+        "stName": "IRIS",
+        "stType": "AVE",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92555",
+        "fmtAddr": "27300 Iris Ave, Moreno Valley, CA 92555, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1858619,
+          33.896939
+        ]
+      },
+      "properties": {
+        "poi_id": "I663F40E5A27220A5",
+        "name": "Kaiser Permanente Moreno Valley Medical Center",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Moreno-Valley-Medical-Center-300019",
+        "stNo": "27300",
+        "strName": "Iris Ave",
+        "stPrefix": "",
+        "stName": "IRIS",
+        "stType": "AVE",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92555",
+        "fmtAddr": "27300 Iris Ave, Moreno Valley, CA  92555, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2430897,
+          33.9198148
+        ]
+      },
+      "properties": {
+        "poi_id": "I6B73B98DB26B90F5",
+        "name": "Riverside University Health System",
+        "category": "Hospital",
+        "phone": "+18004554942",
+        "url": "https://www.ruhealth.org",
+        "stNo": "13800",
+        "strName": "Heacock St",
+        "stPrefix": "",
+        "stName": "HEACOCK",
+        "stType": "ST",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92553",
+        "fmtAddr": "13800 Heacock St, Unit 125, Moreno Valley, CA  92553, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2680087,
+          33.9166833
+        ]
+      },
+      "properties": {
+        "poi_id": "IB72AA34CB2750DF4",
+        "name": "New Millennium Diagnostics",
+        "category": "Hospital",
+        "stNo": "22635",
+        "strName": "Alessandro Blvd",
+        "stPrefix": "",
+        "stName": "ALESSANDRO",
+        "stType": "BLVD",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92553",
+        "fmtAddr": "22635 Alessandro Blvd, Moreno Valley, CA  92553, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2894597,
+          33.9104928
+        ]
+      },
+      "properties": {
+        "poi_id": "I93EEBA0C5C11679F",
+        "name": "Kaiser Podiatry",
+        "category": "Hospital",
+        "phone": "+18669847483",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Meridian-Medical-Offices-308781",
+        "stNo": "14305",
+        "strName": "Meridian Pkwy",
+        "stPrefix": "",
+        "stName": "MERIDIAN",
+        "stType": "PKWY",
+        "city": "Riverside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92518",
+        "fmtAddr": "14305 Meridian Pkwy, Riverside, CA 92518, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1961097,
+          33.9126725
+        ]
+      },
+      "properties": {
+        "poi_id": "I8B9B3D45BA74352C",
+        "name": "Riverside County Regional Medical Center Emergency Room",
+        "category": "Hospital",
+        "phone": "+19514864000",
+        "url": "http://www.ruhealth.org",
+        "stNo": "26520",
+        "strName": "Cactus Ave",
+        "stPrefix": "",
+        "stName": "CACTUS",
+        "stType": "AVE",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92555",
+        "fmtAddr": "26520 Cactus Ave, Moreno Valley, CA 92555, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.19643,
+          33.911866
+        ]
+      },
+      "properties": {
+        "poi_id": "I6E1668513D81362E",
+        "name": "Riverside University Health System - Medical Center",
+        "category": "Hospital",
+        "phone": "+19514864000",
+        "url": "https://www.ruhealth.org/",
+        "stNo": "26520",
+        "strName": "Cactus Ave",
+        "stPrefix": "",
+        "stName": "CACTUS",
+        "stType": "AVE",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92555",
+        "fmtAddr": "26520 Cactus Ave, Moreno Valley, CA 92555, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.195848,
+          33.9119763
+        ]
+      },
+      "properties": {
+        "poi_id": "I51B517FCBE2524FA",
+        "name": "Hospital",
+        "category": "Hospital",
+        "stNo": "26520",
+        "strName": "Cactus Ave",
+        "stPrefix": "",
+        "stName": "CACTUS",
+        "stType": "AVE",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92555",
+        "fmtAddr": "26520 Cactus Ave, Moreno Valley, CA  92555, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2582417,
+          33.6148063
+        ]
+      },
+      "properties": {
+        "poi_id": "I7D97A15BC914916A",
+        "name": "Elite Clinical Trials",
+        "category": "Hospital",
+        "phone": "+19516781551",
+        "stNo": "34859",
+        "strName": "Frederick St",
+        "stPrefix": "",
+        "stName": "FREDERICK",
+        "stType": "ST",
+        "city": "Wildomar",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92595",
+        "fmtAddr": "34859 Frederick St, Unit 110, Wildomar, CA 92595, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.235948,
+          33.592218
+        ]
+      },
+      "properties": {
+        "poi_id": "IB09E7046C939F629",
+        "name": "Stonebridge Medical Center",
+        "category": "Hospital",
+        "phone": "+19514611548",
+        "stNo": "36310",
+        "strName": "Inland Valley Dr",
+        "stPrefix": "",
+        "stName": "INLAND VALLEY",
+        "stType": "DR",
+        "city": "Wildomar",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92595",
+        "fmtAddr": "36310 Inland Valley Dr, Wildomar, CA  92595, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2359979,
+          33.5921588
+        ]
+      },
+      "properties": {
+        "poi_id": "I9612492B7C9E0083",
+        "name": "Children’s Primary Care Medical Group",
+        "category": "Hospital",
+        "phone": "+19512002220",
+        "url": "https://www.cpcmg.net/locations/wildomar/",
+        "stNo": "36320",
+        "strName": "Inland Valley Dr",
+        "stPrefix": "",
+        "stName": "INLAND VALLEY",
+        "stType": "DR",
+        "city": "Wildomar",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92595",
+        "fmtAddr": "36320 Inland Valley Dr, Ste 203, Wildomar, CA  92595, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2376931,
+          33.5914752
+        ]
+      },
+      "properties": {
+        "poi_id": "I110F134784F833FF",
+        "name": "Southwest Healthcare Inland Valley Hospital",
+        "category": "Hospital",
+        "phone": "+19516771111",
+        "url": "https://southwesthealthcare.com/our-facilities/inland-valley-medical-center/",
+        "stNo": "36485",
+        "strName": "Inland Valley Dr",
+        "stPrefix": "",
+        "stName": "INLAND VALLEY",
+        "stType": "DR",
+        "city": "Wildomar",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92595",
+        "fmtAddr": "36485 Inland Valley Dr, Wildomar, CA 92595, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.239356,
+          33.591502
+        ]
+      },
+      "properties": {
+        "poi_id": "I4686F64045900F57",
+        "name": "Inscriptions Children Clinic",
+        "category": "Hospital",
+        "phone": "+19518133760",
+        "url": "http://www.inscriptionschildren.com",
+        "stNo": "36243",
+        "strName": "Inland Valley Dr",
+        "stPrefix": "",
+        "stName": "INLAND VALLEY",
+        "stType": "DR",
+        "city": "Wildomar",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92595",
+        "fmtAddr": "36243 Inland Valley Dr, Wildomar, CA 92595, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1830082,
+          33.5584103
+        ]
+      },
+      "properties": {
+        "poi_id": "I7224B14B829D9E8E",
+        "name": "Southwest Healthcare Rancho Springs Hospital",
+        "category": "Hospital",
+        "phone": "+19516966000",
+        "url": "https://swhranchosprings.com",
+        "stNo": "25500",
+        "strName": "Medical Center Dr",
+        "stPrefix": "",
+        "stName": "MEDICAL CENTER",
+        "stType": "DR",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92562",
+        "fmtAddr": "25500 Medical Center Dr, Murrieta, CA 92562, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1829605,
+          33.5566994
+        ]
+      },
+      "properties": {
+        "poi_id": "I91349D3281D4AB9B",
+        "name": "Sharp",
+        "category": "Hospital",
+        "phone": "+19515069536",
+        "url": "https://www.sharp.com",
+        "stNo": "25495",
+        "strName": "Medical Center Dr",
+        "stPrefix": "",
+        "stName": "MEDICAL CENTER",
+        "stType": "DR",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92562",
+        "fmtAddr": "25495 Medical Center Dr, Murrieta, CA  92562, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1838839,
+          33.5570282
+        ]
+      },
+      "properties": {
+        "poi_id": "ICC1355658A5034CD",
+        "name": "AVA Vascular",
+        "category": "Hospital",
+        "phone": "+19515746500",
+        "url": "https://avavascular.com",
+        "stNo": "25485",
+        "strName": "Medical Center Dr",
+        "stPrefix": "",
+        "stName": "MEDICAL CENTER",
+        "stType": "DR",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92562",
+        "fmtAddr": "25485 Medical Center Dr, Unit 106, Murrieta, CA 92562, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1838839,
+          33.5570282
+        ]
+      },
+      "properties": {
+        "poi_id": "IDC326F3485473BD1",
+        "name": "Riverside Medical Clinic",
+        "category": "Hospital",
+        "phone": "+19516836370",
+        "url": "https://www.yelp.com/biz/riverside-medical-clinic-murrieta-3",
+        "stNo": "25485",
+        "strName": "Medical Center Dr",
+        "stPrefix": "",
+        "stName": "MEDICAL CENTER",
+        "stType": "DR",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92562",
+        "fmtAddr": "25485 Medical Center Dr, Ste 100, Murrieta, CA  92562, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1737911,
+          33.5264111
+        ]
+      },
+      "properties": {
+        "poi_id": "IEB3F2717D0478F54",
+        "name": "OsteoWellness Center",
+        "category": "Hospital",
+        "phone": "+19514619584",
+        "stNo": "41555",
+        "strName": "Cherry St",
+        "stPrefix": "",
+        "stName": "CHERRY",
+        "stType": "ST",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92562",
+        "fmtAddr": "41555 Cherry St, Murrieta, CA  92562, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1598646,
+          33.5142795
+        ]
+      },
+      "properties": {
+        "poi_id": "I6EF8FBC926EDD496",
+        "name": "Childrens Primary Care Medical Group",
+        "category": "Hospital",
+        "phone": "+19515878116",
+        "url": "https://www.cpcmg.net/locations/jefferson-temecula/",
+        "stNo": "27699",
+        "strName": "Jefferson Ave",
+        "stPrefix": "",
+        "stName": "JEFFERSON",
+        "stType": "AVE",
+        "city": "Temecula",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92590",
+        "fmtAddr": "27699 Jefferson Ave, Unit 102, Temecula, CA  92590, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1578796,
+          33.5133434
+        ]
+      },
+      "properties": {
+        "poi_id": "IAD854DCB3B30191F",
+        "name": "Southwest Healthcare",
+        "category": "Hospital",
+        "phone": "+19512007387",
+        "url": "https://www.southwesthealthcare.com/",
+        "stNo": "27708",
+        "strName": "Jefferson Ave",
+        "stPrefix": "",
+        "stName": "JEFFERSON",
+        "stType": "AVE",
+        "city": "Temecula",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92590",
+        "fmtAddr": "27708 Jefferson Ave, Unit 200, Temecula, CA  92590, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1508503,
+          33.5029634
+        ]
+      },
+      "properties": {
+        "poi_id": "ID8E1D1635BA08824",
+        "name": "North County Endocrine Medical Group",
+        "category": "Hospital",
+        "phone": "+17607431431",
+        "stNo": "27555",
+        "strName": "Ynez Rd",
+        "stPrefix": "",
+        "stName": "YNEZ",
+        "stType": "RD",
+        "city": "Temecula",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92591",
+        "fmtAddr": "27555 Ynez Rd, Ste 130, Temecula, CA  92591, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.161522,
+          33.499493
+        ]
+      },
+      "properties": {
+        "poi_id": "I68E971AA22A603D0",
+        "name": "Youngberg Lifestyle & Nutritional Medicine Clinic",
+        "category": "Hospital",
+        "phone": "+19516769922",
+        "url": "https://dryoungberg.com",
+        "stNo": "28780",
+        "strName": "Single Oak Dr",
+        "stPrefix": "",
+        "stName": "SINGLE OAK",
+        "stType": "DR",
+        "city": "Temecula",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92590",
+        "fmtAddr": "28780 Single Oak Dr, Temecula, CA  92590, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.12978,
+          33.510523
+        ]
+      },
+      "properties": {
+        "poi_id": "I12B844C2930827B3",
+        "name": "Golden State Surrogacy",
+        "category": "Hospital",
+        "phone": "+17604024924",
+        "stNo": "30371",
+        "strName": "Red River Cir",
+        "stPrefix": "",
+        "stName": "RED RIVER",
+        "stType": "CIR",
+        "city": "Temecula",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92591",
+        "fmtAddr": "30371 Red River Cir, Temecula, CA  92591, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.149071,
+          33.565007
+        ]
+      },
+      "properties": {
+        "poi_id": "IADD5D4813729068C",
+        "name": "Cancer Care",
+        "category": "Hospital",
+        "phone": "+17144204326",
+        "stNo": "38256",
+        "strName": "Members Club Dr",
+        "stPrefix": "",
+        "stName": "MEMBERS CLUB",
+        "stType": "DR",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92563",
+        "fmtAddr": "38256 Members Club Dr, Murrieta, CA  92563, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1691382,
+          33.6147918
+        ]
+      },
+      "properties": {
+        "poi_id": "I50FDEE75454DA071",
+        "name": "Loma Linda University Medical Center",
+        "category": "Hospital",
+        "phone": "+19512904000",
+        "url": "https://murrieta.lluh.org/locations/loma-linda-university-medical-center-murrieta",
+        "stNo": "28062",
+        "strName": "Baxter Rd",
+        "stPrefix": "",
+        "stName": "BAXTER",
+        "stType": "RD",
+        "city": "Murrieta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92563",
+        "fmtAddr": "28062 Baxter Rd, Murrieta, CA 92563, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3731469,
+          33.6782359
+        ]
+      },
+      "properties": {
+        "poi_id": "ID9746BF61F365E18",
+        "name": "Paragon Integrated Medical: Patrick Connolly DC, Rodalyn Ulep-Brown, NP",
+        "category": "Hospital",
+        "phone": "+19512452333",
+        "url": "https://www.paragonintegratedmedical.com/",
+        "stNo": "31735",
+        "strName": "Riverside Dr",
+        "stPrefix": "",
+        "stName": "RIVERSIDE",
+        "stType": "DR",
+        "city": "Lake Elsinore",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92530",
+        "fmtAddr": "31735 Riverside Dr, Ste K, Lake Elsinore, CA  92530, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2246146,
+          33.7821971
+        ]
+      },
+      "properties": {
+        "poi_id": "I1CCB355F5626BD75",
+        "name": "Perris Animal Hospital",
+        "category": "Hospital",
+        "phone": "+19516573139",
+        "url": "https://perrisanimalhospital.com",
+        "stNo": "257",
+        "strName": "E Fourth St",
+        "stPrefix": "E",
+        "stName": "FOURTH",
+        "stType": "ST",
+        "city": "Perris",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92570",
+        "fmtAddr": "257 E Fourth St, Perris, CA  92570, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2242282,
+          33.8019619
+        ]
+      },
+      "properties": {
+        "poi_id": "I94F1A7FD1BED19C0",
+        "name": "North County Health Project",
+        "category": "Hospital",
+        "phone": "+19519407418",
+        "stNo": "1675",
+        "strName": "N Perris Blvd",
+        "stPrefix": "N",
+        "stName": "PERRIS",
+        "stType": "BLVD",
+        "city": "Perris",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92571",
+        "fmtAddr": "1675 N Perris Blvd, Perris, CA  92571, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2223269,
+          33.8125027
+        ]
+      },
+      "properties": {
+        "poi_id": "I200E81353DAFE488",
+        "name": "Kindred Hospital Riverside",
+        "category": "Hospital",
+        "phone": "+19514363535",
+        "url": "https://www.kindredhospitals.com/locations/california/riverside",
+        "stNo": "2224",
+        "strName": "Medical Center Dr",
+        "stPrefix": "",
+        "stName": "MEDICAL CENTER",
+        "stType": "DR",
+        "city": "Perris",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92571",
+        "fmtAddr": "2224 Medical Center Dr, Perris, CA  92571, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1680951,
+          33.7192933
+        ]
+      },
+      "properties": {
+        "poi_id": "I393271708249007C",
+        "name": "Menifee Global Medical Center",
+        "category": "Hospital",
+        "phone": "+19516798888",
+        "url": "https://www.menifeeglobalmedicalcenter.com",
+        "stNo": "28400",
+        "strName": "McCall Blvd",
+        "stPrefix": "",
+        "stName": "MCCALL",
+        "stType": "BLVD",
+        "city": "Menifee",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92585",
+        "fmtAddr": "28400 McCall Blvd, Menifee, CA 92585, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1905335,
+          33.7159479
+        ]
+      },
+      "properties": {
+        "poi_id": "IC7E140D5E2FE7866",
+        "name": "Sun City Urgent Care",
+        "category": "Hospital",
+        "phone": "+19516792358",
+        "url": "https://suncitymedicalpartners.com",
+        "stNo": "27830",
+        "strName": "Bradley Rd",
+        "stPrefix": "",
+        "stName": "BRADLEY",
+        "stType": "RD",
+        "city": "Menifee",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92586",
+        "fmtAddr": "27830 Bradley Rd, Menifee, CA  92586, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.194398,
+          33.151249
+        ]
+      },
+      "properties": {
+        "poi_id": "I80C09F4DDA017EDF",
+        "name": "Capalina Clinic",
+        "category": "Hospital",
+        "phone": "+18779773645",
+        "url": "http://www.crchealth.com",
+        "stNo": "1560",
+        "strName": "Capalina Rd",
+        "stPrefix": "",
+        "stName": "CAPALINA",
+        "stType": "RD",
+        "city": "San Marcos",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92069",
+        "fmtAddr": "1560 Capalina Rd, San Marcos, CA  92069, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.198502,
+          33.1448366
+        ]
+      },
+      "properties": {
+        "poi_id": "I6E2DEFD8BD9EF5D8",
+        "name": "TrueCare Older Adult Health Center",
+        "category": "Hospital",
+        "phone": "+17607366767",
+        "url": "https://truecare.org/location/truecare-older-adult-health-center/",
+        "stNo": "1595",
+        "strName": "Grand Ave",
+        "stPrefix": "",
+        "stName": "GRAND",
+        "stType": "AVE",
+        "city": "San Marcos",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92078",
+        "fmtAddr": "1595 Grand Ave, Unit 100, San Marcos, CA  92078, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1208393,
+          33.1222224
+        ]
+      },
+      "properties": {
+        "poi_id": "I5FCF8DFB1EE7022D",
+        "name": "Palomar Hospital",
+        "category": "Hospital",
+        "phone": "+14422815000",
+        "url": "https://www.palomarhealth.org",
+        "stNo": "2185",
+        "strName": "Citracado Pkwy",
+        "stPrefix": "",
+        "stName": "CITRACADO",
+        "stType": "PKWY",
+        "city": "Escondido",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92029",
+        "fmtAddr": "2185 Citracado Pkwy, Escondido, CA  92029, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1211334,
+          33.1222294
+        ]
+      },
+      "properties": {
+        "poi_id": "I9864E04123FDAF8C",
+        "name": "Palomar Medical Center",
+        "category": "Hospital",
+        "phone": "+14422815000",
+        "url": "https://www.palomarhealth.org/facilities/palomar-medical-center/",
+        "stNo": "2185",
+        "strName": "Citracado Pkwy",
+        "stPrefix": "",
+        "stName": "CITRACADO",
+        "stType": "PKWY",
+        "city": "Escondido",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92029",
+        "fmtAddr": "2185 Citracado Pkwy, Escondido, CA 92029, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1701768,
+          33.1295795
+        ]
+      },
+      "properties": {
+        "poi_id": "I15D486158562BB39",
+        "name": "Kaiser Permanente San Marcos Medical Center",
+        "category": "Hospital",
+        "phone": "+18335742273",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/kaiser-permanente-san-marcos-medical-center-139213",
+        "stNo": "360",
+        "strName": "Rush Dr",
+        "stPrefix": "",
+        "stName": "RUSH",
+        "stType": "DR",
+        "city": "San Marcos",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92078",
+        "fmtAddr": "360 Rush Dr, San Marcos, CA  92078, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1702323,
+          33.1297718
+        ]
+      },
+      "properties": {
+        "poi_id": "I26447EC173F3454C",
+        "name": "Kaiser Permanente San Marcos Medical Center",
+        "category": "Hospital",
+        "phone": "+14423857000",
+        "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/Kaiser-Permanente-San-Marcos-Medical-Center-139213",
+        "stNo": "360",
+        "strName": "Rush Dr",
+        "stPrefix": "",
+        "stName": "RUSH",
+        "stType": "DR",
+        "city": "San Marcos",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92078",
+        "fmtAddr": "360 Rush Dr, San Marcos, CA  92078, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3242088,
+          33.1829446
+        ]
+      },
+      "properties": {
+        "poi_id": "I136DD1ABFD45D1BD",
+        "name": "Tri-City Emergency Medical Group",
+        "category": "Hospital",
+        "phone": "+17604391963",
+        "stNo": "3156",
+        "strName": "Vista Way",
+        "stPrefix": "",
+        "stName": "VISTA",
+        "stType": "WAY",
+        "city": "Oceanside",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92056",
+        "fmtAddr": "3156 Vista Way, Unit 410, Oceanside, CA 92056, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0722822,
+          33.1029866
+        ]
+      },
+      "properties": {
+        "poi_id": "I7EDF11570FDA644E",
+        "name": "Hrt Treatments",
+        "category": "Hospital",
+        "phone": "+17606593893",
+        "stNo": "1785",
+        "strName": "S Escondido Blvd",
+        "stPrefix": "S",
+        "stName": "ESCONDIDO",
+        "stType": "BLVD",
+        "city": "Escondido",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92025",
+        "fmtAddr": "1785 S Escondido Blvd, Escondido, CA  92025, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1208065,
+          33.1131423
+        ]
+      },
+      "properties": {
+        "poi_id": "IB75B36B93607AC98",
+        "name": "Madison Medical",
+        "category": "Hospital",
+        "url": "https://www.yelp.com/biz/madison-medical-escondido",
+        "stNo": "1955",
+        "strName": "Citracado Pkwy",
+        "stPrefix": "",
+        "stName": "CITRACADO",
+        "stType": "PKWY",
+        "city": "Escondido",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92029",
+        "fmtAddr": "1955 Citracado Pkwy, Escondido, CA  92029, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1208065,
+          33.1131423
+        ]
+      },
+      "properties": {
+        "poi_id": "I67999AA4E377AE71",
+        "name": "North County Surgical Associates",
+        "category": "Hospital",
+        "phone": "+17604895955",
+        "stNo": "1955",
+        "strName": "Citracado Pkwy",
+        "stPrefix": "",
+        "stName": "CITRACADO",
+        "stType": "PKWY",
+        "city": "Escondido",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92029",
+        "fmtAddr": "1955 Citracado Pkwy, Ste 301, Escondido, CA  92029, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1072014,
+          33.1484655
+        ]
+      },
+      "properties": {
+        "poi_id": "IC2EB7E97CA78AFD2",
+        "name": "Women's Health Boutique",
+        "category": "Hospital",
+        "phone": "+17607465146",
+        "url": "https://www.whbsandiego.com/",
+        "stNo": "1020",
+        "strName": "W El Norte Pkwy",
+        "stPrefix": "W",
+        "stName": "EL NORTE",
+        "stType": "PKWY",
+        "city": "Escondido",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92026",
+        "fmtAddr": "1020 W El Norte Pkwy, Escondido, CA  92026, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0517672,
+          33.1384476
+        ]
+      },
+      "properties": {
+        "poi_id": "I66190B26E7ADBDDD",
+        "name": "Escondido VA Outpatient Clinic",
+        "category": "Hospital",
+        "phone": "+17604667020",
+        "url": "https://www.va.gov/san-diego-health-care/locations/escondido-va-clinic/",
+        "stNo": "2010",
+        "strName": "E Valley Pkwy",
+        "stPrefix": "",
+        "stName": "E",
+        "stType": "VLY",
+        "city": "Escondido",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92027",
+        "fmtAddr": "2010 E Valley Pkwy, Escondido, CA 92027, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0787663,
+          33.0142916
+        ]
+      },
+      "properties": {
+        "poi_id": "IEF92F090EF2B6AE9",
+        "name": "Restorative Health",
+        "category": "Hospital",
+        "phone": "+18582645811",
+        "stNo": "16476",
+        "strName": "Bernardo Center Dr",
+        "stPrefix": "",
+        "stName": "BERNARDO CENTER",
+        "stType": "DR",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92128",
+        "fmtAddr": "16476 Bernardo Center Dr, Ste 200, San Diego, CA  92128, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.076632,
+          33.019632
+        ]
+      },
+      "properties": {
+        "poi_id": "I90407BB4AB44FF0",
+        "name": "San Diego Managed Care",
+        "category": "Hospital",
+        "phone": "+18586751676",
+        "stNo": "11777",
+        "strName": "Bernardo Plaza Ct",
+        "stPrefix": "",
+        "stName": "BERNARDO PLAZA",
+        "stType": "CT",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92128",
+        "fmtAddr": "11777 Bernardo Plaza Ct, Ste 105, San Diego, CA  92128, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0771936,
+          33.020686
+        ]
+      },
+      "properties": {
+        "poi_id": "IA410EF616DC99855",
+        "name": "Coastal Pain & Spinal Diagnostics - Rancho Bernardo",
+        "category": "Hospital",
+        "phone": "+17607537127",
+        "url": "https://www.coastalpaingroup.com",
+        "stNo": "11770",
+        "strName": "Bernardo Plaza Ct",
+        "stPrefix": "",
+        "stName": "BERNARDO PLAZA",
+        "stType": "CT",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92128",
+        "fmtAddr": "11770 Bernardo Plaza Ct, San Diego, CA  92128, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0799255,
+          33.0215689
+        ]
+      },
+      "properties": {
+        "poi_id": "I7126FC1454288492",
+        "name": "Sharp Rees-Stealy Rancho Bernardo",
+        "category": "Hospital",
+        "phone": "+18584992600",
+        "url": "https://www.sharp.com/locations/sharp-rees-stealy-rancho-bernardo-162",
+        "stNo": "16899",
+        "strName": "W Bernardo Dr",
+        "stPrefix": "W",
+        "stName": "BERNARDO",
+        "stType": "DR",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92127",
+        "fmtAddr": "16899 W Bernardo Dr, San Diego, CA  92127, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0726657,
+          33.0215095
+        ]
+      },
+      "properties": {
+        "poi_id": "I72B10C3DE102C08",
+        "name": "US Screening Solutions",
+        "category": "Hospital",
+        "phone": "+18882745884",
+        "stNo": "11956",
+        "strName": "Bernardo Plaza Dr",
+        "stPrefix": "",
+        "stName": "BERNARDO PLAZA",
+        "stType": "DR",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92128",
+        "fmtAddr": "11956 Bernardo Plaza Dr, Ste 348, San Diego, CA  92128, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.08654,
+          33.02189
+        ]
+      },
+      "properties": {
+        "poi_id": "IBFFE106D00787CD5",
+        "name": "UC San Diego Health",
+        "category": "Hospital",
+        "phone": "+18009268273",
+        "url": "https://healthlocations.ucsd.edu/san-diego/16950-via-tazon",
+        "stNo": "16950",
+        "strName": "Via Tazon Ave",
+        "stPrefix": "",
+        "stName": "VIA TAZON",
+        "stType": "AVE",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92127",
+        "fmtAddr": "16950 Via Tazon Ave, San Diego, CA  92127, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0861787,
+          33.0222893
+        ]
+      },
+      "properties": {
+        "poi_id": "ID8225DB4BC8A23F0",
+        "name": "Ucsd Medical Offices",
+        "category": "Hospital",
+        "url": "https://www.yelp.com/biz/ucsd-medical-offices-san-diego-2",
+        "stNo": "16950",
+        "strName": "Via Tazon Ave",
+        "stPrefix": "",
+        "stName": "VIA TAZON",
+        "stType": "AVE",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92127",
+        "fmtAddr": "16950 Via Tazon Ave, San Diego, CA  92127, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0861787,
+          33.0222893
+        ]
+      },
+      "properties": {
+        "poi_id": "I5A16BC45B35B9DED",
+        "name": "UC San Diego Health Obstetrics and Gynecology – Rancho Bernardo",
+        "category": "Hospital",
+        "phone": "+18586054454",
+        "url": "https://healthlocations.ucsd.edu/san-diego/16950-via-tazon",
+        "stNo": "16950",
+        "strName": "Via Tazon Ave",
+        "stPrefix": "",
+        "stName": "VIA TAZON",
+        "stType": "AVE",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92127",
+        "fmtAddr": "16950 Via Tazon Ave, San Diego, CA  92127, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0776785,
+          32.9890021
+        ]
+      },
+      "properties": {
+        "poi_id": "I6A42E6D45B4E1C27",
+        "name": "Scripps",
+        "category": "Hospital",
+        "phone": "+18582408974",
+        "url": "https://campaigns.scripps.org/locations/scripps-clinic/scripps-c",
+        "stNo": "15004",
+        "strName": "Innovation Dr",
+        "stPrefix": "",
+        "stName": "INNOVATION",
+        "stType": "DR",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92128",
+        "fmtAddr": "15004 Innovation Dr, San Diego, CA  92128, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0776614,
+          32.9889401
+        ]
+      },
+      "properties": {
+        "poi_id": "IE9A7CFC3868FB247",
+        "name": "Scripps Clinic Rancho Bernardo Ambulatory Surgery Center",
+        "category": "Hospital",
+        "phone": "+18582519098",
+        "url": "https://www.scripps.org/SCRBambulatorysurgerycenter-gmb",
+        "stNo": "15004",
+        "strName": "Innovation Dr",
+        "stPrefix": "",
+        "stName": "INNOVATION",
+        "stType": "DR",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92128",
+        "fmtAddr": "15004 Innovation Dr, San Diego, CA  92128, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0966184,
+          33.0190555
+        ]
+      },
+      "properties": {
+        "poi_id": "I85F6B0EC0BFFF920",
+        "name": "Fresenius Medical Care",
+        "category": "Hospital",
+        "phone": "+18584855599",
+        "url": "http://www.fmc-ag.com",
+        "stNo": "16818",
+        "strName": "Via del Campo Ct",
+        "stPrefix": "",
+        "stName": "VIA DEL CAMPO",
+        "stType": "CT",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92127",
+        "fmtAddr": "16818 Via del Campo Ct, San Diego, CA  92127, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1017909,
+          33.022181
+        ]
+      },
+      "properties": {
+        "poi_id": "I49E42F966006DC8B",
+        "name": "Scripps Business Services",
+        "category": "Hospital",
+        "phone": "+18587845888",
+        "url": "https://www.scripps.org",
+        "stNo": "10790",
+        "strName": "Rancho Bernardo Rd",
+        "stPrefix": "",
+        "stName": "RANCHO BERNARDO",
+        "stType": "RD",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92127",
+        "fmtAddr": "10790 Rancho Bernardo Rd, San Diego, CA  92127, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0553579,
+          32.9970116
+        ]
+      },
+      "properties": {
+        "poi_id": "I24916AF0904CAB79",
+        "name": "Palomar Medical Center Poway",
+        "category": "Hospital",
+        "phone": "+18586134000",
+        "url": "https://www.palomarhealth.org",
+        "stNo": "15615",
+        "strName": "Pomerado Rd",
+        "stPrefix": "",
+        "stName": "POMERADO",
+        "stType": "RD",
+        "city": "Poway",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92064",
+        "fmtAddr": "15615 Pomerado Rd, Poway, CA 92064, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0574531,
+          33.0003895
+        ]
+      },
+      "properties": {
+        "poi_id": "ID1294C6A56130C07",
+        "name": "Children’s Primary Care Medical Group Gateway",
+        "category": "Hospital",
+        "phone": "+18586733340",
+        "url": "https://www.cpcmg.net/locations/gateway/",
+        "stNo": "15725",
+        "strName": "Pomerado Rd",
+        "stPrefix": "",
+        "stName": "POMERADO",
+        "stType": "RD",
+        "city": "Poway",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92064",
+        "fmtAddr": "15725 Pomerado Rd, Poway, CA  92064, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.178892,
+          32.879711
+        ]
+      },
+      "properties": {
+        "poi_id": "IE4C96A08E7D8225D",
+        "name": "MRI Scan Group",
+        "category": "Hospital",
+        "phone": "+18666748840",
+        "stNo": "8390",
+        "strName": "Miramar Pl",
+        "stPrefix": "",
+        "stName": "MIRAMAR",
+        "stType": "PL",
+        "city": "San Diego",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92121",
+        "fmtAddr": "8390 Miramar Pl, San Diego, CA  92121, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1115649,
+          33.47827
+        ]
+      },
+      "properties": {
+        "poi_id": "IF0D42322DF445D59",
+        "name": "United Medical Doctors - Temecula",
+        "category": "Hospital",
+        "phone": "+19513033718",
+        "url": "http://www.unitedmd.com",
+        "stNo": "31469",
+        "strName": "Rancho Pueblo Rd",
+        "stPrefix": "",
+        "stName": "RANCHO PUEBLO",
+        "stType": "RD",
+        "city": "Temecula",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92592",
+        "fmtAddr": "31469 Rancho Pueblo Rd, Unit 101, Temecula, CA 92592, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1059483,
+          33.4811336
+        ]
+      },
+      "properties": {
+        "poi_id": "IA657C86DAB9EE885",
+        "name": "Temecula Valley Hospital",
+        "category": "Hospital",
+        "phone": "+19513312200",
+        "url": "https://www.temeculavalleyhospital.com",
+        "stNo": "31700",
+        "strName": "Temecula Pkwy",
+        "stPrefix": "",
+        "stName": "TEMECULA",
+        "stType": "PKWY",
+        "city": "Temecula",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92592",
+        "fmtAddr": "31700 Temecula Pkwy, Temecula, CA 92592, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9545208,
+          33.7707299
+        ]
+      },
+      "properties": {
+        "poi_id": "I3A25C02B2159F1A4",
+        "name": "Rapid STD/HIV Testing Center",
+        "category": "Hospital",
+        "phone": "+18883862346",
+        "stNo": "1695",
+        "strName": "S San Jacinto Ave",
+        "stPrefix": "S",
+        "stName": "SAN JACINTO",
+        "stType": "AVE",
+        "city": "San Jacinto",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92583",
+        "fmtAddr": "1695 S San Jacinto Ave, Ste F, San Jacinto, CA  92583, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0300055,
+          34.112068
+        ]
+      },
+      "properties": {
+        "poi_id": "IBF9BB55E6A62DDB8",
+        "name": "MCL Health Management",
+        "category": "Hospital",
+        "phone": "+17145474070",
+        "url": "https://www.yelp.com/biz/mcl-health-management-santa-ana",
+        "stNo": "92711",
+        "strName": "Warm Springs Truck Rd",
+        "stPrefix": "",
+        "stName": "WARM SPRINGS TRUCK",
+        "stType": "RD",
+        "city": "Mentone",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92359",
+        "fmtAddr": "92711 Warm Springs Truck Rd, Mentone, CA  92359, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1686906,
+          34.2653565
+        ]
+      },
+      "properties": {
+        "poi_id": "I55CAE35FD829B116",
+        "name": "Mountains Community Hospital",
+        "category": "Hospital",
+        "phone": "+19093363651",
+        "url": "http://www.mchcares.com/",
+        "stNo": "29101",
+        "strName": "Hospital Rd",
+        "stPrefix": "",
+        "stName": "HOSPITAL",
+        "stType": "RD",
+        "city": "Lake Arrowhead",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92352",
+        "fmtAddr": "29101 Hospital Rd, Lake Arrowhead, CA  92352, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2932016,
+          34.5282833
+        ]
+      },
+      "properties": {
+        "poi_id": "I9575441D243B44AE",
+        "name": "Victor Valley Global Medical Center",
+        "category": "Hospital",
+        "phone": "+17602458691",
+        "url": "https://victorvalleyglobalmedicalcenter.com",
+        "stNo": "15248",
+        "strName": "11th St",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "Victorville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92395",
+        "fmtAddr": "15248 11th St, Victorville, CA 92395, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.329827,
+          34.5105041
+        ]
+      },
+      "properties": {
+        "poi_id": "I595B05189BEA0658",
+        "name": "Keystone Industrial Medicine",
+        "category": "Hospital",
+        "phone": "+19094533255",
+        "stNo": "14297",
+        "strName": "Amargosa Rd",
+        "stPrefix": "",
+        "stName": "AMARGOSA",
+        "stType": "RD",
+        "city": "Victorville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92392",
+        "fmtAddr": "14297 Amargosa Rd, Victorville, CA  92392, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2466663,
+          34.4654522
+        ]
+      },
+      "properties": {
+        "poi_id": "I8B5B1924AC336A1F",
+        "name": "Choice Medical Group",
+        "category": "Hospital",
+        "phone": "+17602427777",
+        "url": "https://www.choicemg.com",
+        "stNo": "19111",
+        "strName": "Town Center Dr",
+        "stPrefix": "",
+        "stName": "TOWN CENTER",
+        "stType": "DR",
+        "city": "Apple Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92308",
+        "fmtAddr": "19111 Town Center Dr, Apple Valley, CA 92308, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2920581,
+          34.4773329
+        ]
+      },
+      "properties": {
+        "poi_id": "IA43CF3EF9ABEA8C4",
+        "name": "Heritage Victor Valley Medical Group",
+        "category": "Hospital",
+        "phone": "+18006559999",
+        "stNo": "12408",
+        "strName": "Hesperia Rd",
+        "stPrefix": "",
+        "stName": "HESPERIA",
+        "stType": "RD",
+        "city": "Victorville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92395",
+        "fmtAddr": "12408 Hesperia Rd, Ste 2, Victorville, CA  92395, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2648705,
+          34.5448537
+        ]
+      },
+      "properties": {
+        "poi_id": "I399A40613A76D51D",
+        "name": "Mojave Radiation Oncology Center",
+        "category": "Hospital",
+        "phone": "+17602429999",
+        "url": "https://mojavecancercenter.com/",
+        "stNo": "18280",
+        "strName": "Siskiyou Rd",
+        "stPrefix": "",
+        "stName": "SISKIYOU",
+        "stType": "RD",
+        "city": "Apple Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92307",
+        "fmtAddr": "18280 Siskiyou Rd, Apple Valley, CA  92307, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2691952,
+          34.5441356
+        ]
+      },
+      "properties": {
+        "poi_id": "I3198FA78D4764E33",
+        "name": "Ontario Interventional Center",
+        "category": "Hospital",
+        "phone": "+17605151000",
+        "url": "https://www.yelp.com/biz/provascularmd-apple-valley-5",
+        "stNo": "16133",
+        "strName": "Kamana Rd",
+        "stPrefix": "",
+        "stName": "KAMANA",
+        "stType": "RD",
+        "city": "Apple Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92307",
+        "fmtAddr": "16133 Kamana Rd, Apple Valley, CA  92307, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2704641,
+          34.5430582
+        ]
+      },
+      "properties": {
+        "poi_id": "I5C750209BBC5020",
+        "name": "Providence St. Mary Medical Center",
+        "category": "Hospital",
+        "phone": "+17602422111",
+        "url": "https://www.providence.org/locations/socal/st-mary-medical-center/center-for-wound-care-and-hyperbaric-medicine",
+        "stNo": "16077",
+        "strName": "Kamana Rd",
+        "stPrefix": "",
+        "stName": "KAMANA",
+        "stType": "RD",
+        "city": "Apple Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92307",
+        "fmtAddr": "16077 Kamana Rd, Apple Valley, CA  92307, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3926544,
+          34.5073447
+        ]
+      },
+      "properties": {
+        "poi_id": "I5994127CDDEC9170",
+        "name": "Shiloh Medical Center",
+        "category": "Hospital",
+        "phone": "+17608435866",
+        "url": "https://shilohmedical.health",
+        "stNo": "12384",
+        "strName": "Palmdale Rd",
+        "stPrefix": "",
+        "stName": "PALMDALE",
+        "stType": "RD",
+        "city": "Victorville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92392",
+        "fmtAddr": "12384 Palmdale Rd, Ste 203, Victorville, CA  92392, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.292181,
+          34.527812
+        ]
+      },
+      "properties": {
+        "poi_id": "IDFA832C6A0F33130",
+        "name": "Aspen Pediatric Clinic Inc",
+        "category": "Hospital",
+        "phone": "+17609519985",
+        "url": "http://www.aspenpediatrics.com",
+        "stNo": "15203",
+        "strName": "11th St",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "Victorville",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92395",
+        "fmtAddr": "15203 11th St, Victorville, CA  92395, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.261675,
+          34.540098
+        ]
+      },
+      "properties": {
+        "poi_id": "IBF02036B4896E92B",
+        "name": "Bella Vita Apple Valley",
+        "category": "Hospital",
+        "url": "https://bellavitaapplevalley.com/",
+        "stNo": "18400",
+        "strName": "CA-18 W",
+        "stPrefix": "",
+        "stName": "CA-18",
+        "stType": "",
+        "city": "Apple Valley",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92307",
+        "fmtAddr": "18400 CA-18 W, Ste B, Apple Valley, CA  92307, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.017843,
+          34.8936037
+        ]
+      },
+      "properties": {
+        "poi_id": "IB7B5CAA552AE0BA0",
+        "name": "Barstow Women's Medical Center",
+        "category": "Hospital",
+        "phone": "+17602566680",
+        "stNo": "801",
+        "strName": "E Mountain View St",
+        "stPrefix": "",
+        "stName": "E",
+        "stType": "MTN",
+        "city": "Barstow",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92311",
+        "fmtAddr": "801 E Mountain View St, Ste C, Barstow, CA  92311, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.017851,
+          34.8935747
+        ]
+      },
+      "properties": {
+        "poi_id": "IE1BA51B0F7387FE",
+        "name": "SAC Health",
+        "category": "Hospital",
+        "phone": "+17602483072",
+        "url": "https://www.sachealth.org",
+        "stNo": "801",
+        "strName": "E Mountain View St",
+        "stPrefix": "",
+        "stName": "E",
+        "stType": "MTN",
+        "city": "Barstow",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92311",
+        "fmtAddr": "801 E Mountain View St, Barstow, CA  92311, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9478727,
+          33.919108
+        ]
+      },
+      "properties": {
+        "poi_id": "IEBD74F170145FB5C",
+        "name": "Highland Springs Radiation Medicine",
+        "category": "Hospital",
+        "phone": "+19518493166",
+        "stNo": "81",
+        "strName": "Highland Springs Ave",
+        "stPrefix": "",
+        "stName": "HIGHLAND SPRINGS",
+        "stType": "AVE",
+        "city": "Beaumont",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92223",
+        "fmtAddr": "81 Highland Springs Ave, Beaumont, CA  92223, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9480792,
+          33.9190347
+        ]
+      },
+      "properties": {
+        "poi_id": "I4B7FE75547D841B3",
+        "name": "Loma Linda University Health Beaumont-Banning",
+        "category": "Hospital",
+        "phone": "+18332759355",
+        "url": "https://lluh.org/locations/loma-linda-university-health-beaumont-banning",
+        "stNo": "81",
+        "strName": "S Highland Springs Ave",
+        "stPrefix": "S",
+        "stName": "HIGHLAND SPRINGS",
+        "stType": "AVE",
+        "city": "Beaumont",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92223",
+        "fmtAddr": "81 S Highland Springs Ave, Beaumont, CA 92223, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5459643,
+          33.8398663
+        ]
+      },
+      "properties": {
+        "poi_id": "I115566123AAB10C4",
+        "name": "IR Centers at Urologic Institute",
+        "category": "Hospital",
+        "phone": "+17607947969",
+        "url": "http://www.ircenters.com",
+        "stNo": "1221",
+        "strName": "N Indian Canyon Dr",
+        "stPrefix": "N",
+        "stName": "INDIAN CANYON",
+        "stType": "DR",
+        "city": "Palm Springs",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92262",
+        "fmtAddr": "1221 N Indian Canyon Dr, Palm Springs, CA  92262, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5286161,
+          33.8217074
+        ]
+      },
+      "properties": {
+        "poi_id": "I2410519A362EEA59",
+        "name": "Anne and Kirk Douglas Breast Center",
+        "category": "Hospital",
+        "phone": "+17607734338",
+        "url": "https://eisenhowerhealth.org/locations/?cache=76915089&action=detail&dataref=242&template=",
+        "stNo": "151",
+        "strName": "S Sunrise Way",
+        "stPrefix": "S",
+        "stName": "SUNRISE",
+        "stType": "WAY",
+        "city": "Palm Springs",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92262",
+        "fmtAddr": "151 S Sunrise Way, Palm Springs, CA  92262, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5458763,
+          33.8025352
+        ]
+      },
+      "properties": {
+        "poi_id": "ID07CD93DC1B680F5",
+        "name": "Eisenhower Health Center at Plaza del Sol",
+        "category": "Hospital",
+        "phone": "+17609697770",
+        "url": "https://eisenhowerhealth.org/patients-visitors/locations-directions/?action=loc&utm_source=local-listing&utm_campaign=website-link&abcpdqxyz=36336759&utm_medium=organic&locRef=91",
+        "stNo": "1555",
+        "strName": "S Palm Canyon Dr",
+        "stPrefix": "S",
+        "stName": "PALM CANYON",
+        "stType": "DR",
+        "city": "Palm Springs",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92264",
+        "fmtAddr": "1555 S Palm Canyon Dr, Unit C, Palm Springs, CA 92264, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5113913,
+          33.8262707
+        ]
+      },
+      "properties": {
+        "poi_id": "I328DEAF5A7D6F07D",
+        "name": "Desert Oasis Healthcare Wound Care Clinic",
+        "category": "Hospital",
+        "phone": "+17603208814",
+        "url": "https://www.yelp.com/biz/desert-oasis-healthcare-wound-care-clinic-palm-springs",
+        "stNo": "265",
+        "strName": "N El Cielo Rd",
+        "stPrefix": "N",
+        "stName": "EL CIELO",
+        "stType": "RD",
+        "city": "Palm Springs",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92262",
+        "fmtAddr": "265 N El Cielo Rd, Ste A-101, Palm Springs, CA  92262, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5116339,
+          33.8258191
+        ]
+      },
+      "properties": {
+        "poi_id": "IE3322AF788BF0DDF",
+        "name": "Desert Oasis Healthcare Cardiology Clinic",
+        "category": "Hospital",
+        "phone": "+17609696535",
+        "url": "https://www.yelp.com/biz/desert-oasis-healthcare-cardiology-clinic-palm-springs",
+        "stNo": "255",
+        "strName": "N El Cielo Rd",
+        "stPrefix": "N",
+        "stName": "EL CIELO",
+        "stType": "RD",
+        "city": "Palm Springs",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92262",
+        "fmtAddr": "255 N El Cielo Rd, Ste C326, Palm Springs, CA  92262, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4827992,
+          33.7911102
+        ]
+      },
+      "properties": {
+        "poi_id": "IAA42A065EE67172C",
+        "name": "Banyan Palm Springs",
+        "category": "Hospital",
+        "phone": "+18779599677",
+        "url": "https://www.banyantreatmentcenter.com/facilities/california/palm-springs/",
+        "stNo": "67580",
+        "strName": "Jones Rd",
+        "stPrefix": "",
+        "stName": "JONES",
+        "stType": "RD",
+        "city": "Cathedral City",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92234",
+        "fmtAddr": "67580 Jones Rd, Cathedral City, CA  92234, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4835471,
+          33.7878923
+        ]
+      },
+      "properties": {
+        "poi_id": "IDE1992B0C341F781",
+        "name": "Eisenhower Charles Rechlin Outpatient Treatment Center",
+        "category": "Hospital",
+        "phone": "+17607734300",
+        "url": "https://eisenhowerhealth.org/locations/?cache=on&action=detail&dataref=254&showtype=providers&template=",
+        "stNo": "67555",
+        "strName": "E Palm Canyon Dr",
+        "stPrefix": "E",
+        "stName": "PALM CANYON",
+        "stType": "DR",
+        "city": "Cathedral City",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92234",
+        "fmtAddr": "67555 E Palm Canyon Dr, Ste C-113, Cathedral City, CA  92234, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4597646,
+          33.817456
+        ]
+      },
+      "properties": {
+        "poi_id": "I6B6DA715291FA97E",
+        "name": "Med-Edgz Medical",
+        "category": "Hospital",
+        "phone": "+17608611614",
+        "stNo": "31855",
+        "strName": "Date Palm Dr",
+        "stPrefix": "",
+        "stName": "DATE PALM",
+        "stType": "DR",
+        "city": "Cathedral City",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92234",
+        "fmtAddr": "31855 Date Palm Dr, Cathedral City, CA  92234, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.542722,
+          33.8386432
+        ]
+      },
+      "properties": {
+        "poi_id": "I437F701CECC28D38",
+        "name": "Desert Regional Medical Center",
+        "category": "Hospital",
+        "phone": "+17603236511",
+        "url": "https://www.desertcarenetwork.com",
+        "stNo": "1150",
+        "strName": "N Indian Canyon Dr",
+        "stPrefix": "N",
+        "stName": "INDIAN CANYON",
+        "stType": "DR",
+        "city": "Palm Springs",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92262",
+        "fmtAddr": "1150 N Indian Canyon Dr, Palm Springs, CA 92262, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4748375,
+          33.8162355
+        ]
+      },
+      "properties": {
+        "poi_id": "I7209F92EC24E4CC2",
+        "name": "Pacold Pediatrics and Family Medicine",
+        "category": "Hospital",
+        "phone": "+17603216068",
+        "url": "https://vivienpacoldmd.com/",
+        "stNo": "68100",
+        "strName": "Ramon Rd",
+        "stPrefix": "",
+        "stName": "RAMON",
+        "stType": "RD",
+        "city": "Cathedral City",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92234",
+        "fmtAddr": "68100 Ramon Rd, Cathedral City, CA  92234, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4062721,
+          33.7634408
+        ]
+      },
+      "properties": {
+        "poi_id": "IF55D8D125940D6AD",
+        "name": "Eisenhower Medical Center",
+        "category": "Hospital",
+        "phone": "+17603403911",
+        "url": "https://eisenhowerhealth.org/locations/?action=detail&dataRef=15",
+        "stNo": "39000",
+        "strName": "Bob Hope Dr",
+        "stPrefix": "",
+        "stName": "BOB HOPE",
+        "stType": "DR",
+        "city": "Rancho Mirage",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92270",
+        "fmtAddr": "39000 Bob Hope Dr, Rancho Mirage, CA  92270, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4058113,
+          33.7635512
+        ]
+      },
+      "properties": {
+        "poi_id": "IBED8E1FD9693BBDA",
+        "name": "Healthy Living Resource Center",
+        "category": "Hospital",
+        "phone": "+17605681234",
+        "url": "https://eisenhowerhealth.org/locations/?cache=on&action=detail&dataRef=134&template=",
+        "stNo": "39000",
+        "strName": "Bob Hope Dr",
+        "stPrefix": "",
+        "stName": "BOB HOPE",
+        "stType": "DR",
+        "city": "Rancho Mirage",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92270",
+        "fmtAddr": "39000 Bob Hope Dr, Unit 103, Rancho Mirage, CA  92270, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4058113,
+          33.7635512
+        ]
+      },
+      "properties": {
+        "poi_id": "ICF52E07FA1ABB5C3",
+        "name": "Kidney Institute at Eisenhower Medical Center",
+        "category": "Hospital",
+        "phone": "+17608379696",
+        "url": "http://kidneyinstitutes.com",
+        "stNo": "39000",
+        "strName": "Bob Hope Dr",
+        "stPrefix": "",
+        "stName": "BOB HOPE",
+        "stType": "DR",
+        "city": "Rancho Mirage",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92270",
+        "fmtAddr": "39000 Bob Hope Dr, Ste 103, Rancho Mirage, CA  92270, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4058113,
+          33.7635512
+        ]
+      },
+      "properties": {
+        "poi_id": "I34A6287F525E8D3",
+        "name": "Eisenhower Schnitzer/Novack Breast Center",
+        "category": "Hospital",
+        "phone": "+17607732038",
+        "url": "https://eisenhowerhealth.org/locations/?action=detail&dataref=51",
+        "stNo": "39000",
+        "strName": "Bob Hope Dr",
+        "stPrefix": "",
+        "stName": "BOB HOPE",
+        "stType": "DR",
+        "city": "Rancho Mirage",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92270",
+        "fmtAddr": "39000 Bob Hope Dr, Rancho Mirage, CA  92270, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4058113,
+          33.7635512
+        ]
+      },
+      "properties": {
+        "poi_id": "I5332B9CE7EF9BB4A",
+        "name": "Eisenhower Desert Orthopedic Center",
+        "category": "Hospital",
+        "phone": "+17607734545",
+        "url": "https://eisenhowerhealth.org/locations/?action=detail&dataref=35",
+        "stNo": "39000",
+        "strName": "Bob Hope Dr",
+        "stPrefix": "",
+        "stName": "BOB HOPE",
+        "stType": "DR",
+        "city": "Rancho Mirage",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92270",
+        "fmtAddr": "39000 Bob Hope Dr, Rancho Mirage, CA  92270, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3916171,
+          33.7289574
+        ]
+      },
+      "properties": {
+        "poi_id": "IAB77B8EB09D44FD4",
+        "name": "Achieve Medical Center - Palm Desert",
+        "category": "Hospital",
+        "phone": "+16193877752",
+        "url": "https://www.achievemedicalcenter.com/locations/palm-desert-ca",
+        "stNo": "72980",
+        "strName": "Fred Waring Dr",
+        "stPrefix": "",
+        "stName": "FRED WARING",
+        "stType": "DR",
+        "city": "Palm Desert",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92260",
+        "fmtAddr": "72980 Fred Waring Dr, Unit C, Palm Desert, CA 92260, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3558952,
+          33.7495376
+        ]
+      },
+      "properties": {
+        "poi_id": "IB4747176F08A0AF",
+        "name": "DOHC Primary Care",
+        "category": "Hospital",
+        "phone": "+17608088408",
+        "url": "https://www.yelp.com/biz/dohc-primary-care-palm-desert",
+        "stNo": "41990",
+        "strName": "Cook St",
+        "stPrefix": "",
+        "stName": "COOK",
+        "stType": "ST",
+        "city": "Palm Desert",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92211",
+        "fmtAddr": "41990 Cook St, Unit C302, Palm Desert, CA  92211, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3985787,
+          33.7223981
+        ]
+      },
+      "properties": {
+        "poi_id": "I54A7D64912B45AE9",
+        "name": "Desert Oasis Healthcare",
+        "category": "Hospital",
+        "phone": "+17604040135",
+        "url": "https://www.mydohc.com/locations/profile/?id=3",
+        "stNo": "72605",
+        "strName": "CA-111 S",
+        "stPrefix": "",
+        "stName": "CA-111",
+        "stType": "",
+        "city": "Palm Desert",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92260",
+        "fmtAddr": "72605 CA-111 S, Palm Desert, CA  92260, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3051102,
+          33.7500201
+        ]
+      },
+      "properties": {
+        "poi_id": "I6612AC212ECF6539",
+        "name": "Malek4Medicare",
+        "category": "Hospital",
+        "phone": "+18582452750",
+        "stNo": "41044",
+        "strName": "Woodhaven Dr E",
+        "stPrefix": "",
+        "stName": "WOODHAVEN",
+        "stType": "DR",
+        "city": "Palm Desert",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92211",
+        "fmtAddr": "41044 Woodhaven Dr E, Palm Desert, CA  92211, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3782996,
+          33.7978477
+        ]
+      },
+      "properties": {
+        "poi_id": "I964F008F6FFE794F",
+        "name": "Fady Boules",
+        "category": "Hospital",
+        "phone": "+17602055908",
+        "stNo": "73700",
+        "strName": "Dinah Shore Dr",
+        "stPrefix": "",
+        "stName": "DINAH SHORE",
+        "stType": "DR",
+        "city": "Palm Desert",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92211",
+        "fmtAddr": "73700 Dinah Shore Dr, Palm Desert, CA  92211, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.23286,
+          33.7134
+        ]
+      },
+      "properties": {
+        "poi_id": "IA8703C0AD9674AF6",
+        "name": "St. John’s Community Health Indio Health Center",
+        "category": "Hospital",
+        "phone": "+19097034099",
+        "url": "https://sjch.org/find-a-clinic/",
+        "stNo": "82025",
+        "strName": "CA-111 S",
+        "stPrefix": "",
+        "stName": "CA-111",
+        "stType": "",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "82025 CA-111 S, #101, Indio, CA  92201, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2984426,
+          33.6768164
+        ]
+      },
+      "properties": {
+        "poi_id": "IB20741BF8D18262D",
+        "name": "Desert Oasis Healthcare",
+        "category": "Hospital",
+        "phone": "+17609696536",
+        "url": "https://www.yelp.com/biz/desert-oasis-healthcare-la-quinta",
+        "stNo": "78450",
+        "strName": "Avenida La Fonda",
+        "stPrefix": "",
+        "stName": "AVENIDA",
+        "stType": "LN",
+        "city": "La Quinta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92253",
+        "fmtAddr": "78450 Avenida La Fonda, La Quinta, CA  92253, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.296445,
+          33.715381
+        ]
+      },
+      "properties": {
+        "poi_id": "IB57FD67BC02D494D",
+        "name": "Eisenhower Medical Center",
+        "category": "Hospital",
+        "phone": "+17607777710",
+        "url": "http://emc.org",
+        "stNo": "78401",
+        "strName": "CA-111 S",
+        "stPrefix": "",
+        "stName": "CA-111",
+        "stType": "",
+        "city": "La Quinta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92253",
+        "fmtAddr": "78401 CA-111 S, La Quinta, CA  92253, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2399813,
+          33.7067172
+        ]
+      },
+      "properties": {
+        "poi_id": "I4203305AED792A16",
+        "name": "Radid STD/HIV Testing Center",
+        "category": "Hospital",
+        "phone": "+18669448760",
+        "stNo": "81709",
+        "strName": "Dr Carreon Blvd",
+        "stPrefix": "",
+        "stName": "DR CARREON",
+        "stType": "BLVD",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "81709 Dr Carreon Blvd, Unit E, Indio, CA  92201, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.235874,
+          33.707829
+        ]
+      },
+      "properties": {
+        "poi_id": "IB738557F5CA75FFD",
+        "name": "Desert Oasis Healthcare Wellness Clinic",
+        "category": "Hospital",
+        "phone": "+17609696536",
+        "url": "https://www.yelp.com/biz/desert-oasis-healthcare-wellness-clinic-indio",
+        "stNo": "81880",
+        "strName": "Dr Carreon Blvd",
+        "stPrefix": "",
+        "stName": "DR CARREON",
+        "stType": "BLVD",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "81880 Dr Carreon Blvd, Ste 108, Indio, CA  92201, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2355822,
+          33.7063081
+        ]
+      },
+      "properties": {
+        "poi_id": "ID5A289E93342D9E8",
+        "name": "JFK Memorial Hospital",
+        "category": "Hospital",
+        "phone": "+17603476191",
+        "url": "http://www.jfkmemorialhosp.com",
+        "stNo": "47111",
+        "strName": "Monroe St",
+        "stPrefix": "",
+        "stName": "MONROE",
+        "stType": "ST",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "47111 Monroe St, Indio, CA 92201, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1774172,
+          33.6794972
+        ]
+      },
+      "properties": {
+        "poi_id": "I1954B847C1E9B5C",
+        "name": "Indus Medical Associates",
+        "category": "Hospital",
+        "phone": "+17602020686",
+        "url": "https://indusmedicalassociates.com/pages/home",
+        "stNo": "791",
+        "strName": "Orchard Ave",
+        "stPrefix": "",
+        "stName": "ORCHARD",
+        "stType": "AVE",
+        "city": "Coachella",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92236",
+        "fmtAddr": "791 Orchard Ave, Coachella, CA  92236, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2216842,
+          33.700906
+        ]
+      },
+      "properties": {
+        "poi_id": "ID02979BB9F000F5B",
+        "name": "Telecare Riverside County Psychiatric Health Facility",
+        "category": "Hospital",
+        "phone": "+17608638632",
+        "url": "https://www.telecarecorp.com/riverside-county-phf/",
+        "stNo": "47915",
+        "strName": "Oasis St",
+        "stPrefix": "",
+        "stName": "OASIS",
+        "stType": "ST",
+        "city": "Indio",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92201",
+        "fmtAddr": "47915 Oasis St, Indio, CA  92201, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1850797,
+          33.6919277
+        ]
+      },
+      "properties": {
+        "poi_id": "ID4E0028E67BE857C",
+        "name": "Paredes Medical Corp",
+        "category": "Hospital",
+        "phone": "+17609724704",
+        "stNo": "49201",
+        "strName": "Grapefruit Blvd S",
+        "stPrefix": "",
+        "stName": "GRAPEFRUIT",
+        "stType": "BLVD",
+        "city": "Coachella",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92236",
+        "fmtAddr": "49201 Grapefruit Blvd S, Ste 3, Coachella, CA  92236, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2940133,
+          33.702896
+        ]
+      },
+      "properties": {
+        "poi_id": "I1E5F088F10B5448F",
+        "name": "Institute of Clinical Orthopedics & Neurosciences - La Quinta",
+        "category": "Hospital",
+        "phone": "+17603236511",
+        "url": "https://www.desertcarenetwork.com/locations/detail/advanced-wound-healing-center-at-la-quinta?pagestyle=card",
+        "stNo": "47647",
+        "strName": "Caleo Bay Dr",
+        "stPrefix": "",
+        "stName": "CALEO BAY",
+        "stType": "DR",
+        "city": "La Quinta",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92253",
+        "fmtAddr": "47647 Caleo Bay Dr, Unit 101, La Quinta, CA  92253, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3926311,
+          33.7590298
+        ]
+      },
+      "properties": {
+        "poi_id": "I7F66225A1A39940B",
+        "name": "California Stem Cell Treatment Center - Rancho Mirage",
+        "category": "Hospital",
+        "phone": "+17603460145",
+        "url": "https://stemcellca.com",
+        "stNo": "72780",
+        "strName": "Country Club Dr",
+        "stPrefix": "",
+        "stName": "COUNTRY CLUB",
+        "stType": "DR",
+        "city": "Rancho Mirage",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92270",
+        "fmtAddr": "72780 Country Club Dr, Unit 301, Rancho Mirage, CA  92270, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8672377,
+          33.7540469
+        ]
+      },
+      "properties": {
+        "poi_id": "I3ECCCE41A9D2836",
+        "name": "Orange CSS",
+        "category": "Hospital",
+        "phone": "+18669013212",
+        "url": "https://www.css.ocgov.com/",
+        "stNo": "1055",
+        "strName": "N Main St",
+        "stPrefix": "N",
+        "stName": "MAIN",
+        "stType": "ST",
+        "city": "Santa Ana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92701",
+        "fmtAddr": "1055 N Main St, Santa Ana, CA  92701, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.869958,
+          33.7542454
+        ]
+      },
+      "properties": {
+        "poi_id": "I9180CF7B311F32DD",
+        "name": "SOS-El Sol Wellness Center",
+        "category": "Hospital",
+        "phone": "+19492702100",
+        "url": "http://www.shareourselves.org",
+        "stNo": "1014",
+        "strName": "N Broadway",
+        "stPrefix": "N",
+        "stName": "BROADWAY",
+        "stType": "",
+        "city": "Santa Ana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92701",
+        "fmtAddr": "1014 N Broadway, Santa Ana, CA  92701, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.869958,
+          33.7542454
+        ]
+      },
+      "properties": {
+        "poi_id": "IC5D13943C9173E73",
+        "name": "Share Ourselves",
+        "category": "Hospital",
+        "phone": "+19492702100",
+        "url": "https://www.yelp.com/biz/share-ourselves-santa-ana",
+        "stNo": "1014",
+        "strName": "N Broadway",
+        "stPrefix": "N",
+        "stName": "BROADWAY",
+        "stType": "",
+        "city": "Santa Ana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92701",
+        "fmtAddr": "1014 N Broadway, Santa Ana, CA  92701, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.854012,
+          33.759305
+        ]
+      },
+      "properties": {
+        "poi_id": "ICD7A88886A3475D4",
+        "name": "Lestonnac Free Clinic",
+        "category": "Hospital",
+        "phone": "+17146166498",
+        "url": "http://www.lestonnacfreeclinic.org",
+        "stNo": "1206",
+        "strName": "E 17th St",
+        "stPrefix": "E",
+        "stName": "17TH",
+        "stType": "ST",
+        "city": "Santa Ana",
+        "state": "CA",
+        "state1": "California",
+        "zipCode": "92701",
+        "fmtAddr": "1206 E 17th St, Santa Ana, CA  92701, United States"
+      }
+    }
+  ]
+}

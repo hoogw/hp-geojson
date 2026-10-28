@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "2410",
+        "StreetName": "ZOE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "ZOE AVE",
+        "Address": "2420 ZOE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22954497927452,
+          33.97911199889305
+        ]
+      },
+      "id": 1,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "HouseNum": "2660",
+        "StreetName": "57TH",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "E 57TH ST",
+        "Address": "2660 E 57TH ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22319410355897,
+          33.990595528600075
+        ]
+      },
+      "id": 2,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3211",
+        "StreetName": "SANTA ANA",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90280",
+        "FullName": "SANTA ANA ST",
+        "Address": "3211 SANTA ANA ST 90280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21143041291249,
+          33.964041555656515
+        ]
+      },
+      "id": 3,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "3232",
+        "StreetName": "SATURN",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SATURN AVE",
+        "Address": "3220 SATURN AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20969905674886,
+          33.97598613665101
+        ]
+      },
+      "id": 4,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6000",
+        "StreetName": "SEVILLE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "SEVILLE AVE",
+        "Address": "6000 SEVILLE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22228252768309,
+          33.98700826774362
+        ]
+      },
+      "id": 5,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6055",
+        "StreetName": "CORONA",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "CORONA AVE",
+        "Address": "6055 CORONA AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19577277237389,
+          33.98514936166511
+        ]
+      },
+      "id": 6,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6125",
+        "StreetName": "PINE",
+        "SufDir": "",
+        "StreetType": "AVE",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "PINE AVE",
+        "Address": "6125 PINE AVE 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18998340453263,
+          33.98316948613086
+        ]
+      },
+      "id": 7,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "S",
+        "PreType": "",
+        "HouseNum": "6208",
+        "StreetName": "ALAMEDA",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "S ALAMEDA ST",
+        "Address": "6208 S ALAMEDA ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23557845197065,
+          33.985471937229335
+        ]
+      },
+      "id": 8,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "6361",
+        "StreetName": "COTTAGE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "COTTAGE ST",
+        "Address": "6361 COTTAGE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2342811673353,
+          33.983062110945376
+        ]
+      },
+      "id": 9,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "HouseNum": "7560",
+        "StreetName": "STATE",
+        "SufDir": "",
+        "StreetType": "ST",
+        "UnitType": "",
+        "UnitName": "",
+        "ZipCode": "90255",
+        "FullName": "STATE ST",
+        "Address": "7560 STATE ST 90255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20937790041107,
+          33.96910765413107
+        ]
+      },
+      "id": 10,
+      "type": "Feature"
+    }
+  ]
+}

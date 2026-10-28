@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[-118.22319410355897,33.990595528600075]},"properties":{"FID":0,"PreDir":"E","PreType":" ","HouseNum":"2660","StreetName":"57th","SufDir":" ","StreetType":"St","UnitType":" ","UnitName":" ","ZipCode":"90255","FullName":"E 57th St","Address":"2660 E 57th St 90255"}}]
+}

@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[-118.20969905674886,33.975986136651009]},"properties":{"FID":0,"PreDir":" ","PreType":" ","HouseNum":"3232","StreetName":"Saturn","SufDir":" ","StreetType":"Ave","UnitType":" ","UnitName":" ","ZipCode":"90255","FullName":"Saturn Ave","Address":"3220 Saturn Ave 90255"}}]
+}

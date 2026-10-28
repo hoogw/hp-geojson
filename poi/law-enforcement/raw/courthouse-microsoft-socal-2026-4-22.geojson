@@ -1,0 +1,3000 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.246825,
+          33.986156
+        ]
+      },
+      "properties": {
+        "poi_id": "mAygvx1n-PXK8VjIgIlz8Q",
+        "name": "Los Angeles Superior Court",
+        "stNo": "5935 1/2",
+        "strName": "Makee Avenue",
+        "stPrefix": "",
+        "stName": "MAKEE",
+        "stType": "AVE",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90001",
+        "address": "5935 1/2 Makee Avenue, Los Angeles, CA 90001",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.159973,
+          33.927316
+        ]
+      },
+      "properties": {
+        "poi_id": "Mio-f6bYhqdE3v0M_QlgnA",
+        "name": "Downey Courthouse",
+        "phone": "+1 562-803-7050",
+        "stNo": "7500",
+        "strName": "Imperial Highway",
+        "stPrefix": "",
+        "stName": "IMPERIAL",
+        "stType": "HWY",
+        "city": "DOWNEY",
+        "state": "CA",
+        "zipCode": "90242",
+        "address": "7500 Imperial Highway, Downey, CA 90242",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23947,
+          34.052576
+        ]
+      },
+      "properties": {
+        "poi_id": "ukFlpApxdY8qNjXKjGbgGw",
+        "name": "Roybal",
+        "stNo": "255",
+        "strName": "East Temple Street",
+        "stPrefix": "E",
+        "stName": "TEMPLE",
+        "stType": "ST",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90012",
+        "address": "255 East Temple Street, Los Angeles, CA 90012",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243979,
+          34.041263
+        ]
+      },
+      "properties": {
+        "poi_id": "EaT2KBQCJFWSQKRC9MM8Bg",
+        "name": "ABC Interpreters",
+        "stNo": "618",
+        "strName": "East 6th Street",
+        "stPrefix": "E",
+        "stName": "6TH",
+        "stType": "ST",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90021",
+        "address": "618 East 6th Street, Los Angeles, CA 90021",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2421,
+          33.8941
+        ]
+      },
+      "properties": {
+        "poi_id": "dp2Q9Syy1D5XNbXLtGp9VQ",
+        "name": "Compton Court",
+        "stNo": "1008",
+        "strName": "West 152nd Street",
+        "stPrefix": "W",
+        "stName": "152ND",
+        "stType": "ST",
+        "city": "COMPTON",
+        "state": "CA",
+        "zipCode": "90220",
+        "address": "1008 West 152nd Street, Compton, CA 90220",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23947,
+          34.052576
+        ]
+      },
+      "properties": {
+        "poi_id": "VAi36ZfS9xSch_mGXXS3-w",
+        "name": "United States Bankruptcy Court",
+        "phone": "+1 213-894-3118",
+        "stNo": "255",
+        "strName": "East Temple Street",
+        "stPrefix": "E",
+        "stName": "TEMPLE",
+        "stType": "ST",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90012",
+        "address": "255 East Temple Street, Los Angeles, CA 90012",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.355424,
+          33.964755
+        ]
+      },
+      "properties": {
+        "poi_id": "Sp6hOejsEdXMRachnv6Dpw",
+        "name": "Inglewood Courthouse",
+        "phone": "+1 310-412-8343",
+        "stNo": "1",
+        "strName": "East Regent Street",
+        "stPrefix": "E",
+        "stName": "REGENT",
+        "stType": "ST",
+        "city": "INGLEWOOD",
+        "state": "CA",
+        "zipCode": "90301",
+        "address": "1 East Regent Street, Inglewood, CA 90301",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3554,
+          33.9647
+        ]
+      },
+      "properties": {
+        "poi_id": "s3WW5S5SHCT80YNHsfobAw",
+        "name": "Los Angeles County Sheriff",
+        "stNo": "1",
+        "strName": "East Regent Street",
+        "stPrefix": "E",
+        "stName": "REGENT",
+        "stType": "ST",
+        "city": "INGLEWOOD",
+        "state": "CA",
+        "zipCode": "90301",
+        "address": "1 East Regent Street, Inglewood, CA 90301",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.247164,
+          34.055542
+        ]
+      },
+      "properties": {
+        "poi_id": "HQ7qqurqmHZNH5kAiLmIIQ",
+        "name": "Department 1   Stanley Mosk Civil Court",
+        "phone": "+1 213-974-5425",
+        "url": "www.lasuperiorcourt.org",
+        "stNo": "111",
+        "strName": "North Hill Street",
+        "stPrefix": "",
+        "stName": "NORTH",
+        "stType": "HL",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90012",
+        "address": "111 North Hill Street, Los Angeles, CA 90012",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.241493,
+          34.054991
+        ]
+      },
+      "properties": {
+        "poi_id": "Ad_alvV0nBa2W2skGwxVyw",
+        "name": "Spring Street Courthouse",
+        "phone": "+1 213-310-7000",
+        "url": "www.cacd.uscourts.gov/locations/spring-street-courthouse",
+        "stNo": "312",
+        "strName": "North Spring Street",
+        "stPrefix": "",
+        "stName": "NORTH",
+        "stType": "SPG",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90012",
+        "address": "312 North Spring Street, Los Angeles, CA 90012",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.241259,
+          34.054893
+        ]
+      },
+      "properties": {
+        "poi_id": "qrfdad9JR1saFEQq0iXoQQ",
+        "name": "United States Federal Courthouse",
+        "phone": "+1 213-894-1585",
+        "url": "www.cacd.uscourts.gov",
+        "stNo": "312",
+        "strName": "North Main Street",
+        "stPrefix": "N",
+        "stName": "MAIN",
+        "stType": "ST",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90012",
+        "address": "312 North Main Street, Los Angeles, CA 90012",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.285267,
+          34.063291
+        ]
+      },
+      "properties": {
+        "poi_id": "VcX2yeRTExZQdKqsqHtUug",
+        "name": "Central Civil West Courthouse",
+        "phone": "+1 213-351-8738",
+        "stNo": "600",
+        "strName": "South Commonwealth Avenue",
+        "stPrefix": "S",
+        "stName": "COMMONWEALTH",
+        "stType": "AVE",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90005",
+        "address": "600 South Commonwealth Avenue, Los Angeles, CA 90005",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.206007,
+          34.062738
+        ]
+      },
+      "properties": {
+        "poi_id": "Z7KbSQ0t9rT51JYljTM5Dw",
+        "name": "Eastlake Juvenile Court",
+        "phone": "+1 323-227-4399",
+        "stNo": "1601",
+        "strName": "Eastlake Avenue",
+        "stPrefix": "",
+        "stName": "EASTLAKE",
+        "stType": "AVE",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90033",
+        "address": "1601 Eastlake Avenue, Los Angeles, CA 90033",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2432,
+          34.055
+        ]
+      },
+      "properties": {
+        "poi_id": "ZYwF-vx7KwUxNZWegRZJzQ",
+        "name": "Clara Shortridge Foltz Criminal Justice Center",
+        "stNo": "210",
+        "strName": "West Temple Street",
+        "stPrefix": "W",
+        "stName": "TEMPLE",
+        "stType": "ST",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90012",
+        "address": "210 West Temple Street, Los Angeles, CA 90012",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242619,
+          34.055617
+        ]
+      },
+      "properties": {
+        "poi_id": "WKZNMNmm96qRP64nNFWI5w",
+        "name": "Hall of Justice",
+        "stNo": "211",
+        "strName": "West Temple Street",
+        "stPrefix": "W",
+        "stName": "TEMPLE",
+        "stType": "ST",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90012",
+        "address": "211 West Temple Street, Los Angeles, CA 90012",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.126217,
+          34.091222
+        ]
+      },
+      "properties": {
+        "poi_id": "v5dJ2g7kdEDBCIFexFOmKA",
+        "name": "Alhambra Court House",
+        "phone": "+1 626-293-2100",
+        "stNo": "150",
+        "strName": "West Commonwealth Avenue",
+        "stPrefix": "W",
+        "stName": "COMMONWEALTH",
+        "stType": "AVE",
+        "city": "ALHAMBRA",
+        "state": "CA",
+        "zipCode": "91801",
+        "address": "150 West Commonwealth Avenue, Alhambra, CA 91801",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3188,
+          34.10235
+        ]
+      },
+      "properties": {
+        "poi_id": "auB2BqScX9tKpryf1F_TZw",
+        "name": "L A County Superior Court",
+        "stNo": "5925",
+        "strName": "Hollywood Boulevard",
+        "stPrefix": "",
+        "stName": "HOLLYWOOD",
+        "stType": "BLVD",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90028",
+        "address": "5925 Hollywood Boulevard, Los Angeles, CA 90028",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.152897,
+          34.112509
+        ]
+      },
+      "properties": {
+        "poi_id": "mEaWIijS8usTmWLZtfbKcw",
+        "name": "ABC Interpreters",
+        "phone": "+1 213-249-0788",
+        "stNo": "1130",
+        "strName": "Fremont Avenue",
+        "stPrefix": "",
+        "stName": "FREMONT",
+        "stType": "AVE",
+        "city": "SOUTH PASADENA",
+        "state": "CA",
+        "zipCode": "91030",
+        "address": "1130 Fremont Avenue, South Pasadena, CA 91030",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4139,
+          33.9797
+        ]
+      },
+      "properties": {
+        "poi_id": "5KZ60JzRm0hO2YlR9-XcPQ",
+        "name": "Heaven Vyga",
+        "phone": "+1 323-816-7475",
+        "stNo": "678601",
+        "strName": "Westlawn Avenue",
+        "stPrefix": "",
+        "stName": "WESTLAWN",
+        "stType": "AVE",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90066",
+        "address": "678601 Westlawn Avenue, Los Angeles, CA 90066",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.143635,
+          34.149177
+        ]
+      },
+      "properties": {
+        "poi_id": "mWq_Y5g34EYfT7K3TnYBpA",
+        "name": "Pasadena Courthouse",
+        "phone": "+1 626-396-3300",
+        "stNo": "300",
+        "strName": "East Walnut Street",
+        "stPrefix": "E",
+        "stName": "WALNUT",
+        "stType": "ST",
+        "city": "PASADENA",
+        "state": "CA",
+        "zipCode": "91101",
+        "address": "300 East Walnut Street, Pasadena, CA 91101",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.143584,
+          34.149213
+        ]
+      },
+      "properties": {
+        "poi_id": "skVwZeUshOml8kQc08gY1Q",
+        "name": "Municipal Court Traffic Division",
+        "stNo": "200",
+        "strName": "North Garfield Avenue",
+        "stPrefix": "N",
+        "stName": "GARFIELD",
+        "stType": "AVE",
+        "city": "PASADENA",
+        "state": "CA",
+        "zipCode": "91101",
+        "address": "200 North Garfield Avenue, Pasadena, CA 91101",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.340888,
+          33.838552
+        ]
+      },
+      "properties": {
+        "poi_id": "aUpWfEh60zvWO-cr8TbEcA",
+        "name": "Torrance Courthouse",
+        "phone": "+1 310-787-3699",
+        "stNo": "825",
+        "strName": "Maple Avenue",
+        "stPrefix": "",
+        "stName": "MAPLE",
+        "stType": "AVE",
+        "city": "TORRANCE",
+        "state": "CA",
+        "zipCode": "90503",
+        "address": "825 Maple Avenue, Torrance, CA 90503",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.12031,
+          33.88278
+        ]
+      },
+      "properties": {
+        "poi_id": "f7EJFVcJABD7ineFGTKdcA",
+        "name": "Bellflower Courthouse",
+        "phone": "+1 562-345-3300",
+        "stNo": "10025",
+        "strName": "Flower Street",
+        "stPrefix": "",
+        "stName": "FLOWER",
+        "stType": "ST",
+        "city": "BELLFLOWER",
+        "state": "CA",
+        "zipCode": "90706",
+        "address": "10025 Flower Street, Bellflower, CA 90706",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.071901,
+          33.914736
+        ]
+      },
+      "properties": {
+        "poi_id": "gIINioKRB-cJyK_xSbzGSA",
+        "name": "Norwalk Courthouse",
+        "stNo": "12720",
+        "strName": "Norwalk Boulevard",
+        "stPrefix": "",
+        "stName": "NORWALK",
+        "stType": "BLVD",
+        "city": "NORWALK",
+        "state": "CA",
+        "zipCode": "90650",
+        "address": "12720 Norwalk Boulevard, Norwalk, CA 90650",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0717,
+          33.9149
+        ]
+      },
+      "properties": {
+        "poi_id": "K1CU3tSg6cVGauIbI50gdQ",
+        "name": "LA County Superior Court Department",
+        "phone": "+1 562-345-3700",
+        "stNo": "12720",
+        "strName": "Norwalk Boulevard",
+        "stPrefix": "",
+        "stName": "NORWALK",
+        "stType": "BLVD",
+        "city": "NORWALK",
+        "state": "CA",
+        "zipCode": "90650",
+        "address": "12720 Norwalk Boulevard, Norwalk, CA 90650",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.033081,
+          33.974121
+        ]
+      },
+      "properties": {
+        "poi_id": "zt8f0CVaxqoHMVKM8T2AdA",
+        "name": "Whittier Courthouse",
+        "phone": "+1 562-968-2699",
+        "stNo": "7339",
+        "strName": "Painter Avenue",
+        "stPrefix": "",
+        "stName": "PAINTER",
+        "stType": "AVE",
+        "city": "WHITTIER",
+        "state": "CA",
+        "zipCode": "90602",
+        "address": "7339 Painter Avenue, Whittier, CA 90602",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.040526,
+          33.971273
+        ]
+      },
+      "properties": {
+        "poi_id": "lEE6wsNwTqmVj-JumQITyw",
+        "name": "Eternal Redemptions",
+        "stNo": "7714",
+        "strName": "Newlin Avenue",
+        "stPrefix": "",
+        "stName": "NEWLIN",
+        "stType": "AVE",
+        "city": "WHITTIER",
+        "state": "CA",
+        "zipCode": "90602",
+        "address": "7714 Newlin Avenue, Whittier, CA 90602",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19866,
+          33.76995
+        ]
+      },
+      "properties": {
+        "poi_id": "sLU7Wa7lvAWkEWqsR7yvIw",
+        "name": "Governor George Deukmejian Courthouse",
+        "phone": "+1 562-256-2310",
+        "stNo": "275",
+        "strName": "Magnolia Avenue",
+        "stPrefix": "",
+        "stName": "MAGNOLIA",
+        "stType": "AVE",
+        "city": "LONG BEACH",
+        "state": "CA",
+        "zipCode": "90802",
+        "address": "275 Magnolia Avenue, Long Beach, CA 90802",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92649,
+          33.88178
+        ]
+      },
+      "properties": {
+        "poi_id": "m2W7Yn4ieSMJm0O7sHTzlQ",
+        "name": "Superior Court",
+        "stNo": "1275",
+        "strName": "North Berkeley Avenue",
+        "stPrefix": "N",
+        "stName": "BERKELEY",
+        "stType": "AVE",
+        "city": "FULLERTON",
+        "state": "CA",
+        "zipCode": "92832",
+        "address": "1275 North Berkeley Avenue, Fullerton, CA 92832",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.871523,
+          33.748535
+        ]
+      },
+      "properties": {
+        "poi_id": "X7GZzVRRpZeDALzOgFAZMg",
+        "name": "Ronald Reagan Federal Building   United States Courthouse",
+        "phone": "+1 714-338-4750",
+        "stNo": "411",
+        "strName": "West 4th Street",
+        "stPrefix": "W",
+        "stName": "4TH",
+        "stType": "ST",
+        "city": "SANTA ANA",
+        "state": "CA",
+        "zipCode": "92701",
+        "address": "411 West 4th Street, Santa Ana, CA 92701",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.938346,
+          34.06983
+        ]
+      },
+      "properties": {
+        "poi_id": "Yav6BwEm5bZh47BO9PuY-w",
+        "name": "Los Angeles County Superior Court",
+        "phone": "+1 626-813-3402",
+        "url": "www.lacounty.gov",
+        "stNo": "1427",
+        "strName": "West West Covina Parkway",
+        "stPrefix": "W",
+        "stName": "WEST COVINA",
+        "stType": "PKWY",
+        "city": "WEST COVINA",
+        "state": "CA",
+        "zipCode": "91790",
+        "address": "1427 West West Covina Parkway, West Covina, CA 91790",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.87286,
+          33.74926
+        ]
+      },
+      "properties": {
+        "poi_id": "oVadzPUFxiA4zBIEr4W1VQ",
+        "name": "Court of Appeal",
+        "phone": "+1 714-571-2600",
+        "stNo": "500",
+        "strName": "North Ross Street",
+        "stPrefix": "N",
+        "stName": "ROSS",
+        "stType": "ST",
+        "city": "SANTA ANA",
+        "state": "CA",
+        "zipCode": "92701",
+        "address": "500 North Ross Street, Santa Ana, CA 92701",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.89053,
+          33.784988
+        ]
+      },
+      "properties": {
+        "poi_id": "uc1G9P7w_5nxMiacYeXrpw",
+        "name": "Orange County Court Appointed",
+        "stNo": "301",
+        "strName": "The City Drive South",
+        "stPrefix": "",
+        "stName": "THE CITY",
+        "stType": "DR",
+        "city": "ORANGE",
+        "state": "CA",
+        "zipCode": "92868",
+        "address": "301 The City Drive South, Orange, CA 92868",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.768074,
+          33.701229
+        ]
+      },
+      "properties": {
+        "poi_id": "d17YlurcWL9z_1CmHXQ-0g",
+        "name": "Just in Case",
+        "phone": "+1 949-653-1540",
+        "stNo": "14",
+        "strName": "Carver",
+        "stPrefix": "",
+        "stName": "CARVER",
+        "stType": "",
+        "city": "IRVINE",
+        "state": "CA",
+        "zipCode": "92620",
+        "address": "14 Carver, Irvine, CA 92620",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.808937,
+          33.682419
+        ]
+      },
+      "properties": {
+        "poi_id": "FnlLWFbEcpyZPLie4JEYJQ",
+        "name": "California Divorce Mediators",
+        "phone": "+1 888-258-8383",
+        "url": "www.cadivorcemediators.com",
+        "stNo": "4000",
+        "strName": "Barranca Parkway",
+        "stPrefix": "",
+        "stName": "BARRANCA",
+        "stType": "PKWY",
+        "city": "IRVINE",
+        "state": "CA",
+        "zipCode": "92604",
+        "address": "4000 Barranca Parkway, Irvine, CA 92604",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.834369,
+          33.767424
+        ]
+      },
+      "properties": {
+        "poi_id": "Hyj8vO803t9X8mt5gQ-Mgw",
+        "name": "Digital Response of Orange County",
+        "phone": "+1 714-599-9842",
+        "stNo": "2209",
+        "strName": "East Santa Clara Avenue",
+        "stPrefix": "E",
+        "stName": "SANTA CLARA",
+        "stType": "AVE",
+        "city": "SANTA ANA",
+        "state": "CA",
+        "zipCode": "92705",
+        "address": "2209 East Santa Clara Avenue, Santa Ana, CA 92705",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.711169,
+          33.562563
+        ]
+      },
+      "properties": {
+        "poi_id": "k0_EAUgHo-7nRSBkeC5Vyw",
+        "name": "Federal Building Decatur AL",
+        "strName": "Parking Lot Access Road",
+        "stPrefix": "",
+        "stName": "PARKING LOT ACCESS",
+        "stType": "RD",
+        "city": "LAGUNA NIGUEL",
+        "state": "CA",
+        "zipCode": "92677",
+        "address": "Parking Lot Access Road, Laguna Niguel, CA 92677",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.855637,
+          33.711771
+        ]
+      },
+      "properties": {
+        "poi_id": "Po4dInjAewlUnuL0BF6OQg",
+        "name": "Executive Office of Immigration Review   Santa Ana Immigrati",
+        "phone": "+1 714-481-4900",
+        "stNo": "1241",
+        "strName": "East Dyer Road",
+        "stPrefix": "E",
+        "stName": "DYER",
+        "stType": "RD",
+        "city": "SANTA ANA",
+        "state": "CA",
+        "zipCode": "92705",
+        "address": "1241 East Dyer Road, Santa Ana, CA 92705",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.85604,
+          33.66525
+        ]
+      },
+      "properties": {
+        "poi_id": "cotACP0t6qBRaRFi720lRQ",
+        "name": "Harbor Justice Center Newport Beach",
+        "phone": "+1 657-622-5400",
+        "stNo": "4601",
+        "strName": "Jamboree Road",
+        "stPrefix": "",
+        "stName": "JAMBOREE",
+        "stType": "RD",
+        "city": "NEWPORT BEACH",
+        "state": "CA",
+        "zipCode": "92660",
+        "address": "4601 Jamboree Road, Newport Beach, CA 92660",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.71,
+          33.4674
+        ]
+      },
+      "properties": {
+        "poi_id": "IiaFzkaUQ3gMok2Fkz__Wg",
+        "name": "Dana Point",
+        "stNo": "68",
+        "strName": "Palm Beach Court",
+        "stPrefix": "",
+        "stName": "PALM BEACH",
+        "stType": "CT",
+        "city": "DANA POINT",
+        "state": "CA",
+        "zipCode": "92629",
+        "address": "68 Palm Beach Court, Dana Point, CA 92629",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.169705,
+          33.519877
+        ]
+      },
+      "properties": {
+        "poi_id": "3haWEYPlLMrVZr-EmYKDug",
+        "name": "Redwood City Court Reporting",
+        "stNo": "41689",
+        "strName": "Enterprise Circle North",
+        "stPrefix": "",
+        "stName": "ENTERPRISE",
+        "stType": "CIR",
+        "city": "TEMECULA",
+        "state": "CA",
+        "zipCode": "92590",
+        "address": "41689 Enterprise Circle North, Temecula, CA 92590",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.161431,
+          33.526898
+        ]
+      },
+      "properties": {
+        "poi_id": "ovxyIewh9z7jTm_hBXdyWA",
+        "name": "Superior Court of California",
+        "phone": "+1 951-704-7634",
+        "stNo": "41002",
+        "strName": "County Center Drive",
+        "stPrefix": "",
+        "stName": "COUNTY CENTER",
+        "stType": "DR",
+        "city": "TEMECULA",
+        "state": "CA",
+        "zipCode": "92591",
+        "address": "41002 County Center Drive, Temecula, CA 92591",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.960621,
+          33.276858
+        ]
+      },
+      "properties": {
+        "poi_id": "g9ZlbB4OuP30gQ90M1ijIA",
+        "name": "Intertribal Court of Southern California",
+        "phone": "+1 760-751-4142",
+        "stNo": "49002",
+        "strName": "Golsh Road",
+        "stPrefix": "",
+        "stName": "GOLSH",
+        "stType": "RD",
+        "city": "VALLEY CENTER",
+        "state": "CA",
+        "zipCode": "92082",
+        "address": "49002 Golsh Road, Valley Center, CA 92082",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.166,
+          32.7162
+        ]
+      },
+      "properties": {
+        "poi_id": "q2seQGqC3r57ljOvX1gE5A",
+        "name": "Hall of Justice",
+        "phone": "+1 619-844-2700",
+        "stNo": "330",
+        "strName": "West Broadway",
+        "stPrefix": "W",
+        "stName": "BROADWAY",
+        "stType": "",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92101",
+        "address": "330 West Broadway, San Diego, CA 92101",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.165938,
+          32.714711
+        ]
+      },
+      "properties": {
+        "poi_id": "JMthM2L4FZXBeSEK79HXxg",
+        "name": "Edward J Schwartz US Courthouse",
+        "phone": "+1 619-557-6262",
+        "url": "www.casd.uscourts.gov",
+        "stNo": "221",
+        "strName": "West Broadway",
+        "stPrefix": "W",
+        "stName": "BROADWAY",
+        "stType": "",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92101",
+        "address": "221 West Broadway, San Diego, CA 92101",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.165138,
+          32.715072
+        ]
+      },
+      "properties": {
+        "poi_id": "mZtIz88XMpgQozlv4Cw0eg",
+        "name": "US District Court Judge",
+        "stNo": "940",
+        "strName": "Front Street",
+        "stPrefix": "",
+        "stName": "STREET",
+        "stType": "",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92101",
+        "address": "940 Front Street, San Diego, CA 92101",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.14293,
+          32.755957
+        ]
+      },
+      "properties": {
+        "poi_id": "0eTFhSq7XwwmRvcInTss7w",
+        "name": "US Sales and Services",
+        "phone": "+1 619-299-5448",
+        "stNo": "4328",
+        "strName": "Alabama Street",
+        "stPrefix": "",
+        "stName": "ALABAMA",
+        "stType": "ST",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92104",
+        "address": "4328 Alabama Street, San Diego, CA 92104",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.166,
+          32.7171
+        ]
+      },
+      "properties": {
+        "poi_id": "18CS2JaRHGyCBgj0Fwcf9A",
+        "name": "San Diego County Judge Lorna Alksne",
+        "stNo": "1100",
+        "strName": "Union Street",
+        "stPrefix": "",
+        "stName": "UNION",
+        "stType": "ST",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92101",
+        "address": "1100 Union Street, San Diego, CA 92101",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.166165,
+          32.715244
+        ]
+      },
+      "properties": {
+        "poi_id": "OUMbyJiEjx131-iwYfRLyw",
+        "name": "U S  District Court Southern District of California",
+        "phone": "+1 619-557-5600",
+        "stNo": "333",
+        "strName": "West Broadway",
+        "stPrefix": "W",
+        "stName": "BROADWAY",
+        "stType": "",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92101",
+        "address": "333 West Broadway, San Diego, CA 92101",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16604,
+          32.713306
+        ]
+      },
+      "properties": {
+        "poi_id": "wBZy9e-P3BlQVDATZGT4YA",
+        "name": "US Bankruptcy Court",
+        "phone": "+1 619-557-5620",
+        "stNo": "325",
+        "strName": "Federal Plaza",
+        "stPrefix": "",
+        "stName": "FEDERAL",
+        "stType": "PLZ",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92101",
+        "address": "325 Federal Plaza, San Diego, CA 92101",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0166,
+          32.6957
+        ]
+      },
+      "properties": {
+        "poi_id": "nxGt0rfVdmb8ws7iju3Vyg",
+        "name": "All American Clear",
+        "stNo": "8419",
+        "strName": "Avenida Anguila",
+        "stPrefix": "",
+        "stName": "AVENIDA",
+        "stType": "",
+        "city": "SPRING VALLEY",
+        "state": "CA",
+        "zipCode": "91977",
+        "address": "8419 Avenida Anguila, Spring Valley, CA 91977",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.047772,
+          32.540597
+        ]
+      },
+      "properties": {
+        "poi_id": "rU0xWk7IpXahgQq-dH2CZw",
+        "name": "Delegaci n Zona Norte",
+        "phone": "+52 664 608 7398",
+        "stNo": "191",
+        "strName": "Avenida Jesús González Ortega",
+        "stPrefix": "",
+        "stName": "AVENIDA",
+        "stType": "",
+        "city": "TIJUANA",
+        "state": "BCN",
+        "zipCode": "22000",
+        "address": "Avenida Jesús González Ortega 191, 22000, Tijuana, Baja California",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.01574,
+          32.52103
+        ]
+      },
+      "properties": {
+        "poi_id": "dpRj7OB_AiVTGau8PU8veQ",
+        "name": "Juzgado Quinto de Lo Familiar",
+        "stNo": "10068",
+        "strName": "Avenida Sánchez Taboada",
+        "stPrefix": "",
+        "stName": "AVENIDA",
+        "stType": "",
+        "city": "TIJUANA",
+        "state": "BCN",
+        "zipCode": "22010",
+        "address": "Avenida Sánchez Taboada 10068, 22010, Tijuana, Baja California",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.01494,
+          32.524074
+        ]
+      },
+      "properties": {
+        "poi_id": "Mye6S-fzas_ymmND11VpdQ",
+        "name": "Primer Tribunal Colegiado en Materias Civil y Laboral",
+        "stNo": "2031",
+        "strName": "Calle Doctor ATL",
+        "stPrefix": "",
+        "stName": "CALLE",
+        "stType": "",
+        "city": "TIJUANA",
+        "state": "BCN",
+        "zipCode": "22010",
+        "address": "Calle Doctor ATL 2031, 22010, Tijuana, Baja California",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.989742,
+          32.512458
+        ]
+      },
+      "properties": {
+        "poi_id": "Mv07tDLcUx8yWshwHPi8qQ",
+        "name": "Rodr guez Renter a Abogados",
+        "phone": "+52 664 104 4377",
+        "strName": "Callejón Varita de Nardo",
+        "stPrefix": "",
+        "stName": "CALLEJ",
+        "stType": "",
+        "city": "TIJUANA",
+        "state": "BCN",
+        "zipCode": "22100",
+        "address": "Callejón Varita de Nardo, 22100, Tijuana, Baja California",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.984781,
+          32.514958
+        ]
+      },
+      "properties": {
+        "poi_id": "uw1Eb-ijLEFtcbtM-MBK3A",
+        "name": "Juzgado Primero de Lo Familiar",
+        "strName": "Calle Buena Vista",
+        "stPrefix": "",
+        "stName": "CALLE BUENA",
+        "stType": "VIS",
+        "city": "TIJUANA",
+        "state": "BCN",
+        "zipCode": "22100",
+        "address": "Calle Buena Vista, 22100, Tijuana, Baja California",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.327115,
+          33.343076
+        ]
+      },
+      "properties": {
+        "poi_id": "o4wBrBWYe4AjmsSp41rHZQ",
+        "name": "Los Angeles County Superior Court",
+        "phone": "+1 562-256-1561",
+        "url": "www.lacourt.org",
+        "stNo": "215",
+        "strName": "Sumner Avenue",
+        "stPrefix": "",
+        "stName": "SUMNER",
+        "stType": "AVE",
+        "city": "AVALON",
+        "state": "CA",
+        "zipCode": "90704",
+        "address": "215 Sumner Avenue, Avalon, CA 90704",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.606896,
+          33.589875
+        ]
+      },
+      "properties": {
+        "poi_id": "jB9QLcXuOKIvtoFjwp_yeA",
+        "name": "Doss Tennis Courts",
+        "stNo": "36672",
+        "strName": "Lion Peak Road",
+        "stPrefix": "",
+        "stName": "LION PEAK",
+        "stType": "RD",
+        "city": "MOUNTAIN CENTER",
+        "state": "CA",
+        "zipCode": "92561",
+        "address": "36672 Lion Peak Road, Mountain Center, CA 92561",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9874,
+          32.508
+        ]
+      },
+      "properties": {
+        "poi_id": "r6f4-eQQXKKEvTsJu019rw",
+        "name": "Junta Local de Conciliaci n y Arbitraje",
+        "phone": "+52 664 621 1375",
+        "stNo": "12649",
+        "strName": "Boulevard Gustavo Díaz Ordaz",
+        "stPrefix": "",
+        "stName": "BOULEVARD",
+        "stType": "",
+        "city": "TIJUANA",
+        "state": "BCN",
+        "zipCode": "22106",
+        "address": "Boulevard Gustavo Díaz Ordaz 12649, 22106, Tijuana, Baja California",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0188,
+          32.5252
+        ]
+      },
+      "properties": {
+        "poi_id": "XTstlBFsLbZVyQ1SwDLI_g",
+        "name": "Tribunal Federal de Justicia Administrativa",
+        "stNo": "9691",
+        "strName": "Paseo de los Héroes",
+        "stPrefix": "",
+        "stName": "PASEO",
+        "stType": "",
+        "city": "TIJUANA",
+        "state": "BCN",
+        "zipCode": "22010",
+        "address": "Paseo de los Héroes 9691, 22010, Tijuana, Baja California",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.21971,
+          33.714157
+        ]
+      },
+      "properties": {
+        "poi_id": "BFCXRNN6nKadDnhrWTV14Q",
+        "name": "Riverside County Court Services Division",
+        "phone": "+1 760-863-8255",
+        "stNo": "46200",
+        "strName": "Oasis Street",
+        "stPrefix": "",
+        "stName": "OASIS",
+        "stType": "ST",
+        "city": "INDIO",
+        "state": "CA",
+        "zipCode": "92201",
+        "address": "46200 Oasis Street, Indio, CA 92201",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.523171,
+          33.821442
+        ]
+      },
+      "properties": {
+        "poi_id": "AyS_F2B53E-AvNZOt_78pg",
+        "name": "Sheila A Williams APC",
+        "phone": "+1 760-323-8377",
+        "url": "www.sheilawilliamsfamilymediation.attorney",
+        "stNo": "2149",
+        "strName": "East Calle Felicia",
+        "stPrefix": "E",
+        "stName": "CALLE",
+        "stType": "",
+        "city": "PALM SPRINGS",
+        "state": "CA",
+        "zipCode": "92262",
+        "address": "2149 East Calle Felicia, Palm Springs, CA 92262",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2218,
+          33.7032
+        ]
+      },
+      "properties": {
+        "poi_id": "m6D1-bSSxd0NWtfi8gUFTA",
+        "name": "Riverside Superior Court",
+        "phone": "+1 760-393-2617",
+        "stNo": "47671",
+        "strName": "Oasis Street",
+        "stPrefix": "",
+        "stName": "OASIS",
+        "stType": "ST",
+        "city": "INDIO",
+        "state": "CA",
+        "zipCode": "92201",
+        "address": "47671 Oasis Street, Indio, CA 92201",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.242327,
+          33.599863
+        ]
+      },
+      "properties": {
+        "poi_id": "Km00xd30Xp4TCUj3FEkLYw",
+        "name": "Chef Mort Personal Chef",
+        "phone": "+1 760-219-6604",
+        "stNo": "81478",
+        "strName": "Rustic Canyon Drive",
+        "stPrefix": "",
+        "stName": "RUSTIC CANYON",
+        "stType": "DR",
+        "city": "LA QUINTA",
+        "state": "CA",
+        "zipCode": "92253",
+        "address": "81478 Rustic Canyon Drive, La Quinta, CA 92253",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.872883,
+          33.926501
+        ]
+      },
+      "properties": {
+        "poi_id": "u6hqQSBz4mkQYl6qGANekQ",
+        "name": "Superior Court of California",
+        "phone": "+1 951-777-3147",
+        "stNo": "311",
+        "strName": "East Ramsey Street",
+        "stPrefix": "E",
+        "stName": "RAMSEY",
+        "stType": "ST",
+        "city": "BANNING",
+        "state": "CA",
+        "zipCode": "92220",
+        "address": "311 East Ramsey Street, Banning, CA 92220",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.960438,
+          33.275532
+        ]
+      },
+      "properties": {
+        "poi_id": "I8HvNMPCOdjyaSN7_gxXZQ",
+        "name": "West Shores Assembly of God",
+        "phone": "+1 760-394-4294",
+        "strName": "Frontage Road",
+        "stPrefix": "",
+        "stName": "FRONTAGE",
+        "stType": "RD",
+        "city": "THERMAL",
+        "state": "CA",
+        "zipCode": "92274",
+        "address": "Frontage Road, Thermal, CA 92274",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.375555,
+          33.979305
+        ]
+      },
+      "properties": {
+        "poi_id": "yZSiWAvpC3b4H6FU5K20ww",
+        "name": "Superior Court of California County of Riverside   Riverside",
+        "phone": "+1 951-777-3147",
+        "stNo": "4050",
+        "strName": "Main Street",
+        "stPrefix": "",
+        "stName": "MAIN",
+        "stType": "ST",
+        "city": "RIVERSIDE",
+        "state": "CA",
+        "zipCode": "92501",
+        "address": "4050 Main Street, Riverside, CA 92501",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37296,
+          33.97651
+        ]
+      },
+      "properties": {
+        "poi_id": "iT3y6LtcRl8b87w9x0OURA",
+        "name": "Court of Appeal",
+        "phone": "+1 951-782-2500",
+        "stNo": "3389",
+        "strName": "12th Street",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "RIVERSIDE",
+        "state": "CA",
+        "zipCode": "92501",
+        "address": "3389 12th Street, Riverside, CA 92501",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.226458,
+          34.137142
+        ]
+      },
+      "properties": {
+        "poi_id": "-3pTGbJ2MGaiOdBHINGhmw",
+        "name": "San Manuel Band of Indians",
+        "phone": "+1 909-907-6920",
+        "stNo": "3214",
+        "strName": "Victoria Avenue",
+        "stPrefix": "",
+        "stName": "VICTORIA",
+        "stType": "AVE",
+        "city": "HIGHLAND",
+        "state": "CA",
+        "zipCode": "92346",
+        "address": "3214 Victoria Avenue, Highland, CA 92346",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.275756,
+          34.134341
+        ]
+      },
+      "properties": {
+        "poi_id": "OGwQgZeEQKqTZ_pLDwF4gA",
+        "name": "Joshua Tree Courthouse",
+        "phone": "+1 760-974-3047",
+        "stNo": "6527",
+        "strName": "White Feather Road",
+        "stPrefix": "",
+        "stName": "WHITE FEATHER",
+        "stType": "RD",
+        "city": "JOSHUA TREE",
+        "state": "CA",
+        "zipCode": "92252",
+        "address": "6527 White Feather Road, Joshua Tree, CA 92252",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.573124,
+          34.104212
+        ]
+      },
+      "properties": {
+        "poi_id": "cx5zamAMXZ9tW2aMv5exew",
+        "name": "Rancho Cucamonga Superior Court",
+        "phone": "+1 909-350-9764",
+        "stNo": "8303",
+        "strName": "Haven Avenue",
+        "stPrefix": "",
+        "stName": "HAVEN",
+        "stType": "AVE",
+        "city": "RANCHO CUCAMONGA",
+        "state": "CA",
+        "zipCode": "91730",
+        "address": "8303 Haven Avenue, Rancho Cucamonga, CA 91730",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00567,
+          34.14128
+        ]
+      },
+      "properties": {
+        "poi_id": "iBKbUkkxf8zvDz3l8XmCLQ",
+        "name": "Los Angeles Superior Court",
+        "stNo": "300",
+        "strName": "West Maple Avenue",
+        "stPrefix": "W",
+        "stName": "MAPLE",
+        "stType": "AVE",
+        "city": "MONROVIA",
+        "state": "CA",
+        "zipCode": "91016",
+        "address": "300 West Maple Avenue, Monrovia, CA 91016",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.374248,
+          33.976493
+        ]
+      },
+      "properties": {
+        "poi_id": "8m0Cu2aCjqeQbJ4CnYnZcQ",
+        "name": "United States District Court",
+        "phone": "+1 951-774-1000",
+        "url": "cand.uscourts.gov",
+        "stNo": "3420",
+        "strName": "12th Street",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "RIVERSIDE",
+        "state": "CA",
+        "zipCode": "92501",
+        "address": "3420 12th Street, Riverside, CA 92501",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.376327,
+          33.978437
+        ]
+      },
+      "properties": {
+        "poi_id": "a5_3BoDfEKvL8qEWBA9mjw",
+        "name": "Riverside Hall of Justice",
+        "phone": "+1 951-777-3147",
+        "url": "www.riverside.courts.ca.gov",
+        "stNo": "4100",
+        "strName": "Main Street",
+        "stPrefix": "",
+        "stName": "MAIN",
+        "stType": "ST",
+        "city": "RIVERSIDE",
+        "state": "CA",
+        "zipCode": "92501",
+        "address": "4100 Main Street, Riverside, CA 92501",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2891,
+          34.1044
+        ]
+      },
+      "properties": {
+        "poi_id": "HfxN-qO-x89mI3nJDj36Xw",
+        "name": "San Bernardino Justice Center",
+        "phone": "+1 909-708-8678",
+        "stNo": "247",
+        "strName": "West 3rd Street",
+        "stPrefix": "W",
+        "stName": "3RD",
+        "stType": "ST",
+        "city": "SAN BERNARDINO",
+        "state": "CA",
+        "zipCode": "92415",
+        "address": "247 West 3rd Street, San Bernardino, CA 92415",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2889,
+          34.1044
+        ]
+      },
+      "properties": {
+        "poi_id": "w3PsF1t8rbe-U-9YjpyLFA",
+        "name": "San Bernardino Superior Court Civil Division",
+        "phone": "+1 909-708-8678",
+        "stNo": "247",
+        "strName": "West 3rd Street",
+        "stPrefix": "W",
+        "stName": "3RD",
+        "stType": "ST",
+        "city": "SAN BERNARDINO",
+        "state": "CA",
+        "zipCode": "92415",
+        "address": "247 West 3rd Street, San Bernardino, CA 92415",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.888066,
+          34.243764
+        ]
+      },
+      "properties": {
+        "poi_id": "6jJ5zVk0GTILPl3aTZi7Jg",
+        "name": "Big Bear Superior Court of California",
+        "stNo": "477",
+        "strName": "Summit Boulevard",
+        "stPrefix": "",
+        "stName": "SUMMIT",
+        "stType": "BLVD",
+        "city": "BIG BEAR LAKE",
+        "state": "CA",
+        "zipCode": "92315",
+        "address": "477 Summit Boulevard, Big Bear Lake, CA 92315",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.165938,
+          32.714711
+        ]
+      },
+      "properties": {
+        "poi_id": "gqIJ5P9g32CeJEcW2k40CA",
+        "name": "Edward J Schwartz US Courthouse",
+        "phone": "+1 619-557-5600",
+        "url": "www.casd.uscourts.gov",
+        "stNo": "221",
+        "strName": "West Broadway",
+        "stPrefix": "W",
+        "stName": "BROADWAY",
+        "stType": "",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92101",
+        "address": "221 West Broadway, San Diego, CA 92101",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37423,
+          33.97608
+        ]
+      },
+      "properties": {
+        "poi_id": "bOmet6QeYKwSU_Zn0iCUkg",
+        "name": "US Bankruptcy Court",
+        "phone": "+1 855-460-9641",
+        "stNo": "3420",
+        "strName": "12th Street",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "RIVERSIDE",
+        "state": "CA",
+        "zipCode": "92501",
+        "address": "3420 12th Street, Riverside, CA 92501",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.75271,
+          34.054768
+        ]
+      },
+      "properties": {
+        "poi_id": "xPAntwpO1KIhUpi3CKYI1Q",
+        "name": "Los Angeles Superior Court",
+        "phone": "+1 909-802-1100",
+        "stNo": "350",
+        "strName": "West Mission Boulevard",
+        "stPrefix": "",
+        "stName": "WEST",
+        "stType": "MSN",
+        "city": "POMONA",
+        "state": "CA",
+        "zipCode": "91766",
+        "address": "350 West Mission Boulevard, Pomona, CA 91766",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.72208,
+          34.28843
+        ]
+      },
+      "properties": {
+        "poi_id": "p23xHVXFEogzkNkjOUMTTg",
+        "name": "Simi Valley Municipal Court",
+        "phone": "+1 805-289-8545",
+        "stNo": "3855",
+        "strName": "Alamo Street",
+        "stPrefix": "",
+        "stName": "ALAMO",
+        "stType": "ST",
+        "city": "SIMI VALLEY",
+        "state": "CA",
+        "zipCode": "93063",
+        "address": "3855 Alamo Street, Simi Valley, CA 93063",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3227,
+          34.5129
+        ]
+      },
+      "properties": {
+        "poi_id": "YZndWe0uHc5F1itsx--Dpg",
+        "name": "Victorville Superior Court",
+        "phone": "+1 760-245-6215",
+        "stNo": "14455",
+        "strName": "Civic Drive",
+        "stPrefix": "",
+        "stName": "CIVIC",
+        "stType": "DR",
+        "city": "VICTORVILLE",
+        "state": "CA",
+        "zipCode": "92392",
+        "address": "14455 Civic Drive, Victorville, CA 92392",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.592366,
+          34.181364
+        ]
+      },
+      "properties": {
+        "poi_id": "XsdlRMFgilg_wJjPoUqpfQ",
+        "name": "Court Call",
+        "phone": "+1 818-456-5256",
+        "stNo": "6110",
+        "strName": "Variel Avenue",
+        "stPrefix": "",
+        "stName": "VARIEL",
+        "stType": "AVE",
+        "city": "WOODLAND HILLS",
+        "state": "CA",
+        "zipCode": "91367",
+        "address": "6110 Variel Avenue, Woodland Hills, CA 91367",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.535383,
+          34.446969
+        ]
+      },
+      "properties": {
+        "poi_id": "V4DnA_0TeUoPXBmnwE-Jtw",
+        "name": "Basketball Court",
+        "phone": "+1 661-284-1470",
+        "stNo": "27285",
+        "strName": "Seco Canyon Road",
+        "stPrefix": "",
+        "stName": "SECO CANYON",
+        "stType": "RD",
+        "city": "VALENCIA",
+        "state": "CA",
+        "zipCode": "91354",
+        "address": "27285 Seco Canyon Road, Valencia, CA 91354",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.592051,
+          34.17389
+        ]
+      },
+      "properties": {
+        "poi_id": "-zGcrlVmYqof0QQlPxbpsw",
+        "name": "US Bankruptcy Court",
+        "phone": "+1 855-460-9641",
+        "stNo": "21041",
+        "strName": "Burbank Boulevard",
+        "stPrefix": "",
+        "stName": "BURBANK",
+        "stType": "BLVD",
+        "city": "WOODLAND HILLS",
+        "state": "CA",
+        "zipCode": "91367",
+        "address": "21041 Burbank Boulevard, Woodland Hills, CA 91367",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.14961,
+          34.688623
+        ]
+      },
+      "properties": {
+        "poi_id": "sAABvsoBiEniPBR4K9wEMw",
+        "name": "Antelope Valley Juvenile Court",
+        "phone": "+1 661-483-5924",
+        "stNo": "1040",
+        "strName": "West Avenue J",
+        "stPrefix": "",
+        "stName": "WEST",
+        "stType": "AVE",
+        "city": "LANCASTER",
+        "state": "CA",
+        "zipCode": "93534",
+        "address": "1040 West Avenue J, Lancaster, CA 93534",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.579214,
+          32.795488
+        ]
+      },
+      "properties": {
+        "poi_id": "-xfFdwvIKh7PoOsM9JsvRA",
+        "name": "US Court Clerk",
+        "phone": "+1 760-335-3428",
+        "stNo": "2003",
+        "strName": "West Adams Avenue",
+        "stPrefix": "W",
+        "stName": "ADAMS",
+        "stType": "AVE",
+        "city": "EL CENTRO",
+        "state": "CA",
+        "zipCode": "92243",
+        "address": "2003 West Adams Avenue, El Centro, CA 92243",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21,
+          34.2683
+        ]
+      },
+      "properties": {
+        "poi_id": "XinYcbBteroi1v-4LHoX1A",
+        "name": "Ventura County Government Center Hall of Justice",
+        "phone": "+1 805-289-8900",
+        "stNo": "800",
+        "strName": "South Victoria Avenue",
+        "stPrefix": "S",
+        "stName": "VICTORIA",
+        "stType": "AVE",
+        "city": "VENTURA",
+        "state": "CA",
+        "zipCode": "93003",
+        "address": "800 South Victoria Avenue, Ventura, CA 93003",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.061197,
+          34.224839
+        ]
+      },
+      "properties": {
+        "poi_id": "EysfY7xB3T2Dl2hBonrzUQ",
+        "name": "Legal Assistance By Roz",
+        "stNo": "790",
+        "strName": "Rosewood Avenue",
+        "stPrefix": "",
+        "stName": "ROSEWOOD",
+        "stType": "AVE",
+        "city": "CAMARILLO",
+        "state": "CA",
+        "zipCode": "93010",
+        "address": "790 Rosewood Avenue, Camarillo, CA 93010",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.155787,
+          34.255073
+        ]
+      },
+      "properties": {
+        "poi_id": "Xn8GLzEiuJNarzYVktOLHw",
+        "name": "Ventura County Juvenile Court",
+        "phone": "+1 805-289-8820",
+        "stNo": "4353",
+        "strName": "East Vineyard Avenue",
+        "stPrefix": "E",
+        "stName": "VINEYARD",
+        "stType": "AVE",
+        "city": "OXNARD",
+        "state": "CA",
+        "zipCode": "93036",
+        "address": "4353 East Vineyard Avenue, Oxnard, CA 93036",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.02548,
+          34.893907
+        ]
+      },
+      "properties": {
+        "poi_id": "aGQN0CKKsdP2TG9rz_IPTw",
+        "name": "San Bernardino County Barstow Superior Court",
+        "phone": "+1 760-718-3700",
+        "stNo": "235",
+        "strName": "East Mountain View Street",
+        "stPrefix": "",
+        "stName": "EAST",
+        "stType": "MTN",
+        "city": "BARSTOW",
+        "state": "CA",
+        "zipCode": "92311",
+        "address": "235 East Mountain View Street, Barstow, CA 92311",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.210083,
+          34.26851
+        ]
+      },
+      "properties": {
+        "poi_id": "qr4zfMrM6KG1dbo81pELPw",
+        "name": "Superior Court Accounting Division",
+        "phone": "+1 805-654-2962",
+        "stNo": "800",
+        "strName": "South Victoria Avenue",
+        "stPrefix": "S",
+        "stName": "VICTORIA",
+        "stType": "AVE",
+        "city": "VENTURA",
+        "state": "CA",
+        "zipCode": "93003",
+        "address": "800 South Victoria Avenue, Ventura, CA 93003",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4804,
+          32.640754
+        ]
+      },
+      "properties": {
+        "poi_id": "IMU-F3RenVWMzui5Zv7Vbg",
+        "name": "Sistema de Justicia Penal Oral del Estado de Baja California",
+        "strName": "Sistema de Justicia Penal Oral del Estado de Baja California (Sede Mexicali)",
+        "stPrefix": "",
+        "stName": "SISTEMA",
+        "stType": "",
+        "city": "MEXICALI",
+        "state": "BCN",
+        "zipCode": "21150",
+        "address": "Sistema de Justicia Penal Oral del Estado de Baja California (Sede Mexicali), 21150, Mexicali, Baja California",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.558362,
+          32.771014
+        ]
+      },
+      "properties": {
+        "poi_id": "2Js97StqSOC0PfWc_7Gzvg",
+        "name": "El Centro Court House",
+        "stNo": "650",
+        "strName": "Wake Avenue",
+        "stPrefix": "",
+        "stName": "WAKE",
+        "stType": "AVE",
+        "city": "EL CENTRO",
+        "state": "CA",
+        "zipCode": "92243",
+        "address": "650 Wake Avenue, El Centro, CA 92243",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0183,
+          35.37257
+        ]
+      },
+      "properties": {
+        "poi_id": "wPZWhmwXOhD3w9xiEAtd4A",
+        "name": "Kern County Superior Court",
+        "phone": "+1 661-610-6000",
+        "stNo": "1415",
+        "strName": "Truxtun Avenue",
+        "stPrefix": "",
+        "stName": "TRUXTUN",
+        "stType": "AVE",
+        "city": "BAKERSFIELD",
+        "state": "CA",
+        "zipCode": "93301",
+        "address": "1415 Truxtun Avenue, Bakersfield, CA 93301",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.701145,
+          34.423755
+        ]
+      },
+      "properties": {
+        "poi_id": "7LLRnFSAE6qp-bfhoSNd2Q",
+        "name": "Santa Barbara County Superior Court",
+        "phone": "+1 805-882-4735",
+        "stNo": "118",
+        "strName": "East Figueroa Street",
+        "stPrefix": "E",
+        "stName": "FIGUEROA",
+        "stType": "ST",
+        "city": "SANTA BARBARA",
+        "state": "CA",
+        "zipCode": "93101",
+        "address": "118 East Figueroa Street, Santa Barbara, CA 93101",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.300222,
+          36.298455
+        ]
+      },
+      "properties": {
+        "poi_id": "lUCn9gIETk_Ql19yIh6KxQ",
+        "name": "841 West Arlen Court",
+        "stNo": "815",
+        "strName": "South Oak View Drive",
+        "stPrefix": "S",
+        "stName": "OAK VIEW",
+        "stType": "DR",
+        "city": "VISALIA",
+        "state": "CA",
+        "zipCode": "93277",
+        "address": "815 South Oak View Drive, Visalia, CA 93277",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.671505,
+          36.333063
+        ]
+      },
+      "properties": {
+        "poi_id": "QHdSGPy27H0ap__VE78tmg",
+        "name": "Kings County Superior Court",
+        "phone": "+1 559-582-1010",
+        "stNo": "1640",
+        "strName": "Kings County Drive",
+        "stPrefix": "",
+        "stName": "KINGS COUNTY",
+        "stType": "DR",
+        "city": "HANFORD",
+        "state": "CA",
+        "zipCode": "93230",
+        "address": "1640 Kings County Drive, Hanford, CA 93230",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6679,
+          36.3295
+        ]
+      },
+      "properties": {
+        "poi_id": "JlNI40F0M2swR38gbHFcxg",
+        "name": "Department 1",
+        "stNo": "1426",
+        "strName": "West Drive",
+        "stPrefix": "",
+        "stName": "WEST",
+        "stType": "DR",
+        "city": "HANFORD",
+        "state": "CA",
+        "zipCode": "93230",
+        "address": "1426 West Drive, Hanford, CA 93230",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4675,
+          35.637
+        ]
+      },
+      "properties": {
+        "poi_id": "1fd8ZynNXHmJOH_gWJmHoA",
+        "name": "Kern County Superior Court",
+        "phone": "+1 760-549-2000",
+        "stNo": "7046",
+        "strName": "Lake Isabella Boulevard",
+        "stPrefix": "",
+        "stName": "LAKE ISABELLA",
+        "stType": "BLVD",
+        "city": "MOUNTAIN MESA",
+        "state": "CA",
+        "zipCode": "93240",
+        "address": "7046 Lake Isabella Boulevard, Mountain Mesa, CA 93240",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7666,
+          36.901
+        ]
+      },
+      "properties": {
+        "poi_id": "I-g79XUSCXtM5zpu3L7bIg",
+        "name": "Beatty Justice Court",
+        "phone": "+1 775-553-2951",
+        "stNo": "426",
+        "strName": "C Avenue South",
+        "stPrefix": "",
+        "stName": "C",
+        "stType": "AVE",
+        "city": "BEATTY",
+        "state": "NV",
+        "zipCode": "89003",
+        "address": "426 C Avenue South, Beatty, NV 89003",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.786281,
+          36.739244
+        ]
+      },
+      "properties": {
+        "poi_id": "Gfbm10wq-ntjNFQS5n_DyQ",
+        "name": "B F  Sisk Courthouse",
+        "phone": "+1 559-457-2000",
+        "stNo": "1130",
+        "strName": "O Street",
+        "stPrefix": "",
+        "stName": "O",
+        "stType": "ST",
+        "city": "FRESNO",
+        "state": "CA",
+        "zipCode": "93721",
+        "address": "1130 O Street, Fresno, CA 93721",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7837,
+          36.7373
+        ]
+      },
+      "properties": {
+        "poi_id": "dbg79lRnr-VeQXEQl3I1rw",
+        "name": "US District Court",
+        "phone": "+1 559-499-5600",
+        "stNo": "2500",
+        "strName": "Tulare Street",
+        "stPrefix": "",
+        "stName": "TULARE",
+        "stType": "ST",
+        "city": "FRESNO",
+        "state": "CA",
+        "zipCode": "93721",
+        "address": "2500 Tulare Street, Fresno, CA 93721",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.060616,
+          36.958753
+        ]
+      },
+      "properties": {
+        "poi_id": "2COOIJaLmfG0IsmR8jq7Ag",
+        "name": "Juvenile Court",
+        "phone": "+1 559-675-7786",
+        "stNo": "200",
+        "strName": "South G Street",
+        "stPrefix": "S",
+        "stName": "G",
+        "stType": "ST",
+        "city": "MADERA",
+        "state": "CA",
+        "zipCode": "93637",
+        "address": "200 South G Street, Madera, CA 93637",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7864,
+          36.7391
+        ]
+      },
+      "properties": {
+        "poi_id": "fKfo8PZDE-wA-rQocggl0A",
+        "name": "Small Claims Advisor",
+        "phone": "+1 559-457-2174",
+        "stNo": "1130",
+        "strName": "O Street",
+        "stPrefix": "",
+        "stName": "O",
+        "stType": "ST",
+        "city": "FRESNO",
+        "state": "CA",
+        "zipCode": "93721",
+        "address": "1130 O Street, Fresno, CA 93721",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.78397,
+          36.737194
+        ]
+      },
+      "properties": {
+        "poi_id": "SB-lCRYDMJ5N8Y7vGQOmww",
+        "name": "Robert E  Coyle Federal Courthouse",
+        "phone": "+1 559-499-5600",
+        "stNo": "2502",
+        "strName": "Tulare Street",
+        "stPrefix": "",
+        "stName": "TULARE",
+        "stType": "ST",
+        "city": "FRESNO",
+        "state": "CA",
+        "zipCode": "93721",
+        "address": "2502 Tulare Street, Fresno, CA 93721",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.790381,
+          36.738821
+        ]
+      },
+      "properties": {
+        "poi_id": "z7CsueSwWE5NrhX4KxHSlw",
+        "name": "Criminal Courts Departments 95 and 96",
+        "phone": "+1 559-457-2000",
+        "stNo": "1265",
+        "strName": "M Street",
+        "stPrefix": "",
+        "stName": "M",
+        "stType": "ST",
+        "city": "FRESNO",
+        "state": "CA",
+        "zipCode": "93721",
+        "address": "1265 M Street, Fresno, CA 93721",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.453174,
+          34.637649
+        ]
+      },
+      "properties": {
+        "poi_id": "-HzskE_jX1JPXadIlQdAgg",
+        "name": "Superior Court",
+        "phone": "+1 805-737-7789",
+        "stNo": "115",
+        "strName": "Civic Center Plaza",
+        "stPrefix": "",
+        "stName": "CIVIC CENTER",
+        "stType": "PLZ",
+        "city": "LOMPOC",
+        "state": "CA",
+        "zipCode": "93436",
+        "address": "115 Civic Center Plaza, Lompoc, CA 93436",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6396,
+          35.1357
+        ]
+      },
+      "properties": {
+        "poi_id": "anuL4VADow9QqpthQNSw3w",
+        "name": "Pismo River",
+        "stNo": "12",
+        "strName": "South Dolliver Street",
+        "stPrefix": "S",
+        "stName": "DOLLIVER",
+        "stType": "ST",
+        "city": "PISMO BEACH",
+        "state": "CA",
+        "zipCode": "93449",
+        "address": "12 South Dolliver Street, Pismo Beach, CA 93449",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.673205,
+          35.248276
+        ]
+      },
+      "properties": {
+        "poi_id": "YyAOoRH6uXo6hTaZWCm_tQ",
+        "name": "At Your Services Weddings",
+        "phone": "+1 805-544-9338",
+        "stNo": "3860",
+        "strName": "South Higuera Street",
+        "stPrefix": "S",
+        "stName": "HIGUERA",
+        "stType": "ST",
+        "city": "SAN LUIS OBISPO",
+        "state": "CA",
+        "zipCode": "93401",
+        "address": "3860 South Higuera Street, San Luis Obispo, CA 93401",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.66106,
+          35.28261
+        ]
+      },
+      "properties": {
+        "poi_id": "thhaRgeQgcU7lVdSnwuGLw",
+        "name": "San Luis Obispo Superior Court",
+        "phone": "+1 805-706-3600",
+        "url": "slocourts.net",
+        "stNo": "1050",
+        "strName": "Monterey Street",
+        "stPrefix": "",
+        "stName": "MONTEREY",
+        "stType": "ST",
+        "city": "SAN LUIS OBISPO",
+        "state": "CA",
+        "zipCode": "93408",
+        "address": "1050 Monterey Street, San Luis Obispo, CA 93408",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.134215,
+          36.204867
+        ]
+      },
+      "properties": {
+        "poi_id": "plBfXNuWKi4ECdnp4GIVpg",
+        "name": "Superior Court",
+        "phone": "+1 831-386-5200",
+        "stNo": "250",
+        "strName": "Franciscan Way",
+        "stPrefix": "",
+        "stName": "FRANCISCAN",
+        "stType": "WAY",
+        "city": "KING CITY",
+        "state": "CA",
+        "zipCode": "93930",
+        "address": "250 Franciscan Way, King City, CA 93930",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.614712,
+          31.858304
+        ]
+      },
+      "properties": {
+        "poi_id": "rTE1buyT3PomIOvusx80oQ",
+        "name": "Junta Federal 40 Ensenada",
+        "strName": "Calle del Puerto",
+        "stPrefix": "",
+        "stName": "CALLE",
+        "stType": "",
+        "city": "ENSENADA",
+        "state": "BCN",
+        "zipCode": "22880",
+        "address": "Calle del Puerto, 22880, Ensenada, Baja California",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.097029,
+          32.293457
+        ]
+      },
+      "properties": {
+        "poi_id": "NIYWag2S0nmtQbPq7c5xfA",
+        "name": "Tribunal de Garant a y Juicio Oral",
+        "phone": "+52 686 900 9099",
+        "stNo": "21720",
+        "strName": "Calzada de los Insurgentes",
+        "stPrefix": "",
+        "stName": "CALZADA",
+        "stType": "",
+        "city": "MEXICALI",
+        "state": "BCN",
+        "zipCode": "21720",
+        "address": "Calzada de los Insurgentes 21720, 21720, Mexicali, Baja California",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.591346,
+          31.808383
+        ]
+      },
+      "properties": {
+        "poi_id": "4f8m-_AcoVZpiabLULP9pA",
+        "name": "PGJE Subprocuradur a de Zona con Sede Ensenada",
+        "phone": "+52 646 152 2700",
+        "strName": "Avenida Ébano",
+        "stPrefix": "",
+        "stName": "AVENIDA",
+        "stType": "",
+        "city": "ENSENADA",
+        "state": "BCN",
+        "zipCode": "22895",
+        "address": "Avenida Ébano, 22895, Ensenada, Baja California",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7947,
+          32.4239
+        ]
+      },
+      "properties": {
+        "poi_id": "TbVagQYYitmsTEtBmkNphg",
+        "name": "Juzgado Primero de Primera Instancia Especializado En Justic",
+        "phone": "+52 653 518 1179",
+        "strName": "La Grullita",
+        "stPrefix": "",
+        "stName": "LA",
+        "stType": "",
+        "city": "SAN LUIS RÍO COLORADO",
+        "state": "SON",
+        "zipCode": "83479",
+        "address": "La Grullita, 83479, San Luis Río Colorado, Sonora",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7395,
+          32.4644
+        ]
+      },
+      "properties": {
+        "poi_id": "_5YV-xO3pFlHfD7ClFbESw",
+        "name": "Juzgados y Tribunales Poder Judicial San Luis R o Colorado",
+        "stNo": "3503",
+        "strName": "Avenida Ignacio Zaragoza",
+        "stPrefix": "",
+        "stName": "AVENIDA",
+        "stType": "",
+        "city": "SAN LUIS RÍO COLORADO",
+        "state": "SON",
+        "zipCode": "83450",
+        "address": "Avenida Ignacio Zaragoza 3503, 83450, San Luis Río Colorado, Sonora",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.62072,
+          32.72579
+        ]
+      },
+      "properties": {
+        "poi_id": "YtHl8O7t5C97_PzVc_1AJg",
+        "name": "US Pretrial Services",
+        "phone": "+1 928-783-1239",
+        "stNo": "98",
+        "strName": "West 1st Street",
+        "stPrefix": "W",
+        "stName": "1ST",
+        "stType": "ST",
+        "city": "YUMA",
+        "state": "AZ",
+        "zipCode": "85364",
+        "address": "98 West 1st Street, Yuma, AZ 85364",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.621947,
+          32.699976
+        ]
+      },
+      "properties": {
+        "poi_id": "V5xT0JSzQsxMKkO4fpSQug",
+        "name": "Yuma Municipal Court",
+        "phone": "+1 928-373-4800",
+        "stNo": "1515",
+        "strName": "South 2nd Avenue",
+        "stPrefix": "S",
+        "stName": "2ND",
+        "stType": "AVE",
+        "city": "YUMA",
+        "state": "AZ",
+        "zipCode": "85364",
+        "address": "1515 South 2nd Avenue, Yuma, AZ 85364",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.611607,
+          32.734787
+        ]
+      },
+      "properties": {
+        "poi_id": "tv4Vup52OuzPt7fkjl0DKw",
+        "name": "Quechan Tribal Court",
+        "phone": "+1 760-572-5552",
+        "stNo": "450",
+        "strName": "Quechan Drive",
+        "stPrefix": "",
+        "stName": "QUECHAN",
+        "stType": "DR",
+        "city": "WINTERHAVEN",
+        "state": "CA",
+        "zipCode": "92283",
+        "address": "450 Quechan Drive, Winterhaven, CA 92283",
+        "primaryType": "courthouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6173,
+          34.8353
+        ]
+      },
+      "properties": {
+        "poi_id": "XwCCzrv7TUFNjd0EJ9k3nQ",
+        "name": "Needles Courthouse",
+        "phone": "+1 760-269-4962",
+        "stNo": "1111",
+        "strName": "Bailey Avenue",
+        "stPrefix": "",
+        "stName": "BAILEY",
+        "stType": "AVE",
+        "city": "NEEDLES",
+        "state": "CA",
+        "zipCode": "92363",
+        "address": "1111 Bailey Avenue, Needles, CA 92363",
+        "primaryType": "courthouse"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224838,
+          33.981518
+        ]
+      },
+      "properties": {
+        "poi_id": "I11193E927F6D43D7",
+        "name": "Gage & Pacific Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225006,
+          33.975521
+        ]
+      },
+      "properties": {
+        "poi_id": "IA97EFD178964BA9E",
+        "name": "Pacific & Florence Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2341069,
+          33.9748253
+        ]
+      },
+      "properties": {
+        "poi_id": "IA22B3AC4E349F1C7",
+        "name": "Florence & Alameda Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224869,
+          33.989094
+        ]
+      },
+      "properties": {
+        "poi_id": "I65F2FC6C871A57A0",
+        "name": "Slauson & Pacific Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2305941,
+          33.9746409
+        ]
+      },
+      "properties": {
+        "poi_id": "I757692A32B48D44D",
+        "name": "Florence & Santa Fe Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2233901,
+          33.974118
+        ]
+      },
+      "properties": {
+        "poi_id": "IAC615397527B336",
+        "name": "Florence & Seville Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243622,
+          33.989159
+        ]
+      },
+      "properties": {
+        "poi_id": "I18A4C0C0C907A0B7",
+        "name": "Slauson & Long Beach Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2306656,
+          33.9817015
+        ]
+      },
+      "properties": {
+        "poi_id": "I9AB249994E41A521",
+        "name": "Gage & Santa Fe Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225319,
+          33.980461
+        ]
+      },
+      "properties": {
+        "poi_id": "I74BCB0A9A297D86D",
+        "name": "Pacific & Gage Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.247604,
+          33.994625
+        ]
+      },
+      "properties": {
+        "poi_id": "I7C902A9B80AFBC8C",
+        "name": "Compton & 53rd Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225327,
+          33.982582
+        ]
+      },
+      "properties": {
+        "poi_id": "I5E9E1E6F9DBD9AC3",
+        "name": "Pacific & Clarendon Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.237297,
+          33.989326
+        ]
+      },
+      "properties": {
+        "poi_id": "I94E1823DDCD668FB",
+        "name": "Slauson & Alameda Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Vernon, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209778,
+          33.972698
+        ]
+      },
+      "properties": {
+        "poi_id": "I90CFD4466A11D5E6",
+        "name": "Florence & State Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2196189,
+          33.9892521
+        ]
+      },
+      "properties": {
+        "poi_id": "I8FFE2C6EF920530C",
+        "name": "Slauson & Soto Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224485,
+          33.973986
+        ]
+      },
+      "properties": {
+        "poi_id": "I3AC7872B289DF53E",
+        "name": "Florence & Pacific Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225014,
+          33.980457
+        ]
+      },
+      "properties": {
+        "poi_id": "I781D6A81D9A82289",
+        "name": "Pacific & Zoe Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225311,
+          33.975563
+        ]
+      },
+      "properties": {
+        "poi_id": "I99D994390A5C11C",
+        "name": "Pacific & Florence Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2252878,
+          33.9894211
+        ]
+      },
+      "properties": {
+        "poi_id": "ICB89FEB750393F3C",
+        "name": "Pacific & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.217773,
+          33.97332
+        ]
+      },
+      "properties": {
+        "poi_id": "I447343C64DAC5C31",
+        "name": "Florence & Mountain View Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225342,
+          33.985699
+        ]
+      },
+      "properties": {
+        "poi_id": "I5340E85E71CF04DA",
+        "name": "Pacific & Randolph Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225021,
+          33.982605
+        ]
+      },
+      "properties": {
+        "poi_id": "I6754BDA9CEB5A6E6",
+        "name": "Pacific & Gage Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2190181,
+          33.9816559
+        ]
+      },
+      "properties": {
+        "poi_id": "IE640CD883B99DC4A",
+        "name": "Gage & Miles Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2305127,
+          33.9891138
+        ]
+      },
+      "properties": {
+        "poi_id": "I4C880D92AE9EC84",
+        "name": "Slauson & Santa Fe Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2253227,
+          33.9886872
+        ]
+      },
+      "properties": {
+        "poi_id": "I8E3D89927D11930E",
+        "name": "Pacific & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2300138,
+          33.9892743
+        ]
+      },
+      "properties": {
+        "poi_id": "I9728C05D3552E09B",
+        "name": "Slauson & Santa Fe Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2261863,
+          33.9744272
+        ]
+      },
+      "properties": {
+        "poi_id": "I8AAB42D20D09ACCE",
+        "name": "Florence & Pacific Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2299602,
+          33.9815747
+        ]
+      },
+      "properties": {
+        "poi_id": "I2D8305888946498B",
+        "name": "Gage & Santa Fe Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.236549,
+          33.981903
+        ]
+      },
+      "properties": {
+        "poi_id": "IDCC1A03B8775390",
+        "name": "Gage & Alameda Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2274926,
+          33.9817082
+        ]
+      },
+      "properties": {
+        "poi_id": "I306DC2F7A6DC4868",
+        "name": "Gage & Malabar Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2409237,
+          33.9891207
+        ]
+      },
+      "properties": {
+        "poi_id": "I2F37A026D6424BDE",
+        "name": "Slauson & Holmes Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2413408,
+          33.981749
+        ]
+      },
+      "properties": {
+        "poi_id": "I984C4B7FEA67AA93",
+        "name": "Holmes & Gage Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24107,
+          33.981823
+        ]
+      },
+      "properties": {
+        "poi_id": "IA54CD1304637BAF0",
+        "name": "Holmes Ave & Gage Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2299495,
+          33.9891598
+        ]
+      },
+      "properties": {
+        "poi_id": "I9F2ABAC0E5E15D5",
+        "name": "Santa Fe & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.232864,
+          33.981781
+        ]
+      },
+      "properties": {
+        "poi_id": "I9055D0C43D2A9F40",
+        "name": "Gage & Albany Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.232201,
+          33.981518
+        ]
+      },
+      "properties": {
+        "poi_id": "IC12F150E8B7607EF",
+        "name": "Gage & Albany Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2413338,
+          33.979342
+        ]
+      },
+      "properties": {
+        "poi_id": "I802AC05E3A7950FF",
+        "name": "Holmes & 66th Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2355464,
+          33.9815413
+        ]
+      },
+      "properties": {
+        "poi_id": "I62CB8320A9EF3D38",
+        "name": "Alameda & Gage Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2408883,
+          33.9819356
+        ]
+      },
+      "properties": {
+        "poi_id": "IC981D73F7F72DFBC",
+        "name": "Gage & Holmes Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242485,
+          33.974613
+        ]
+      },
+      "properties": {
+        "poi_id": "IDB795BB86CAA316C",
+        "name": "Florence Station",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2477728,
+          33.982342
+        ]
+      },
+      "properties": {
+        "poi_id": "IB6AE4704C2626811",
+        "name": "Compton & Gage Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.235535,
+          33.98151
+        ]
+      },
+      "properties": {
+        "poi_id": "IFADE1C3C39F63FD7",
+        "name": "Gage & Alameda Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2323551,
+          33.9815621
+        ]
+      },
+      "properties": {
+        "poi_id": "IFFF8BEE14EEBDFDA",
+        "name": "Albany & Gage Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238777,
+          33.982113
+        ]
+      },
+      "properties": {
+        "poi_id": "I7C687221166020B0",
+        "name": "Gage & Wilmington Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239174,
+          33.981911
+        ]
+      },
+      "properties": {
+        "poi_id": "I80648E782777854B",
+        "name": "Gage & Wilmington Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.251846,
+          33.982204
+        ]
+      },
+      "properties": {
+        "poi_id": "IC448DA96C9BBF708",
+        "name": "Gage & Hooper Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238083,
+          33.989075
+        ]
+      },
+      "properties": {
+        "poi_id": "I5DB119AB4AC01DAE",
+        "name": "Slauson & Alameda Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2306898,
+          33.9748353
+        ]
+      },
+      "properties": {
+        "poi_id": "I20FCF164F42EEEB1",
+        "name": "Florence & Santa Fe Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.234131,
+          33.974862
+        ]
+      },
+      "properties": {
+        "poi_id": "I9E607D03C3CD863B",
+        "name": "Florence Ave & Alameda St Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.230692,
+          33.974858
+        ]
+      },
+      "properties": {
+        "poi_id": "I6738128A999DF34B",
+        "name": "Florence Ave & Santa Fe Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.241501,
+          33.974613
+        ]
+      },
+      "properties": {
+        "poi_id": "I97292E20C5E5E574",
+        "name": "Florence & Holmes Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2250491,
+          33.9780894
+        ]
+      },
+      "properties": {
+        "poi_id": "I7D4E96C84EBBDBA9",
+        "name": "Pacific & Saturn Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2275409,
+          33.9745328
+        ]
+      },
+      "properties": {
+        "poi_id": "I5B9DE6C29AC3C0D9",
+        "name": "Florence & Malabar Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.227907,
+          33.981538
+        ]
+      },
+      "properties": {
+        "poi_id": "I59B89E4876F8A8F5",
+        "name": "Gage & Malabar Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.227936,
+          33.981559
+        ]
+      },
+      "properties": {
+        "poi_id": "IA9ADE245756114C7",
+        "name": "Gage Ave & Malabar St Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225306,
+          33.9803537
+        ]
+      },
+      "properties": {
+        "poi_id": "I39097311F886F2B3",
+        "name": "Pacific Blvd & Gage Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2296933,
+          33.9815825
+        ]
+      },
+      "properties": {
+        "poi_id": "IFA605F64F2978C0E",
+        "name": "Gage Ave & Santa Fe Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2277314,
+          33.989045
+        ]
+      },
+      "properties": {
+        "poi_id": "IAD9F89F1244E598D",
+        "name": "Malabar & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225378,
+          33.9873557
+        ]
+      },
+      "properties": {
+        "poi_id": "I381FF9F65972E24C",
+        "name": "Pacific & Belgrave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2254648,
+          33.9892788
+        ]
+      },
+      "properties": {
+        "poi_id": "I4C8C046F38321D2A",
+        "name": "Slauson & Pacific Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2227933,
+          33.9891142
+        ]
+      },
+      "properties": {
+        "poi_id": "I884857CC3FD9AA21",
+        "name": "Slauson & Seville Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225402,
+          33.9912518
+        ]
+      },
+      "properties": {
+        "poi_id": "I74814BE37ADF6D77",
+        "name": "Pacific & 57th Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2254133,
+          33.993076
+        ]
+      },
+      "properties": {
+        "poi_id": "I28322CEA0103A883",
+        "name": "Pacific & 55th Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.219559,
+          34.00872
+        ]
+      },
+      "properties": {
+        "poi_id": "IC5B2094D67FEB7D5",
+        "name": "Soto & Bandini Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Vernon, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225075,
+          33.996201
+        ]
+      },
+      "properties": {
+        "poi_id": "I17CFCCC003F370F4",
+        "name": "Pacific & Fruitland Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Vernon, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225067,
+          33.993076
+        ]
+      },
+      "properties": {
+        "poi_id": "I356645FA5AB1531E",
+        "name": "Pacific & 55th Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2253227,
+          33.9964796
+        ]
+      },
+      "properties": {
+        "poi_id": "I2FB88E38439C1FF2",
+        "name": "Pacific & Fruitland Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Vernon, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22506,
+          33.990963
+        ]
+      },
+      "properties": {
+        "poi_id": "IC23619A77CFF264A",
+        "name": "Pacific & 57th Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2192367,
+          33.9894622
+        ]
+      },
+      "properties": {
+        "poi_id": "I539BA9B2D6108B23",
+        "name": "Soto & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21965,
+          33.996559
+        ]
+      },
+      "properties": {
+        "poi_id": "I2B8B35DD84AA2C82",
+        "name": "Soto & Fruitland Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Vernon, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2250679,
+          33.9889185
+        ]
+      },
+      "properties": {
+        "poi_id": "I55D61EA4B6A1E1CF",
+        "name": "Pacific & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2251108,
+          33.9870125
+        ]
+      },
+      "properties": {
+        "poi_id": "IC5CE6ABAE0787BC9",
+        "name": "Pacific & Belgrave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225037,
+          33.985203
+        ]
+      },
+      "properties": {
+        "poi_id": "I3439DA16BF9C816D",
+        "name": "Pacific & Randolph Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224968,
+          33.981773
+        ]
+      },
+      "properties": {
+        "poi_id": "I5DDA13F233189ADF",
+        "name": "Gage & Pacific Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2223991,
+          33.9816904
+        ]
+      },
+      "properties": {
+        "poi_id": "I4725744715069A21",
+        "name": "Gage & Seville Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.222794,
+          33.981514
+        ]
+      },
+      "properties": {
+        "poi_id": "IE5D250A0CF758D39",
+        "name": "Gage & Seville Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.219307,
+          33.981491
+        ]
+      },
+      "properties": {
+        "poi_id": "IC6A5338159D62DB8",
+        "name": "Gage & Miles Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225293,
+          33.9781228
+        ]
+      },
+      "properties": {
+        "poi_id": "I200499740E256EA7",
+        "name": "Pacific Blvd & Zoe Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225311,
+          33.978092
+        ]
+      },
+      "properties": {
+        "poi_id": "ID674F4B43CEDE9F8",
+        "name": "Pacific & Zoe Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22271,
+          33.97382
+        ]
+      },
+      "properties": {
+        "poi_id": "IF78460AB143797A3",
+        "name": "Florence & Seville Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225377,
+          33.9738862
+        ]
+      },
+      "properties": {
+        "poi_id": "I32086F9E6AFBBB2B",
+        "name": "Pacific Blvd & Florence Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225291,
+          33.975596
+        ]
+      },
+      "properties": {
+        "poi_id": "I90CEB0D99A9F2CF",
+        "name": "Pacific Blvd & Saturn Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.222796,
+          33.973841
+        ]
+      },
+      "properties": {
+        "poi_id": "I1ED51D24C07832C6",
+        "name": "Florence Ave & Seville Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2253361,
+          33.9739033
+        ]
+      },
+      "properties": {
+        "poi_id": "IEA7A295417873005",
+        "name": "Pacific & Florence Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2267885,
+          33.974279
+        ]
+      },
+      "properties": {
+        "poi_id": "I5DB37521DE99F00F",
+        "name": "Florence & Rugby Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224486,
+          33.974017
+        ]
+      },
+      "properties": {
+        "poi_id": "I632A481A763AB6A6",
+        "name": "Florence Ave & Rita Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.221321,
+          33.973938
+        ]
+      },
+      "properties": {
+        "poi_id": "I6B6044B1A17C66D6",
+        "name": "Florence & Stafford Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2226795,
+          33.9768493
+        ]
+      },
+      "properties": {
+        "poi_id": "IAAE3902D64DA50BF",
+        "name": "Seville & Saturn Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2234284,
+          33.9740618
+        ]
+      },
+      "properties": {
+        "poi_id": "I716027EC81F8ABB2",
+        "name": "Florence Ave & Rita Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.219104,
+          33.9738065
+        ]
+      },
+      "properties": {
+        "poi_id": "I55C3614F5FE81B20",
+        "name": "Miles & Florence Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2173029,
+          33.9735052
+        ]
+      },
+      "properties": {
+        "poi_id": "I7C68F33E9A6C76D5",
+        "name": "Florence & Mountain View Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2214777,
+          33.97387
+        ]
+      },
+      "properties": {
+        "poi_id": "IDC7DBFFA3DF68E01",
+        "name": "Florence Ave & Standford Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.217517,
+          33.972991
+        ]
+      },
+      "properties": {
+        "poi_id": "IDD02F2B725921EC",
+        "name": "Mountain View & Florence Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.217747,
+          33.97332
+        ]
+      },
+      "properties": {
+        "poi_id": "IAE71AEC988B07C2",
+        "name": "Florence Ave & Mountain View Ave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2091959,
+          33.9724208
+        ]
+      },
+      "properties": {
+        "poi_id": "IF180F1EA198F792E",
+        "name": "Florence & State Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.220314,
+          33.989082
+        ]
+      },
+      "properties": {
+        "poi_id": "IEFF8C0FEC31807FA",
+        "name": "Slauson & Templeton Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.219454,
+          33.9912325
+        ]
+      },
+      "properties": {
+        "poi_id": "IEE176F68B678BAB8",
+        "name": "Soto & 57th Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.213013,
+          33.989071
+        ]
+      },
+      "properties": {
+        "poi_id": "IACF1C767129A1E35",
+        "name": "Slauson & Boyle Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2202533,
+          33.989092
+        ]
+      },
+      "properties": {
+        "poi_id": "IB422F4358804ED0E",
+        "name": "Miles & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.222954,
+          33.98933
+        ]
+      },
+      "properties": {
+        "poi_id": "I34C0C206601CD65",
+        "name": "Slauson & Seville Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2228081,
+          33.9891141
+        ]
+      },
+      "properties": {
+        "poi_id": "I5CD6C7566D9F8A59",
+        "name": "Slauson & Seville Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2225813,
+          33.9870081
+        ]
+      },
+      "properties": {
+        "poi_id": "IC82AB2291704E557",
+        "name": "Seville & Belgrave Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.215874,
+          33.989319
+        ]
+      },
+      "properties": {
+        "poi_id": "IDE3F34C5A9C886BA",
+        "name": "Slauson & Bickett Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.215935,
+          33.981243
+        ]
+      },
+      "properties": {
+        "poi_id": "IA5204EB42FDECF03",
+        "name": "Gage & Marconi Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209679,
+          33.972313
+        ]
+      },
+      "properties": {
+        "poi_id": "IAADB27701477BE7C",
+        "name": "State & Florence Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2121664,
+          33.9729769
+        ]
+      },
+      "properties": {
+        "poi_id": "I8C45DA71DADA53FF",
+        "name": "Florence & Mission Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2123722,
+          33.9766837
+        ]
+      },
+      "properties": {
+        "poi_id": "I8CCBAA09CA509F40",
+        "name": "Saturn & State Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2100456,
+          33.9686112
+        ]
+      },
+      "properties": {
+        "poi_id": "I5AEDE14A7D2A1AFE",
+        "name": "State & Hope Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.210236,
+          33.966972
+        ]
+      },
+      "properties": {
+        "poi_id": "IF52E8C637257CF2D",
+        "name": "State & Olive Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.203682,
+          33.971848
+        ]
+      },
+      "properties": {
+        "poi_id": "I8A5B489E6CE3231",
+        "name": "Florence & California Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2096773,
+          33.9803492
+        ]
+      },
+      "properties": {
+        "poi_id": "IF0146261F32C893F",
+        "name": "Gage & Hood Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.205505,
+          33.97229
+        ]
+      },
+      "properties": {
+        "poi_id": "I69D9644A2039117B",
+        "name": "Florence & Bissell Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2104877,
+          33.9669594
+        ]
+      },
+      "properties": {
+        "poi_id": "IA06EE645F56F070A",
+        "name": "State & Olive Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2102933,
+          33.9669807
+        ]
+      },
+      "properties": {
+        "poi_id": "I472029A9C7506ED8",
+        "name": "State & Olive Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2050639,
+          33.9629611
+        ]
+      },
+      "properties": {
+        "poi_id": "ICD19A695641C69D0",
+        "name": "Santa Ana & California Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.210976,
+          33.963654
+        ]
+      },
+      "properties": {
+        "poi_id": "I615B36B9752EAEB3",
+        "name": "State & Santa Ana Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.210617,
+          33.963577
+        ]
+      },
+      "properties": {
+        "poi_id": "I552B69B9D7A169D4",
+        "name": "Santa Ana & State Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2107768,
+          33.9636763
+        ]
+      },
+      "properties": {
+        "poi_id": "I9F6362D7BC4E811D",
+        "name": "State & Santa Ana Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.210526,
+          33.965027
+        ]
+      },
+      "properties": {
+        "poi_id": "I12B013ED55829AA8",
+        "name": "State & Broadway Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.210732,
+          33.963669
+        ]
+      },
+      "properties": {
+        "poi_id": "I4002E105185A2D03",
+        "name": "State & Santa Ana Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.213364,
+          33.963661
+        ]
+      },
+      "properties": {
+        "poi_id": "I1C01DAE44315FAA2",
+        "name": "Santa Ana & South Gate Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2063675,
+          33.9543403
+        ]
+      },
+      "properties": {
+        "poi_id": "I382AF176040D0B7A",
+        "name": "Firestone & California Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2119063,
+          33.9548987
+        ]
+      },
+      "properties": {
+        "poi_id": "I50690CD1E3E01A50",
+        "name": "Firestone & State Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.211403,
+          33.960876
+        ]
+      },
+      "properties": {
+        "poi_id": "IC3A04B68382A404D",
+        "name": "State & Liberty Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.204439,
+          33.9627765
+        ]
+      },
+      "properties": {
+        "poi_id": "I5DA20322B979AD4C",
+        "name": "Santa Ana & California Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.206299,
+          33.954105
+        ]
+      },
+      "properties": {
+        "poi_id": "I65401FE700A016E2",
+        "name": "Firestone & California Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1967974,
+          33.9533658
+        ]
+      },
+      "properties": {
+        "poi_id": "I6562F5A109C40FFF",
+        "name": "Firestone & Otis Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.198631,
+          33.971298
+        ]
+      },
+      "properties": {
+        "poi_id": "I7E8C75D24B205A80",
+        "name": "Florence & Bear Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.219879,
+          33.95546
+        ]
+      },
+      "properties": {
+        "poi_id": "I409451497A2B2560",
+        "name": "Firestone & Long Beach Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.200928,
+          33.962364
+        ]
+      },
+      "properties": {
+        "poi_id": "I4CF4651932DBE93E",
+        "name": "Santa Ana & San Gabriel Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2040016,
+          33.9686947
+        ]
+      },
+      "properties": {
+        "poi_id": "IFE3E1CCBA5922E65",
+        "name": "Flower & California Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.194008,
+          33.970818
+        ]
+      },
+      "properties": {
+        "poi_id": "I4E6016DD6384AC0D",
+        "name": "Florence & Otis Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1879988,
+          33.969219
+        ]
+      },
+      "properties": {
+        "poi_id": "I7DCD3FE582947224",
+        "name": "Atlantic & Florence Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20192,
+          33.971909
+        ]
+      },
+      "properties": {
+        "poi_id": "ICBDD65030746E0A9",
+        "name": "Florence & California Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2043757,
+          33.9662548
+        ]
+      },
+      "properties": {
+        "poi_id": "IB91A53DF655376A1",
+        "name": "Olive & California Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.194969,
+          33.961945
+        ]
+      },
+      "properties": {
+        "poi_id": "I2151A484576C6EF9",
+        "name": "Santa Ana & Otis Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1856783,
+          33.9611536
+        ]
+      },
+      "properties": {
+        "poi_id": "ICE271DC6E9B54FCF",
+        "name": "Atlantic & Santa Ana Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Cudahy, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.186241,
+          33.963501
+        ]
+      },
+      "properties": {
+        "poi_id": "I741DE15DBE8A2ACA",
+        "name": "Atlantic & Elizabeth Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Cudahy, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.194862,
+          33.961731
+        ]
+      },
+      "properties": {
+        "poi_id": "I572735871F34789",
+        "name": "Santa Ana & Otis Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.194894,
+          33.96452
+        ]
+      },
+      "properties": {
+        "poi_id": "I20EDD42542A27CBC",
+        "name": "Otis / Elizabeth Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Cudahy, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.186844,
+          33.965885
+        ]
+      },
+      "properties": {
+        "poi_id": "I1E1E2F1A97CF32A6",
+        "name": "Atlantic & Clara Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Cudahy, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1864173,
+          33.9629013
+        ]
+      },
+      "properties": {
+        "poi_id": "I6024AAB97A6A976E",
+        "name": "Atlantic & Elizabeth Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Cudahy, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.187294,
+          33.974667
+        ]
+      },
+      "properties": {
+        "poi_id": "I58C47D32CC412EAC",
+        "name": "Atlantic & Bell Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1876443,
+          33.9701975
+        ]
+      },
+      "properties": {
+        "poi_id": "IF80F4CF61E622465",
+        "name": "Florence & Atlantic Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Cudahy, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.189026,
+          33.970539
+        ]
+      },
+      "properties": {
+        "poi_id": "I889A9398A41113DB",
+        "name": "Florence & Atlantic Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.191742,
+          33.961411
+        ]
+      },
+      "properties": {
+        "poi_id": "IE9309C47A33D2C69",
+        "name": "Santa Ana & Salt Lake Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Cudahy, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.196152,
+          33.953087
+        ]
+      },
+      "properties": {
+        "poi_id": "IF369567431565B3",
+        "name": "Firestone & Otis Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1878763,
+          33.9697993
+        ]
+      },
+      "properties": {
+        "poi_id": "I7A172C1CC0F6FDE8",
+        "name": "Atlantic & Florence Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Cudahy, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1870127,
+          33.9653492
+        ]
+      },
+      "properties": {
+        "poi_id": "I1DB45F9CB3584CB1",
+        "name": "Atlantic & Clara Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Cudahy, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.194252,
+          33.971103
+        ]
+      },
+      "properties": {
+        "poi_id": "I11DEE4DA69E9205D",
+        "name": "Florence / Otis Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1869189,
+          33.9659636
+        ]
+      },
+      "properties": {
+        "poi_id": "IA0124CF17F5E965A",
+        "name": "Atlantic / Clara Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Cudahy",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Cudahy, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2032065,
+          33.9720582
+        ]
+      },
+      "properties": {
+        "poi_id": "I8A39BC047273F64D",
+        "name": "Florence & Salt Lake Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1974626,
+          33.9790614
+        ]
+      },
+      "properties": {
+        "poi_id": "IF4C2AAA73D5ACFE9",
+        "name": "Gage & Bear Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.202309,
+          33.9716801
+        ]
+      },
+      "properties": {
+        "poi_id": "I87DD60634CEA22F",
+        "name": "Florence & Salt Lake Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.205482,
+          33.972031
+        ]
+      },
+      "properties": {
+        "poi_id": "IC4DEA1723CCF36FE",
+        "name": "Florence & Bissell Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.201645,
+          33.979706
+        ]
+      },
+      "properties": {
+        "poi_id": "I7DE1133C71CF1CE3",
+        "name": "Gage & California Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.207512,
+          33.980083
+        ]
+      },
+      "properties": {
+        "poi_id": "IA4A5DA84C1B0A5CB",
+        "name": "Gage & Hollenbeck Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209305,
+          33.980537
+        ]
+      },
+      "properties": {
+        "poi_id": "IFC3E68CBD919064C",
+        "name": "Gage & Hood Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2024528,
+          33.9795985
+        ]
+      },
+      "properties": {
+        "poi_id": "IC2CD8EAFCD327A63",
+        "name": "Gage & Maywood Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.203178,
+          33.989071
+        ]
+      },
+      "properties": {
+        "poi_id": "I4E7C70537E1BD1BF",
+        "name": "Slauson & Maywood Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2127243,
+          33.9807284
+        ]
+      },
+      "properties": {
+        "poi_id": "IDE07670CA4117375",
+        "name": "Gage & State Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2123569,
+          33.9808007
+        ]
+      },
+      "properties": {
+        "poi_id": "I3267A06D05078BE9",
+        "name": "Gage & State Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2071722,
+          33.9802803
+        ]
+      },
+      "properties": {
+        "poi_id": "I1E4A925AAAF14ADF",
+        "name": "Gage & Hollenbeck Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2024568,
+          33.9887862
+        ]
+      },
+      "properties": {
+        "poi_id": "IC62069BFB665E134",
+        "name": "Slauson & Maywood Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.213243,
+          33.9890984
+        ]
+      },
+      "properties": {
+        "poi_id": "I69D6CB44653DCCCC",
+        "name": "Boyle & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.204514,
+          33.979755
+        ]
+      },
+      "properties": {
+        "poi_id": "I3A5539DB22182431",
+        "name": "Gage & Salt Lake Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.197578,
+          33.979282
+        ]
+      },
+      "properties": {
+        "poi_id": "I918D10334FB48493",
+        "name": "Gage & Bear Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2025393,
+          33.9824537
+        ]
+      },
+      "properties": {
+        "poi_id": "I40480EA84B5B251",
+        "name": "Maywood / Randolph Place Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.192764,
+          33.978771
+        ]
+      },
+      "properties": {
+        "poi_id": "I132DED7A6961706B",
+        "name": "Gage & Otis Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.204735,
+          33.989021
+        ]
+      },
+      "properties": {
+        "poi_id": "I86BDFA24C4A8AA8F",
+        "name": "Slauson & Downey Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Vernon, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.208221,
+          33.989311
+        ]
+      },
+      "properties": {
+        "poi_id": "I2F0330B73BA328C5",
+        "name": "Slauson & Alcoa Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Vernon",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Vernon, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.198395,
+          33.988338
+        ]
+      },
+      "properties": {
+        "poi_id": "I920FD0A18EE01024",
+        "name": "Slauson & Loma Vista Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.196739,
+          33.988159
+        ]
+      },
+      "properties": {
+        "poi_id": "I25B7C10C74F9793B",
+        "name": "Slauson & Carmelita Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2006624,
+          33.9887517
+        ]
+      },
+      "properties": {
+        "poi_id": "I7051015884A44EE5",
+        "name": "Slauson & Everett Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.201057,
+          33.988594
+        ]
+      },
+      "properties": {
+        "poi_id": "I3E6B5F11EA4E584A",
+        "name": "Slauson & Everett Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2043323,
+          33.9892004
+        ]
+      },
+      "properties": {
+        "poi_id": "IAE3869C470A64930",
+        "name": "Slauson & Downey Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2034567,
+          33.9922636
+        ]
+      },
+      "properties": {
+        "poi_id": "I82881BD16FECE27E",
+        "name": "Maywood Ave & 56th St (Benito Juarez Park) Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1984885,
+          33.9885649
+        ]
+      },
+      "properties": {
+        "poi_id": "I59F26073DF1502EB",
+        "name": "Slauson & Loma Vista Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.194168,
+          33.988155
+        ]
+      },
+      "properties": {
+        "poi_id": "I9276273C6A42E177",
+        "name": "Slauson & Corona Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.196339,
+          33.9883502
+        ]
+      },
+      "properties": {
+        "poi_id": "IA56C457A220BCC5D",
+        "name": "Slauson & Carmelita Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1920043,
+          33.9878565
+        ]
+      },
+      "properties": {
+        "poi_id": "ID67B39DA2FE7C1D6",
+        "name": "Slauson & Gifford Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1865307,
+          33.9818374
+        ]
+      },
+      "properties": {
+        "poi_id": "I2A6A48AAA71B147A",
+        "name": "Atlantic & Randolph Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1967978,
+          33.9881921
+        ]
+      },
+      "properties": {
+        "poi_id": "ICA34536979CB8C5B",
+        "name": "Carmelita & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.185875,
+          33.987309
+        ]
+      },
+      "properties": {
+        "poi_id": "ICE8E6A91BBDCE14E",
+        "name": "Slauson & Atlantic Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1972484,
+          33.9828882
+        ]
+      },
+      "properties": {
+        "poi_id": "I93DC4DD03DFD66C9",
+        "name": "Carmelita & Randolph Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.194572,
+          33.987938
+        ]
+      },
+      "properties": {
+        "poi_id": "I23450E736A9B2FD7",
+        "name": "Slauson & Corona Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1946234,
+          33.9879728
+        ]
+      },
+      "properties": {
+        "poi_id": "ID767F1AE87834D29",
+        "name": "Corona & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1857105,
+          33.9874329
+        ]
+      },
+      "properties": {
+        "poi_id": "I346B5277451EB5AC",
+        "name": "Atlantic & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.192421,
+          33.987717
+        ]
+      },
+      "properties": {
+        "poi_id": "IE62185B4E26F116F",
+        "name": "Slauson & Gifford Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.185257,
+          33.987003
+        ]
+      },
+      "properties": {
+        "poi_id": "IA6E28F9D86A05712",
+        "name": "Slauson & Atlantic Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.187256,
+          33.97818
+        ]
+      },
+      "properties": {
+        "poi_id": "I9B063D6A3AD98368",
+        "name": "Gage & Atlantic Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1860866,
+          33.9778231
+        ]
+      },
+      "properties": {
+        "poi_id": "IC3DAAEADF82DB0F7",
+        "name": "Gage & Atlantic Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.192139,
+          33.978436
+        ]
+      },
+      "properties": {
+        "poi_id": "IDB770EABB5650E5",
+        "name": "Gage & Otis Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1897955,
+          33.9876664
+        ]
+      },
+      "properties": {
+        "poi_id": "I31C2CCE3F779C25A",
+        "name": "Slauson & Fishburn Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18808,
+          33.987534
+        ]
+      },
+      "properties": {
+        "poi_id": "I260240AAD2206567",
+        "name": "Slauson & Pine Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18631,
+          33.981186
+        ]
+      },
+      "properties": {
+        "poi_id": "I515685CC2A78F4FE",
+        "name": "Atlantic & Randolph Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1931569,
+          33.9825309
+        ]
+      },
+      "properties": {
+        "poi_id": "I9A145A48B2E7CD77",
+        "name": "Randolph & Gifford Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Huntington Park",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Huntington Park, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.186389,
+          33.987111
+        ]
+      },
+      "properties": {
+        "poi_id": "I15E3AA57441DC168",
+        "name": "Slauson Ave & Atlantic Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1837162,
+          33.9870782
+        ]
+      },
+      "properties": {
+        "poi_id": "I848FA434E9CCA3D5",
+        "name": "Slauson & King Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1879193,
+          33.9872928
+        ]
+      },
+      "properties": {
+        "poi_id": "I1F8F0D272C66CFD4",
+        "name": "Slauson & Pine Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1871487,
+          33.9777664
+        ]
+      },
+      "properties": {
+        "poi_id": "IE8890F652EC078EA",
+        "name": "Atlantic & Gage Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Bell",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Bell, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.185408,
+          33.9874228
+        ]
+      },
+      "properties": {
+        "poi_id": "I84261C87A6F0C265",
+        "name": "Atlantic & Slauson Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1850949,
+          33.9907076
+        ]
+      },
+      "properties": {
+        "poi_id": "I8E81C0D72213EB81",
+        "name": "Atlantic & 55th Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Maywood",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Maywood, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24781,
+          33.974968
+        ]
+      },
+      "properties": {
+        "poi_id": "IF8CB3453789D7C92",
+        "name": "Compton & Florence Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "Los Angeles, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224998,
+          33.956032
+        ]
+      },
+      "properties": {
+        "poi_id": "I861EB882464ED1B2",
+        "name": "Firestone & Santa Fe Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.230713,
+          33.957832
+        ]
+      },
+      "properties": {
+        "poi_id": "IFFD34C40E2142A29",
+        "name": "Firestone & Alameda Stop",
+        "category": "PublicTransport",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "South Gate",
+        "state": "CA",
+        "state1": "California",
+        "fmtAddr": "South Gate, CA, United States"
+      }
+    }
+  ]
+}

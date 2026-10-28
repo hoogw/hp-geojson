@@ -1,0 +1,6832 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.226349,
+          33.927746
+        ]
+      },
+      "properties": {
+        "poi_id": "PVsYbp2BgP6n9-pcbE6vNg",
+        "name": "Kunzman E E Md",
+        "stNo": "11705",
+        "strName": "Alameda Street",
+        "stPrefix": "",
+        "stName": "ALAMEDA",
+        "stType": "ST",
+        "city": "LYNWOOD",
+        "state": "CA",
+        "zipCode": "90262",
+        "address": "11705 Alameda Street, Lynwood, CA 90262",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.227323,
+          33.927828
+        ]
+      },
+      "properties": {
+        "poi_id": "VSzEPzXnK2BppRQf0k88hw",
+        "name": "Century Regional Detention Facility",
+        "phone": "+1 213-473-6100",
+        "stNo": "11705",
+        "strName": "Alameda Street",
+        "stPrefix": "",
+        "stName": "ALAMEDA",
+        "stType": "ST",
+        "city": "LYNWOOD",
+        "state": "CA",
+        "zipCode": "90262",
+        "address": "11705 Alameda Street, Lynwood, CA 90262",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238235,
+          34.05332
+        ]
+      },
+      "properties": {
+        "poi_id": "2NFJ17gseMVqq8wyNQporg",
+        "name": "Metropolitan Detention Center",
+        "phone": "+1 213-485-0439",
+        "url": "www.bop.gov/locations/institutions/los/index.jsp",
+        "stNo": "535",
+        "strName": "North Alameda Street",
+        "stPrefix": "N",
+        "stName": "ALAMEDA",
+        "stType": "ST",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90012",
+        "address": "535 North Alameda Street, Los Angeles, CA 90012",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.162142,
+          33.935654
+        ]
+      },
+      "properties": {
+        "poi_id": "LIVhprRqGzFxTW1lWJhWdw",
+        "name": "Los Padrinos Juvenile Hall",
+        "phone": "+1 562-803-6648",
+        "url": "probation.lacounty.gov/probation-welcomes-chief-probation-officer",
+        "stNo": "7285",
+        "strName": "Quill Drive",
+        "stPrefix": "",
+        "stName": "QUILL",
+        "stType": "DR",
+        "city": "DOWNEY",
+        "state": "CA",
+        "zipCode": "90242",
+        "address": "7285 Quill Drive, Downey, CA 90242",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.168022,
+          34.056198
+        ]
+      },
+      "properties": {
+        "poi_id": "uBTP233I5_Rsn2dYLM56Fw",
+        "name": "Sybil Brand Correctional Facility",
+        "url": "en.wikipedia.org/wiki/Sybil_Brand_Institute",
+        "stNo": "4500",
+        "strName": "East City Hall Drive",
+        "stPrefix": "E",
+        "stName": "CITY HALL",
+        "stType": "DR",
+        "city": "MONTEREY PARK",
+        "state": "CA",
+        "zipCode": "91754",
+        "address": "4500 East City Hall Drive, Monterey Park, CA 91754",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.241026,
+          34.052703
+        ]
+      },
+      "properties": {
+        "poi_id": "5giXsVEfa4sPaR6kTEqyWg",
+        "name": "LAPD Metropolitan Detention Center",
+        "phone": "+1 213-356-3400",
+        "stNo": "180",
+        "strName": "North Los Angeles Street",
+        "stPrefix": "N",
+        "stName": "LOS ANGELES",
+        "stType": "ST",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90012",
+        "address": "180 North Los Angeles Street, Los Angeles, CA 90012",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3086,
+          33.9218
+        ]
+      },
+      "properties": {
+        "poi_id": "zehzPZHH0EIw1hs9-BV5_Q",
+        "name": "Room 90",
+        "stNo": "122",
+        "strName": "Western Ave and W",
+        "stPrefix": "",
+        "stName": "",
+        "stType": "",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90047",
+        "address": "122 Western Ave and W, Los Angeles, CA 90047",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.230499,
+          34.059893
+        ]
+      },
+      "properties": {
+        "poi_id": "v2RPH6duruCj4JmSZEAEuw",
+        "name": "Men s Central Jail",
+        "phone": "+1 213-974-4921",
+        "stNo": "441",
+        "strName": "Bauchet Street",
+        "stPrefix": "",
+        "stName": "BAUCHET",
+        "stType": "ST",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90012",
+        "address": "441 Bauchet Street, Los Angeles, CA 90012",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238342,
+          34.053585
+        ]
+      },
+      "properties": {
+        "poi_id": "x1mXYqw3GzxkQ1Y3E22fDw",
+        "name": "Metropolitan Detention Center Los Angeles",
+        "phone": "+1 213-485-0439",
+        "url": "www.bop.gov/locations/institutions/los/index.jsp",
+        "stNo": "535",
+        "strName": "North Alameda Street",
+        "stPrefix": "N",
+        "stName": "ALAMEDA",
+        "stType": "ST",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90012",
+        "address": "535 North Alameda Street, Los Angeles, CA 90012",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.352882,
+          34.031521
+        ]
+      },
+      "properties": {
+        "poi_id": "EuNGU6XQIcV8dIUp2MKiZA",
+        "name": "Nelson Coleman Correctional Center",
+        "stNo": "2635",
+        "strName": "South Mansfield Avenue",
+        "stPrefix": "S",
+        "stName": "MANSFIELD",
+        "stType": "AVE",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "zipCode": "90016",
+        "address": "2635 South Mansfield Avenue, Los Angeles, CA 90016",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.144849,
+          34.149216
+        ]
+      },
+      "properties": {
+        "poi_id": "52dFfRkEiEkwyDrV-5ci5A",
+        "name": "Pasadena Jail",
+        "phone": "+1 626-744-4616",
+        "stNo": "207",
+        "strName": "North Garfield Avenue",
+        "stPrefix": "N",
+        "stName": "GARFIELD",
+        "stType": "AVE",
+        "city": "PASADENA",
+        "state": "CA",
+        "zipCode": "91101",
+        "address": "207 North Garfield Avenue, Pasadena, CA 91101",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2276,
+          33.8958
+        ]
+      },
+      "properties": {
+        "poi_id": "YOGltjOYGymNeQazwkoCQA",
+        "name": "Corrections Department",
+        "phone": "+1 310-639-8601",
+        "stNo": "322",
+        "strName": "West Compton Boulevard",
+        "stPrefix": "W",
+        "stName": "COMPTON",
+        "stType": "BLVD",
+        "city": "COMPTON",
+        "state": "CA",
+        "zipCode": "90220",
+        "address": "322 West Compton Boulevard, Compton, CA 90220",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8369,
+          34.092553
+        ]
+      },
+      "properties": {
+        "poi_id": "ht2Jay1Hlw1PElgpI5iiaA",
+        "name": "Campus Kilpatrick",
+        "phone": "+1 818-889-1353",
+        "stNo": "433",
+        "strName": "Encinal Canyon Road",
+        "stPrefix": "",
+        "stName": "ENCINAL CANYON",
+        "stType": "RD",
+        "city": "MALIBU",
+        "state": "CA",
+        "zipCode": "90265",
+        "address": "433 Encinal Canyon Road, Malibu, CA 90265",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.928204,
+          33.870788
+        ]
+      },
+      "properties": {
+        "poi_id": "aPLG0kfHwYrjhqVr5JL_ZQ",
+        "name": "Fullerton City Jail",
+        "phone": "+1 714-738-6800",
+        "stNo": "237",
+        "strName": "West Commonwealth Avenue",
+        "stPrefix": "W",
+        "stName": "COMMONWEALTH",
+        "stType": "AVE",
+        "city": "FULLERTON",
+        "state": "CA",
+        "zipCode": "92832",
+        "address": "237 West Commonwealth Avenue, Fullerton, CA 92832",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.034574,
+          33.975019
+        ]
+      },
+      "properties": {
+        "poi_id": "QGtxzHMqGVW8Gvs5_fQ17g",
+        "name": "Whittier Police Station Jail",
+        "phone": "+1 562-567-9200",
+        "stNo": "13200",
+        "strName": "Penn Street",
+        "stPrefix": "",
+        "stName": "PENN",
+        "stType": "ST",
+        "city": "WHITTIER",
+        "state": "CA",
+        "zipCode": "90602",
+        "address": "13200 Penn Street, Whittier, CA 90602",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.888379,
+          33.785178
+        ]
+      },
+      "properties": {
+        "poi_id": "2JWO9Oy3PXbHVF7Y3JCS-A",
+        "name": "Orange County Juvenile Hall",
+        "phone": "+1 714-935-6660",
+        "url": "ocgov.com/gov/probation/contact/institutions/juvehall",
+        "stNo": "331",
+        "strName": "The City Drive South",
+        "stPrefix": "",
+        "stName": "THE CITY",
+        "stType": "DR",
+        "city": "ORANGE",
+        "state": "CA",
+        "zipCode": "92868",
+        "address": "331 The City Drive South, Orange, CA 92868",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.888217,
+          33.782415
+        ]
+      },
+      "properties": {
+        "poi_id": "duvVhxsAeIfTNMQE33UPFw",
+        "name": "Theo Lacy Facility",
+        "phone": "+1 714-935-6940",
+        "stNo": "501",
+        "strName": "The City Drive South",
+        "stPrefix": "",
+        "stName": "THE CITY",
+        "stType": "DR",
+        "city": "ORANGE",
+        "state": "CA",
+        "zipCode": "92868",
+        "address": "501 The City Drive South, Orange, CA 92868",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.918914,
+          33.830123
+        ]
+      },
+      "properties": {
+        "poi_id": "2ItOr1qynNEPR_bybbhrag",
+        "name": "The Anaheim Detention Facility",
+        "phone": "+1 714-765-1988",
+        "stNo": "425",
+        "strName": "South Harbor Boulevard",
+        "stPrefix": "",
+        "stName": "SOUTH",
+        "stType": "HBR",
+        "city": "ANAHEIM",
+        "state": "CA",
+        "zipCode": "92805",
+        "address": "425 South Harbor Boulevard, Anaheim, CA 92805",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3425,
+          33.8397
+        ]
+      },
+      "properties": {
+        "poi_id": "6qg1fUJ40vtslTPD6YXfrQ",
+        "name": "Torrance City Jail",
+        "phone": "+1 310-618-5631",
+        "stNo": "3300",
+        "strName": "Civic Center Drive North",
+        "stPrefix": "",
+        "stName": "CIVIC CENTER",
+        "stType": "DR",
+        "city": "TORRANCE",
+        "state": "CA",
+        "zipCode": "90503",
+        "address": "3300 Civic Center Drive North, Torrance, CA 90503",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2683,
+          33.7283
+        ]
+      },
+      "properties": {
+        "poi_id": "7PXS4K0Uc5KKoYBgZdqWSA",
+        "name": "Federal Correctional Institution",
+        "phone": "+1 310-831-8961",
+        "stNo": "1299",
+        "strName": "South Seaside Avenue",
+        "stPrefix": "S",
+        "stName": "SEASIDE",
+        "stType": "AVE",
+        "city": "SAN PEDRO",
+        "state": "CA",
+        "zipCode": "90731",
+        "address": "1299 South Seaside Avenue, San Pedro, CA 90731",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.864,
+          34.0848
+        ]
+      },
+      "properties": {
+        "poi_id": "52VuvPJLZYhj-Cx6l4GM_A",
+        "name": "Malibu Conservation Camp 13",
+        "phone": "+1 310-457-2253",
+        "stNo": "1250",
+        "strName": "Encinal Canyon Road",
+        "stPrefix": "",
+        "stName": "ENCINAL CANYON",
+        "stType": "RD",
+        "city": "MALIBU",
+        "state": "CA",
+        "zipCode": "90265",
+        "address": "1250 Encinal Canyon Road, Malibu, CA 90265",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.610617,
+          34.451764
+        ]
+      },
+      "properties": {
+        "poi_id": "om-FcNMs-Jz3wudoAtGmYQ",
+        "name": "Pitchess Detention Center",
+        "phone": "+1 213-473-6100",
+        "stNo": "29340",
+        "strName": "The Old Road",
+        "stPrefix": "",
+        "stName": "THE OLD",
+        "stType": "RD",
+        "city": "CASTAIC",
+        "state": "CA",
+        "zipCode": "91384",
+        "address": "29340 The Old Road, Castaic, CA 91384",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.880313,
+          33.750312
+        ]
+      },
+      "properties": {
+        "poi_id": "4oECxov5b-dMsM-kllCFGQ",
+        "name": "Santa Ana Jail",
+        "phone": "+1 714-245-8100",
+        "stNo": "1056",
+        "strName": "West 6th Street",
+        "stPrefix": "W",
+        "stName": "6TH",
+        "stType": "ST",
+        "city": "SANTA ANA",
+        "state": "CA",
+        "zipCode": "92703",
+        "address": "1056 West 6th Street, Santa Ana, CA 92703",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6103,
+          34.4518
+        ]
+      },
+      "properties": {
+        "poi_id": "AxWZMiKg9dusuwEmwh0zxw",
+        "name": "Wayside Honor Rancho",
+        "phone": "+1 661-295-8805",
+        "stNo": "29310",
+        "strName": "The Old Road",
+        "stPrefix": "",
+        "stName": "THE OLD",
+        "stType": "RD",
+        "city": "CASTAIC",
+        "state": "CA",
+        "zipCode": "91384",
+        "address": "29310 The Old Road, Castaic, CA 91384",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.866428,
+          33.853074
+        ]
+      },
+      "properties": {
+        "poi_id": "3icCfD6ksbJbUhaC9oFfSA",
+        "name": "Corrections Department",
+        "stNo": "2911",
+        "strName": "East Coronado Street",
+        "stPrefix": "E",
+        "stName": "CORONADO",
+        "stType": "ST",
+        "city": "ANAHEIM",
+        "state": "CA",
+        "zipCode": "92806",
+        "address": "2911 East Coronado Street, Anaheim, CA 92806",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9998,
+          33.8436
+        ]
+      },
+      "properties": {
+        "poi_id": "CcOW9HV-S3297jNn3FNZUQ",
+        "name": "Ghost Town Jail and Sad Eye Joe",
+        "strName": "Santa Valera St",
+        "stPrefix": "",
+        "stName": "SANTA VALERA",
+        "stType": "ST",
+        "city": "BUENA PARK",
+        "state": "CA",
+        "zipCode": "90620",
+        "address": "Santa Valera St, Buena Park, CA 90620",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.356404,
+          34.296208
+        ]
+      },
+      "properties": {
+        "poi_id": "1OHQAqbzMuVc-JEXS1tapg",
+        "name": "Holton Conservation Camp 16",
+        "stNo": "12653",
+        "strName": "Little Tujunga Canyon Road",
+        "stPrefix": "",
+        "stName": "LITTLE TUJUNGA CANYON",
+        "stType": "RD",
+        "city": "SYLMAR",
+        "state": "CA",
+        "zipCode": "91342",
+        "address": "12653 Little Tujunga Canyon Road, Sylmar, CA 91342",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.87874,
+          33.749062
+        ]
+      },
+      "properties": {
+        "poi_id": "J09OuYUC_PlXE8fhMOhdaA",
+        "name": "Orange County Central Men s Jail",
+        "phone": "+1 714-647-4666",
+        "stNo": "550",
+        "strName": "North Flower Street",
+        "stPrefix": "N",
+        "stName": "FLOWER",
+        "stType": "ST",
+        "city": "SANTA ANA",
+        "state": "CA",
+        "zipCode": "92703",
+        "address": "550 North Flower Street, Santa Ana, CA 92703",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2733,
+          34.1023
+        ]
+      },
+      "properties": {
+        "poi_id": "VS7HLgugESWb9W5PSX87IQ",
+        "name": "San Bernardino County Sheriff Central Detention Center",
+        "phone": "+1 909-386-0969",
+        "url": "cms.sbcounty.gov",
+        "stNo": "630",
+        "strName": "East Rialto Avenue",
+        "stPrefix": "E",
+        "stName": "RIALTO",
+        "stType": "AVE",
+        "city": "SAN BERNARDINO",
+        "state": "CA",
+        "zipCode": "92408",
+        "address": "630 East Rialto Avenue, San Bernardino, CA 92408",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.374405,
+          33.978936
+        ]
+      },
+      "properties": {
+        "poi_id": "Ozg6qoHJrIe0Pzj-MQJRqg",
+        "name": "Robert Presley Detention Center",
+        "phone": "+1 951-955-4500",
+        "stNo": "4000",
+        "strName": "Orange Street",
+        "stPrefix": "",
+        "stName": "ORANGE",
+        "stType": "ST",
+        "city": "RIVERSIDE",
+        "state": "CA",
+        "zipCode": "92501",
+        "address": "4000 Orange Street, Riverside, CA 92501",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2732,
+          34.102272
+        ]
+      },
+      "properties": {
+        "poi_id": "6EXGyVV37LquTMQmtZdPYw",
+        "name": "San Bernardino County Sheriff Central Detention Center",
+        "phone": "+1 909-384-9059",
+        "stNo": "630",
+        "strName": "East Rialto Avenue",
+        "stPrefix": "E",
+        "stName": "RIALTO",
+        "stType": "AVE",
+        "city": "SAN BERNARDINO",
+        "state": "CA",
+        "zipCode": "92408",
+        "address": "630 East Rialto Avenue, San Bernardino, CA 92408",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.75394,
+          34.054452
+        ]
+      },
+      "properties": {
+        "poi_id": "osHILrJDg1ZVM3vlHwZjUw",
+        "name": "Pomona Jail",
+        "phone": "+1 909-620-2131",
+        "stNo": "490",
+        "strName": "West Mission Boulevard",
+        "stPrefix": "",
+        "stName": "WEST",
+        "stType": "MSN",
+        "city": "POMONA",
+        "state": "CA",
+        "zipCode": "91766",
+        "address": "490 West Mission Boulevard, Pomona, CA 91766",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.699457,
+          33.663652
+        ]
+      },
+      "properties": {
+        "poi_id": "4-Oe2dS_cq7VdRX7bQp0Dg",
+        "name": "James A  Musick Facility",
+        "phone": "+1 949-855-2600",
+        "stNo": "13502",
+        "strName": "Honor Road",
+        "stPrefix": "",
+        "stName": "HONOR",
+        "stType": "RD",
+        "city": "IRVINE",
+        "state": "CA",
+        "zipCode": "92618",
+        "address": "13502 Honor Road, Irvine, CA 92618",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5758,
+          33.9272
+        ]
+      },
+      "properties": {
+        "poi_id": "A4y-AGvYFY3_-wH0dWqA_A",
+        "name": "Norco Conservation Camp 0",
+        "phone": "+1 713-568-6986",
+        "stNo": "3195",
+        "strName": "North Western Avenue",
+        "stPrefix": "N",
+        "stName": "WESTERN",
+        "stType": "AVE",
+        "city": "NORCO",
+        "state": "CA",
+        "zipCode": "92860",
+        "address": "3195 North Western Avenue, Norco, CA 92860",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6631,
+          33.9827
+        ]
+      },
+      "properties": {
+        "poi_id": "E67dnjMNbVXEK_4TK9KFbA",
+        "name": "East Yard CIM",
+        "stNo": "14799",
+        "strName": "Cypress Avenue",
+        "stPrefix": "",
+        "stName": "CYPRESS",
+        "stType": "AVE",
+        "city": "CHINO",
+        "state": "CA",
+        "zipCode": "91710",
+        "address": "14799 Cypress Avenue, Chino, CA 91710",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.684373,
+          33.982049
+        ]
+      },
+      "properties": {
+        "poi_id": "6C9r0rIIwLuMWKJBwTABRA",
+        "name": "California Istitution for Men",
+        "phone": "+1 909-597-1821",
+        "url": "www.cdcr.ca.gov",
+        "stNo": "14901",
+        "strName": "Central Avenue",
+        "stPrefix": "",
+        "stName": "CENTRAL",
+        "stType": "AVE",
+        "city": "CHINO",
+        "state": "CA",
+        "zipCode": "91710",
+        "address": "14901 Central Avenue, Chino, CA 91710",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.529,
+          34.0811
+        ]
+      },
+      "properties": {
+        "poi_id": "8f1eiLhi183Liqscw4f-Fw",
+        "name": "San Bernardino County",
+        "stNo": "9500",
+        "strName": "Etiwanda Avenue",
+        "stPrefix": "",
+        "stName": "ETIWANDA",
+        "stType": "AVE",
+        "city": "RANCHO CUCAMONGA",
+        "state": "CA",
+        "zipCode": "91739",
+        "address": "9500 Etiwanda Avenue, Rancho Cucamonga, CA 91739",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3877,
+          34.1777
+        ]
+      },
+      "properties": {
+        "poi_id": "uVzi7ZuqvbxcfxjQBm6N2g",
+        "name": "Glen Helen Rehabilitation Center",
+        "phone": "+1 909-708-8371",
+        "stNo": "18000",
+        "strName": "Institution Rd",
+        "stPrefix": "",
+        "stName": "INSTITUTION",
+        "stType": "RD",
+        "city": "SAN BERNARDINO",
+        "state": "CA",
+        "zipCode": "92407",
+        "address": "18000 Institution Rd, San Bernardino, CA 92407",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.683518,
+          33.983475
+        ]
+      },
+      "properties": {
+        "poi_id": "mQSw06IuyfsdwL1xzw1j5w",
+        "name": "McI Corrections",
+        "phone": "+1 909-393-2962",
+        "stNo": "14901",
+        "strName": "Central Avenue",
+        "stPrefix": "",
+        "stName": "CENTRAL",
+        "stType": "AVE",
+        "city": "CHINO",
+        "state": "CA",
+        "zipCode": "91710",
+        "address": "14901 Central Avenue, Chino, CA 91710",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6863,
+          33.9763
+        ]
+      },
+      "properties": {
+        "poi_id": "ZYthdR5unRrApFTb3rqJUQ",
+        "name": "Cim Range",
+        "strName": "El Prado Road",
+        "stPrefix": "",
+        "stName": "EL PRADO",
+        "stType": "RD",
+        "city": "CHINO",
+        "state": "CA",
+        "zipCode": "91710",
+        "address": "El Prado Road, Chino, CA 91710",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.634911,
+          33.949663
+        ]
+      },
+      "properties": {
+        "poi_id": "ORGMPkI82WsCJyzA6Ea_kw",
+        "name": "California Institution for Women",
+        "phone": "+1 909-597-1771",
+        "url": "cdcr.ca.gov/facilities_locator/ciw.html",
+        "stNo": "16756",
+        "strName": "Chino Corona Road",
+        "stPrefix": "",
+        "stName": "CHINO CORONA",
+        "stType": "RD",
+        "city": "EASTVALE",
+        "state": "CA",
+        "zipCode": "92880",
+        "address": "16756 Chino Corona Road, Eastvale, CA 92880",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.774119,
+          34.390258
+        ]
+      },
+      "properties": {
+        "poi_id": "-92jaTdCCHwRBVab5CfINA",
+        "name": "Fenner Canyon Conservation Camp 41",
+        "phone": "+1 661-944-0173",
+        "stNo": "25900",
+        "strName": "Big Rock Creek Road",
+        "stPrefix": "",
+        "stName": "BIG ROCK CREEK",
+        "stType": "RD",
+        "city": "VALYERMO",
+        "state": "CA",
+        "zipCode": "93563",
+        "address": "25900 Big Rock Creek Road, Valyermo, CA 93563",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.51224,
+          33.821052
+        ]
+      },
+      "properties": {
+        "poi_id": "HOfKqr_3IxC9Kbwofu7rGg",
+        "name": "Palm Springs Jail",
+        "phone": "+1 877-427-5397",
+        "stNo": "200",
+        "strName": "South Civic Drive",
+        "stPrefix": "S",
+        "stName": "CIVIC",
+        "stType": "DR",
+        "city": "PALM SPRINGS",
+        "state": "CA",
+        "zipCode": "92262",
+        "address": "200 South Civic Drive, Palm Springs, CA 92262",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8214,
+          34.239
+        ]
+      },
+      "properties": {
+        "poi_id": "S1_y4sB2E_3VLyzbKOqiRQ",
+        "name": "Julius Klein Conservation Camp 19",
+        "stNo": "2367",
+        "strName": "E Fork Rd",
+        "stPrefix": "",
+        "stName": "E",
+        "stType": "FRK",
+        "city": "AZUSA",
+        "state": "CA",
+        "zipCode": "91702",
+        "address": "2367 E Fork Rd, Azusa, CA 91702",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.227164,
+          34.694475
+        ]
+      },
+      "properties": {
+        "poi_id": "37YFU76DNZ4LRxNYqIpEFQ",
+        "name": "California State Prison",
+        "phone": "+1 661-729-2000",
+        "url": "www.cdcr.ca.gov/Facilities_Locator/LAC.html",
+        "stNo": "44750",
+        "strName": "60Th St W",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "LANCASTER",
+        "state": "CA",
+        "zipCode": "93536",
+        "address": "44750 60Th St W, Lancaster, CA 93536 (60th Street West)",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.234767,
+          34.701558
+        ]
+      },
+      "properties": {
+        "poi_id": "vhHG5FyJZbWDf9ysvYl-sg",
+        "name": "Mira Loma Detention Center",
+        "phone": "+1 661-949-3811",
+        "url": "lasdhq.org/divisions/custody/miraloma/index.html",
+        "stNo": "45100",
+        "strName": "60th Street West",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "LANCASTER",
+        "state": "CA",
+        "zipCode": "93536",
+        "address": "45100 60th Street West, Lancaster, CA 93536",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4373,
+          34.5599
+        ]
+      },
+      "properties": {
+        "poi_id": "FVWOOEVydXjyIe750w5U5w",
+        "name": "Desert View Annex",
+        "phone": "+1 760-246-1171",
+        "stNo": "10450",
+        "strName": "Rancho Road",
+        "stPrefix": "",
+        "stName": "RANCHO",
+        "stType": "RD",
+        "city": "ADELANTO",
+        "state": "CA",
+        "zipCode": "92301",
+        "address": "10450 Rancho Road, Adelanto, CA 92301",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.44145,
+          34.559116
+        ]
+      },
+      "properties": {
+        "poi_id": "hwl10JZGtNKtQAmj5jIVRw",
+        "name": "Adelanto ICE Processing Center",
+        "phone": "+1 760-561-6100",
+        "stNo": "10250",
+        "strName": "Rancho Road",
+        "stPrefix": "",
+        "stName": "RANCHO",
+        "stType": "RD",
+        "city": "ADELANTO",
+        "state": "CA",
+        "zipCode": "92301",
+        "address": "10250 Rancho Road, Adelanto, CA 92301",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.116932,
+          34.585722
+        ]
+      },
+      "properties": {
+        "poi_id": "QES9sU06fiiK1HtSbKOieA",
+        "name": "Palmdale Jail",
+        "phone": "+1 661-272-2400",
+        "stNo": "750",
+        "strName": "East Avenue Q",
+        "stPrefix": "",
+        "stName": "EAST",
+        "stType": "AVE",
+        "city": "PALMDALE",
+        "state": "CA",
+        "zipCode": "93550",
+        "address": "750 East Avenue Q, Palmdale, CA 93550",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.227945,
+          34.696356
+        ]
+      },
+      "properties": {
+        "poi_id": "obz-s5u6MJ0LUcUUarwbEA",
+        "name": "Antelope Valley State Prison",
+        "stNo": "44750",
+        "strName": "60Th St W",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "LANCASTER",
+        "state": "CA",
+        "zipCode": "93536",
+        "address": "44750 60Th St W, Lancaster, CA 93536",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.403611,
+          34.493667
+        ]
+      },
+      "properties": {
+        "poi_id": "dq6oao-7iP4SieQ8E77I9Q",
+        "name": "Calfire CDCR Conservation Camp",
+        "strName": "N Round Valley Rd",
+        "stPrefix": "N",
+        "stName": "ROUND VALLEY",
+        "stType": "RD",
+        "city": "VICTORVILLE",
+        "state": "CA",
+        "zipCode": "93514",
+        "address": "N Round Valley Rd, Victorville, CA 93514",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.437946,
+          34.558604
+        ]
+      },
+      "properties": {
+        "poi_id": "LaghAEAOzF_x_H26A8ZG4Q",
+        "name": "Adelanto Correctional Facility",
+        "phone": "+1 760-246-3328",
+        "url": "www.cdcr.ca.gov/Facilities_Locator/Community_Correctional_Facilities.html",
+        "stNo": "10400",
+        "strName": "Rancho Road",
+        "stPrefix": "",
+        "stName": "RANCHO",
+        "stType": "RD",
+        "city": "ADELANTO",
+        "state": "CA",
+        "zipCode": "92301",
+        "address": "10400 Rancho Road, Adelanto, CA 92301",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.906838,
+          34.033055
+        ]
+      },
+      "properties": {
+        "poi_id": "COGwVcmY3nrU5Qv7QMz65g",
+        "name": "Oak Glen Conservation Camp 35",
+        "stNo": "41100",
+        "strName": "Pine Bench Road",
+        "stPrefix": "",
+        "stName": "PINE BENCH",
+        "stType": "RD",
+        "city": "YUCAIPA",
+        "state": "CA",
+        "zipCode": "92399",
+        "address": "41100 Pine Bench Road, Yucaipa, CA 92399",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.457456,
+          34.547324
+        ]
+      },
+      "properties": {
+        "poi_id": "sYedtB6qazdqb7QAHGnm2Q",
+        "name": "Adelanto Detention Center",
+        "stNo": "9438",
+        "strName": "Commerce Way",
+        "stPrefix": "",
+        "stName": "COMMERCE",
+        "stType": "WAY",
+        "city": "ADELANTO",
+        "state": "CA",
+        "zipCode": "92301",
+        "address": "9438 Commerce Way, Adelanto, CA 92301",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.366677,
+          34.565449
+        ]
+      },
+      "properties": {
+        "poi_id": "qYfmlCAox69XX-k9-D_0wA",
+        "name": "Federal Correctional Institution Victorville",
+        "strName": "Air Expressway Blvd",
+        "stPrefix": "",
+        "stName": "AIR EXPRESSWAY",
+        "stType": "BLVD",
+        "city": "VICTORVILLE",
+        "state": "CA",
+        "zipCode": "92394",
+        "address": "Air Expressway Blvd, Victorville, CA 92394",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3687,
+          34.5645
+        ]
+      },
+      "properties": {
+        "poi_id": "bsfs9Q7Uv8-x4LCkn_3KlA",
+        "name": "United States Penitentiary",
+        "phone": "+1 760-530-5000",
+        "stNo": "13777",
+        "strName": "Air Expressway Boulevard",
+        "stPrefix": "",
+        "stName": "AIR EXPRESSWAY",
+        "stType": "BLVD",
+        "city": "VICTORVILLE",
+        "state": "CA",
+        "zipCode": "92394",
+        "address": "13777 Air Expressway Boulevard, Victorville, CA 92394",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3365,
+          33.3012
+        ]
+      },
+      "properties": {
+        "poi_id": "0PGpbbG8786vQTIcsEI-FA",
+        "name": "Camp Pendleton Base Brig",
+        "phone": "+1 760-725-8144",
+        "stNo": "24100",
+        "strName": "Powder Magazine Road",
+        "stPrefix": "",
+        "stName": "POWDER MAGAZINE",
+        "stType": "RD",
+        "city": "OCEANSIDE",
+        "state": "CA",
+        "zipCode": "92055",
+        "address": "24100 Powder Magazine Road, Oceanside, CA 92055",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.221,
+          33.7142
+        ]
+      },
+      "properties": {
+        "poi_id": "wEb_QC12HP6pgMePNyamBA",
+        "name": "John J  Benoit Detention Center",
+        "phone": "+1 760-863-8252",
+        "stNo": "82675",
+        "strName": "US Highway 111",
+        "stPrefix": "",
+        "stName": "US",
+        "stType": "HWY",
+        "city": "INDIO",
+        "state": "CA",
+        "zipCode": "92201",
+        "address": "82675 US Highway 111, Indio, CA 92201",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.104333,
+          33.119987
+        ]
+      },
+      "properties": {
+        "poi_id": "yCX_KR3zSKcAFwdFZYBiPA",
+        "name": "Corrections Department",
+        "phone": "+1 760-737-7925",
+        "stNo": "1301",
+        "strName": "Simpson Way",
+        "stPrefix": "",
+        "stName": "SIMPSON",
+        "stType": "WAY",
+        "city": "ESCONDIDO",
+        "state": "CA",
+        "zipCode": "92029",
+        "address": "1301 Simpson Way, Escondido, CA 92029",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5931,
+          34.4644
+        ]
+      },
+      "properties": {
+        "poi_id": "T98WO223CDcNPS-HhsOUJw",
+        "name": "East Max Facility",
+        "strName": "United States",
+        "stPrefix": "",
+        "stName": "UNITED",
+        "stType": "",
+        "city": "CASTAIC",
+        "state": "CA",
+        "zipCode": "91355",
+        "address": "United States, Castaic, CA 91355",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4754,
+          34.5653
+        ]
+      },
+      "properties": {
+        "poi_id": "yF1T7cuNRZCEbbDZfrkunQ",
+        "name": "Francisquito Conservation Camp 4",
+        "stNo": "35100",
+        "strName": "San Francisquito Canyon Road",
+        "stPrefix": "",
+        "stName": "SAN FRANCISQUITO CANYON",
+        "stType": "RD",
+        "city": "SANTA CLARITA",
+        "state": "CA",
+        "zipCode": "91390",
+        "address": "35100 San Francisquito Canyon Road, Santa Clarita, CA 91390",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.11192,
+          34.309758
+        ]
+      },
+      "properties": {
+        "poi_id": "eE2GwguFvvIABjbOErUIAQ",
+        "name": "Ventura County Jail Todd Road Facility",
+        "phone": "+1 805-933-8501",
+        "stNo": "600",
+        "strName": "Todd Road",
+        "stPrefix": "",
+        "stName": "TODD",
+        "stType": "RD",
+        "city": "SANTA PAULA",
+        "state": "CA",
+        "zipCode": "93060",
+        "address": "600 Todd Road, Santa Paula, CA 93060",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.164293,
+          32.717427
+        ]
+      },
+      "properties": {
+        "poi_id": "OZnPR75VaYfmXE1_pgi1bQ",
+        "name": "San Diego Central Jail",
+        "phone": "+1 619-610-1647",
+        "url": "www.sdsheriff.net/detentionfacilities/sdcj.html",
+        "stNo": "1173",
+        "strName": "Front Street",
+        "stPrefix": "",
+        "stName": "STREET",
+        "stType": "",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92101",
+        "address": "1173 Front Street, San Diego, CA 92101",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.165182,
+          32.717308
+        ]
+      },
+      "properties": {
+        "poi_id": "uGcc9B2GFAArC87_UJd-0A",
+        "name": "Western Region Detention Facility",
+        "phone": "+1 619-232-9221",
+        "stNo": "220",
+        "strName": "West C Street",
+        "stPrefix": "W",
+        "stName": "C",
+        "stType": "ST",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92101",
+        "address": "220 West C Street, San Diego, CA 92101",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.536743,
+          32.939721
+        ]
+      },
+      "properties": {
+        "poi_id": "R1aF4Ms4mprsFds2yKi9Uw",
+        "name": "La Cima Conservation Camp 42",
+        "stNo": "15108",
+        "strName": "Sunrise Hwy",
+        "stPrefix": "",
+        "stName": "SUNRISE",
+        "stType": "HWY",
+        "city": "DESCANSO",
+        "state": "CA",
+        "zipCode": "92036",
+        "address": "15108 Sunrise Hwy, Descanso, CA 92036",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.153809,
+          32.794315
+        ]
+      },
+      "properties": {
+        "poi_id": "6IdGyiJOWMo1eogdaURZIA",
+        "name": "Kearny Mesa Juvenile Detention Facility",
+        "stNo": "2801",
+        "strName": "Meadow Lark Drive",
+        "stPrefix": "",
+        "stName": "MEADOW LARK",
+        "stType": "DR",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92123",
+        "address": "2801 Meadow Lark Drive, San Diego, CA 92123",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1519,
+          32.88
+        ]
+      },
+      "properties": {
+        "poi_id": "noFFRm1eiX0s12xEsdwLbg",
+        "name": "Naval Consolidated Brig Miramar",
+        "strName": "SAN DIEGO",
+        "stPrefix": "",
+        "stName": "SAN",
+        "stType": "",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92145",
+        "address": "SAN DIEGO, San Diego, CA 92145",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.166031,
+          32.713866
+        ]
+      },
+      "properties": {
+        "poi_id": "80N-ovneo7KyzLQ_9NQprg",
+        "name": "Metropolitan Correctional Center San Diego",
+        "phone": "+1 619-232-4311",
+        "stNo": "808",
+        "strName": "Union Street",
+        "stPrefix": "",
+        "stName": "UNION",
+        "stType": "ST",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92101",
+        "address": "808 Union Street, San Diego, CA 92101",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.164293,
+          32.717427
+        ]
+      },
+      "properties": {
+        "poi_id": "Vg3JIFKIwzS7rOcmdSCp9w",
+        "name": "San Diego County Jail",
+        "stNo": "1173",
+        "strName": "Front Street",
+        "stPrefix": "",
+        "stName": "STREET",
+        "stType": "",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92101",
+        "address": "1173 Front Street, San Diego, CA 92101",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9151,
+          32.5757
+        ]
+      },
+      "properties": {
+        "poi_id": "w033kTNfz32DieD_3mz0eg",
+        "name": "Otay Mesa Detention Center",
+        "phone": "+1 619-671-8724",
+        "stNo": "7488",
+        "strName": "Calzada de la Fuente",
+        "stPrefix": "",
+        "stName": "CALZADA DE",
+        "stType": "LN",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92154",
+        "address": "7488 Calzada de la Fuente, San Diego, CA 92154",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15401,
+          32.79435
+        ]
+      },
+      "properties": {
+        "poi_id": "roTJCTKBQJcUvbJ9Vqd6QA",
+        "name": "Kearny Mesa Juvenile Detention Facility",
+        "phone": "+1 858-694-4500",
+        "url": "www.sdcourt.ca.gov/pls/portal/url/page/sdcourt/juvenile3CachedSimilar",
+        "stNo": "2801",
+        "strName": "Meadow Lark Drive",
+        "stPrefix": "",
+        "stName": "MEADOW LARK",
+        "stType": "DR",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "zipCode": "92123",
+        "address": "2801 Meadow Lark Drive, San Diego, CA 92123",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.064932,
+          32.561222
+        ]
+      },
+      "properties": {
+        "poi_id": "gk919dMCRq5xxhYl5jAu3Q",
+        "name": "Callnsave Net",
+        "phone": "+1 619-798-8085",
+        "stNo": "1010",
+        "strName": "West San Ysidro Boulevard",
+        "stPrefix": "W",
+        "stName": "SAN YSIDRO",
+        "stType": "BLVD",
+        "city": "SAN YSIDRO",
+        "state": "CA",
+        "zipCode": "92173",
+        "address": "1010 West San Ysidro Boulevard, San Ysidro, CA 92173",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.106556,
+          34.246328
+        ]
+      },
+      "properties": {
+        "poi_id": "w9FEe20S4BRDZCfJCNYV9A",
+        "name": "Ventura Training Center",
+        "phone": "+1 805-983-1332",
+        "stNo": "2800",
+        "strName": "Wright Road",
+        "stPrefix": "",
+        "stName": "WRIGHT",
+        "stType": "RD",
+        "city": "CAMARILLO",
+        "state": "CA",
+        "zipCode": "93010",
+        "address": "2800 Wright Road, Camarillo, CA 93010",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.106623,
+          34.243692
+        ]
+      },
+      "properties": {
+        "poi_id": "E5Cy4Q6SauOIQGBcPMXFYQ",
+        "name": "MCI Corrections",
+        "phone": "+1 805-278-0951",
+        "stNo": "3100",
+        "strName": "Wright Road",
+        "stPrefix": "",
+        "stName": "WRIGHT",
+        "stType": "RD",
+        "city": "CAMARILLO",
+        "state": "CA",
+        "zipCode": "93010",
+        "address": "3100 Wright Road, Camarillo, CA 93010",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.974229,
+          32.841908
+        ]
+      },
+      "properties": {
+        "poi_id": "35TNcK04fR0HUtJg9yqqnA",
+        "name": "Las Colinas Detention Facility",
+        "stNo": "9000",
+        "strName": "Cottonwood Avenue",
+        "stPrefix": "",
+        "stName": "COTTONWOOD",
+        "stType": "AVE",
+        "city": "SANTEE",
+        "state": "CA",
+        "zipCode": "92071",
+        "address": "9000 Cottonwood Avenue, Santee, CA 92071",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.082737,
+          32.640327
+        ]
+      },
+      "properties": {
+        "poi_id": "xHfHV00spXCxT5sCQJrOww",
+        "name": "Chula Vista City Jail",
+        "phone": "+1 619-691-5220",
+        "stNo": "315",
+        "strName": "4th Avenue",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "AVE",
+        "city": "CHULA VISTA",
+        "state": "CA",
+        "zipCode": "91910",
+        "address": "315 4th Avenue, Chula Vista, CA 91910",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2668,
+          32.6836
+        ]
+      },
+      "properties": {
+        "poi_id": "sSQWxa073wmBF4FoGmZNUg",
+        "name": "CAL FIRE San Diego McCain Valley Camp",
+        "phone": "+1 442-325-4421",
+        "stNo": "2550",
+        "strName": "Mccain Valley Rd",
+        "stPrefix": "",
+        "stName": "MCCAIN VALLEY",
+        "stType": "RD",
+        "city": "BOULEVARD",
+        "state": "CA",
+        "zipCode": "91905",
+        "address": "2550 Mccain Valley Rd, Boulevard, CA 91905",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0234,
+          32.7671
+        ]
+      },
+      "properties": {
+        "poi_id": "jXACodwemcq2FUXStB1DXw",
+        "name": "La Mesa County Jail Inmate Information",
+        "phone": "+1 619-373-1880",
+        "stNo": "8085",
+        "strName": "University Avenue",
+        "stPrefix": "",
+        "stName": "UNIVERSITY",
+        "stType": "AVE",
+        "city": "LA MESA",
+        "state": "CA",
+        "zipCode": "91942",
+        "address": "8085 University Avenue, La Mesa, CA 91942",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.149527,
+          34.158296
+        ]
+      },
+      "properties": {
+        "poi_id": "3aN-PSC5uVoKlo5JbJQNlQ",
+        "name": "Trinity House Group Home",
+        "phone": "+1 805-488-6039",
+        "stNo": "4610",
+        "strName": "Reeder Avenue",
+        "stPrefix": "",
+        "stName": "REEDER",
+        "stType": "AVE",
+        "city": "OXNARD",
+        "state": "CA",
+        "zipCode": "93033",
+        "address": "4610 Reeder Avenue, Oxnard, CA 93033",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.25061,
+          32.484068
+        ]
+      },
+      "properties": {
+        "poi_id": "oyM_ccYaNxn5VwY0WS8_rQ",
+        "name": "Cereso El Hongo",
+        "phone": "+52 665 655 2448",
+        "url": "www.seguridadbc.gob.mx",
+        "stNo": "KM 94",
+        "strName": "Carretera Mexicali-Tijuana",
+        "stPrefix": "",
+        "stName": "CARRETERA",
+        "stType": "",
+        "city": "TECATE",
+        "state": "BCN",
+        "zipCode": "21505",
+        "address": "Carretera Mexicali-Tijuana KM 94, 21505, Tecate, Baja California",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.571627,
+          31.874967
+        ]
+      },
+      "properties": {
+        "poi_id": "cPZ9wtKHY4nRJMNXOTa4Gw",
+        "name": "Edificio Centro De Justicia Ensenada",
+        "stNo": "22813",
+        "strName": "Isla De Todos Santos 3026",
+        "stPrefix": "",
+        "stName": "ISLA",
+        "stType": "",
+        "city": "ENSENADA",
+        "state": "BCN",
+        "zipCode": "22842",
+        "address": "Isla De Todos Santos 3026 22813, 22842, Ensenada, Baja California",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2514,
+          32.4843
+        ]
+      },
+      "properties": {
+        "poi_id": "RTB04UuPO0qUyiIOSHxJHw",
+        "name": "Centro De Reinserci n Social El Hongo",
+        "phone": "+52 665 103 7600",
+        "strName": "Lic. Luis Echeverría Alvarez Km",
+        "stPrefix": "",
+        "stName": "LIC",
+        "stType": "",
+        "city": "TECATE",
+        "state": "BCN",
+        "zipCode": "21519",
+        "address": "Lic. Luis Echeverría Alvarez Km, 21519, Tecate, Baja California",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.970052,
+          32.505814
+        ]
+      },
+      "properties": {
+        "poi_id": "yx8dMBu7DXHCHWFwkQyQQQ",
+        "name": "Centro de Reinserci n Social Tijuana Licenciado Jorge Albert",
+        "phone": "+52 664 621 6585",
+        "url": "www.seguridadbc.gob.mx",
+        "stNo": "140",
+        "strName": "Avenida de los Charros",
+        "stPrefix": "",
+        "stName": "AVENIDA",
+        "stType": "",
+        "city": "TIJUANA",
+        "state": "BCN",
+        "zipCode": "22450",
+        "address": "Avenida de los Charros 140, 22450, Tijuana, Baja California",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9702,
+          32.5055
+        ]
+      },
+      "properties": {
+        "poi_id": "kFiN_sWp8gkj3af_ZTldmw",
+        "name": "Cereso Tijuana",
+        "phone": "+52 664 608 7398",
+        "stNo": "140",
+        "strName": "Avenida de los Charros",
+        "stPrefix": "",
+        "stName": "AVENIDA",
+        "stType": "",
+        "city": "TIJUANA",
+        "state": "BCN",
+        "zipCode": "22105",
+        "address": "Avenida de los Charros 140, 22105, Tijuana, Baja California",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5701,
+          31.8755
+        ]
+      },
+      "properties": {
+        "poi_id": "Zx_QGYJjcRP9K7ZIalGOBA",
+        "name": "Centro De Readaptaci n Social",
+        "strName": "Rancho El Tule",
+        "stPrefix": "",
+        "stName": "RANCHO",
+        "stType": "",
+        "city": "ENSENADA",
+        "state": "BCN",
+        "zipCode": "22842",
+        "address": "Rancho El Tule, 22842, Ensenada, Baja California",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5709,
+          31.8753
+        ]
+      },
+      "properties": {
+        "poi_id": "6eLOMjPtBbolS4irrjxfkw",
+        "name": "Penitenciaria Ensenada",
+        "phone": "+52 646 177 8513",
+        "stNo": "2025",
+        "strName": "Mar",
+        "stPrefix": "",
+        "stName": "MAR",
+        "stType": "",
+        "city": "ENSENADA",
+        "state": "BCN",
+        "zipCode": "22842",
+        "address": "Mar 2025, 22842, Ensenada, Baja California",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4802,
+          32.656
+        ]
+      },
+      "properties": {
+        "poi_id": "RITNWnQbTPIdeA2y9ojSSQ",
+        "name": "Centro De Reinsercion Social De Mexicali",
+        "strName": "Bellavista",
+        "stPrefix": "",
+        "stName": "BELLAVISTA",
+        "stType": "",
+        "city": "MEXICALI",
+        "state": "BCN",
+        "zipCode": "21150",
+        "address": "Bellavista, 21150, Mexicali, Baja California",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.788819,
+          32.820569
+        ]
+      },
+      "properties": {
+        "poi_id": "hqViIQmsSaHBssjncQr3Hg",
+        "name": "Centinela State Prison",
+        "phone": "+1 760-337-7900",
+        "stNo": "2302",
+        "strName": "Brown Road",
+        "stPrefix": "",
+        "stName": "BROWN",
+        "stType": "RD",
+        "city": "IMPERIAL",
+        "state": "CA",
+        "zipCode": "92251",
+        "address": "2302 Brown Road, Imperial, CA 92251",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4794,
+          32.656
+        ]
+      },
+      "properties": {
+        "poi_id": "L5CfRJEvw8Bv3hixFvx4eQ",
+        "name": "Cereso",
+        "phone": "+52 686 309 8729",
+        "strName": "Calle Sur",
+        "stPrefix": "",
+        "stName": "CALLE",
+        "stType": "",
+        "city": "MEXICALI",
+        "state": "BCN",
+        "zipCode": "21150",
+        "address": "Calle Sur, 21150, Mexicali, Baja California",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4847,
+          33.1631
+        ]
+      },
+      "properties": {
+        "poi_id": "aXzScwYa3p1VxNBXleLjYg",
+        "name": "Calipatria State Prison",
+        "phone": "+1 760-348-7000",
+        "stNo": "7018",
+        "strName": "Blair Rd",
+        "stPrefix": "",
+        "stName": "BLAIR",
+        "stType": "RD",
+        "city": "CALIPATRIA",
+        "state": "CA",
+        "zipCode": "92233",
+        "address": "7018 Blair Rd, Calipatria, CA 92233",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.479226,
+          32.655264
+        ]
+      },
+      "properties": {
+        "poi_id": "gX29lqYz4Dy7404WKdS3DQ",
+        "name": "Centro De Justicia Mexicali",
+        "strName": "Callejón Celaya Sur",
+        "stPrefix": "",
+        "stName": "CALLEJ",
+        "stType": "",
+        "city": "MEXICALI",
+        "state": "BCN",
+        "zipCode": "21150",
+        "address": "Callejón Celaya Sur, 21150, Mexicali, Baja California",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.552827,
+          36.060237
+        ]
+      },
+      "properties": {
+        "poi_id": "i9P552b3powQUNmnSKRDFQ",
+        "name": "California State Prison Corcoran",
+        "phone": "+1 559-992-8800",
+        "stNo": "4001",
+        "strName": "King Avenue",
+        "stPrefix": "",
+        "stName": "KING",
+        "stType": "AVE",
+        "city": "CORCORAN",
+        "state": "CA",
+        "zipCode": "93212",
+        "address": "4001 King Avenue, Corcoran, CA 93212",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.979471,
+          36.030591
+        ]
+      },
+      "properties": {
+        "poi_id": "WWhKq6ExZwV9Kzu_UB0_9A",
+        "name": "Henderson Detention Center",
+        "phone": "+1 702-267-5245",
+        "stNo": "18",
+        "strName": "East Basic Road",
+        "stPrefix": "E",
+        "stName": "BASIC",
+        "stType": "RD",
+        "city": "HENDERSON",
+        "state": "NV",
+        "zipCode": "89015",
+        "address": "18 East Basic Road, Henderson, NV 89015",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.11061,
+          35.51048
+        ]
+      },
+      "properties": {
+        "poi_id": "TMVxyaDd9ITzJJbNyb448A",
+        "name": "Pre Trial Facility",
+        "phone": "+1 661-391-7900",
+        "stNo": "17695",
+        "strName": "Industrial Farm Road",
+        "stPrefix": "",
+        "stName": "INDUSTRIAL FARM",
+        "stType": "RD",
+        "city": "BAKERSFIELD",
+        "state": "CA",
+        "zipCode": "93308",
+        "address": "17695 Industrial Farm Road, Bakersfield, CA 93308",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.684366,
+          32.484686
+        ]
+      },
+      "properties": {
+        "poi_id": "1IoTQu2lOZRwo5CgAPascw",
+        "name": "San Luis Regional Detention   Support Center",
+        "stNo": "406",
+        "strName": "Avenue D",
+        "stPrefix": "",
+        "stName": "AVENUE",
+        "stType": "",
+        "city": "SOMERTON",
+        "state": "AZ",
+        "zipCode": "85350",
+        "address": "406 Avenue D, Somerton, AZ 85350",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.312908,
+          35.775327
+        ]
+      },
+      "properties": {
+        "poi_id": "R62HHrsC1IS8g4ji62xBAA",
+        "name": "Southern Nevada Correctional",
+        "phone": "+1 702-874-2561",
+        "stNo": "1",
+        "strName": "Prison Road",
+        "stPrefix": "",
+        "stName": "PRISON",
+        "stType": "RD",
+        "city": "JEAN",
+        "state": "NV",
+        "zipCode": "89019",
+        "address": "1 Prison Road, Jean, NV 89019",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.776321,
+          34.442492
+        ]
+      },
+      "properties": {
+        "poi_id": "hkGURS492XCQHG4OsMsV6A",
+        "name": "Santa Barbara County Jail",
+        "phone": "+1 805-681-4260",
+        "url": "www.sbsheriff.org/mainjail.html",
+        "stNo": "4436",
+        "strName": "Calle Real",
+        "stPrefix": "",
+        "stName": "CALLE",
+        "stType": "",
+        "city": "SANTA BARBARA",
+        "state": "CA",
+        "zipCode": "93110",
+        "address": "4436 Calle Real, Santa Barbara, CA 93110",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6425,
+          32.4864
+        ]
+      },
+      "properties": {
+        "poi_id": "ro0MoYSZKcrpDV8MmUnyDA",
+        "name": "Arizona State Prison Complex",
+        "phone": "+1 928-627-8871",
+        "stNo": "7125",
+        "strName": "E Cesar Chavez Blvd",
+        "stPrefix": "E",
+        "stName": "CESAR CHAVEZ",
+        "stType": "BLVD",
+        "city": "SOMERTON",
+        "state": "AZ",
+        "zipCode": "85349",
+        "address": "7125 E Cesar Chavez Blvd, Somerton, AZ 85349",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3208,
+          35.766
+        ]
+      },
+      "properties": {
+        "poi_id": "g3lYie-M6ycvoGP_Pq4llw",
+        "name": "Kern Valley State Prison",
+        "phone": "+1 661-721-6300",
+        "stNo": "3000",
+        "strName": "W Cecil Ave",
+        "stPrefix": "W",
+        "stName": "CECIL",
+        "stType": "AVE",
+        "city": "DELANO",
+        "state": "CA",
+        "zipCode": "93215",
+        "address": "3000 W Cecil Ave, Delano, CA 93215",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.304403,
+          35.764948
+        ]
+      },
+      "properties": {
+        "poi_id": "UOFdkPgAfGsfNMHWLVCwJQ",
+        "name": "Delano Modified Community Correctional Facility",
+        "phone": "+1 661-721-3270",
+        "stNo": "2727",
+        "strName": "West Industry Road",
+        "stPrefix": "W",
+        "stName": "INDUSTRY",
+        "stType": "RD",
+        "city": "DELANO",
+        "state": "CA",
+        "zipCode": "93215",
+        "address": "2727 West Industry Road, Delano, CA 93215",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.73871,
+          32.46356
+        ]
+      },
+      "properties": {
+        "poi_id": "qQf7qYGOwMNZ87EPZmy-IQ",
+        "name": "Cereso San Luis R o Colorado",
+        "stNo": "5",
+        "strName": "Avenida 5 De Mayo",
+        "stPrefix": "",
+        "stName": "AVENIDA",
+        "stType": "",
+        "city": "SAN LUIS RÍO COLORADO",
+        "state": "SON",
+        "zipCode": "83450",
+        "address": "Avenida 5 De Mayo 5, 83450, San Luis Río Colorado, Sonora",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.926923,
+          33.56066
+        ]
+      },
+      "properties": {
+        "poi_id": "cGOzfsrki0Y7ffGicZt4Lg",
+        "name": "Ironwood State Prison",
+        "phone": "+1 760-921-3000",
+        "stNo": "19005",
+        "strName": "Wiley's Well Rd",
+        "stPrefix": "",
+        "stName": "WILEYS WELL",
+        "stType": "RD",
+        "city": "DESERT CENTER",
+        "state": "CA",
+        "zipCode": "92225",
+        "address": "19005 Wiley's Well Rd, Desert Center, CA 92225",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.229243,
+          35.667638
+        ]
+      },
+      "properties": {
+        "poi_id": "sjFAHzhzZRFGVbcJPww-2A",
+        "name": "Central Valley Modified Community Correctional Facility",
+        "phone": "+1 661-792-3492",
+        "stNo": "245",
+        "strName": "Taylor Avenue",
+        "stPrefix": "",
+        "stName": "TAYLOR",
+        "stType": "AVE",
+        "city": "MC FARLAND",
+        "state": "CA",
+        "zipCode": "93250",
+        "address": "245 Taylor Avenue, Mc Farland, CA 93250",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1101,
+          35.5106
+        ]
+      },
+      "properties": {
+        "poi_id": "lLZ8enA48Ea_7R1MM3GtAQ",
+        "name": "Lerdo Maximum Medium Facility",
+        "phone": "+1 661-391-2064",
+        "stNo": "17645",
+        "strName": "Industrial Farm Road",
+        "stPrefix": "",
+        "stName": "INDUSTRIAL FARM",
+        "stType": "RD",
+        "city": "BAKERSFIELD",
+        "state": "CA",
+        "zipCode": "93308",
+        "address": "17645 Industrial Farm Road, Bakersfield, CA 93308",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.777074,
+          34.444807
+        ]
+      },
+      "properties": {
+        "poi_id": "opa6PrdBDzlVdj9Mt6oHrw",
+        "name": "Santa Barbara County Jail",
+        "phone": "+1 805-681-4100",
+        "url": "www.sbsheriff.org",
+        "stNo": "4434",
+        "strName": "Calle Real",
+        "stPrefix": "",
+        "stName": "CALLE",
+        "stType": "",
+        "city": "SANTA BARBARA",
+        "state": "CA",
+        "zipCode": "93110",
+        "address": "4434 Calle Real, Santa Barbara, CA 93110",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.315302,
+          35.773573
+        ]
+      },
+      "properties": {
+        "poi_id": "a14NIGG3Dg9Yd2DiToYmmQ",
+        "name": "Jean Conservation Camp",
+        "phone": "+1 725-216-6330",
+        "stNo": "3",
+        "strName": "Prison Road",
+        "stPrefix": "",
+        "stName": "PRISON",
+        "stType": "RD",
+        "city": "JEAN",
+        "state": "NV",
+        "zipCode": "89019",
+        "address": "3 Prison Road, Jean, NV 89019",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0363,
+          35.3906
+        ]
+      },
+      "properties": {
+        "poi_id": "LsnN75XkMfRuXJ3u4_n1gg",
+        "name": "Corrections Department",
+        "stNo": "3400",
+        "strName": "North Sillect Avenue",
+        "stPrefix": "N",
+        "stName": "SILLECT",
+        "stType": "AVE",
+        "city": "BAKERSFIELD",
+        "state": "CA",
+        "zipCode": "93308",
+        "address": "3400 North Sillect Avenue, Bakersfield, CA 93308",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.017835,
+          35.37227
+        ]
+      },
+      "properties": {
+        "poi_id": "GmDZm_K_lLP4EssAj7xulA",
+        "name": "Kern County Sheriff s Jail",
+        "phone": "+1 661-868-6850",
+        "stNo": "1415",
+        "strName": "Truxtun Avenue",
+        "stPrefix": "",
+        "stName": "TRUXTUN",
+        "stType": "AVE",
+        "city": "BAKERSFIELD",
+        "state": "CA",
+        "zipCode": "93301",
+        "address": "1415 Truxtun Avenue, Bakersfield, CA 93301",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.304742,
+          35.776505
+        ]
+      },
+      "properties": {
+        "poi_id": "l7WRefSoh1SKJvDYdZ2IeQ",
+        "name": "North Kern State Prison",
+        "phone": "+1 661-721-2345",
+        "url": "www.cdcr.ca.gov",
+        "stNo": "2737",
+        "strName": "Cecil Avenue",
+        "stPrefix": "",
+        "stName": "CECIL",
+        "stType": "AVE",
+        "city": "DELANO",
+        "state": "CA",
+        "zipCode": "93215",
+        "address": "2737 Cecil Avenue, Delano, CA 93215",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.669609,
+          36.332877
+        ]
+      },
+      "properties": {
+        "poi_id": "X6hx2cHNJqdNd0w4UsC-ZA",
+        "name": "Kings County Jail",
+        "phone": "+1 559-584-1431",
+        "stNo": "1570",
+        "strName": "Kings County Drive",
+        "stPrefix": "",
+        "stName": "KINGS COUNTY",
+        "stType": "DR",
+        "city": "HANFORD",
+        "state": "CA",
+        "zipCode": "93230",
+        "address": "1570 Kings County Drive, Hanford, CA 93230",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.97534,
+          36.252953
+        ]
+      },
+      "properties": {
+        "poi_id": "FdScNZ5HIZz9NOSt-5b1Lw",
+        "name": "Doral Red Rock Las Vegas Detention Center",
+        "stNo": "2190",
+        "strName": "East Mesquite Avenue",
+        "stPrefix": "E",
+        "stName": "MESQUITE",
+        "stType": "AVE",
+        "city": "PAHRUMP",
+        "state": "NV",
+        "zipCode": "89060",
+        "address": "2190 East Mesquite Avenue, Pahrump, NV 89060",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6696,
+          35.2562
+        ]
+      },
+      "properties": {
+        "poi_id": "HOv3Vr91KlnJhAWb5crR4A",
+        "name": "Corrections Department",
+        "stNo": "3232",
+        "strName": "South Higuera Street",
+        "stPrefix": "S",
+        "stName": "HIGUERA",
+        "stType": "ST",
+        "city": "SAN LUIS OBISPO",
+        "state": "CA",
+        "zipCode": "93401",
+        "address": "3232 South Higuera Street, San Luis Obispo, CA 93401",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.137819,
+          36.002519
+        ]
+      },
+      "properties": {
+        "poi_id": "Xb0nx76NnqjGBwLNLndkxA",
+        "name": "Avenal State Prison",
+        "phone": "+1 559-386-0587",
+        "stNo": "1",
+        "strName": "Kings Way",
+        "stPrefix": "",
+        "stName": "KINGS",
+        "stType": "WAY",
+        "city": "AVENAL",
+        "state": "CA",
+        "zipCode": "93204",
+        "address": "1 Kings Way, Avenal, CA 93204",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.727255,
+          35.320789
+        ]
+      },
+      "properties": {
+        "poi_id": "znPzS4g2aXdHSl7vFj7qlQ",
+        "name": "San Luis Obispo County Jail",
+        "phone": "+1 805-781-4600",
+        "stNo": "1585",
+        "strName": "Kansas Avenue",
+        "stPrefix": "",
+        "stName": "KANSAS",
+        "stType": "AVE",
+        "city": "SAN LUIS OBISPO",
+        "state": "CA",
+        "zipCode": "93405",
+        "address": "1585 Kansas Avenue, San Luis Obispo, CA 93405",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0853,
+          36.672
+        ]
+      },
+      "properties": {
+        "poi_id": "6HohxhTFjNFM3NnUBuTPNg",
+        "name": "Corrections Department",
+        "phone": "+1 559-336-2312",
+        "stNo": "49039",
+        "strName": "Orchard Dr",
+        "stPrefix": "",
+        "stName": "ORCHARD",
+        "stType": "DR",
+        "city": "MIRAMONTE",
+        "state": "CA",
+        "zipCode": "93641",
+        "address": "49039 Orchard Dr, Miramonte, CA 93641",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505459,
+          34.678973
+        ]
+      },
+      "properties": {
+        "poi_id": "6TGU9UG-ZGybLLcr-_JRNA",
+        "name": "United States Government",
+        "phone": "+1 805-735-2771",
+        "url": "www.bop.gov/locations/institutions/lom",
+        "stNo": "3901",
+        "strName": "Klein Boulevard",
+        "stPrefix": "",
+        "stName": "KLEIN",
+        "stType": "BLVD",
+        "city": "LOMPOC",
+        "state": "CA",
+        "zipCode": "93436",
+        "address": "3901 Klein Boulevard, Lompoc, CA 93436",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.789675,
+          36.738194
+        ]
+      },
+      "properties": {
+        "poi_id": "ZFbKSXdxcnoyvt4cOu0Hzg",
+        "name": "Fresno County Jail",
+        "phone": "+1 559-600-8600",
+        "stNo": "1225",
+        "strName": "M Street",
+        "stPrefix": "",
+        "stName": "M",
+        "stType": "ST",
+        "city": "FRESNO",
+        "state": "CA",
+        "zipCode": "93721",
+        "address": "1225 M Street, Fresno, CA 93721",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.977062,
+          36.252674
+        ]
+      },
+      "properties": {
+        "poi_id": "GLg_XxC9Xg8mAOrvu6kTJA",
+        "name": "Nevada Southern Detention Center",
+        "phone": "+1 775-751-4500",
+        "stNo": "2190",
+        "strName": "East Mesquite Avenue",
+        "stPrefix": "E",
+        "stName": "MESQUITE",
+        "stType": "AVE",
+        "city": "PAHRUMP",
+        "state": "NV",
+        "zipCode": "89060",
+        "address": "2190 East Mesquite Avenue, Pahrump, NV 89060",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.694735,
+          35.324217
+        ]
+      },
+      "properties": {
+        "poi_id": "gZkWVWBhM3vV1Gjt_3eDCw",
+        "name": "California Mens Colony",
+        "strName": "Cabrillo Hwy",
+        "stPrefix": "",
+        "stName": "CABRILLO",
+        "stType": "HWY",
+        "city": "SAN LUIS OBISPO",
+        "state": "CA",
+        "zipCode": "93405",
+        "address": "Cabrillo Hwy, San Luis Obispo, CA 93405",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2492,
+          36.1297
+        ]
+      },
+      "properties": {
+        "poi_id": "KABEm2dnhYjkZdFMJJHUog",
+        "name": "Pleasant Valley State Prison",
+        "phone": "+1 559-935-4900",
+        "stNo": "24863",
+        "strName": "W Jayne Ave",
+        "stPrefix": "W",
+        "stName": "JAYNE",
+        "stType": "AVE",
+        "city": "COALINGA",
+        "state": "CA",
+        "zipCode": "93210",
+        "address": "24863 W Jayne Ave, Coalinga, CA 93210",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.492897,
+          34.918741
+        ]
+      },
+      "properties": {
+        "poi_id": "7n31I9iekl6w3O4mOtua_A",
+        "name": "Santa Barbara County",
+        "stNo": "2301",
+        "strName": "Black Road",
+        "stPrefix": "",
+        "stName": "BLACK",
+        "stType": "RD",
+        "city": "SANTA MARIA",
+        "state": "CA",
+        "zipCode": "93455",
+        "address": "2301 Black Road, Santa Maria, CA 93455",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.713649,
+          36.20758
+        ]
+      },
+      "properties": {
+        "poi_id": "JvXAI5iBVVqz21fuwqkdfg",
+        "name": "Mountain Home Conservation Camp",
+        "phone": "+1 559-539-2334",
+        "url": "www.cdcr.ca.gov",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "SPRINGVILLE",
+        "state": "CA",
+        "zipCode": "93265",
+        "address": "Springville, CA 93265",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.085964,
+          36.672978
+        ]
+      },
+      "properties": {
+        "poi_id": "IjVhGe0nVfIvCB1JYCmz0Q",
+        "name": "Miramonte Conservation Camp 5",
+        "stNo": "49039",
+        "strName": "Orchard Dr",
+        "stPrefix": "",
+        "stName": "ORCHARD",
+        "stType": "DR",
+        "city": "MIRAMONTE",
+        "state": "CA",
+        "zipCode": "93641",
+        "address": "49039 Orchard Dr, Miramonte, CA 93641",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.229027,
+          35.668288
+        ]
+      },
+      "properties": {
+        "poi_id": "q9kU3VWqIjWCRpb-ZhAdkg",
+        "name": "Geo Group",
+        "phone": "+1 661-792-3492",
+        "stNo": "254",
+        "strName": "Taylor Avenue",
+        "stPrefix": "",
+        "stName": "TAYLOR",
+        "stType": "AVE",
+        "city": "MC FARLAND",
+        "state": "CA",
+        "zipCode": "93250",
+        "address": "254 Taylor Avenue, Mc Farland, CA 93250",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.317189,
+          36.327917
+        ]
+      },
+      "properties": {
+        "poi_id": "S2THx21bYuRO2v7FdQrELw",
+        "name": "Tulare County Main Jail",
+        "phone": "+1 559-636-4655",
+        "stNo": "2404",
+        "strName": "West Burrel Avenue",
+        "stPrefix": "W",
+        "stName": "BURREL",
+        "stType": "AVE",
+        "city": "VISALIA",
+        "state": "CA",
+        "zipCode": "93291",
+        "address": "2404 West Burrel Avenue, Visalia, CA 93291",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1942,
+          36.799
+        ]
+      },
+      "properties": {
+        "poi_id": "mMNGco30lR8aB4YRquKPcA",
+        "name": "Inyo County Jail",
+        "phone": "+1 760-878-0370",
+        "stNo": "550",
+        "strName": "South Clay Street",
+        "stPrefix": "S",
+        "stName": "CLAY",
+        "stType": "ST",
+        "city": "INDEPENDENCE",
+        "state": "CA",
+        "zipCode": "93526",
+        "address": "550 South Clay Street, Independence, CA 93526",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.006222,
+          35.38011
+        ]
+      },
+      "properties": {
+        "poi_id": "3LtnnL3UkDPEayi6wLwGDQ",
+        "name": "Mesa Verde Community Correctional",
+        "phone": "+1 661-859-1028",
+        "stNo": "425",
+        "strName": "Golden State Avenue",
+        "stPrefix": "",
+        "stName": "GOLDEN STATE",
+        "stType": "AVE",
+        "city": "BAKERSFIELD",
+        "state": "CA",
+        "zipCode": "93301",
+        "address": "425 Golden State Avenue, Bakersfield, CA 93301",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.035305,
+          36.954458
+        ]
+      },
+      "properties": {
+        "poi_id": "_uv1IPwdfZvZxY0apq7E4w",
+        "name": "Madera County Jail",
+        "phone": "+1 559-675-7951",
+        "url": "www.maderacounty.com",
+        "stNo": "195",
+        "strName": "Tozer St",
+        "stPrefix": "",
+        "stName": "TOZER",
+        "stType": "ST",
+        "city": "MADERA",
+        "state": "CA",
+        "zipCode": "93638",
+        "address": "195 Tozer St, Madera, CA 93638",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.907924,
+          37.349892
+        ]
+      },
+      "properties": {
+        "poi_id": "KN0mCdwldfQh2TuLCL4_Gw",
+        "name": "Santa Clara County Juvenile Hall",
+        "phone": "+1 408-808-6200",
+        "url": "www.sccgov.org",
+        "stNo": "840",
+        "strName": "Guadalupe Parkway",
+        "stPrefix": "",
+        "stName": "GUADALUPE",
+        "stType": "PKWY",
+        "city": "SAN JOSE",
+        "state": "CA",
+        "zipCode": "95110",
+        "address": "840 Guadalupe Parkway, San Jose, CA 95110",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.987668,
+          37.500012
+        ]
+      },
+      "properties": {
+        "poi_id": "he4HcRygfs4nYK7JSbf4EQ",
+        "name": "Mariposa County Jail",
+        "phone": "+1 209-966-3616",
+        "stNo": "5379",
+        "strName": "State Highway 49 North",
+        "stPrefix": "",
+        "stName": "STATE HIGHWAY 49",
+        "stType": "",
+        "city": "MARIPOSA",
+        "state": "CA",
+        "zipCode": "95338",
+        "address": "5379 State Highway 49 North, Mariposa, CA 95338",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5379,
+          37.1889
+        ]
+      },
+      "properties": {
+        "poi_id": "WDM0FdLCR71w2F2oLULd1A",
+        "name": "John Latorraca Correctional Facility",
+        "phone": "+1 209-385-7575",
+        "stNo": "2584",
+        "strName": "West Sandy Mush Road",
+        "stPrefix": "W",
+        "stName": "SANDY MUSH",
+        "stType": "RD",
+        "city": "MERCED",
+        "state": "CA",
+        "zipCode": "95341",
+        "address": "2584 West Sandy Mush Road, Merced, CA 95341",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.659384,
+          36.674135
+        ]
+      },
+      "properties": {
+        "poi_id": "KMrjTSOIYPKXY7WYgC2pFA",
+        "name": "Monterey County Jail",
+        "stNo": "142",
+        "strName": "West Alisal Street",
+        "stPrefix": "W",
+        "stName": "ALISAL",
+        "stType": "ST",
+        "city": "SALINAS",
+        "state": "CA",
+        "zipCode": "93901",
+        "address": "142 West Alisal Street, Salinas, CA 93901",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5514,
+          37.3892
+        ]
+      },
+      "properties": {
+        "poi_id": "d4HtxidThtQgXV2257S3qg",
+        "name": "Owens Valley Conservation Camp 26",
+        "stNo": "2781",
+        "strName": "South Round Valley Road",
+        "stPrefix": "S",
+        "stName": "ROUND VALLEY",
+        "stType": "RD",
+        "city": "BISHOP",
+        "state": "CA",
+        "zipCode": "93514",
+        "address": "2781 South Round Valley Road, Bishop, CA 93514",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.906197,
+          37.351461
+        ]
+      },
+      "properties": {
+        "poi_id": "wSsoBsiZt3jhvjLQ8AvfLQ",
+        "name": "County of Santa Clara Main Jail",
+        "phone": "+1 408-299-2306",
+        "stNo": "150",
+        "strName": "West Hedding Street",
+        "stPrefix": "W",
+        "stName": "HEDDING",
+        "stType": "ST",
+        "city": "SAN JOSE",
+        "state": "CA",
+        "zipCode": "95110",
+        "address": "150 West Hedding Street, San Jose, CA 95110",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.90858,
+          37.418488
+        ]
+      },
+      "properties": {
+        "poi_id": "LNeXMtQjKx53w-2kjNhOhg",
+        "name": "Santa Clara County Department of Correction",
+        "phone": "+1 408-299-2306",
+        "stNo": "701",
+        "strName": "South Abel Street",
+        "stPrefix": "S",
+        "stName": "ABEL",
+        "stType": "ST",
+        "city": "MILPITAS",
+        "state": "CA",
+        "zipCode": "95035",
+        "address": "701 South Abel Street, Milpitas, CA 95035",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.411847,
+          36.883869
+        ]
+      },
+      "properties": {
+        "poi_id": "oFHuACHQ_Vf9u49VXzsk2A",
+        "name": "San Benito County Jail",
+        "phone": "+1 831-636-4060",
+        "stNo": "710",
+        "strName": "Flynn Road",
+        "stPrefix": "",
+        "stName": "FLYNN",
+        "stType": "RD",
+        "city": "HOLLISTER",
+        "state": "CA",
+        "zipCode": "95023",
+        "address": "710 Flynn Road, Hollister, CA 95023",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6933,
+          36.8245
+        ]
+      },
+      "properties": {
+        "poi_id": "tRmEAAfs--N6r2WKKE6iRQ",
+        "name": "Clovis City Jail",
+        "stNo": "1233",
+        "strName": "5th Street",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "CLOVIS",
+        "state": "CA",
+        "zipCode": "93612",
+        "address": "1233 5th Street, Clovis, CA 93612",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3756,
+          36.4812
+        ]
+      },
+      "properties": {
+        "poi_id": "Ogb3mUKysXyvod399epzcg",
+        "name": "Salinas Valley State Prison",
+        "phone": "+1 831-678-5500",
+        "stNo": "31625",
+        "strName": "Us-101",
+        "stPrefix": "",
+        "stName": "US",
+        "stType": "",
+        "city": "SOLEDAD",
+        "state": "CA",
+        "zipCode": "93960",
+        "address": "31625 Us-101, Soledad, CA 93960",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.908885,
+          37.418501
+        ]
+      },
+      "properties": {
+        "poi_id": "Jkc7BLU40a7armYfScO71w",
+        "name": "Elmwood Correctional Facility",
+        "stNo": "701",
+        "strName": "South Abel Street",
+        "stPrefix": "S",
+        "stName": "ABEL",
+        "stType": "ST",
+        "city": "MILPITAS",
+        "state": "CA",
+        "zipCode": "95035",
+        "address": "701 South Abel Street, Milpitas, CA 95035",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.979834,
+          37.577566
+        ]
+      },
+      "properties": {
+        "poi_id": "5X9Z0-OMpeO0wZon66R0LQ",
+        "name": "Corrections Department",
+        "phone": "+1 209-556-5010",
+        "stNo": "1051",
+        "strName": "Partee Lane",
+        "stPrefix": "",
+        "stName": "PARTEE",
+        "stType": "LN",
+        "city": "CERES",
+        "state": "CA",
+        "zipCode": "95307",
+        "address": "1051 Partee Lane, Ceres, CA 95307",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1978,
+          37.8912
+        ]
+      },
+      "properties": {
+        "poi_id": "DzgCgtE5YN8qNzR5KBqgjw",
+        "name": "California Department of Corrections",
+        "phone": "+1 209-944-6400",
+        "stNo": "7650",
+        "strName": "Newcastle Road",
+        "stPrefix": "",
+        "stName": "NEWCASTLE",
+        "stType": "RD",
+        "city": "STOCKTON",
+        "state": "CA",
+        "zipCode": "95215",
+        "address": "7650 Newcastle Road, Stockton, CA 95215",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.953706,
+          38.370548
+        ]
+      },
+      "properties": {
+        "poi_id": "uDSOGy0iPkh1lFfr7jU35g",
+        "name": "Mule Creek State Prison",
+        "phone": "+1 209-274-4911",
+        "stNo": "4001",
+        "strName": "State Highway 104",
+        "stPrefix": "",
+        "stName": "STATE",
+        "stType": "HWY",
+        "city": "IONE",
+        "state": "CA",
+        "zipCode": "95640",
+        "address": "4001 State Highway 104, Ione, CA 95640",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0501,
+          37.5359
+        ]
+      },
+      "properties": {
+        "poi_id": "mF3AVzDgZ7rXBm728SR_IA",
+        "name": "Mount Bullion Conservation Camp 39",
+        "stNo": "5730",
+        "strName": "Mt Bullion Ridge Rd",
+        "stPrefix": "",
+        "stName": "MT BULLION RIDGE",
+        "stType": "RD",
+        "city": "MARIPOSA",
+        "state": "CA",
+        "zipCode": "95338",
+        "address": "5730 Mt Bullion Ridge Rd, Mariposa, CA 95338",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0395,
+          38.2474
+        ]
+      },
+      "properties": {
+        "poi_id": "KJmc3HtW9lo1F7QlfehhlA",
+        "name": "Solano County Jail",
+        "phone": "+1 707-784-7100",
+        "stNo": "500",
+        "strName": "Union Avenue",
+        "stPrefix": "",
+        "stName": "UNION",
+        "stType": "AVE",
+        "city": "FAIRFIELD",
+        "state": "CA",
+        "zipCode": "94533",
+        "address": "500 Union Avenue, Fairfield, CA 94533",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422647,
+          37.82638
+        ]
+      },
+      "properties": {
+        "poi_id": "mav7XIydmC3_5qUEnkTBBA",
+        "name": "Alcatraz Federal Penitentiary",
+        "strName": "West Road",
+        "stPrefix": "",
+        "stName": "WEST",
+        "stType": "RD",
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "zipCode": "94133",
+        "address": "West Road, San Francisco, CA 94133",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0237,
+          36.9806
+        ]
+      },
+      "properties": {
+        "poi_id": "UGM6T3bJeOUhlJ2f_I3_xA",
+        "name": "County Jail Women s Facility",
+        "phone": "+1 831-454-2177",
+        "stNo": "141",
+        "strName": "Blaine Street",
+        "stPrefix": "",
+        "stName": "BLAINE",
+        "stType": "ST",
+        "city": "SANTA CRUZ",
+        "state": "CA",
+        "zipCode": "95060",
+        "address": "141 Blaine Street, Santa Cruz, CA 95060",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9677,
+          37.5523
+        ]
+      },
+      "properties": {
+        "poi_id": "82adgL8nbnIG0GeTUm9vaw",
+        "name": "Fremont Jail",
+        "phone": "+1 510-790-6703",
+        "stNo": "1990",
+        "strName": "Stevenson Boulevard",
+        "stPrefix": "",
+        "stName": "STEVENSON",
+        "stType": "BLVD",
+        "city": "FREMONT",
+        "state": "CA",
+        "zipCode": "94538",
+        "address": "1990 Stevenson Boulevard, Fremont, CA 94538",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.996529,
+          37.640106
+        ]
+      },
+      "properties": {
+        "poi_id": "s-crfYMU3SzBc26dXCnP8g",
+        "name": "Stanislaus County Jail",
+        "stNo": "805",
+        "strName": "12th Street",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "MODESTO",
+        "state": "CA",
+        "zipCode": "95354",
+        "address": "805 12th Street, Modesto, CA 95354",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.000223,
+          38.273674
+        ]
+      },
+      "properties": {
+        "poi_id": "bOXcyxna0yi6AFYacIuvmw",
+        "name": "Stanton Correction Facility",
+        "phone": "+1 707-784-4830",
+        "stNo": "2450",
+        "strName": "Clay Bank Road",
+        "stPrefix": "",
+        "stName": "CLAY BANK",
+        "stType": "RD",
+        "city": "FAIRFIELD",
+        "state": "CA",
+        "zipCode": "94533",
+        "address": "2450 Clay Bank Road, Fairfield, CA 94533",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.820583,
+          38.015942
+        ]
+      },
+      "properties": {
+        "poi_id": "EVo-o0mqAPwO1ZhOq8PQ2g",
+        "name": "Antioch Jail",
+        "phone": "+1 925-778-2441",
+        "stNo": "300",
+        "strName": "L Street",
+        "stPrefix": "",
+        "stName": "L",
+        "stType": "ST",
+        "city": "ANTIOCH",
+        "state": "CA",
+        "zipCode": "94509",
+        "address": "300 L Street, Antioch, CA 94509",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.665281,
+          38.193146
+        ]
+      },
+      "properties": {
+        "poi_id": "EIEKzQU06LqfcqJisJYqSg",
+        "name": "Calaveras County Jail",
+        "stNo": "1045",
+        "strName": "Jeff Tuttle Drive",
+        "stPrefix": "",
+        "stName": "JEFF TUTTLE",
+        "stType": "DR",
+        "city": "SAN ANDREAS",
+        "state": "CA",
+        "zipCode": "95249",
+        "address": "1045 Jeff Tuttle Drive, San Andreas, CA 95249",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.364,
+          37.9689
+        ]
+      },
+      "properties": {
+        "poi_id": "PxvqGVYxbA49W79DRCw-bw",
+        "name": "Tuolumne County Jail",
+        "phone": "+1 209-533-7200",
+        "stNo": "12915",
+        "strName": "Justice Center Drive",
+        "stPrefix": "",
+        "stName": "JUSTICE CENTER",
+        "stType": "DR",
+        "city": "SONORA",
+        "state": "CA",
+        "zipCode": "95370",
+        "address": "12915 Justice Center Drive, Sonora, CA 95370",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.488135,
+          37.939316
+        ]
+      },
+      "properties": {
+        "poi_id": "RyIXCcip2mN2I1zaJfB3CQ",
+        "name": "San Quentin State Prison",
+        "phone": "+1 415-454-1460",
+        "url": "www.cdcr.ca.gov/Facilities_Locator/SQ.html",
+        "strName": "San Quentin Ter",
+        "stPrefix": "",
+        "stName": "SAN QUENTIN",
+        "stType": "TER",
+        "city": "SAN QUENTIN",
+        "state": "CA",
+        "zipCode": "94964",
+        "address": "San Quentin Ter, San Quentin, CA 94964",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.260759,
+          37.306953
+        ]
+      },
+      "properties": {
+        "poi_id": "ILfus1NB7TiZvLt9vrDL5g",
+        "name": "Camp Glenwood",
+        "phone": "+1 650-363-4373",
+        "stNo": "400",
+        "strName": "Log Cabin Ranch Road",
+        "stPrefix": "",
+        "stName": "LOG CABIN RANCH",
+        "stType": "RD",
+        "city": "LA HONDA",
+        "state": "CA",
+        "zipCode": "94020",
+        "address": "400 Log Cabin Ranch Road, La Honda, CA 94020",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0007,
+          38.2746
+        ]
+      },
+      "properties": {
+        "poi_id": "u7IWlYpAIr2yRwbsb2ICpw",
+        "name": "Claybank Detention Facility",
+        "phone": "+1 707-784-7190",
+        "stNo": "2500",
+        "strName": "Clay Bank Rd",
+        "stPrefix": "",
+        "stName": "CLAY BANK",
+        "stType": "RD",
+        "city": "FAIRFIELD",
+        "state": "CA",
+        "zipCode": "94533",
+        "address": "2500 Clay Bank Rd, Fairfield, CA 94533",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9742,
+          38.3169
+        ]
+      },
+      "properties": {
+        "poi_id": "83NZ-7KoxIQadgXUXjI8yw",
+        "name": "California State Prison Solano",
+        "phone": "+1 707-451-0182",
+        "stNo": "2100",
+        "strName": "Peabody Road",
+        "stPrefix": "",
+        "stName": "PEABODY",
+        "stType": "RD",
+        "city": "VACAVILLE",
+        "state": "CA",
+        "zipCode": "95687",
+        "address": "2100 Peabody Road, Vacaville, CA 95687",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.201895,
+          37.893549
+        ]
+      },
+      "properties": {
+        "poi_id": "hVLQBNkf6hbQm2njEFk2Lw",
+        "name": "Youth Authority Department",
+        "phone": "+1 209-944-6011",
+        "stNo": "7650",
+        "strName": "Newcastle Road",
+        "stPrefix": "",
+        "stName": "NEWCASTLE",
+        "stType": "RD",
+        "city": "STOCKTON",
+        "state": "CA",
+        "zipCode": "95215",
+        "address": "7650 Newcastle Road, Stockton, CA 95215",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.420789,
+          38.306479
+        ]
+      },
+      "properties": {
+        "poi_id": "OUgNKL90RQqzw8xKnuFgMw",
+        "name": "Rio Cosumnes Correctional Center",
+        "phone": "+1 916-874-1927",
+        "stNo": "12500",
+        "strName": "Bruceville Road",
+        "stPrefix": "",
+        "stName": "BRUCEVILLE",
+        "stType": "RD",
+        "city": "ELK GROVE",
+        "state": "CA",
+        "zipCode": "95757",
+        "address": "12500 Bruceville Road, Elk Grove, CA 95757",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.888233,
+          37.717459
+        ]
+      },
+      "properties": {
+        "poi_id": "SUtt53g0iIOkKnCkPpcJlw",
+        "name": "Alameda County Santa Rita Jail",
+        "phone": "+1 925-551-6500",
+        "url": "santaritacountyjail.net",
+        "stNo": "5325",
+        "strName": "Broder Boulevard",
+        "stPrefix": "",
+        "stName": "BRODER",
+        "stType": "BLVD",
+        "city": "DUBLIN",
+        "state": "CA",
+        "zipCode": "94568",
+        "address": "5325 Broder Boulevard, Dublin, CA 94568",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.345981,
+          38.306866
+        ]
+      },
+      "properties": {
+        "poi_id": "-DSbQdcCs0EB5cCZJfLLCQ",
+        "name": "David M  Mathis",
+        "stNo": "4107",
+        "strName": "Casper Way",
+        "stPrefix": "",
+        "stName": "CASPER",
+        "stType": "WAY",
+        "city": "NAPA",
+        "state": "CA",
+        "zipCode": "94558",
+        "address": "4107 Casper Way, Napa, CA 94558",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0238,
+          36.979869
+        ]
+      },
+      "properties": {
+        "poi_id": "T9hpOnEuhHZt2vxUvG14_g",
+        "name": "County Jail Administration",
+        "phone": "+1 831-454-7800",
+        "stNo": "259",
+        "strName": "Water Street",
+        "stPrefix": "",
+        "stName": "WATER",
+        "stType": "ST",
+        "city": "SANTA CRUZ",
+        "state": "CA",
+        "zipCode": "95060",
+        "address": "259 Water Street, Santa Cruz, CA 95060",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.887945,
+          37.717497
+        ]
+      },
+      "properties": {
+        "poi_id": "xTfJQy70XImc7Is3a4imOA",
+        "name": "Santa Rita County Jail",
+        "stNo": "5325",
+        "strName": "Broder Boulevard",
+        "stPrefix": "",
+        "stName": "BRODER",
+        "stType": "BLVD",
+        "city": "DUBLIN",
+        "state": "CA",
+        "zipCode": "94568",
+        "address": "5325 Broder Boulevard, Dublin, CA 94568",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9794,
+          38.3332
+        ]
+      },
+      "properties": {
+        "poi_id": "9gt0sT4KYn5B-72g4qv-yw",
+        "name": "Doctor Raymond L  Andreasen",
+        "phone": "+1 707-449-6580",
+        "stNo": "1600",
+        "strName": "California Drive",
+        "stPrefix": "",
+        "stName": "CALIFORNIA",
+        "stType": "DR",
+        "city": "VACAVILLE",
+        "state": "CA",
+        "zipCode": "95687",
+        "address": "1600 California Drive, Vacaville, CA 95687",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.973901,
+          38.321728
+        ]
+      },
+      "properties": {
+        "poi_id": "L8cii50rdZxBUH9vuAReBA",
+        "name": "California State Prison Solano",
+        "phone": "+1 707-451-0182",
+        "url": "www.cdcr.ca.gov/Facilities_Locator/SOL.html",
+        "stNo": "2100",
+        "strName": "Peabody Road",
+        "stPrefix": "",
+        "stName": "PEABODY",
+        "stType": "RD",
+        "city": "VACAVILLE",
+        "state": "CA",
+        "zipCode": "95687",
+        "address": "2100 Peabody Road, Vacaville, CA 95687",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4265,
+          37.7357
+        ]
+      },
+      "properties": {
+        "poi_id": "AzEQRKN6Y69ftKvuHnxMjg",
+        "name": "Tracy Town Hall   Jail",
+        "stNo": "7",
+        "strName": "West 7th Street",
+        "stPrefix": "W",
+        "stName": "7TH",
+        "stType": "ST",
+        "city": "TRACY",
+        "state": "CA",
+        "zipCode": "95376",
+        "address": "7 West 7th Street, Tracy, CA 95376",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.296176,
+          37.886003
+        ]
+      },
+      "properties": {
+        "poi_id": "J1Er_Bf9XDxcwtveisNKPg",
+        "name": "San Joaquin County Jail and Sheriff s Department",
+        "phone": "+1 209-468-4400",
+        "stNo": "7000",
+        "strName": "South Michael Canlis Boulevard",
+        "stPrefix": "S",
+        "stName": "MICHAEL CANLIS",
+        "stType": "BLVD",
+        "city": "FRENCH CAMP",
+        "state": "CA",
+        "zipCode": "95231",
+        "address": "7000 South Michael Canlis Boulevard, French Camp, CA 95231",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.064539,
+          38.251584
+        ]
+      },
+      "properties": {
+        "poi_id": "EPZb6lBq5WlpEOgZYlKIIw",
+        "name": "Solano County Juvenile Detention Facility",
+        "phone": "+1 707-784-6570",
+        "stNo": "740",
+        "strName": "Beck Avenue",
+        "stPrefix": "",
+        "stName": "BECK",
+        "stType": "AVE",
+        "city": "FAIRFIELD",
+        "state": "CA",
+        "zipCode": "94533",
+        "address": "740 Beck Avenue, Fairfield, CA 94533",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.269922,
+          38.265593
+        ]
+      },
+      "properties": {
+        "poi_id": "PKinI-2GItcMd0xGPlmbOg",
+        "name": "Napa County Work Furlough Center",
+        "phone": "+1 707-253-4401",
+        "stNo": "2210",
+        "strName": "Napa Vallejo Highway",
+        "stPrefix": "",
+        "stName": "NAPA VALLEJO",
+        "stType": "HWY",
+        "city": "NAPA",
+        "state": "CA",
+        "zipCode": "94559",
+        "address": "2210 Napa Vallejo Highway, Napa, CA 94559",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.132572,
+          38.017075
+        ]
+      },
+      "properties": {
+        "poi_id": "cCHyMs7dAbmD-oT4DbpiEA",
+        "name": "Contra Costa County Jail",
+        "stNo": "901",
+        "strName": "Court Street",
+        "stPrefix": "",
+        "stName": "COURT",
+        "stType": "ST",
+        "city": "MARTINEZ",
+        "state": "CA",
+        "zipCode": "94553",
+        "address": "901 Court Street, Martinez, CA 94553",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.284569,
+          38.29674
+        ]
+      },
+      "properties": {
+        "poi_id": "RRHgrlVhoanrkwExIxizAg",
+        "name": "Napa County Work Furlough Center",
+        "phone": "+1 707-253-4042",
+        "stNo": "1125",
+        "strName": "3rd Street",
+        "stPrefix": "",
+        "stName": "RD",
+        "stType": "ST",
+        "city": "NAPA",
+        "state": "CA",
+        "zipCode": "94559",
+        "address": "1125 3rd Street, Napa, CA 94559",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.353349,
+          37.994871
+        ]
+      },
+      "properties": {
+        "poi_id": "9fuAeok06RUK4pF2b3iRTQ",
+        "name": "West County Detention Facility",
+        "stNo": "5555",
+        "strName": "Giant Highway",
+        "stPrefix": "",
+        "stName": "GIANT",
+        "stType": "HWY",
+        "city": "SAN PABLO",
+        "state": "CA",
+        "zipCode": "94806",
+        "address": "5555 Giant Highway, San Pablo, CA 94806",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.489712,
+          38.106153
+        ]
+      },
+      "properties": {
+        "poi_id": "Bd4tw1JRqo0GGku5XeihGA",
+        "name": "Vallecito Conservation Camp 1",
+        "stNo": "3225",
+        "strName": "Six Mile Road",
+        "stPrefix": "",
+        "stName": "SIX MILE",
+        "stType": "RD",
+        "city": "ANGELS CAMP",
+        "state": "CA",
+        "zipCode": "95222",
+        "address": "3225 Six Mile Road, Angels Camp, CA 95222",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.622215,
+          37.875282
+        ]
+      },
+      "properties": {
+        "poi_id": "meXhRXM65AOsjPuQk3dhLw",
+        "name": "Orin Allen Youth Rehabilitation Facility",
+        "phone": "+1 925-427-8660",
+        "url": "www.co.contra-costa.ca.us/index.aspx?NID=686",
+        "stNo": "4491",
+        "strName": "Bixler Road",
+        "stPrefix": "",
+        "stName": "BIXLER",
+        "stType": "RD",
+        "city": "BYRON",
+        "state": "CA",
+        "zipCode": "94514",
+        "address": "4491 Bixler Road, Byron, CA 94514",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5356,
+          37.8891
+        ]
+      },
+      "properties": {
+        "poi_id": "_yEy5nlOg1ISAx4hNIrIgQ",
+        "name": "Sierra Conservation Center",
+        "phone": "+1 209-984-5291",
+        "stNo": "5100",
+        "strName": "O'Byrnes Ferry Rd",
+        "stPrefix": "",
+        "stName": "OBYRNES FERRY",
+        "stType": "RD",
+        "city": "JAMESTOWN",
+        "state": "CA",
+        "zipCode": "95327",
+        "address": "5100 O'Byrnes Ferry Rd, Jamestown, CA 95327",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.897454,
+          37.71749
+        ]
+      },
+      "properties": {
+        "poi_id": "ZFoq74khQSKNZwRX_NJQVQ",
+        "name": "Federal Correctional Institution Dublin",
+        "stNo": "5701",
+        "strName": "8Th St",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "DUBLIN",
+        "state": "CA",
+        "zipCode": "94568",
+        "address": "5701 8Th St, Dublin, CA 94568",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.532526,
+          37.999541
+        ]
+      },
+      "properties": {
+        "poi_id": "u6DDzF3-4TK0e1QHSFm48w",
+        "name": "Marin County Jail",
+        "phone": "+1 415-499-6655",
+        "stNo": "13",
+        "strName": "Peter Behr Drive",
+        "stPrefix": "",
+        "stName": "PETER BEHR",
+        "stType": "DR",
+        "city": "SAN RAFAEL",
+        "state": "CA",
+        "zipCode": "94903",
+        "address": "13 Peter Behr Drive, San Rafael, CA 94903",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2286,
+          38.2568
+        ]
+      },
+      "properties": {
+        "poi_id": "P2p-YuYOAq3LtciCYxsgQg",
+        "name": "Mono County Jail",
+        "phone": "+1 760-932-7549",
+        "stNo": "2",
+        "strName": "Bryant Street",
+        "stPrefix": "",
+        "stName": "BRYANT",
+        "stType": "ST",
+        "city": "BRIDGEPORT",
+        "state": "CA",
+        "zipCode": "93517",
+        "address": "2 Bryant Street, Bridgeport, CA 93517",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.863382,
+          37.894887
+        ]
+      },
+      "properties": {
+        "poi_id": "qN_1q3b20pPPMXjVDikRdg",
+        "name": "Marsh Creek Detention Facility",
+        "phone": "+1 925-646-5700",
+        "url": "www.co.contra-costa.ca.us",
+        "stNo": "12000",
+        "strName": "Marsh Creek Road",
+        "stPrefix": "",
+        "stName": "MARSH CREEK",
+        "stType": "RD",
+        "city": "CLAYTON",
+        "state": "CA",
+        "zipCode": "94517",
+        "address": "12000 Marsh Creek Road, Clayton, CA 94517",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.168535,
+          37.131274
+        ]
+      },
+      "properties": {
+        "poi_id": "oLtFbDA9UoGszlOvtXrzZA",
+        "name": "Ben Lomond Conservation Camp 45",
+        "phone": "+1 831-423-3000",
+        "stNo": "13575",
+        "strName": "Empire Grade",
+        "stPrefix": "",
+        "stName": "EMPIRE",
+        "stType": "",
+        "city": "SANTA CRUZ",
+        "state": "CA",
+        "zipCode": "95060",
+        "address": "13575 Empire Grade, Santa Cruz, CA 95060",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.685292,
+          37.996267
+        ]
+      },
+      "properties": {
+        "poi_id": "Pabl0ONmzMojiu4pKSP5hQ",
+        "name": "Corrections Consulting and Investigative Services",
+        "phone": "+1 925-550-0787",
+        "stNo": "814",
+        "strName": "Dunmore Street",
+        "stPrefix": "",
+        "stName": "DUNMORE",
+        "stType": "ST",
+        "city": "OAKLEY",
+        "state": "CA",
+        "zipCode": "94561",
+        "address": "814 Dunmore Street, Oakley, CA 94561",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.977272,
+          38.329008
+        ]
+      },
+      "properties": {
+        "poi_id": "3inUrGvbcZD2H9qmcgVFEg",
+        "name": "California Medical Facility",
+        "phone": "+1 707-448-6841",
+        "url": "www.cdcr.ca.gov/Facilities_Locator/CMF.html",
+        "stNo": "1600",
+        "strName": "California Drive",
+        "stPrefix": "",
+        "stName": "CALIFORNIA",
+        "stType": "DR",
+        "city": "VACAVILLE",
+        "state": "CA",
+        "zipCode": "95687",
+        "address": "1600 California Drive, Vacaville, CA 95687",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4198,
+          37.7697
+        ]
+      },
+      "properties": {
+        "poi_id": "MYpQb5np-Gz7UuCCFKRUsw",
+        "name": "California Department of Corrections   Rehabilitation",
+        "stNo": "1727",
+        "strName": "Mission Street",
+        "stPrefix": "",
+        "stName": "MISSION",
+        "stType": "ST",
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "zipCode": "94103",
+        "address": "1727 Mission Street, San Francisco, CA 94103",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.555988,
+          36.516951
+        ]
+      },
+      "properties": {
+        "poi_id": "BYjboXaiGrTrlkYmCkOzQw",
+        "name": "Southern Desert Correctional Center",
+        "phone": "+1 725-216-6500",
+        "stNo": "20825",
+        "strName": "Cold Creek Rd",
+        "stPrefix": "",
+        "stName": "COLD CREEK",
+        "stType": "RD",
+        "city": "INDIAN SPRINGS",
+        "state": "NV",
+        "zipCode": "89166",
+        "address": "20825 Cold Creek Rd, Indian Springs, NV 89166",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.562946,
+          36.513172
+        ]
+      },
+      "properties": {
+        "poi_id": "xWlr8e7Z2-GBbbc3eOgVyw",
+        "name": "Three Lakes Valley Conservation Camp",
+        "phone": "+1 702-879-5475",
+        "stNo": "20825",
+        "strName": "Cold Creek Road",
+        "stPrefix": "",
+        "stName": "COLD CREEK",
+        "stType": "RD",
+        "city": "INDIAN SPRINGS",
+        "state": "NV",
+        "zipCode": "89070",
+        "address": "20825 Cold Creek Road, Indian Springs, NV 89070",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.102043,
+          36.175498
+        ]
+      },
+      "properties": {
+        "poi_id": "TsJ5SUIFEIKCEQs9ZMBBgQ",
+        "name": "Juvenile Detention Center",
+        "phone": "+1 702-455-5200",
+        "stNo": "651",
+        "strName": "North Pecos Road",
+        "stPrefix": "N",
+        "stName": "PECOS",
+        "stType": "RD",
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "zipCode": "89101",
+        "address": "651 North Pecos Road, Las Vegas, NV 89101",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0767,
+          36.2574
+        ]
+      },
+      "properties": {
+        "poi_id": "J0D9aALKi95-TuCXRv7E4w",
+        "name": "Florence McClure Women s Correctional Center",
+        "phone": "+1 725-216-6150",
+        "stNo": "4370",
+        "strName": "Smiley Road",
+        "stPrefix": "",
+        "stName": "SMILEY",
+        "stType": "RD",
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "zipCode": "89115",
+        "address": "4370 Smiley Road, Las Vegas, NV 89115",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.58452,
+          36.515279
+        ]
+      },
+      "properties": {
+        "poi_id": "ynz1IlXWmqt_0iiKhjkoyw",
+        "name": "High Desert State Prison",
+        "phone": "+1 725-216-6789",
+        "stNo": "22010",
+        "strName": "Cold Creek Rd",
+        "stPrefix": "",
+        "stName": "COLD CREEK",
+        "stType": "RD",
+        "city": "INDIAN SPRINGS",
+        "state": "NV",
+        "zipCode": "89070",
+        "address": "22010 Cold Creek Rd, Indian Springs, NV 89070",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30208,
+          38.808411
+        ]
+      },
+      "properties": {
+        "poi_id": "_RP4EWfjG2V-KLB1ftpuaA",
+        "name": "South Placer County Jail",
+        "phone": "+1 916-409-8100",
+        "stNo": "11801",
+        "strName": "Go for Broke Rd",
+        "stPrefix": "",
+        "stName": "GO FOR BROKE",
+        "stType": "RD",
+        "city": "ROSEVILLE",
+        "state": "CA",
+        "zipCode": "95678",
+        "address": "11801 Go for Broke Rd, Roseville, CA 95678",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1604,
+          38.9966
+        ]
+      },
+      "properties": {
+        "poi_id": "Cf6B7fSpHpblyPPStKA1aA",
+        "name": "Lyon County Jail",
+        "phone": "+1 775-463-6600",
+        "stNo": "911",
+        "strName": "Harvey Lane",
+        "stPrefix": "",
+        "stName": "HARVEY",
+        "stType": "LN",
+        "city": "YERINGTON",
+        "state": "NV",
+        "zipCode": "89447",
+        "address": "911 Harvey Lane, Yerington, NV 89447",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1488,
+          38.6931
+        ]
+      },
+      "properties": {
+        "poi_id": "nulvsj2Bu9nLXy4kMRzzeg",
+        "name": "Folsom Women s Facility",
+        "stNo": "560",
+        "strName": "East Natoma Street",
+        "stPrefix": "E",
+        "stName": "NATOMA",
+        "stType": "ST",
+        "city": "FOLSOM",
+        "state": "CA",
+        "zipCode": "95630",
+        "address": "560 East Natoma Street, Folsom, CA 95630",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.134879,
+          38.552459
+        ]
+      },
+      "properties": {
+        "poi_id": "ibY5CkceptdaUQQyCn_5EA",
+        "name": "Sacramento County Boys Ranch",
+        "stNo": "14049",
+        "strName": "Boys Ranch Road",
+        "stPrefix": "",
+        "stName": "BOYS RANCH",
+        "stType": "RD",
+        "city": "SLOUGHHOUSE",
+        "state": "CA",
+        "zipCode": "95683",
+        "address": "14049 Boys Ranch Road, Sloughhouse, CA 95683",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.77868,
+          39.476856
+        ]
+      },
+      "properties": {
+        "poi_id": "CrXbcLeixj-2q2_61fFKIg",
+        "name": "Churchill County Jail",
+        "stNo": "180",
+        "strName": "West A Street",
+        "stPrefix": "W",
+        "stName": "A",
+        "stType": "ST",
+        "city": "FALLON",
+        "state": "NV",
+        "zipCode": "89406",
+        "address": "180 West A Street, Fallon, NV 89406",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.663905,
+          39.268624
+        ]
+      },
+      "properties": {
+        "poi_id": "1WX-YWd7o5AO8c5cCBbAfg",
+        "name": "Leo Chesney Correctional Facility",
+        "phone": "+1 530-695-1846",
+        "stNo": "2800",
+        "strName": "Apricot Street",
+        "stPrefix": "",
+        "stName": "APRICOT",
+        "stType": "ST",
+        "city": "LIVE OAK",
+        "state": "CA",
+        "zipCode": "95953",
+        "address": "2800 Apricot Street, Live Oak, CA 95953",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.628035,
+          39.812885
+        ]
+      },
+      "properties": {
+        "poi_id": "chUeuEz543a79oYo_rS0oA",
+        "name": "Salt Creek Conservation Camp 7",
+        "stNo": "10655",
+        "strName": "Round Valley Road",
+        "stPrefix": "",
+        "stName": "ROUND VALLEY",
+        "stType": "RD",
+        "city": "CORNING",
+        "state": "CA",
+        "zipCode": "96021",
+        "address": "10655 Round Valley Road, Corning, CA 96021",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.788663,
+          39.527058
+        ]
+      },
+      "properties": {
+        "poi_id": "iyrhGf5oKybD6HYK5LwlDg",
+        "name": "Nevada Restitution Center",
+        "url": "www.doc.nv.gov",
+        "stNo": "225",
+        "strName": "Sunshine Lane",
+        "stPrefix": "",
+        "stName": "SUNSHINE",
+        "stType": "LN",
+        "city": "RENO",
+        "state": "NV",
+        "zipCode": "89502",
+        "address": "225 Sunshine Lane, Reno, NV 89502",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3941,
+          38.5463
+        ]
+      },
+      "properties": {
+        "poi_id": "UUlbxoAHHGUK6Ok3Kl_i-Q",
+        "name": "Corrections Department",
+        "phone": "+1 916-229-0828",
+        "stNo": "8455",
+        "strName": "Jackson Road",
+        "stPrefix": "",
+        "stName": "JACKSON",
+        "stType": "RD",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zipCode": "95826",
+        "address": "8455 Jackson Road, Sacramento, CA 95826",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.027715,
+          39.26855
+        ]
+      },
+      "properties": {
+        "poi_id": "cFuvIukIov0U7X4t9Ctqtg",
+        "name": "Wayne Brown Correctional Facility",
+        "phone": "+1 530-265-1291",
+        "url": "www.mynevadacounty.com/nc/sheriff/Pages/Home.aspx",
+        "stNo": "925",
+        "strName": "Maidu Avenue",
+        "stPrefix": "",
+        "stName": "MAIDU",
+        "stType": "AVE",
+        "city": "NEVADA CITY",
+        "state": "CA",
+        "zipCode": "95959",
+        "address": "925 Maidu Avenue, Nevada City, CA 95959",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1497,
+          38.6921
+        ]
+      },
+      "properties": {
+        "poi_id": "2lApNwpTINzqWICJGQkvPw",
+        "name": "California Prison Industry Authority",
+        "phone": "+1 916-358-2727",
+        "stNo": "560",
+        "strName": "East Natoma Street",
+        "stPrefix": "E",
+        "stName": "NATOMA",
+        "stType": "ST",
+        "city": "FOLSOM",
+        "state": "CA",
+        "zipCode": "95630",
+        "address": "560 East Natoma Street, Folsom, CA 95630",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.586947,
+          39.141169
+        ]
+      },
+      "properties": {
+        "poi_id": "Qv8-vx6Om_Sj0rFvPU2x3g",
+        "name": "Yuba County Jail",
+        "phone": "+1 530-749-7740",
+        "url": "www.yuba.org/departments/sheriff-coroner/contact_us.php",
+        "stNo": "215",
+        "strName": "5th Street",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "MARYSVILLE",
+        "state": "CA",
+        "zipCode": "95901",
+        "address": "215 5th Street, Marysville, CA 95901",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.090215,
+          38.928972
+        ]
+      },
+      "properties": {
+        "poi_id": "fEe9oC87VBZsv30AmVNmdQ",
+        "name": "Corrections Department",
+        "phone": "+1 530-823-4188",
+        "stNo": "1915",
+        "strName": "Grass Valley Highway",
+        "stPrefix": "",
+        "stName": "GRASS VALLEY",
+        "stType": "HWY",
+        "city": "AUBURN",
+        "state": "CA",
+        "zipCode": "95603",
+        "address": "1915 Grass Valley Highway, Auburn, CA 95603",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.574178,
+          39.529502
+        ]
+      },
+      "properties": {
+        "poi_id": "F7Xl1eFLJ4BJ69zuSJdZ7g",
+        "name": "Butte County Jail",
+        "phone": "+1 530-538-7471",
+        "stNo": "7",
+        "strName": "Gillick Wy",
+        "stPrefix": "",
+        "stName": "GILLICK",
+        "stType": "WAY",
+        "city": "OROVILLE",
+        "state": "CA",
+        "zipCode": "95965",
+        "address": "7 Gillick Wy, Oroville, CA 95965",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.934346,
+          39.30797
+        ]
+      },
+      "properties": {
+        "poi_id": "8gk0OFh5p9Dp3Om_Y9amsg",
+        "name": "Washington Ridge",
+        "phone": "+1 530-265-4623",
+        "stNo": "11425",
+        "strName": "Conservation Rd",
+        "stPrefix": "",
+        "stName": "CONSERVATION",
+        "stType": "RD",
+        "city": "NEVADA CITY",
+        "state": "CA",
+        "zipCode": "95959",
+        "address": "11425 Conservation Rd, Nevada City, CA 95959",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9725,
+          38.9344
+        ]
+      },
+      "properties": {
+        "poi_id": "tHs36FLKrsP7LGq-Rowrgw",
+        "name": "El Dorado County Jail",
+        "phone": "+1 530-573-3030",
+        "stNo": "1051",
+        "strName": "Al Tahoe Boulevard",
+        "stPrefix": "",
+        "stName": "AL TAHOE",
+        "stType": "BLVD",
+        "city": "SOUTH LAKE TAHOE",
+        "state": "CA",
+        "zipCode": "96150",
+        "address": "1051 Al Tahoe Boulevard, South Lake Tahoe, CA 96150",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.028,
+          39.2686
+        ]
+      },
+      "properties": {
+        "poi_id": "Uf4XtT0vydiVishgOAjmbw",
+        "name": "County Jail",
+        "stNo": "925",
+        "strName": "Maidu Avenue",
+        "stPrefix": "",
+        "stName": "MAIDU",
+        "stType": "AVE",
+        "city": "NEVADA CITY",
+        "state": "CA",
+        "zipCode": "95959",
+        "address": "925 Maidu Avenue, Nevada City, CA 95959",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.107442,
+          38.935982
+        ]
+      },
+      "properties": {
+        "poi_id": "Gc0SjJ52evmKWyjYU8HYYQ",
+        "name": "Placer County Jail",
+        "stNo": "2775",
+        "strName": "Richardson Drive",
+        "stPrefix": "",
+        "stName": "RICHARDSON",
+        "stType": "DR",
+        "city": "AUBURN",
+        "state": "CA",
+        "zipCode": "95603",
+        "address": "2775 Richardson Drive, Auburn, CA 95603",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.961719,
+          39.515063
+        ]
+      },
+      "properties": {
+        "poi_id": "fk3KVjLO_QyNu5-XjNniqg",
+        "name": "Eureka County Jail",
+        "phone": "+1 775-237-5701",
+        "stNo": "411",
+        "strName": "North Main Street",
+        "stPrefix": "N",
+        "stName": "MAIN",
+        "stType": "ST",
+        "city": "EUREKA",
+        "state": "NV",
+        "zipCode": "89316",
+        "address": "411 North Main Street, Eureka, NV 89316",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2002,
+          39.5196
+        ]
+      },
+      "properties": {
+        "poi_id": "eaF1zuEQ3IoDftsBVJ28MQ",
+        "name": "Glenn County Jail",
+        "phone": "+1 530-934-6428",
+        "stNo": "141",
+        "strName": "South Lassen Street",
+        "stPrefix": "S",
+        "stName": "LASSEN",
+        "stType": "ST",
+        "city": "WILLOWS",
+        "state": "CA",
+        "zipCode": "95988",
+        "address": "141 South Lassen Street, Willows, CA 95988",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6383,
+          39.1429
+        ]
+      },
+      "properties": {
+        "poi_id": "5A8kiWbPztDjgknVKILAjw",
+        "name": "Sutter County Jail",
+        "phone": "+1 530-822-7307",
+        "stNo": "1077",
+        "strName": "Civic Center Boulevard",
+        "stPrefix": "",
+        "stName": "CIVIC CENTER",
+        "stType": "BLVD",
+        "city": "YUBA CITY",
+        "state": "CA",
+        "zipCode": "95993",
+        "address": "1077 Civic Center Boulevard, Yuba City, CA 95993",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.497449,
+          38.583126
+        ]
+      },
+      "properties": {
+        "poi_id": "Im_Vpe1A0HxJmQ1w9JFk3Q",
+        "name": "Sacramento County Main Jail",
+        "phone": "+1 916-874-6752",
+        "stNo": "651",
+        "strName": "I Street",
+        "stPrefix": "",
+        "stName": "I",
+        "stType": "ST",
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "zipCode": "95814",
+        "address": "651 I Street, Sacramento, CA 95814",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.868659,
+          38.905138
+        ]
+      },
+      "properties": {
+        "poi_id": "mAVBmCChdqOSwDGdn-BNyw",
+        "name": "Growlersburg Conservation Camp 33",
+        "stNo": "5540",
+        "strName": "Longview Lane",
+        "stPrefix": "",
+        "stName": "LONGVIEW",
+        "stType": "LN",
+        "city": "GEORGETOWN",
+        "state": "CA",
+        "zipCode": "95634",
+        "address": "5540 Longview Lane, Georgetown, CA 95634",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0035,
+          39.2057
+        ]
+      },
+      "properties": {
+        "poi_id": "H7iHTM-DC61pktr2L3kNhw",
+        "name": "Colusa County Jail",
+        "phone": "+1 530-458-0205",
+        "stNo": "929",
+        "strName": "Bridge Street",
+        "stPrefix": "",
+        "stName": "BRIDGE",
+        "stType": "ST",
+        "city": "COLUSA",
+        "state": "CA",
+        "zipCode": "95932",
+        "address": "929 Bridge Street, Colusa, CA 95932",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.725433,
+          38.467375
+        ]
+      },
+      "properties": {
+        "poi_id": "kgZfGaZXF5q0dEb8nEoPvQ",
+        "name": "Sonoma County Main Adult Detention Facility",
+        "phone": "+1 707-565-1400",
+        "url": "www.sonomasheriff.org",
+        "stNo": "2777",
+        "strName": "Ventura Avenue",
+        "stPrefix": "",
+        "stName": "VENTURA",
+        "stType": "AVE",
+        "city": "SANTA ROSA",
+        "state": "CA",
+        "zipCode": "95403",
+        "address": "2777 Ventura Avenue, Santa Rosa, CA 95403",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.300814,
+          38.681291
+        ]
+      },
+      "properties": {
+        "poi_id": "h6oZVf81k2_-aR0QlBbGJQ",
+        "name": "California Health Care Facility",
+        "stNo": "7024",
+        "strName": "San Altos Circle",
+        "stPrefix": "",
+        "stName": "SAN ALTOS",
+        "stType": "CIR",
+        "city": "CITRUS HEIGHTS",
+        "state": "CA",
+        "zipCode": "95621",
+        "address": "7024 San Altos Circle, Citrus Heights, CA 95621",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.649898,
+          40.425769
+        ]
+      },
+      "properties": {
+        "poi_id": "vvm7RfS8eUdfd2sEgHd4cw",
+        "name": "Lassen County Adult Detention Facility",
+        "phone": "+1 530-251-5245",
+        "url": "www.lassencounty.org/dept/sheriffs-office/adult-detention-facility-jail-0",
+        "stNo": "1405",
+        "strName": "Sheriff Cady Lane",
+        "stPrefix": "",
+        "stName": "SHERIFF CADY",
+        "stType": "LN",
+        "city": "SUSANVILLE",
+        "state": "CA",
+        "zipCode": "96130",
+        "address": "1405 Sheriff Cady Lane, Susanville, CA 96130",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.396202,
+          40.581391
+        ]
+      },
+      "properties": {
+        "poi_id": "27Yg7JPFl9Z7WTsRP5V1cw",
+        "name": "Shasta County Jail",
+        "phone": "+1 530-245-6100",
+        "stNo": "1655",
+        "strName": "West Street",
+        "stPrefix": "",
+        "stName": "WEST",
+        "stType": "ST",
+        "city": "REDDING",
+        "state": "CA",
+        "zipCode": "96001",
+        "address": "1655 West Street, Redding, CA 96001",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1659,
+          40.1509
+        ]
+      },
+      "properties": {
+        "poi_id": "D5yYgQRI6BSg_R76fnfiGQ",
+        "name": "Fci Herlong",
+        "phone": "+1 530-827-8000",
+        "stNo": "925",
+        "strName": "Herlong Access Rd A-25",
+        "stPrefix": "",
+        "stName": "HERLONG ACCESS",
+        "stType": "RD",
+        "city": "HERLONG",
+        "state": "CA",
+        "zipCode": "96113",
+        "address": "925 Herlong Access Rd A-25, Herlong, CA 96113",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4741,
+          39.3859
+        ]
+      },
+      "properties": {
+        "poi_id": "ZNn8FPLSfbLJf3Dy4ehXoQ",
+        "name": "Corrections Department",
+        "strName": "Highway 20",
+        "stPrefix": "",
+        "stName": "HIGHWAY",
+        "stType": "",
+        "city": "WILLITS",
+        "state": "CA",
+        "zipCode": "95490",
+        "address": "Highway 20, Willits, CA 95490",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.378525,
+          40.548021
+        ]
+      },
+      "properties": {
+        "poi_id": "Z1B5d9vLiiAXxGRU_X7kGA",
+        "name": "Shasta County Juvenile Hall",
+        "phone": "+1 530-225-5838",
+        "url": "www.co.shasta.ca.us/index/probation_index/juvenile_hall.aspx",
+        "stNo": "2680",
+        "strName": "Radio Lane",
+        "stPrefix": "",
+        "stName": "RADIO",
+        "stType": "LN",
+        "city": "REDDING",
+        "state": "CA",
+        "zipCode": "96001",
+        "address": "2680 Radio Lane, Redding, CA 96001",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.923997,
+          40.749679
+        ]
+      },
+      "properties": {
+        "poi_id": "HUbxItDKJJoXHnBvi8mMdg",
+        "name": "Juvenile Assessment Center",
+        "phone": "+1 530-623-1226",
+        "stNo": "333",
+        "strName": "Tom Bell Road",
+        "stPrefix": "",
+        "stName": "TOM BELL",
+        "stType": "RD",
+        "city": "WEAVERVILLE",
+        "state": "CA",
+        "zipCode": "96093",
+        "address": "333 Tom Bell Road, Weaverville, CA 96093",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.092596,
+          40.745427
+        ]
+      },
+      "properties": {
+        "poi_id": "zxpWfSYYQmoIQmdMo19V4w",
+        "name": "Sugar Pine Conservation Camp 9",
+        "stNo": "15905",
+        "strName": "Sugar Pine Camp Rd",
+        "stPrefix": "",
+        "stName": "SUGAR PINE CAMP",
+        "stType": "RD",
+        "city": "BELLA VISTA",
+        "state": "CA",
+        "zipCode": "96008",
+        "address": "15905 Sugar Pine Camp Rd, Bella Vista, CA 96008",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.388629,
+          40.222955
+        ]
+      },
+      "properties": {
+        "poi_id": "38FYe5txdIODWHnhUb4gXg",
+        "name": "Lovelock Correctional Center",
+        "stNo": "1200",
+        "strName": "Prison Road",
+        "stPrefix": "",
+        "stName": "PRISON",
+        "stType": "RD",
+        "city": "LOVELOCK",
+        "state": "NV",
+        "zipCode": "89419",
+        "address": "1200 Prison Road, Lovelock, NV 89419",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.512484,
+          40.410678
+        ]
+      },
+      "properties": {
+        "poi_id": "6hzdZaLH2y-DGgJyNfOtLA",
+        "name": "High Desert State Prison",
+        "phone": "+1 530-251-5100",
+        "url": "www.cdcr.ca.gov/Facilities_Locator/HDSP.html",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "SUSANVILLE",
+        "state": "CA",
+        "zipCode": "96130",
+        "address": "Susanville, CA 96130",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.923511,
+          40.750458
+        ]
+      },
+      "properties": {
+        "poi_id": "ZZnUFBIVUgLCEaCsacFpzw",
+        "name": "Trinity County Jail",
+        "phone": "+1 530-623-1348",
+        "strName": "Tom Bell Road",
+        "stPrefix": "",
+        "stName": "TOM BELL",
+        "stType": "RD",
+        "city": "WEAVERVILLE",
+        "state": "CA",
+        "zipCode": "96093",
+        "address": "Tom Bell Road, Weaverville, CA 96093",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8983,
+          40.3142
+        ]
+      },
+      "properties": {
+        "poi_id": "7oaBLFBuRZySzHn8_nycrg",
+        "name": "Ishi Conservation Camp 18",
+        "stNo": "30500",
+        "strName": "Plum Creek Road",
+        "stPrefix": "",
+        "stName": "PLUM CREEK",
+        "stType": "RD",
+        "city": "PAYNES CREEK",
+        "state": "CA",
+        "zipCode": "96075",
+        "address": "30500 Plum Creek Road, Paynes Creek, CA 96075",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.253588,
+          40.170791
+        ]
+      },
+      "properties": {
+        "poi_id": "OymxCMoicnh9mn649ayf7A",
+        "name": "Tehama County Juvenile Hall",
+        "phone": "+1 530-527-5380",
+        "url": "www.tehamacourt.ca.gov",
+        "stNo": "1790",
+        "strName": "Walnut Street",
+        "stPrefix": "",
+        "stName": "WALNUT",
+        "stType": "ST",
+        "city": "RED BLUFF",
+        "state": "CA",
+        "zipCode": "96080",
+        "address": "1790 Walnut Street, Red Bluff, CA 96080",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8038,
+          40.7893
+        ]
+      },
+      "properties": {
+        "poi_id": "lj9cNJ1-RlbZTeyo1p-asQ",
+        "name": "Trinity River Conservation Camp 3",
+        "stNo": "3325",
+        "strName": "Pettijohn Road",
+        "stPrefix": "",
+        "stName": "PETTIJOHN",
+        "stType": "RD",
+        "city": "LEWISTON",
+        "state": "CA",
+        "zipCode": "96052",
+        "address": "3325 Pettijohn Road, Lewiston, CA 96052",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.202668,
+          41.755562
+        ]
+      },
+      "properties": {
+        "poi_id": "NW-ks31Gk9veehamdTs76g",
+        "name": "Pelican Bay",
+        "strName": "9th Street",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "CRESCENT CITY",
+        "state": "CA",
+        "zipCode": "95531",
+        "address": "9th Street, Crescent City, CA 95531",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6351,
+          41.7083
+        ]
+      },
+      "properties": {
+        "poi_id": "H8P-9DN2BCZ8B1QBSeTWqg",
+        "name": "Charlie Byrd Youth Corrections Center",
+        "phone": "+1 530-841-4185",
+        "stNo": "269",
+        "strName": "Sharps Road",
+        "stPrefix": "",
+        "stName": "SHARPS",
+        "stType": "RD",
+        "city": "YREKA",
+        "state": "CA",
+        "zipCode": "96097",
+        "address": "269 Sharps Road, Yreka, CA 96097",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.161848,
+          40.802875
+        ]
+      },
+      "properties": {
+        "poi_id": "Esr6A_GfO0LnT31xkvT1sA",
+        "name": "Humboldt County Correctional Facility",
+        "phone": "+1 707-476-2450",
+        "url": "co.humboldt.ca.us",
+        "stNo": "825",
+        "strName": "5th Street",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "ST",
+        "city": "EUREKA",
+        "state": "CA",
+        "zipCode": "95501",
+        "address": "825 5th Street, Eureka, CA 95501",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.51591,
+          40.400629
+        ]
+      },
+      "properties": {
+        "poi_id": "_Tky5_uzNxQ9l9fg5hFB4w",
+        "name": "California Correctional Center",
+        "phone": "+1 530-257-2181",
+        "url": "www.cdcr.ca.gov/Facilities_Locator/CCC.html",
+        "stPrefix": "",
+        "stName": "UNDEFINED",
+        "stType": "",
+        "city": "SUSANVILLE",
+        "state": "CA",
+        "zipCode": "96130",
+        "address": "Susanville, CA 96130",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2196,
+          39.1601
+        ]
+      },
+      "properties": {
+        "poi_id": "ibOKV79bkPJQuK0f6PNGpQ",
+        "name": "Mendocino County Ca",
+        "phone": "+1 707-463-4423",
+        "stNo": "951",
+        "strName": "Low Gap Road",
+        "stPrefix": "",
+        "stName": "LOW GAP",
+        "stType": "RD",
+        "city": "UKIAH",
+        "state": "CA",
+        "zipCode": "95482",
+        "address": "951 Low Gap Road, Ukiah, CA 95482",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5107,
+          40.4013
+        ]
+      },
+      "properties": {
+        "poi_id": "rPi-MvvW4kJyMopK2fEoKQ",
+        "name": "Antelope Conservation Camp 25",
+        "phone": "+1 530-257-2181",
+        "stNo": "45",
+        "strName": "Center Road",
+        "stPrefix": "",
+        "stName": "CENTER",
+        "stType": "RD",
+        "city": "SUSANVILLE",
+        "state": "CA",
+        "zipCode": "96117",
+        "address": "45 Center Road, Susanville, CA 96117",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.779926,
+          39.528494
+        ]
+      },
+      "properties": {
+        "poi_id": "DNOEtF_JSuMX3znwef5wOQ",
+        "name": "Northern Nevada Restitution Center",
+        "stNo": "2595",
+        "strName": "East 2nd Street",
+        "stPrefix": "E",
+        "stName": "2ND",
+        "stType": "ST",
+        "city": "RENO",
+        "state": "NV",
+        "zipCode": "89502",
+        "address": "2595 East 2nd Street, Reno, NV 89502",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7368,
+          39.1603
+        ]
+      },
+      "properties": {
+        "poi_id": "nX59-8DD34sYutsZmvBOKg",
+        "name": "Nevada State Prison",
+        "phone": "+1 775-684-3000",
+        "stNo": "3301",
+        "strName": "East 5th Street",
+        "stPrefix": "E",
+        "stName": "5TH",
+        "stType": "ST",
+        "city": "CARSON CITY",
+        "state": "NV",
+        "zipCode": "89701",
+        "address": "3301 East 5th Street, Carson City, NV 89701",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.5565,
+          39.3577
+        ]
+      },
+      "properties": {
+        "poi_id": "XtkfIfuUUx5o_cmj94SteA",
+        "name": "Chamberlain Creek Camp 17",
+        "stNo": "15800",
+        "strName": "State Hwy 20",
+        "stPrefix": "",
+        "stName": "STATE",
+        "stType": "HWY",
+        "city": "COMPTCHE",
+        "state": "CA",
+        "zipCode": "95437",
+        "address": "15800 State Hwy 20, Comptche, CA 95437",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.823729,
+          38.723951
+        ]
+      },
+      "properties": {
+        "poi_id": "cgsTOIyRe7qmZ2W0moNQ3A",
+        "name": "El Dorado County Jail",
+        "phone": "+1 530-621-6000",
+        "stNo": "300",
+        "strName": "Forni Road",
+        "stPrefix": "",
+        "stName": "FORNI",
+        "stType": "RD",
+        "city": "PLACERVILLE",
+        "state": "CA",
+        "zipCode": "95667",
+        "address": "300 Forni Road, Placerville, CA 95667",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0666,
+          39.3485
+        ]
+      },
+      "properties": {
+        "poi_id": "TUX0P6V41EyhEWmh4qV4gg",
+        "name": "Tdcj B Moore Unit",
+        "strName": "Cutoff Road",
+        "stPrefix": "",
+        "stName": "CUTOFF",
+        "stType": "RD",
+        "city": "POTTER VALLEY",
+        "state": "CA",
+        "zipCode": "95469",
+        "address": "Cutoff Road, Potter Valley, CA 95469",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.746013,
+          39.108362
+        ]
+      },
+      "properties": {
+        "poi_id": "NBP99qUunza9gAIqTSeBIA",
+        "name": "Northern Neveda Correctional Center",
+        "phone": "+1 775-887-9218",
+        "url": "doc.nv.gov",
+        "stNo": "1721",
+        "strName": "Snyder Avenue",
+        "stPrefix": "",
+        "stName": "SNYDER",
+        "stType": "AVE",
+        "city": "CARSON CITY",
+        "state": "NV",
+        "zipCode": "89701",
+        "address": "1721 Snyder Avenue, Carson City, NV 89701",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.065228,
+          35.186951
+        ]
+      },
+      "properties": {
+        "poi_id": "wyHmtulm6kBo3_-ZijzN7A",
+        "name": "Mohave County Jail",
+        "phone": "+1 928-753-0759",
+        "stNo": "501",
+        "strName": "W Historic Rte 66",
+        "stPrefix": "W",
+        "stName": "HISTORIC",
+        "stType": "RTE",
+        "city": "KINGMAN",
+        "state": "AZ",
+        "zipCode": "86401",
+        "address": "501 W Historic Rte 66, Kingman, AZ 86401",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6444,
+          33.2013
+        ]
+      },
+      "properties": {
+        "poi_id": "E6LUlN71EyFdQl01OUoALg",
+        "name": "Arizona Prison Complex Lewis Eagle Point Unit",
+        "stNo": "26700",
+        "strName": "State Route 85",
+        "stPrefix": "",
+        "stName": "STATE",
+        "stType": "RTE",
+        "city": "BUCKEYE",
+        "state": "AZ",
+        "zipCode": "85326",
+        "address": "26700 State Route 85, Buckeye, AZ 85326",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6394,
+          33.1957
+        ]
+      },
+      "properties": {
+        "poi_id": "ZNX3mvpodZTQKl6_9XLLPg",
+        "name": "Arizona Prison Complex Lewis Sunrise Unit",
+        "stNo": "85",
+        "strName": "Old State Rte",
+        "stPrefix": "",
+        "stName": "OLD STATE",
+        "stType": "RTE",
+        "city": "BUCKEYE",
+        "state": "AZ",
+        "zipCode": "85326",
+        "address": "85 Old State Rte, Buckeye, AZ 85326",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.654818,
+          33.214047
+        ]
+      },
+      "properties": {
+        "poi_id": "3f_8cGP1ssjTWy6qLVD9yw",
+        "name": "Arizona Department of Corrections",
+        "stNo": "85",
+        "strName": "Arizona State Hwy",
+        "stPrefix": "",
+        "stName": "ARIZONA STATE",
+        "stType": "HWY",
+        "city": "BUCKEYE",
+        "state": "AZ",
+        "zipCode": "85326",
+        "address": "85 Arizona State Hwy, Buckeye, AZ 85326",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.130395,
+          33.423941
+        ]
+      },
+      "properties": {
+        "poi_id": "UGf-qPkLMXLZduXLJE7xeA",
+        "name": "Lower Buckeye Jail",
+        "phone": "+1 602-876-0322",
+        "stNo": "3250",
+        "strName": "West Lower Buckeye Road",
+        "stPrefix": "W",
+        "stName": "LOWER BUCKEYE",
+        "stType": "RD",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "zipCode": "85009",
+        "address": "3250 West Lower Buckeye Road, Phoenix, AZ 85009",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.85878,
+          32.065905
+        ]
+      },
+      "properties": {
+        "poi_id": "7zQABy7Mvqvv6qEydKCVoA",
+        "name": "Federal Correctional Complex",
+        "phone": "+1 520-574-7100",
+        "stNo": "10015",
+        "strName": "South Wilmot Road",
+        "stPrefix": "S",
+        "stName": "WILMOT",
+        "stType": "RD",
+        "city": "TUCSON",
+        "state": "AZ",
+        "zipCode": "85756",
+        "address": "10015 South Wilmot Road, Tucson, AZ 85756",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.132569,
+          33.432724
+        ]
+      },
+      "properties": {
+        "poi_id": "T0iMI0kjIewhwElyIWYC8Q",
+        "name": "Arizona State Prison Phoenix",
+        "phone": "+1 602-352-0350",
+        "stNo": "3402",
+        "strName": "West Cocopah Street",
+        "stPrefix": "W",
+        "stName": "COCOPAH",
+        "stType": "ST",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "zipCode": "85009",
+        "address": "3402 West Cocopah Street, Phoenix, AZ 85009",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5419,
+          31.352
+        ]
+      },
+      "properties": {
+        "poi_id": "FPG_j7857U1GZoVu63nWBw",
+        "name": "Cereso Puerto Pe asco",
+        "phone": "+52 638 388 1056",
+        "strName": "Francisco I. Madero",
+        "stPrefix": "",
+        "stName": "FRANCISCO",
+        "stType": "",
+        "city": "PUERTO PEÑASCO",
+        "state": "SON",
+        "zipCode": "83556",
+        "address": "Francisco I. Madero, 83556, Puerto Peñasco, Sonora",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4422,
+          33.471
+        ]
+      },
+      "properties": {
+        "poi_id": "PIi_RUZFJOGYLMe4jr1tEg",
+        "name": "Arizona Department of Corrections Perryville",
+        "phone": "+1 623-853-0304",
+        "stNo": "2105",
+        "strName": "North Citrus Road",
+        "stPrefix": "N",
+        "stName": "CITRUS",
+        "stType": "RD",
+        "city": "GOODYEAR",
+        "state": "AZ",
+        "zipCode": "85395",
+        "address": "2105 North Citrus Road, Goodyear, AZ 85395",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.376554,
+          33.036851
+        ]
+      },
+      "properties": {
+        "poi_id": "8WSKFNtCQsji5CUn_s_hrQ",
+        "name": "State Prison Florence West",
+        "phone": "+1 520-868-4251",
+        "stNo": "915",
+        "strName": "East Diversion Dam Road",
+        "stPrefix": "E",
+        "stName": "DIVERSION DAM",
+        "stType": "RD",
+        "city": "FLORENCE",
+        "state": "AZ",
+        "zipCode": "85132",
+        "address": "915 East Diversion Dam Road, Florence, AZ 85132",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5206,
+          32.809
+        ]
+      },
+      "properties": {
+        "poi_id": "4MJo57yK3AnDsyKq7Zjf8Q",
+        "name": "Red Rock Correctional Center",
+        "phone": "+1 520-464-3800",
+        "stNo": "1750",
+        "strName": "East Arica Road",
+        "stPrefix": "E",
+        "stName": "ARICA",
+        "stType": "RD",
+        "city": "ELOY",
+        "state": "AZ",
+        "zipCode": "85131",
+        "address": "1750 East Arica Road, Eloy, AZ 85131",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.127098,
+          33.426729
+        ]
+      },
+      "properties": {
+        "poi_id": "3E0QaMYEky7qDUiPdpIEoA",
+        "name": "Towers Jail",
+        "phone": "+1 602-876-4636",
+        "stNo": "3127",
+        "strName": "West Gibson Lane",
+        "stPrefix": "W",
+        "stName": "GIBSON",
+        "stType": "LN",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "zipCode": "85009",
+        "address": "3127 West Gibson Lane, Phoenix, AZ 85009",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9951,
+          32.2008
+        ]
+      },
+      "properties": {
+        "poi_id": "DI-6GpOUdI47_CQGtJK6VA",
+        "name": "Pima County Jail",
+        "phone": "+1 520-351-8111",
+        "stNo": "1801",
+        "strName": "South Mission Road",
+        "stPrefix": "",
+        "stName": "SOUTH",
+        "stType": "MSN",
+        "city": "TUCSON",
+        "state": "AZ",
+        "zipCode": "85713",
+        "address": "1801 South Mission Road, Tucson, AZ 85713",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.124161,
+          33.428282
+        ]
+      },
+      "properties": {
+        "poi_id": "X5UO6tHsfivqiwrjnyAgIg",
+        "name": "Maricopa County Sheriff s Office Estrella Jail",
+        "phone": "+1 602-876-0322",
+        "stNo": "2939",
+        "strName": "West Durango Street",
+        "stPrefix": "W",
+        "stName": "DURANGO",
+        "stType": "ST",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "zipCode": "85009",
+        "address": "2939 West Durango Street, Phoenix, AZ 85009",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1237,
+          33.4241
+        ]
+      },
+      "properties": {
+        "poi_id": "ZpmArYjNrgxP1yGxyzQ6zg",
+        "name": "Watkins Jail",
+        "phone": "+1 602-876-0322",
+        "stNo": "2680",
+        "strName": "S 28th Dr",
+        "stPrefix": "S",
+        "stName": "28TH",
+        "stType": "DR",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "zipCode": "85009",
+        "address": "2680 S 28th Dr, Phoenix, AZ 85009",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3264,
+          33.0354
+        ]
+      },
+      "properties": {
+        "poi_id": "iMStNOcQEjV58TlXu7kS-Q",
+        "name": "Cook Unit Eyman",
+        "strName": "N Eyman Blvd",
+        "stPrefix": "N",
+        "stName": "EYMAN",
+        "stType": "BLVD",
+        "city": "FLORENCE",
+        "state": "AZ",
+        "zipCode": "85132",
+        "address": "N Eyman Blvd, Florence, AZ 85132",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.992003,
+          32.200421
+        ]
+      },
+      "properties": {
+        "poi_id": "jGN2rx6-Rc9jbjehfYXLgA",
+        "name": "Pima County Adult Detention Complex",
+        "phone": "+1 520-351-8111",
+        "stNo": "1270",
+        "strName": "W Silverlake Rd",
+        "stPrefix": "W",
+        "stName": "SILVERLAKE",
+        "stType": "RD",
+        "city": "TUCSON",
+        "state": "AZ",
+        "zipCode": "85713",
+        "address": "1270 W Silverlake Rd, Tucson, AZ 85713",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.867241,
+          32.06255
+        ]
+      },
+      "properties": {
+        "poi_id": "N9IOFOAn3SO_p68epo3GFA",
+        "name": "Winchester Unit",
+        "strName": "S Wilmot Rd",
+        "stPrefix": "S",
+        "stName": "WILMOT",
+        "stType": "RD",
+        "city": "TUCSON",
+        "state": "AZ",
+        "zipCode": "85756",
+        "address": "S Wilmot Rd, Tucson, AZ 85756",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.376124,
+          33.039827
+        ]
+      },
+      "properties": {
+        "poi_id": "qpQj3s_kLka_QebyPCS0iw",
+        "name": "Pinal County Sheriff Office",
+        "phone": "+1 855-355-0358",
+        "stNo": "971",
+        "strName": "North Jason Lopez Circle",
+        "stPrefix": "N",
+        "stName": "JASON LOPEZ",
+        "stType": "CIR",
+        "city": "FLORENCE",
+        "state": "AZ",
+        "zipCode": "85132",
+        "address": "971 North Jason Lopez Circle, Florence, AZ 85132",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.937917,
+          29.043178
+        ]
+      },
+      "properties": {
+        "poi_id": "Cse0JoaS73duopUDd6b4lQ",
+        "name": "Clidex",
+        "strName": "83118",
+        "stPrefix": "",
+        "stName": "83118",
+        "stType": "",
+        "city": "HERMOSILLO",
+        "state": "SON",
+        "zipCode": "83293",
+        "address": "83118, 83293, Hermosillo, Sonora",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.935729,
+          29.044425
+        ]
+      },
+      "properties": {
+        "poi_id": "A4AoNtnXCL3F_bG95aS4Fw",
+        "name": "Cereso",
+        "phone": "+52 662 254 0025",
+        "strName": "Las Lomas",
+        "stPrefix": "",
+        "stName": "LAS",
+        "stType": "",
+        "city": "HERMOSILLO",
+        "state": "SON",
+        "zipCode": "83270",
+        "address": "Las Lomas, 83270, Hermosillo, Sonora",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.084439,
+          33.503787
+        ]
+      },
+      "properties": {
+        "poi_id": "XfwTX5SapAWDiqXBVxSiFQ",
+        "name": "Sentinel",
+        "phone": "+1 602-523-9800",
+        "stNo": "700",
+        "strName": "West Campbell Avenue",
+        "stPrefix": "W",
+        "stName": "CAMPBELL",
+        "stType": "AVE",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "zipCode": "85013",
+        "address": "700 West Campbell Avenue, Phoenix, AZ 85013",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.029451,
+          33.458878
+        ]
+      },
+      "properties": {
+        "poi_id": "r9ybJXKLoYQ6sdsV6j-tqQ",
+        "name": "Behavioral Systems Southwest",
+        "phone": "+1 602-275-9619",
+        "stNo": "2420",
+        "strName": "East Roosevelt Street",
+        "stPrefix": "E",
+        "stName": "ROOSEVELT",
+        "stType": "ST",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "zipCode": "85008",
+        "address": "2420 East Roosevelt Street, Phoenix, AZ 85008",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3731,
+          33.0286
+        ]
+      },
+      "properties": {
+        "poi_id": "tzK8jXfEBl5Ej-rFN-gT3w",
+        "name": "Arizona State Prison Complex",
+        "phone": "+1 520-868-4011",
+        "stNo": "1305",
+        "strName": "East Butte Avenue",
+        "stPrefix": "E",
+        "stName": "BUTTE",
+        "stType": "AVE",
+        "city": "FLORENCE",
+        "state": "AZ",
+        "zipCode": "85132",
+        "address": "1305 East Butte Avenue, Florence, AZ 85132",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8609,
+          32.0892
+        ]
+      },
+      "properties": {
+        "poi_id": "COjJWKCFZ8VxISJJsmKBVA",
+        "name": "Arizona State Prison Complex Tucson",
+        "strName": "South Wilmot Road",
+        "stPrefix": "S",
+        "stName": "WILMOT",
+        "stType": "RD",
+        "city": "TUCSON",
+        "state": "AZ",
+        "zipCode": "85756",
+        "address": "South Wilmot Road, Tucson, AZ 85756",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3713,
+          33.0308
+        ]
+      },
+      "properties": {
+        "poi_id": "O-fhJo7IJgHXXmZmfIZ6SA",
+        "name": "Corrections Department",
+        "phone": "+1 520-868-4011",
+        "stNo": "1305",
+        "strName": "East Butte Avenue",
+        "stPrefix": "E",
+        "stName": "BUTTE",
+        "stType": "AVE",
+        "city": "FLORENCE",
+        "state": "AZ",
+        "zipCode": "85132",
+        "address": "1305 East Butte Avenue, Florence, AZ 85132",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5288,
+          32.8145
+        ]
+      },
+      "properties": {
+        "poi_id": "q0PbqzRkUzNTtzNdIyPF4w",
+        "name": "La Palma Correctional Center",
+        "stNo": "5501",
+        "strName": "South La Palma Road",
+        "stPrefix": "",
+        "stName": "SOUTH",
+        "stType": "LN",
+        "city": "ELOY",
+        "state": "AZ",
+        "zipCode": "85131",
+        "address": "5501 South La Palma Road, Eloy, AZ 85131",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.023905,
+          33.4523
+        ]
+      },
+      "properties": {
+        "poi_id": "L79QVWkhREVO4b6-b1vdVw",
+        "name": "Arizona State Prison Complex",
+        "phone": "+1 602-685-3100",
+        "stNo": "2500",
+        "strName": "East Van Buren Street",
+        "stPrefix": "E",
+        "stName": "VAN BUREN",
+        "stType": "ST",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "zipCode": "85008",
+        "address": "2500 East Van Buren Street, Phoenix, AZ 85008",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.162085,
+          33.832309
+        ]
+      },
+      "properties": {
+        "poi_id": "EqQom-JehJRqxWnYvikOYg",
+        "name": "US Prisons Bureau",
+        "phone": "+1 623-742-7520",
+        "strName": "N 45th Ave",
+        "stPrefix": "N",
+        "stName": "45TH",
+        "stType": "AVE",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "zipCode": "85086",
+        "address": "N 45th Ave, Phoenix, AZ 85086",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.856467,
+          32.090619
+        ]
+      },
+      "properties": {
+        "poi_id": "bFFrULH3z6-vqL4LbW7_lQ",
+        "name": "Federal Correctional Institution Tucson",
+        "phone": "+1 520-574-7100",
+        "stNo": "8901",
+        "strName": "South Wilmot Road",
+        "stPrefix": "S",
+        "stName": "WILMOT",
+        "stType": "RD",
+        "city": "TUCSON",
+        "state": "AZ",
+        "zipCode": "85756",
+        "address": "8901 South Wilmot Road, Tucson, AZ 85756",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.168329,
+          33.833212
+        ]
+      },
+      "properties": {
+        "poi_id": "QjFzZpnstM_ZA5xwg1Gvig",
+        "name": "Federal Correctional Institution Phoenix",
+        "phone": "+1 623-465-9757",
+        "stNo": "37900",
+        "strName": "N 45Th Ave",
+        "stPrefix": "N",
+        "stName": "45TH",
+        "stType": "AVE",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "zipCode": "85086",
+        "address": "37900 N 45Th Ave, Phoenix, AZ 85086",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.324,
+          33.0424
+        ]
+      },
+      "properties": {
+        "poi_id": "T5FlZsBumwn7TmgYu8KK4A",
+        "name": "Meadows Unit Eyman Complex",
+        "strName": "eyman prison",
+        "stPrefix": "",
+        "stName": "EYMAN",
+        "stType": "",
+        "city": "FLORENCE",
+        "state": "AZ",
+        "zipCode": "85132",
+        "address": "eyman prison, Florence, AZ 85132",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4457,
+          33.46956
+        ]
+      },
+      "properties": {
+        "poi_id": "IvBA4WMFh361lf15OHpSng",
+        "name": "Piestewa Unit",
+        "stNo": "2014",
+        "strName": "North Citrus Road",
+        "stPrefix": "N",
+        "stName": "CITRUS",
+        "stType": "RD",
+        "city": "GOODYEAR",
+        "state": "AZ",
+        "zipCode": "85395",
+        "address": "2014 North Citrus Road, Goodyear, AZ 85395",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.05491,
+          36.264489
+        ]
+      },
+      "properties": {
+        "poi_id": "WLPVqI543nSpjFaY1ZL_vg",
+        "name": "Summit View Youth Center",
+        "phone": "+1 702-668-4747",
+        "stNo": "5730",
+        "strName": "Range Road",
+        "stPrefix": "",
+        "stName": "RANGE",
+        "stType": "RD",
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "zipCode": "89115",
+        "address": "5730 Range Road, Las Vegas, NV 89115",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3784,
+          42.2451
+        ]
+      },
+      "properties": {
+        "poi_id": "i4jE-GJyA9URicSi1GDOxw",
+        "name": "Warner Creek Correctional Facility",
+        "phone": "+1 541-947-8200",
+        "stNo": "20654",
+        "strName": "Rabbit Hill Road",
+        "stPrefix": "",
+        "stName": "RABBIT HILL",
+        "stType": "RD",
+        "city": "LAKEVIEW",
+        "state": "OR",
+        "zipCode": "97630",
+        "address": "20654 Rabbit Hill Road, Lakeview, OR 97630",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.712515,
+          42.93837
+        ]
+      },
+      "properties": {
+        "poi_id": "NAfWT2-5f3xIRLbCL8jrLw",
+        "name": "Department Corrections",
+        "stNo": "141",
+        "strName": "7th Avenue East",
+        "stPrefix": "",
+        "stName": "TH",
+        "stType": "AVE",
+        "city": "GOODING",
+        "state": "ID",
+        "zipCode": "83330",
+        "address": "141 7th Avenue East, Gooding, ID 83330",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.878644,
+          42.322006
+        ]
+      },
+      "properties": {
+        "poi_id": "Fqt47pZRbVx5jFBOXTG9KQ",
+        "name": "Jackson County Jail",
+        "phone": "+1 541-774-6850",
+        "stNo": "787",
+        "strName": "West 8th Street",
+        "stPrefix": "W",
+        "stName": "8TH",
+        "stType": "ST",
+        "city": "MEDFORD",
+        "state": "OR",
+        "zipCode": "97501",
+        "address": "787 West 8th Street, Medford, OR 97501",
+        "primaryType": "prison/correctional facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.303581,
+          42.433251
+        ]
+      },
+      "properties": {
+        "poi_id": "GKR_TndaJHGV5wi6LobJPQ",
+        "name": "Josephine County Jail",
+        "phone": "+1 541-474-5140",
+        "stNo": "1901",
+        "strName": "Northeast F Street",
+        "stPrefix": "NE",
+        "stName": "F",
+        "stType": "ST",
+        "city": "GRANTS PASS",
+        "state": "OR",
+        "zipCode": "97526",
+        "address": "1901 Northeast F Street, Grants Pass, OR 97526",
+        "primaryType": "prison/correctional facility"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "HouseNum": "2055",
+        "StreetName": "CLARENDON",
+        "StreetType": "AVE",
+        "Last2Dig": "55",
+        "First2Dig": "20",
+        "REFNAME": "< 55",
+        "TEXT": "< 55",
+        "TXTMEMO": "< 55",
+        "FullName": "CLARENDON AVE",
+        "LeftFrom": "2001",
+        "LeftTo": "2099",
+        "RightFrom": "2000",
+        "RightTo": "2098",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23470317253435,
+          33.98366922365425
+        ]
+      },
+      "id": 1,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "2059",
+        "StreetName": "CLARENDON",
+        "StreetType": "AVE",
+        "Last2Dig": "59",
+        "First2Dig": "20",
+        "REFNAME": "< 59",
+        "TEXT": "< 59",
+        "TXTMEMO": "< 59",
+        "FullName": "CLARENDON AVE",
+        "LeftFrom": "2001",
+        "LeftTo": "2099",
+        "RightFrom": "2000",
+        "RightTo": "2098",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2345719997189,
+          33.983667547037456
+        ]
+      },
+      "id": 2,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "2060",
+        "StreetName": "GAGE",
+        "StreetType": "AVE",
+        "Last2Dig": "60",
+        "First2Dig": "20",
+        "REFNAME": "< 60",
+        "TEXT": "< 60",
+        "TXTMEMO": "< 60",
+        "FullName": "E GAGE AVE",
+        "LeftFrom": "2051",
+        "LeftTo": "2075",
+        "RightFrom": "2048",
+        "RightTo": "2072",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23446785045816,
+          33.98178868235361
+        ]
+      },
+      "id": 3,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "2063",
+        "StreetName": "CLARENDON",
+        "StreetType": "AVE",
+        "Last2Dig": "63",
+        "First2Dig": "20",
+        "REFNAME": "< 63",
+        "TEXT": "< 63",
+        "TXTMEMO": "< 63",
+        "FullName": "CLARENDON AVE",
+        "LeftFrom": "2001",
+        "LeftTo": "2099",
+        "RightFrom": "2000",
+        "RightTo": "2098",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23438211841548,
+          33.98367080742659
+        ]
+      },
+      "id": 4,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "2410",
+        "StreetName": "ZOE",
+        "StreetType": "AVE",
+        "Last2Dig": "10",
+        "First2Dig": "24",
+        "REFNAME": "10>",
+        "TEXT": "10>",
+        "TXTMEMO": "10>",
+        "FullName": "ZOE AVE",
+        "LeftFrom": "2401",
+        "LeftTo": "2421",
+        "RightFrom": "2400",
+        "RightTo": "2424",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22966937942054,
+          33.97910185213447
+        ]
+      },
+      "id": 5,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "2420",
+        "StreetName": "ZOE",
+        "StreetType": "AVE",
+        "Last2Dig": "20",
+        "First2Dig": "24",
+        "REFNAME": "20>",
+        "TEXT": "20>",
+        "TXTMEMO": "20>",
+        "FullName": "ZOE AVE",
+        "LeftFrom": "2423",
+        "LeftTo": "2441",
+        "RightFrom": "2426",
+        "RightTo": "2448",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22953657531664,
+          33.97909083580776
+        ]
+      },
+      "id": 6,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "2424",
+        "StreetName": "ZOE",
+        "StreetType": "AVE",
+        "Last2Dig": "24",
+        "First2Dig": "24",
+        "REFNAME": "24>",
+        "TEXT": "24>",
+        "TXTMEMO": "24>",
+        "FullName": "ZOE AVE",
+        "LeftFrom": "2423",
+        "LeftTo": "2441",
+        "RightFrom": "2426",
+        "RightTo": "2448",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22940380375161,
+          33.97909449309238
+        ]
+      },
+      "id": 7,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "2665",
+        "StreetName": "58TH",
+        "StreetType": "ST",
+        "Last2Dig": "65",
+        "First2Dig": "26",
+        "REFNAME": "< 65",
+        "TEXT": "< 65",
+        "TXTMEMO": "< 65",
+        "FullName": "E 58TH ST",
+        "LeftFrom": "2617",
+        "LeftTo": "2699",
+        "RightFrom": "2618",
+        "RightTo": "2698",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22298620384946,
+          33.990287536421725
+        ]
+      },
+      "id": 8,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3210",
+        "StreetName": "SATURN",
+        "StreetType": "AVE",
+        "Last2Dig": "10",
+        "First2Dig": "32",
+        "REFNAME": "10>",
+        "TEXT": "10>",
+        "TXTMEMO": "10>",
+        "FullName": "SATURN AVE",
+        "LeftFrom": "3201",
+        "LeftTo": "3227",
+        "RightFrom": "3200",
+        "RightTo": "3240",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21009181813477,
+          33.97605015769274
+        ]
+      },
+      "id": 9,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3211",
+        "StreetName": "SANTA ANA",
+        "StreetType": "ST",
+        "Last2Dig": "11",
+        "First2Dig": "32",
+        "REFNAME": "< 11",
+        "TEXT": "< 11",
+        "TXTMEMO": "< 11",
+        "FullName": "SANTA ANA ST",
+        "LeftFrom": "3227",
+        "LeftTo": "3239",
+        "RightFrom": "3232",
+        "RightTo": "3248",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21108091115306,
+          33.9636613758432
+        ]
+      },
+      "id": 10,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3212",
+        "StreetName": "SATURN",
+        "StreetType": "AVE",
+        "Last2Dig": "12",
+        "First2Dig": "32",
+        "REFNAME": "12>",
+        "TEXT": "12>",
+        "TXTMEMO": "12>",
+        "FullName": "SATURN AVE",
+        "LeftFrom": "3201",
+        "LeftTo": "3227",
+        "RightFrom": "3200",
+        "RightTo": "3240",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20991793792336,
+          33.97604718492444
+        ]
+      },
+      "id": 11,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3214",
+        "StreetName": "SATURN",
+        "StreetType": "AVE",
+        "Last2Dig": "14",
+        "First2Dig": "32",
+        "REFNAME": "14>",
+        "TEXT": "14>",
+        "TXTMEMO": "14>",
+        "FullName": "SATURN AVE",
+        "LeftFrom": "3201",
+        "LeftTo": "3227",
+        "RightFrom": "3200",
+        "RightTo": "3240",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20978380628092,
+          33.97603121653906
+        ]
+      },
+      "id": 12,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3218",
+        "StreetName": "BROADWAY",
+        "StreetType": "AVE",
+        "Last2Dig": "18",
+        "First2Dig": "32",
+        "REFNAME": "18>",
+        "TEXT": "18>",
+        "TXTMEMO": "18>",
+        "FullName": "BROADWAY AVE",
+        "LeftFrom": "3201",
+        "LeftTo": "3219",
+        "RightFrom": "3200",
+        "RightTo": "3220",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21119024782668,
+          33.965046835136796
+        ]
+      },
+      "id": 13,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3220",
+        "StreetName": "SATURN",
+        "StreetType": "AVE",
+        "Last2Dig": "20",
+        "First2Dig": "32",
+        "REFNAME": "20>",
+        "TEXT": "20>",
+        "TXTMEMO": "20>",
+        "FullName": "SATURN AVE",
+        "LeftFrom": "3201",
+        "LeftTo": "3227",
+        "RightFrom": "3200",
+        "RightTo": "3240",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20970025420625,
+          33.97600624347461
+        ]
+      },
+      "id": 14,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3222",
+        "StreetName": "SATURN",
+        "StreetType": "AVE",
+        "Last2Dig": "22",
+        "First2Dig": "32",
+        "REFNAME": "22>",
+        "TEXT": "22>",
+        "TXTMEMO": "22>",
+        "FullName": "SATURN AVE",
+        "LeftFrom": "3201",
+        "LeftTo": "3227",
+        "RightFrom": "3200",
+        "RightTo": "3240",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20956487511985,
+          33.975999315432944
+        ]
+      },
+      "id": 15,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3240",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "40",
+        "First2Dig": "32",
+        "REFNAME": "40>",
+        "TEXT": "40>",
+        "TXTMEMO": "40>",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3231",
+        "LeftTo": "3265",
+        "RightFrom": "3230",
+        "RightTo": "3264",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20954138836731,
+          33.96901587562276
+        ]
+      },
+      "id": 16,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3241",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "41",
+        "First2Dig": "32",
+        "REFNAME": "< 41",
+        "TEXT": "< 41",
+        "TXTMEMO": "< 41",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3231",
+        "LeftTo": "3265",
+        "RightFrom": "3230",
+        "RightTo": "3264",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20965513470841,
+          33.96930880559907
+        ]
+      },
+      "id": 17,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3242",
+        "StreetName": "LIVE OAK",
+        "StreetType": "ST",
+        "Last2Dig": "42",
+        "First2Dig": "32",
+        "REFNAME": "42>",
+        "TEXT": "42>",
+        "TXTMEMO": "42>",
+        "FullName": "LIVE OAK ST",
+        "LeftFrom": "3225",
+        "LeftTo": "3255",
+        "RightFrom": "3230",
+        "RightTo": "3264",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20940360914854,
+          33.9698422245334
+        ]
+      },
+      "id": 18,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3242",
+        "StreetName": "SATURN",
+        "StreetType": "AVE",
+        "Last2Dig": "42",
+        "First2Dig": "32",
+        "REFNAME": "42>",
+        "TEXT": "42>",
+        "TXTMEMO": "42>",
+        "FullName": "SATURN AVE",
+        "LeftFrom": "3229",
+        "LeftTo": "3245",
+        "RightFrom": "3242",
+        "RightTo": "3252",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20903179931487,
+          33.975945354674955
+        ]
+      },
+      "id": 19,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3243",
+        "StreetName": "HOPE",
+        "StreetType": "ST",
+        "Last2Dig": "43",
+        "First2Dig": "32",
+        "REFNAME": "< 43",
+        "TEXT": "< 43",
+        "TXTMEMO": "< 43",
+        "FullName": "HOPE ST",
+        "LeftFrom": "3215",
+        "LeftTo": "3257",
+        "RightFrom": "3214",
+        "RightTo": "3254",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20964855846996,
+          33.968476236373206
+        ]
+      },
+      "id": 20,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3243",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "43",
+        "First2Dig": "32",
+        "REFNAME": "< 43",
+        "TEXT": "< 43",
+        "TXTMEMO": "< 43",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3231",
+        "LeftTo": "3265",
+        "RightFrom": "3230",
+        "RightTo": "3264",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2094986616249,
+          33.96928691870172
+        ]
+      },
+      "id": 21,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3246",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "46",
+        "First2Dig": "32",
+        "REFNAME": "46>",
+        "TEXT": "46>",
+        "TXTMEMO": "46>",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3231",
+        "LeftTo": "3265",
+        "RightFrom": "3230",
+        "RightTo": "3264",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20939709459662,
+          33.96900425285443
+        ]
+      },
+      "id": 22,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3246",
+        "StreetName": "LIVE OAK",
+        "StreetType": "ST",
+        "Last2Dig": "46",
+        "First2Dig": "32",
+        "REFNAME": "46>",
+        "TEXT": "46>",
+        "TXTMEMO": "46>",
+        "FullName": "LIVE OAK ST",
+        "LeftFrom": "3225",
+        "LeftTo": "3255",
+        "RightFrom": "3230",
+        "RightTo": "3264",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20924197140819,
+          33.96982362633933
+        ]
+      },
+      "id": 23,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3247",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "47",
+        "First2Dig": "32",
+        "REFNAME": "< 47",
+        "TEXT": "< 47",
+        "TXTMEMO": "< 47",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3231",
+        "LeftTo": "3265",
+        "RightFrom": "3230",
+        "RightTo": "3264",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20935516318845,
+          33.9692693811604
+        ]
+      },
+      "id": 24,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3247",
+        "StreetName": "HOPE",
+        "StreetType": "ST",
+        "Last2Dig": "47",
+        "First2Dig": "32",
+        "REFNAME": "< 47",
+        "TEXT": "< 47",
+        "TXTMEMO": "< 47",
+        "FullName": "HOPE ST",
+        "LeftFrom": "3215",
+        "LeftTo": "3257",
+        "RightFrom": "3214",
+        "RightTo": "3254",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20950326449861,
+          33.96845749883558
+        ]
+      },
+      "id": 25,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3250",
+        "StreetName": "LIVE OAK",
+        "StreetType": "ST",
+        "Last2Dig": "50",
+        "First2Dig": "32",
+        "REFNAME": "50>",
+        "TEXT": "50>",
+        "TXTMEMO": "50>",
+        "FullName": "LIVE OAK ST",
+        "LeftFrom": "3257",
+        "LeftTo": "3299",
+        "RightFrom": "3266",
+        "RightTo": "3298",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20907303788738,
+          33.969799472195675
+        ]
+      },
+      "id": 26,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3250",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "50",
+        "First2Dig": "32",
+        "REFNAME": "50>",
+        "TEXT": "50>",
+        "TXTMEMO": "50>",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3231",
+        "LeftTo": "3265",
+        "RightFrom": "3230",
+        "RightTo": "3264",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20923336081805,
+          33.96898444450598
+        ]
+      },
+      "id": 27,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3251",
+        "StreetName": "HOPE",
+        "StreetType": "ST",
+        "Last2Dig": "51",
+        "First2Dig": "32",
+        "REFNAME": "< 51",
+        "TEXT": "< 51",
+        "TXTMEMO": "< 51",
+        "FullName": "HOPE ST",
+        "LeftFrom": "3215",
+        "LeftTo": "3257",
+        "RightFrom": "3214",
+        "RightTo": "3254",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20932766971264,
+          33.968439090488665
+        ]
+      },
+      "id": 28,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3251",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "51",
+        "First2Dig": "32",
+        "REFNAME": "< 51",
+        "TEXT": "< 51",
+        "TXTMEMO": "< 51",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3231",
+        "LeftTo": "3265",
+        "RightFrom": "3230",
+        "RightTo": "3264",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20919084686602,
+          33.96925399187081
+        ]
+      },
+      "id": 29,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3254",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "54",
+        "First2Dig": "32",
+        "REFNAME": "54>",
+        "TEXT": "54>",
+        "TXTMEMO": "54>",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3267",
+        "LeftTo": "3299",
+        "RightFrom": "3266",
+        "RightTo": "3298",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20907902380566,
+          33.96896990424762
+        ]
+      },
+      "id": 30,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3256",
+        "StreetName": "LIVE OAK",
+        "StreetType": "ST",
+        "Last2Dig": "56",
+        "First2Dig": "32",
+        "REFNAME": "56>",
+        "TEXT": "56>",
+        "TXTMEMO": "56>",
+        "FullName": "LIVE OAK ST",
+        "LeftFrom": "3257",
+        "LeftTo": "3299",
+        "RightFrom": "3266",
+        "RightTo": "3298",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20891303722719,
+          33.969787749615676
+        ]
+      },
+      "id": 31,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3257",
+        "StreetName": "HOPE",
+        "StreetType": "ST",
+        "Last2Dig": "57",
+        "First2Dig": "32",
+        "REFNAME": "< 57",
+        "TEXT": "< 57",
+        "TXTMEMO": "< 57",
+        "FullName": "HOPE ST",
+        "LeftFrom": "3259",
+        "LeftTo": "3299",
+        "RightFrom": "3256",
+        "RightTo": "3298",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20915299914556,
+          33.96842079041623
+        ]
+      },
+      "id": 32,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3257",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "57",
+        "First2Dig": "32",
+        "REFNAME": "< 57",
+        "TEXT": "< 57",
+        "TXTMEMO": "< 57",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3267",
+        "LeftTo": "3299",
+        "RightFrom": "3266",
+        "RightTo": "3298",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20908970288092,
+          33.96924315398722
+        ]
+      },
+      "id": 33,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3259",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "59",
+        "First2Dig": "32",
+        "REFNAME": "< 59",
+        "TEXT": "< 59",
+        "TXTMEMO": "< 59",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3267",
+        "LeftTo": "3299",
+        "RightFrom": "3266",
+        "RightTo": "3298",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20901580797295,
+          33.969242344451416
+        ]
+      },
+      "id": 34,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3260",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "60",
+        "First2Dig": "32",
+        "REFNAME": "60>",
+        "TEXT": "60>",
+        "TXTMEMO": "60>",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3267",
+        "LeftTo": "3299",
+        "RightFrom": "3266",
+        "RightTo": "3298",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20893054178278,
+          33.968953022812684
+        ]
+      },
+      "id": 35,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3261",
+        "StreetName": "FLOWER",
+        "StreetType": "ST",
+        "Last2Dig": "61",
+        "First2Dig": "32",
+        "REFNAME": "< 61",
+        "TEXT": "< 61",
+        "TXTMEMO": "< 61",
+        "FullName": "FLOWER ST",
+        "LeftFrom": "3267",
+        "LeftTo": "3299",
+        "RightFrom": "3266",
+        "RightTo": "3298",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2088777845686,
+          33.969216721079626
+        ]
+      },
+      "id": 36,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3261",
+        "StreetName": "HOPE",
+        "StreetType": "ST",
+        "Last2Dig": "61",
+        "First2Dig": "32",
+        "REFNAME": "< 61",
+        "TEXT": "< 61",
+        "TXTMEMO": "< 61",
+        "FullName": "HOPE ST",
+        "LeftFrom": "3259",
+        "LeftTo": "3299",
+        "RightFrom": "3256",
+        "RightTo": "3298",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20896550231717,
+          33.968401146435866
+        ]
+      },
+      "id": 37,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3809",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "09",
+        "First2Dig": "38",
+        "REFNAME": "< 09",
+        "TEXT": "< 09",
+        "TXTMEMO": "< 09",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3801",
+        "LeftTo": "3865",
+        "RightFrom": "3800",
+        "RightTo": "3860",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19675831970173,
+          33.98472767304014
+        ]
+      },
+      "id": 38,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3815",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "15",
+        "First2Dig": "38",
+        "REFNAME": "< 15",
+        "TEXT": "< 15",
+        "TXTMEMO": "< 15",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3801",
+        "LeftTo": "3865",
+        "RightFrom": "3800",
+        "RightTo": "3860",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1965857302875,
+          33.98471019274059
+        ]
+      },
+      "id": 39,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3819",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "19",
+        "First2Dig": "38",
+        "REFNAME": "< 19",
+        "TEXT": "< 19",
+        "TXTMEMO": "< 19",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3801",
+        "LeftTo": "3865",
+        "RightFrom": "3800",
+        "RightTo": "3860",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19645457848877,
+          33.984696927660096
+        ]
+      },
+      "id": 40,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3823",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "23",
+        "First2Dig": "38",
+        "REFNAME": "< 23",
+        "TEXT": "< 23",
+        "TXTMEMO": "< 23",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3801",
+        "LeftTo": "3865",
+        "RightFrom": "3800",
+        "RightTo": "3860",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19632640939271,
+          33.9846839436952
+        ]
+      },
+      "id": 41,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3829",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "29",
+        "First2Dig": "38",
+        "REFNAME": "< 29",
+        "TEXT": "< 29",
+        "TXTMEMO": "< 29",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3801",
+        "LeftTo": "3865",
+        "RightFrom": "3800",
+        "RightTo": "3860",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1962048424768,
+          33.984671636457556
+        ]
+      },
+      "id": 42,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3905",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "05",
+        "First2Dig": "39",
+        "REFNAME": "< 05",
+        "TEXT": "< 05",
+        "TXTMEMO": "< 05",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3901",
+        "LeftTo": "3999",
+        "RightFrom": "3900",
+        "RightTo": "3998",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19582879880531,
+          33.98463354893408
+        ]
+      },
+      "id": 43,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3909",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "09",
+        "First2Dig": "39",
+        "REFNAME": "< 09",
+        "TEXT": "< 09",
+        "TXTMEMO": "< 09",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3901",
+        "LeftTo": "3999",
+        "RightFrom": "3900",
+        "RightTo": "3998",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19569357300587,
+          33.98461985085746
+        ]
+      },
+      "id": 44,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3913",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "13",
+        "First2Dig": "39",
+        "REFNAME": "< 13",
+        "TEXT": "< 13",
+        "TXTMEMO": "< 13",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3901",
+        "LeftTo": "3999",
+        "RightFrom": "3900",
+        "RightTo": "3998",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19557241837808,
+          33.98460758252146
+        ]
+      },
+      "id": 45,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3915",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "15",
+        "First2Dig": "39",
+        "REFNAME": "< 15",
+        "TEXT": "< 15",
+        "TXTMEMO": "< 15",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3901",
+        "LeftTo": "3999",
+        "RightFrom": "3900",
+        "RightTo": "3998",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19546373194369,
+          33.98459657466536
+        ]
+      },
+      "id": 46,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3919",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "19",
+        "First2Dig": "39",
+        "REFNAME": "< 19",
+        "TEXT": "< 19",
+        "TXTMEMO": "< 19",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3901",
+        "LeftTo": "3999",
+        "RightFrom": "3900",
+        "RightTo": "3998",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1953392259842,
+          33.984583979961656
+        ]
+      },
+      "id": 47,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3923",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "23",
+        "First2Dig": "39",
+        "REFNAME": "< 23",
+        "TEXT": "< 23",
+        "TXTMEMO": "< 23",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3901",
+        "LeftTo": "3999",
+        "RightFrom": "3900",
+        "RightTo": "3998",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19520807173235,
+          33.984570691970816
+        ]
+      },
+      "id": 48,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3927",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "27",
+        "First2Dig": "39",
+        "REFNAME": "< 27",
+        "TEXT": "< 27",
+        "TXTMEMO": "< 27",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3901",
+        "LeftTo": "3999",
+        "RightFrom": "3900",
+        "RightTo": "3998",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19508279269823,
+          33.984558012594896
+        ]
+      },
+      "id": 49,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "3955",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "55",
+        "First2Dig": "39",
+        "REFNAME": "< 55",
+        "TEXT": "< 55",
+        "TXTMEMO": "< 55",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "3901",
+        "LeftTo": "3999",
+        "RightFrom": "3900",
+        "RightTo": "3998",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19595253320567,
+          33.984646079122214
+        ]
+      },
+      "id": 50,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4300",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "00",
+        "First2Dig": "43",
+        "REFNAME": "00>",
+        "TEXT": "00>",
+        "TXTMEMO": "00>",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4329",
+        "RightFrom": "4300",
+        "RightTo": "4326",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19044475104985,
+          33.983817859733506
+        ]
+      },
+      "id": 51,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4305",
+        "StreetName": "RANDOLPH",
+        "StreetType": "ST",
+        "Last2Dig": "05",
+        "First2Dig": "43",
+        "REFNAME": "< 05",
+        "TEXT": "< 05",
+        "TXTMEMO": "< 05",
+        "FullName": "RANDOLPH ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4399",
+        "RightFrom": "0",
+        "RightTo": "0",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19068242469334,
+          33.982208620587755
+        ]
+      },
+      "id": 52,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4306",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "06",
+        "First2Dig": "43",
+        "REFNAME": "06>",
+        "TEXT": "06>",
+        "TXTMEMO": "06>",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4329",
+        "RightFrom": "4300",
+        "RightTo": "4326",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19035446722567,
+          33.98380862929656
+        ]
+      },
+      "id": 53,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4310",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "10",
+        "First2Dig": "43",
+        "REFNAME": "10>",
+        "TEXT": "10>",
+        "TXTMEMO": "10>",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4329",
+        "RightFrom": "4300",
+        "RightTo": "4326",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19028298968004,
+          33.98380133054024
+        ]
+      },
+      "id": 54,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4313",
+        "StreetName": "RANDOLPH",
+        "StreetType": "ST",
+        "Last2Dig": "13",
+        "First2Dig": "43",
+        "REFNAME": "< 13",
+        "TEXT": "< 13",
+        "TXTMEMO": "< 13",
+        "FullName": "RANDOLPH ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4399",
+        "RightFrom": "0",
+        "RightTo": "0",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19051391630573,
+          33.982191463139586
+        ]
+      },
+      "id": 55,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4314",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "14",
+        "First2Dig": "43",
+        "REFNAME": "14>",
+        "TEXT": "14>",
+        "TXTMEMO": "14>",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4329",
+        "RightFrom": "4300",
+        "RightTo": "4326",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19016214745821,
+          33.98378899101958
+        ]
+      },
+      "id": 56,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4318",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "18",
+        "First2Dig": "43",
+        "REFNAME": "18>",
+        "TEXT": "18>",
+        "TXTMEMO": "18>",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4329",
+        "RightFrom": "4300",
+        "RightTo": "4326",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19005428821289,
+          33.98377798048713
+        ]
+      },
+      "id": 57,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4322",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "22",
+        "First2Dig": "43",
+        "REFNAME": "22>",
+        "TEXT": "22>",
+        "TXTMEMO": "22>",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4329",
+        "RightFrom": "4300",
+        "RightTo": "4326",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18992710151744,
+          33.98376499051299
+        ]
+      },
+      "id": 58,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4323",
+        "StreetName": "RANDOLPH",
+        "StreetType": "ST",
+        "Last2Dig": "23",
+        "First2Dig": "43",
+        "REFNAME": "< 23",
+        "TEXT": "< 23",
+        "TXTMEMO": "< 23",
+        "FullName": "RANDOLPH ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4399",
+        "RightFrom": "0",
+        "RightTo": "0",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19025388270589,
+          33.982164963860285
+        ]
+      },
+      "id": 59,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4325",
+        "StreetName": "RANDOLPH",
+        "StreetType": "ST",
+        "Last2Dig": "25",
+        "First2Dig": "43",
+        "REFNAME": "< 25",
+        "TEXT": "< 25",
+        "TXTMEMO": "< 25",
+        "FullName": "RANDOLPH ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4399",
+        "RightFrom": "0",
+        "RightTo": "0",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1900377591959,
+          33.98214293943088
+        ]
+      },
+      "id": 60,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4326",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "26",
+        "First2Dig": "43",
+        "REFNAME": "26>",
+        "TEXT": "26>",
+        "TXTMEMO": "26>",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4329",
+        "RightFrom": "4300",
+        "RightTo": "4326",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18980739074937,
+          33.98375276423296
+        ]
+      },
+      "id": 61,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4328",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "28",
+        "First2Dig": "43",
+        "REFNAME": "28>",
+        "TEXT": "28>",
+        "TXTMEMO": "28>",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4329",
+        "RightFrom": "4300",
+        "RightTo": "4326",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1896719089369,
+          33.98373892462658
+        ]
+      },
+      "id": 62,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4329",
+        "StreetName": "RANDOLPH",
+        "StreetType": "ST",
+        "Last2Dig": "29",
+        "First2Dig": "43",
+        "REFNAME": "< 29",
+        "TEXT": "< 29",
+        "TXTMEMO": "< 29",
+        "FullName": "RANDOLPH ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4399",
+        "RightFrom": "0",
+        "RightTo": "0",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18977406959107,
+          33.98211609000547
+        ]
+      },
+      "id": 63,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "4330",
+        "StreetName": "61ST",
+        "StreetType": "ST",
+        "Last2Dig": "30",
+        "First2Dig": "43",
+        "REFNAME": "30>",
+        "TEXT": "30>",
+        "TXTMEMO": "30>",
+        "FullName": "E 61ST ST",
+        "LeftFrom": "4301",
+        "LeftTo": "4329",
+        "RightFrom": "4300",
+        "RightTo": "4326",
+        "PreDir": "E",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "E",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18952153768635,
+          33.98372356931681
+        ]
+      },
+      "id": 64,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6003",
+        "StreetName": "STAFFORD",
+        "StreetType": "AVE",
+        "Last2Dig": "03",
+        "First2Dig": "60",
+        "REFNAME": "03>",
+        "TEXT": "03>",
+        "TXTMEMO": "03>",
+        "FullName": "STAFFORD AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6062",
+        "RightFrom": "6001",
+        "RightTo": "6065",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2216252444696,
+          33.987051685312935
+        ]
+      },
+      "id": 65,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6005",
+        "StreetName": "STAFFORD",
+        "StreetType": "AVE",
+        "Last2Dig": "05",
+        "First2Dig": "60",
+        "REFNAME": "05>",
+        "TEXT": "05>",
+        "TXTMEMO": "05>",
+        "FullName": "STAFFORD AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6062",
+        "RightFrom": "6001",
+        "RightTo": "6065",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22162108241592,
+          33.98692117504912
+        ]
+      },
+      "id": 66,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6006",
+        "StreetName": "SEVILLE",
+        "StreetType": "AVE",
+        "Last2Dig": "06",
+        "First2Dig": "60",
+        "REFNAME": "< 06",
+        "TEXT": "< 06",
+        "TXTMEMO": "< 06",
+        "FullName": "SEVILLE AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6072",
+        "RightFrom": "6001",
+        "RightTo": "6073",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22251306657988,
+          33.98703436429792
+        ]
+      },
+      "id": 67,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6012",
+        "StreetName": "SEVILLE",
+        "StreetType": "AVE",
+        "Last2Dig": "12",
+        "First2Dig": "60",
+        "REFNAME": "< 12",
+        "TEXT": "< 12",
+        "TXTMEMO": "< 12",
+        "FullName": "SEVILLE AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6072",
+        "RightFrom": "6001",
+        "RightTo": "6073",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22248730793673,
+          33.98674795579591
+        ]
+      },
+      "id": 68,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6018",
+        "StreetName": "SEVILLE",
+        "StreetType": "AVE",
+        "Last2Dig": "18",
+        "First2Dig": "60",
+        "REFNAME": "< 18",
+        "TEXT": "< 18",
+        "TXTMEMO": "< 18",
+        "FullName": "SEVILLE AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6072",
+        "RightFrom": "6001",
+        "RightTo": "6073",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22249618441943,
+          33.98661745764983
+        ]
+      },
+      "id": 69,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6019",
+        "StreetName": "STAFFORD",
+        "StreetType": "AVE",
+        "Last2Dig": "19",
+        "First2Dig": "60",
+        "REFNAME": "19>",
+        "TEXT": "19>",
+        "TXTMEMO": "19>",
+        "FullName": "STAFFORD AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6062",
+        "RightFrom": "6001",
+        "RightTo": "6065",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2215935268467,
+          33.986623877633384
+        ]
+      },
+      "id": 70,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6022",
+        "StreetName": "SEVILLE",
+        "StreetType": "AVE",
+        "Last2Dig": "22",
+        "First2Dig": "60",
+        "REFNAME": "< 22",
+        "TEXT": "< 22",
+        "TXTMEMO": "< 22",
+        "FullName": "SEVILLE AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6072",
+        "RightFrom": "6001",
+        "RightTo": "6073",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22250074286374,
+          33.986483329019705
+        ]
+      },
+      "id": 71,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6028",
+        "StreetName": "SEVILLE",
+        "StreetType": "AVE",
+        "Last2Dig": "28",
+        "First2Dig": "60",
+        "REFNAME": "< 28",
+        "TEXT": "< 28",
+        "TXTMEMO": "< 28",
+        "FullName": "SEVILLE AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6072",
+        "RightFrom": "6001",
+        "RightTo": "6073",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22248350449449,
+          33.98634194504069
+        ]
+      },
+      "id": 72,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6057",
+        "StreetName": "BEAR",
+        "StreetType": "AVE",
+        "Last2Dig": "57",
+        "First2Dig": "60",
+        "REFNAME": "57>",
+        "TEXT": "57>",
+        "TXTMEMO": "57>",
+        "FullName": "BEAR AVE",
+        "LeftFrom": "6074",
+        "LeftTo": "6098",
+        "RightFrom": "6075",
+        "RightTo": "6099",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19615379151847,
+          33.985249667429315
+        ]
+      },
+      "id": 73,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6058",
+        "StreetName": "CARMELITA",
+        "StreetType": "AVE",
+        "Last2Dig": "58",
+        "First2Dig": "60",
+        "REFNAME": "< 58",
+        "TEXT": "< 58",
+        "TXTMEMO": "< 58",
+        "FullName": "CARMELITA AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6098",
+        "RightFrom": "6001",
+        "RightTo": "6099",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1969160326951,
+          33.98534450442102
+        ]
+      },
+      "id": 74,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "605L",
+        "StreetName": "CORONA",
+        "StreetType": "AVE",
+        "Last2Dig": "5L",
+        "First2Dig": "60",
+        "REFNAME": "5L>",
+        "TEXT": "5L>",
+        "TXTMEMO": "5L>",
+        "FullName": "CORONA AVE",
+        "LeftFrom": "6030",
+        "LeftTo": "6066",
+        "RightFrom": "6055",
+        "RightTo": "6081",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19504032028853,
+          33.98515003815168
+        ]
+      },
+      "id": 75,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6062",
+        "StreetName": "CARMELITA",
+        "StreetType": "AVE",
+        "Last2Dig": "62",
+        "First2Dig": "60",
+        "REFNAME": "< 62",
+        "TEXT": "< 62",
+        "TXTMEMO": "< 62",
+        "FullName": "CARMELITA AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6098",
+        "RightFrom": "6001",
+        "RightTo": "6099",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19694082077686,
+          33.9851842506323
+        ]
+      },
+      "id": 76,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6063",
+        "StreetName": "BEAR",
+        "StreetType": "AVE",
+        "Last2Dig": "63",
+        "First2Dig": "60",
+        "REFNAME": "63>",
+        "TEXT": "63>",
+        "TXTMEMO": "63>",
+        "FullName": "BEAR AVE",
+        "LeftFrom": "6074",
+        "LeftTo": "6098",
+        "RightFrom": "6075",
+        "RightTo": "6099",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19617942027277,
+          33.98507023193598
+        ]
+      },
+      "id": 77,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6064",
+        "StreetName": "CARMELITA",
+        "StreetType": "AVE",
+        "Last2Dig": "64",
+        "First2Dig": "60",
+        "REFNAME": "< 64",
+        "TEXT": "< 64",
+        "TXTMEMO": "< 64",
+        "FullName": "CARMELITA AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6098",
+        "RightFrom": "6001",
+        "RightTo": "6099",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19695629065046,
+          33.98508409940634
+        ]
+      },
+      "id": 78,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6068",
+        "StreetName": "CARMELITA",
+        "StreetType": "AVE",
+        "Last2Dig": "68",
+        "First2Dig": "60",
+        "REFNAME": "< 68",
+        "TEXT": "< 68",
+        "TXTMEMO": "< 68",
+        "FullName": "CARMELITA AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6098",
+        "RightFrom": "6001",
+        "RightTo": "6099",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19696879311515,
+          33.985002959290476
+        ]
+      },
+      "id": 79,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6069",
+        "StreetName": "CORONA",
+        "StreetType": "AVE",
+        "Last2Dig": "69",
+        "First2Dig": "60",
+        "REFNAME": "69>",
+        "TEXT": "69>",
+        "TXTMEMO": "69>",
+        "FullName": "CORONA AVE",
+        "LeftFrom": "6068",
+        "LeftTo": "6098",
+        "RightFrom": "6083",
+        "RightTo": "6099",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19511258543295,
+          33.984821010991126
+        ]
+      },
+      "id": 80,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6074",
+        "StreetName": "CARMELITA",
+        "StreetType": "AVE",
+        "Last2Dig": "74",
+        "First2Dig": "60",
+        "REFNAME": "< 74",
+        "TEXT": "< 74",
+        "TXTMEMO": "< 74",
+        "FullName": "CARMELITA AVE",
+        "LeftFrom": "6000",
+        "LeftTo": "6098",
+        "RightFrom": "6001",
+        "RightTo": "6099",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1969843046334,
+          33.984808734632836
+        ]
+      },
+      "id": 81,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6110",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "10",
+        "First2Dig": "61",
+        "REFNAME": "< 10",
+        "TEXT": "< 10",
+        "TXTMEMO": "< 10",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19051160038464,
+          33.98363530759629
+        ]
+      },
+      "id": 82,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6114",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "14",
+        "First2Dig": "61",
+        "REFNAME": "< 14",
+        "TEXT": "< 14",
+        "TXTMEMO": "< 14",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19052681800461,
+          33.98353294215068
+        ]
+      },
+      "id": 83,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6120",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "20",
+        "First2Dig": "61",
+        "REFNAME": "< 20",
+        "TEXT": "< 20",
+        "TXTMEMO": "< 20",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19054660192414,
+          33.983415215075624
+        ]
+      },
+      "id": 84,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6122",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "22",
+        "First2Dig": "61",
+        "REFNAME": "< 22",
+        "TEXT": "< 22",
+        "TXTMEMO": "< 22",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1905668272469,
+          33.983279387152585
+        ]
+      },
+      "id": 85,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6128",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "28",
+        "First2Dig": "61",
+        "REFNAME": "< 28",
+        "TEXT": "< 28",
+        "TXTMEMO": "< 28",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19058278181537,
+          33.98317202204908
+        ]
+      },
+      "id": 86,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6149",
+        "StreetName": "COTTAGE",
+        "StreetType": "ST",
+        "Last2Dig": "49",
+        "First2Dig": "61",
+        "REFNAME": "49>",
+        "TEXT": "49>",
+        "TXTMEMO": "49>",
+        "FullName": "COTTAGE ST",
+        "LeftFrom": "6120",
+        "LeftTo": "6198",
+        "RightFrom": "6121",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23389795106728,
+          33.98498649189442
+        ]
+      },
+      "id": 87,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6150",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "50",
+        "First2Dig": "61",
+        "REFNAME": "< 50",
+        "TEXT": "< 50",
+        "TXTMEMO": "< 50",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19060159649165,
+          33.98304587458617
+        ]
+      },
+      "id": 88,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6152",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "52",
+        "First2Dig": "61",
+        "REFNAME": "< 52",
+        "TEXT": "< 52",
+        "TXTMEMO": "< 52",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19061426450519,
+          33.982960833059636
+        ]
+      },
+      "id": 89,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6156",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "56",
+        "First2Dig": "61",
+        "REFNAME": "< 56",
+        "TEXT": "< 56",
+        "TXTMEMO": "< 56",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19063052831346,
+          33.9828517059302
+        ]
+      },
+      "id": 90,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6160",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "60",
+        "First2Dig": "61",
+        "REFNAME": "< 60",
+        "TEXT": "< 60",
+        "TXTMEMO": "< 60",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19064684737016,
+          33.98274197793773
+        ]
+      },
+      "id": 91,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6164",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "64",
+        "First2Dig": "61",
+        "REFNAME": "< 64",
+        "TEXT": "< 64",
+        "TXTMEMO": "< 64",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19066582006761,
+          33.9826143512998
+        ]
+      },
+      "id": 92,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6168",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "68",
+        "First2Dig": "61",
+        "REFNAME": "< 68",
+        "TEXT": "< 68",
+        "TXTMEMO": "< 68",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19068255137385,
+          33.98250200919701
+        ]
+      },
+      "id": 93,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6172",
+        "StreetName": "FISHBURN",
+        "StreetType": "AVE",
+        "Last2Dig": "72",
+        "First2Dig": "61",
+        "REFNAME": "< 72",
+        "TEXT": "< 72",
+        "TXTMEMO": "< 72",
+        "FullName": "FISHBURN AVE",
+        "LeftFrom": "6100",
+        "LeftTo": "6198",
+        "RightFrom": "6101",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19070157791047,
+          33.98237442092918
+        ]
+      },
+      "id": 94,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6211",
+        "StreetName": "COTTAGE",
+        "StreetType": "ST",
+        "Last2Dig": "11",
+        "First2Dig": "62",
+        "REFNAME": "11>",
+        "TEXT": "11>",
+        "TXTMEMO": "11>",
+        "FullName": "COTTAGE ST",
+        "LeftFrom": "6200",
+        "LeftTo": "6298",
+        "RightFrom": "6100",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23386548063111,
+          33.98451568769111
+        ]
+      },
+      "id": 95,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6217",
+        "StreetName": "COTTAGE",
+        "StreetType": "ST",
+        "Last2Dig": "17",
+        "First2Dig": "62",
+        "REFNAME": "17>",
+        "TEXT": "17>",
+        "TXTMEMO": "17>",
+        "FullName": "COTTAGE ST",
+        "LeftFrom": "6200",
+        "LeftTo": "6298",
+        "RightFrom": "6100",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23388732496805,
+          33.98422197595197
+        ]
+      },
+      "id": 96,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6223",
+        "StreetName": "COTTAGE",
+        "StreetType": "ST",
+        "Last2Dig": "23",
+        "First2Dig": "62",
+        "REFNAME": "23>",
+        "TEXT": "23>",
+        "TXTMEMO": "23>",
+        "FullName": "COTTAGE ST",
+        "LeftFrom": "6200",
+        "LeftTo": "6298",
+        "RightFrom": "6100",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23389611178976,
+          33.98406908995941
+        ]
+      },
+      "id": 97,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6233",
+        "StreetName": "COTTAGE",
+        "StreetType": "ST",
+        "Last2Dig": "33",
+        "First2Dig": "62",
+        "REFNAME": "33>",
+        "TEXT": "33>",
+        "TXTMEMO": "33>",
+        "FullName": "COTTAGE ST",
+        "LeftFrom": "6200",
+        "LeftTo": "6298",
+        "RightFrom": "6100",
+        "RightTo": "6199",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23395257704793,
+          33.983715059963096
+        ]
+      },
+      "id": 98,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6315",
+        "StreetName": "COTTAGE",
+        "StreetType": "ST",
+        "Last2Dig": "15",
+        "First2Dig": "63",
+        "REFNAME": "15>",
+        "TEXT": "15>",
+        "TXTMEMO": "15>",
+        "FullName": "COTTAGE ST",
+        "LeftFrom": "6300",
+        "LeftTo": "6398",
+        "RightFrom": "6301",
+        "RightTo": "6399",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2339382181212,
+          33.98312681495348
+        ]
+      },
+      "id": 99,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6323",
+        "StreetName": "COTTAGE",
+        "StreetType": "ST",
+        "Last2Dig": "23",
+        "First2Dig": "63",
+        "REFNAME": "23>",
+        "TEXT": "23>",
+        "TXTMEMO": "23>",
+        "FullName": "COTTAGE ST",
+        "LeftFrom": "6300",
+        "LeftTo": "6398",
+        "RightFrom": "6301",
+        "RightTo": "6399",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23394769249792,
+          33.98284254207116
+        ]
+      },
+      "id": 100,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6329",
+        "StreetName": "COTTAGE",
+        "StreetType": "ST",
+        "Last2Dig": "29",
+        "First2Dig": "63",
+        "REFNAME": "29>",
+        "TEXT": "29>",
+        "TXTMEMO": "29>",
+        "FullName": "COTTAGE ST",
+        "LeftFrom": "6300",
+        "LeftTo": "6398",
+        "RightFrom": "6301",
+        "RightTo": "6399",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23394166356005,
+          33.982706084045084
+        ]
+      },
+      "id": 101,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6600",
+        "StreetName": "SANTA FE",
+        "StreetType": "AVE",
+        "Last2Dig": "00",
+        "First2Dig": "66",
+        "REFNAME": "< 00",
+        "TEXT": "< 00",
+        "TXTMEMO": "< 00",
+        "FullName": "SANTA FE AVE",
+        "LeftFrom": "6600",
+        "LeftTo": "6698",
+        "RightFrom": "6619",
+        "RightTo": "6699",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23011437524771,
+          33.97913916949826
+        ]
+      },
+      "id": 102,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6609",
+        "StreetName": "MIDDLETON",
+        "StreetType": "ST",
+        "Last2Dig": "09",
+        "First2Dig": "66",
+        "REFNAME": "09>",
+        "TEXT": "09>",
+        "TXTMEMO": "09>",
+        "FullName": "MIDDLETON ST",
+        "LeftFrom": "6600",
+        "LeftTo": "6698",
+        "RightFrom": "6601",
+        "RightTo": "6699",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22923729807701,
+          33.978982743804565
+        ]
+      },
+      "id": 103,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6610",
+        "StreetName": "SANTA FE",
+        "StreetType": "AVE",
+        "Last2Dig": "10",
+        "First2Dig": "66",
+        "REFNAME": "< 10",
+        "TEXT": "< 10",
+        "TXTMEMO": "< 10",
+        "FullName": "SANTA FE AVE",
+        "LeftFrom": "6600",
+        "LeftTo": "6698",
+        "RightFrom": "6619",
+        "RightTo": "6699",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23011431649832,
+          33.97910226304871
+        ]
+      },
+      "id": 104,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6612",
+        "StreetName": "SANTA FE",
+        "StreetType": "AVE",
+        "Last2Dig": "12",
+        "First2Dig": "66",
+        "REFNAME": "< 12",
+        "TEXT": "< 12",
+        "TXTMEMO": "< 12",
+        "FullName": "SANTA FE AVE",
+        "LeftFrom": "6600",
+        "LeftTo": "6698",
+        "RightFrom": "6619",
+        "RightTo": "6699",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23011426827173,
+          33.97905722252128
+        ]
+      },
+      "id": 105,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6614",
+        "StreetName": "SANTA FE",
+        "StreetType": "AVE",
+        "Last2Dig": "14",
+        "First2Dig": "66",
+        "REFNAME": "< 14",
+        "TEXT": "< 14",
+        "TXTMEMO": "< 14",
+        "FullName": "SANTA FE AVE",
+        "LeftFrom": "6600",
+        "LeftTo": "6698",
+        "RightFrom": "6619",
+        "RightTo": "6699",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23011423080328,
+          33.979002606289455
+        ]
+      },
+      "id": 106,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6615",
+        "StreetName": "MIDDLETON",
+        "StreetType": "ST",
+        "Last2Dig": "15",
+        "First2Dig": "66",
+        "REFNAME": "15>",
+        "TEXT": "15>",
+        "TXTMEMO": "15>",
+        "FullName": "MIDDLETON ST",
+        "LeftFrom": "6600",
+        "LeftTo": "6698",
+        "RightFrom": "6601",
+        "RightTo": "6699",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22921666986332,
+          33.978810613564015
+        ]
+      },
+      "id": 107,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6617",
+        "StreetName": "MIDDLETON",
+        "StreetType": "ST",
+        "Last2Dig": "17",
+        "First2Dig": "66",
+        "REFNAME": "17>",
+        "TEXT": "17>",
+        "TXTMEMO": "17>",
+        "FullName": "MIDDLETON ST",
+        "LeftFrom": "6600",
+        "LeftTo": "6698",
+        "RightFrom": "6601",
+        "RightTo": "6699",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22921680800104,
+          33.97875733199045
+        ]
+      },
+      "id": 108,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6620",
+        "StreetName": "SANTA FE",
+        "StreetType": "AVE",
+        "Last2Dig": "20",
+        "First2Dig": "66",
+        "REFNAME": "< 20",
+        "TEXT": "< 20",
+        "TXTMEMO": "< 20",
+        "FullName": "SANTA FE AVE",
+        "LeftFrom": "6600",
+        "LeftTo": "6698",
+        "RightFrom": "6619",
+        "RightTo": "6699",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23011416730816,
+          33.97896982718877
+        ]
+      },
+      "id": 109,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6622",
+        "StreetName": "SANTA FE",
+        "StreetType": "AVE",
+        "Last2Dig": "22",
+        "First2Dig": "66",
+        "REFNAME": "< 22",
+        "TEXT": "< 22",
+        "TXTMEMO": "< 22",
+        "FullName": "SANTA FE AVE",
+        "LeftFrom": "6600",
+        "LeftTo": "6698",
+        "RightFrom": "6619",
+        "RightTo": "6699",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23011411349542,
+          33.97892886273337
+        ]
+      },
+      "id": 110,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6624",
+        "StreetName": "SANTA FE",
+        "StreetType": "AVE",
+        "Last2Dig": "24",
+        "First2Dig": "66",
+        "REFNAME": "< 24",
+        "TEXT": "< 24",
+        "TXTMEMO": "< 24",
+        "FullName": "SANTA FE AVE",
+        "LeftFrom": "6600",
+        "LeftTo": "6698",
+        "RightFrom": "6619",
+        "RightTo": "6699",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2301140996009,
+          33.978896061395275
+        ]
+      },
+      "id": 111,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6626",
+        "StreetName": "SANTA FE",
+        "StreetType": "AVE",
+        "Last2Dig": "26",
+        "First2Dig": "66",
+        "REFNAME": "< 26",
+        "TEXT": "< 26",
+        "TXTMEMO": "< 26",
+        "FullName": "SANTA FE AVE",
+        "LeftFrom": "6600",
+        "LeftTo": "6698",
+        "RightFrom": "6619",
+        "RightTo": "6699",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23011395826569,
+          33.978758083944165
+        ]
+      },
+      "id": 112,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6700",
+        "StreetName": "SANTA FE",
+        "StreetType": "AVE",
+        "Last2Dig": "00",
+        "First2Dig": "67",
+        "REFNAME": "< 00",
+        "TEXT": "< 00",
+        "TXTMEMO": "< 00",
+        "FullName": "SANTA FE AVE",
+        "LeftFrom": "6700",
+        "LeftTo": "6798",
+        "RightFrom": "6701",
+        "RightTo": "6799",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23011386163414,
+          33.978667937628366
+        ]
+      },
+      "id": 113,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6701",
+        "StreetName": "MIDDLETON",
+        "StreetType": "ST",
+        "Last2Dig": "01",
+        "First2Dig": "67",
+        "REFNAME": "01>",
+        "TEXT": "01>",
+        "TXTMEMO": "01>",
+        "FullName": "MIDDLETON ST",
+        "LeftFrom": "6700",
+        "LeftTo": "6798",
+        "RightFrom": "6701",
+        "RightTo": "6799",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22922120771909,
+          33.97865490816188
+        ]
+      },
+      "id": 114,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6702",
+        "StreetName": "SANTA FE",
+        "StreetType": "AVE",
+        "Last2Dig": "02",
+        "First2Dig": "67",
+        "REFNAME": "< 02",
+        "TEXT": "< 02",
+        "TXTMEMO": "< 02",
+        "FullName": "SANTA FE AVE",
+        "LeftFrom": "6700",
+        "LeftTo": "6798",
+        "RightFrom": "6701",
+        "RightTo": "6799",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23011378226805,
+          33.97860647404541
+        ]
+      },
+      "id": 115,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6706",
+        "StreetName": "SANTA FE",
+        "StreetType": "AVE",
+        "Last2Dig": "06",
+        "First2Dig": "67",
+        "REFNAME": "< 06",
+        "TEXT": "< 06",
+        "TXTMEMO": "< 06",
+        "FullName": "SANTA FE AVE",
+        "LeftFrom": "6700",
+        "LeftTo": "6798",
+        "RightFrom": "6701",
+        "RightTo": "6799",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23011364490526,
+          33.978463069222805
+        ]
+      },
+      "id": 116,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6707",
+        "StreetName": "MIDDLETON",
+        "StreetType": "ST",
+        "Last2Dig": "07",
+        "First2Dig": "67",
+        "REFNAME": "07>",
+        "TEXT": "07>",
+        "TXTMEMO": "07>",
+        "FullName": "MIDDLETON ST",
+        "LeftFrom": "6700",
+        "LeftTo": "6798",
+        "RightFrom": "6701",
+        "RightTo": "6799",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22923804062063,
+          33.97850329625294
+        ]
+      },
+      "id": 117,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6900",
+        "StreetName": "PLASKA",
+        "StreetType": "AVE",
+        "Last2Dig": "00",
+        "First2Dig": "69",
+        "REFNAME": "< 00",
+        "TEXT": "< 00",
+        "TXTMEMO": "< 00",
+        "FullName": "PLASKA AVE",
+        "LeftFrom": "6900",
+        "LeftTo": "6918",
+        "RightFrom": "6901",
+        "RightTo": "6921",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21028054897508,
+          33.97590669021682
+        ]
+      },
+      "id": 118,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6900",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "00",
+        "First2Dig": "69",
+        "REFNAME": "< 00",
+        "TEXT": "< 00",
+        "TXTMEMO": "< 00",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6900",
+        "LeftTo": "6930",
+        "RightFrom": "6901",
+        "RightTo": "6947",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20929315931063,
+          33.97597055540962
+        ]
+      },
+      "id": 119,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6903",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "03",
+        "First2Dig": "69",
+        "REFNAME": "< 03",
+        "TEXT": "< 03",
+        "TXTMEMO": "< 03",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6900",
+        "LeftTo": "6930",
+        "RightFrom": "6901",
+        "RightTo": "6947",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20929321786065,
+          33.97592933438475
+        ]
+      },
+      "id": 120,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6910",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "10",
+        "First2Dig": "69",
+        "REFNAME": "< 10",
+        "TEXT": "< 10",
+        "TXTMEMO": "< 10",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6900",
+        "LeftTo": "6930",
+        "RightFrom": "6901",
+        "RightTo": "6947",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20928344570493,
+          33.97573971702582
+        ]
+      },
+      "id": 121,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6910",
+        "StreetName": "PLASKA",
+        "StreetType": "AVE",
+        "Last2Dig": "10",
+        "First2Dig": "69",
+        "REFNAME": "< 10",
+        "TEXT": "< 10",
+        "TXTMEMO": "< 10",
+        "FullName": "PLASKA AVE",
+        "LeftFrom": "6934",
+        "LeftTo": "7012",
+        "RightFrom": "0",
+        "RightTo": "0",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21025264382027,
+          33.97481832760324
+        ]
+      },
+      "id": 122,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6911",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "11",
+        "First2Dig": "69",
+        "REFNAME": "11>",
+        "TEXT": "11>",
+        "TXTMEMO": "11>",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6900",
+        "LeftTo": "6930",
+        "RightFrom": "6901",
+        "RightTo": "6947",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2095810698796,
+          33.97579502871216
+        ]
+      },
+      "id": 123,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6911",
+        "StreetName": "NEWELL",
+        "StreetType": "ST",
+        "Last2Dig": "11",
+        "First2Dig": "69",
+        "REFNAME": "11>",
+        "TEXT": "11>",
+        "TXTMEMO": "11>",
+        "FullName": "NEWELL ST",
+        "LeftFrom": "6900",
+        "LeftTo": "6998",
+        "RightFrom": "6901",
+        "RightTo": "6999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2088262162363,
+          33.97596348333109
+        ]
+      },
+      "id": 124,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6912",
+        "StreetName": "PLASKA",
+        "StreetType": "AVE",
+        "Last2Dig": "12",
+        "First2Dig": "69",
+        "REFNAME": "< 12",
+        "TEXT": "< 12",
+        "TXTMEMO": "< 12",
+        "FullName": "PLASKA AVE",
+        "LeftFrom": "6900",
+        "LeftTo": "6918",
+        "RightFrom": "6901",
+        "RightTo": "6921",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21027951732162,
+          33.97576519131672
+        ]
+      },
+      "id": 125,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6913",
+        "StreetName": "NEWELL",
+        "StreetType": "ST",
+        "Last2Dig": "13",
+        "First2Dig": "69",
+        "REFNAME": "13>",
+        "TEXT": "13>",
+        "TXTMEMO": "13>",
+        "FullName": "NEWELL ST",
+        "LeftFrom": "6900",
+        "LeftTo": "6998",
+        "RightFrom": "6901",
+        "RightTo": "6999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2089275901528,
+          33.97574448265453
+        ]
+      },
+      "id": 126,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6916",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "16",
+        "First2Dig": "69",
+        "REFNAME": "< 16",
+        "TEXT": "< 16",
+        "TXTMEMO": "< 16",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6932",
+        "LeftTo": "6994",
+        "RightFrom": "6949",
+        "RightTo": "6995",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20928620005803,
+          33.97558270213899
+        ]
+      },
+      "id": 127,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6917",
+        "StreetName": "NEWELL",
+        "StreetType": "ST",
+        "Last2Dig": "17",
+        "First2Dig": "69",
+        "REFNAME": "17>",
+        "TEXT": "17>",
+        "TXTMEMO": "17>",
+        "FullName": "NEWELL ST",
+        "LeftFrom": "6900",
+        "LeftTo": "6998",
+        "RightFrom": "6901",
+        "RightTo": "6999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20893007037816,
+          33.97561357308745
+        ]
+      },
+      "id": 128,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6917",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "17",
+        "First2Dig": "69",
+        "REFNAME": "17>",
+        "TEXT": "17>",
+        "TXTMEMO": "17>",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6900",
+        "LeftTo": "6930",
+        "RightFrom": "6901",
+        "RightTo": "6947",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20960112018263,
+          33.97565683386529
+        ]
+      },
+      "id": 129,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6920",
+        "StreetName": "PLASKA",
+        "StreetType": "AVE",
+        "Last2Dig": "20",
+        "First2Dig": "69",
+        "REFNAME": "< 20",
+        "TEXT": "< 20",
+        "TXTMEMO": "< 20",
+        "FullName": "PLASKA AVE",
+        "LeftFrom": "6920",
+        "LeftTo": "6932",
+        "RightFrom": "6923",
+        "RightTo": "6931",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21027656571202,
+          33.975632598994174
+        ]
+      },
+      "id": 130,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6921",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "21",
+        "First2Dig": "69",
+        "REFNAME": "21>",
+        "TEXT": "21>",
+        "TXTMEMO": "21>",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6932",
+        "LeftTo": "6994",
+        "RightFrom": "6949",
+        "RightTo": "6995",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20959892425044,
+          33.97551861764516
+        ]
+      },
+      "id": 131,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6921",
+        "StreetName": "NEWELL",
+        "StreetType": "ST",
+        "Last2Dig": "21",
+        "First2Dig": "69",
+        "REFNAME": "21>",
+        "TEXT": "21>",
+        "TXTMEMO": "21>",
+        "FullName": "NEWELL ST",
+        "LeftFrom": "6900",
+        "LeftTo": "6998",
+        "RightFrom": "6901",
+        "RightTo": "6999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20892453061607,
+          33.97550693330523
+        ]
+      },
+      "id": 132,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6922",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "22",
+        "First2Dig": "69",
+        "REFNAME": "< 22",
+        "TEXT": "< 22",
+        "TXTMEMO": "< 22",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6932",
+        "LeftTo": "6994",
+        "RightFrom": "6949",
+        "RightTo": "6995",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20928325467517,
+          33.97544777136962
+        ]
+      },
+      "id": 133,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6923",
+        "StreetName": "NEWELL",
+        "StreetType": "ST",
+        "Last2Dig": "23",
+        "First2Dig": "69",
+        "REFNAME": "23>",
+        "TEXT": "23>",
+        "TXTMEMO": "23>",
+        "FullName": "NEWELL ST",
+        "LeftFrom": "6900",
+        "LeftTo": "6998",
+        "RightFrom": "6901",
+        "RightTo": "6999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2089302444138,
+          33.97542428752539
+        ]
+      },
+      "id": 134,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6924",
+        "StreetName": "PLASKA",
+        "StreetType": "AVE",
+        "Last2Dig": "24",
+        "First2Dig": "69",
+        "REFNAME": "< 24",
+        "TEXT": "< 24",
+        "TXTMEMO": "< 24",
+        "FullName": "PLASKA AVE",
+        "LeftFrom": "6920",
+        "LeftTo": "6932",
+        "RightFrom": "6923",
+        "RightTo": "6931",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21027738098246,
+          33.97549627950293
+        ]
+      },
+      "id": 135,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6927",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "27",
+        "First2Dig": "69",
+        "REFNAME": "27>",
+        "TEXT": "27>",
+        "TXTMEMO": "27>",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6932",
+        "LeftTo": "6994",
+        "RightFrom": "6949",
+        "RightTo": "6995",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20962271001174,
+          33.97538652893837
+        ]
+      },
+      "id": 136,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6928",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "28",
+        "First2Dig": "69",
+        "REFNAME": "< 28",
+        "TEXT": "< 28",
+        "TXTMEMO": "< 28",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6932",
+        "LeftTo": "6994",
+        "RightFrom": "6949",
+        "RightTo": "6995",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20927589881722,
+          33.97533164065647
+        ]
+      },
+      "id": 137,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6930",
+        "StreetName": "PLASKA",
+        "StreetType": "AVE",
+        "Last2Dig": "30",
+        "First2Dig": "69",
+        "REFNAME": "< 30",
+        "TEXT": "< 30",
+        "TXTMEMO": "< 30",
+        "FullName": "PLASKA AVE",
+        "LeftFrom": "0",
+        "LeftTo": "0",
+        "RightFrom": "6933",
+        "RightTo": "6999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21027065759911,
+          33.975370746881026
+        ]
+      },
+      "id": 138,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6931",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "31",
+        "First2Dig": "69",
+        "REFNAME": "31>",
+        "TEXT": "31>",
+        "TXTMEMO": "31>",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6932",
+        "LeftTo": "6994",
+        "RightFrom": "6949",
+        "RightTo": "6995",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20959267044532,
+          33.97525109516924
+        ]
+      },
+      "id": 139,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6932",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "32",
+        "First2Dig": "69",
+        "REFNAME": "< 32",
+        "TEXT": "< 32",
+        "TXTMEMO": "< 32",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6932",
+        "LeftTo": "6994",
+        "RightFrom": "6949",
+        "RightTo": "6995",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20926925559384,
+          33.97518635921169
+        ]
+      },
+      "id": 140,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6934",
+        "StreetName": "PLASKA",
+        "StreetType": "AVE",
+        "Last2Dig": "34",
+        "First2Dig": "69",
+        "REFNAME": "< 34",
+        "TEXT": "< 34",
+        "TXTMEMO": "< 34",
+        "FullName": "PLASKA AVE",
+        "LeftFrom": "0",
+        "LeftTo": "0",
+        "RightFrom": "6933",
+        "RightTo": "6999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21025831768652,
+          33.97524153957088
+        ]
+      },
+      "id": 141,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6935",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "35",
+        "First2Dig": "69",
+        "REFNAME": "35>",
+        "TEXT": "35>",
+        "TXTMEMO": "35>",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6932",
+        "LeftTo": "6994",
+        "RightFrom": "6949",
+        "RightTo": "6995",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20960194666762,
+          33.9751067755291
+        ]
+      },
+      "id": 142,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6937",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "37",
+        "First2Dig": "69",
+        "REFNAME": "37>",
+        "TEXT": "37>",
+        "TXTMEMO": "37>",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "6996",
+        "LeftTo": "7002",
+        "RightFrom": "6997",
+        "RightTo": "7003",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20960229183635,
+          33.975065556922004
+        ]
+      },
+      "id": 143,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6938",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "38",
+        "First2Dig": "0",
+        "REFNAME": "< 38",
+        "TEXT": "< 38",
+        "TXTMEMO": "< 38",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "0",
+        "LeftTo": "0",
+        "RightFrom": "0",
+        "RightTo": "0",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20927254746668,
+          33.97504767779326
+        ]
+      },
+      "id": 144,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "6939",
+        "StreetName": "NEWELL",
+        "StreetType": "ST",
+        "Last2Dig": "39",
+        "First2Dig": "69",
+        "REFNAME": "39>",
+        "TEXT": "39>",
+        "TXTMEMO": "39>",
+        "FullName": "NEWELL ST",
+        "LeftFrom": "6900",
+        "LeftTo": "6998",
+        "RightFrom": "6901",
+        "RightTo": "6999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20892391393734,
+          33.97504190656012
+        ]
+      },
+      "id": 145,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7000",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "00",
+        "First2Dig": "0",
+        "REFNAME": "< 00",
+        "TEXT": "< 00",
+        "TXTMEMO": "< 00",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "0",
+        "LeftTo": "0",
+        "RightFrom": "0",
+        "RightTo": "0",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20927028990916,
+          33.97490053106438
+        ]
+      },
+      "id": 146,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7001",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "01",
+        "First2Dig": "70",
+        "REFNAME": "01>",
+        "TEXT": "01>",
+        "TXTMEMO": "01>",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "7004",
+        "LeftTo": "7008",
+        "RightFrom": "7005",
+        "RightTo": "7015",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20957628512679,
+          33.97483502424922
+        ]
+      },
+      "id": 147,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7004",
+        "StreetName": "PLASKA",
+        "StreetType": "AVE",
+        "Last2Dig": "04",
+        "First2Dig": "70",
+        "REFNAME": "< 04",
+        "TEXT": "< 04",
+        "TXTMEMO": "< 04",
+        "FullName": "PLASKA AVE",
+        "LeftFrom": "0",
+        "LeftTo": "0",
+        "RightFrom": "7001",
+        "RightTo": "7009",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21025936665195,
+          33.97494478323502
+        ]
+      },
+      "id": 148,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7011",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "11",
+        "First2Dig": "70",
+        "REFNAME": "11>",
+        "TEXT": "11>",
+        "TXTMEMO": "11>",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "7010",
+        "LeftTo": "7030",
+        "RightFrom": "7017",
+        "RightTo": "7029",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20955010958261,
+          33.97468454750924
+        ]
+      },
+      "id": 149,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7040",
+        "StreetName": "PLASKA",
+        "StreetType": "AVE",
+        "Last2Dig": "40",
+        "First2Dig": "70",
+        "REFNAME": "< 40",
+        "TEXT": "< 40",
+        "TXTMEMO": "< 40",
+        "FullName": "PLASKA AVE",
+        "LeftFrom": "0",
+        "LeftTo": "0",
+        "RightFrom": "7001",
+        "RightTo": "7009",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21026791135819,
+          33.97509429819809
+        ]
+      },
+      "id": 150,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7041",
+        "StreetName": "HOOD",
+        "StreetType": "AVE",
+        "Last2Dig": "41",
+        "First2Dig": "70",
+        "REFNAME": "41>",
+        "TEXT": "41>",
+        "TXTMEMO": "41>",
+        "FullName": "HOOD AVE",
+        "LeftFrom": "7004",
+        "LeftTo": "7008",
+        "RightFrom": "7005",
+        "RightTo": "7015",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "AVENUE",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20959099085698,
+          33.974977953252846
+        ]
+      },
+      "id": 151,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7500",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "00",
+        "First2Dig": "75",
+        "REFNAME": "< 00",
+        "TEXT": "< 00",
+        "TXTMEMO": "< 00",
+        "FullName": "STATE ST",
+        "LeftFrom": "7500",
+        "LeftTo": "7598",
+        "RightFrom": "7501",
+        "RightTo": "7599",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20979189114352,
+          33.96995672843183
+        ]
+      },
+      "id": 152,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7502",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "02",
+        "First2Dig": "75",
+        "REFNAME": "< 02",
+        "TEXT": "< 02",
+        "TXTMEMO": "< 02",
+        "FullName": "STATE ST",
+        "LeftFrom": "7500",
+        "LeftTo": "7598",
+        "RightFrom": "7501",
+        "RightTo": "7599",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20980253072501,
+          33.9698687207192
+        ]
+      },
+      "id": 153,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7504",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "04",
+        "First2Dig": "75",
+        "REFNAME": "< 04",
+        "TEXT": "< 04",
+        "TXTMEMO": "< 04",
+        "FullName": "STATE ST",
+        "LeftFrom": "7500",
+        "LeftTo": "7598",
+        "RightFrom": "7501",
+        "RightTo": "7599",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20981132678148,
+          33.96981061331425
+        ]
+      },
+      "id": 154,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7506",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "06",
+        "First2Dig": "75",
+        "REFNAME": "< 06",
+        "TEXT": "< 06",
+        "TXTMEMO": "< 06",
+        "FullName": "STATE ST",
+        "LeftFrom": "7500",
+        "LeftTo": "7598",
+        "RightFrom": "7501",
+        "RightTo": "7599",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20981579542037,
+          33.96974874854546
+        ]
+      },
+      "id": 155,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7508",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "08",
+        "First2Dig": "75",
+        "REFNAME": "< 08",
+        "TEXT": "< 08",
+        "TXTMEMO": "< 08",
+        "FullName": "STATE ST",
+        "LeftFrom": "7500",
+        "LeftTo": "7598",
+        "RightFrom": "7501",
+        "RightTo": "7599",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2098319211237,
+          33.969678413625275
+        ]
+      },
+      "id": 156,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7516",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "16",
+        "First2Dig": "75",
+        "REFNAME": "< 16",
+        "TEXT": "< 16",
+        "TXTMEMO": "< 16",
+        "FullName": "STATE ST",
+        "LeftFrom": "7500",
+        "LeftTo": "7598",
+        "RightFrom": "7501",
+        "RightTo": "7599",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20984953003752,
+          33.96958401369686
+        ]
+      },
+      "id": 157,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7518",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "18",
+        "First2Dig": "75",
+        "REFNAME": "< 18",
+        "TEXT": "< 18",
+        "TXTMEMO": "< 18",
+        "FullName": "STATE ST",
+        "LeftFrom": "7500",
+        "LeftTo": "7598",
+        "RightFrom": "7501",
+        "RightTo": "7599",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20986417972344,
+          33.96946780108677
+        ]
+      },
+      "id": 158,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7524",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "24",
+        "First2Dig": "75",
+        "REFNAME": "< 24",
+        "TEXT": "< 24",
+        "TXTMEMO": "< 24",
+        "FullName": "STATE ST",
+        "LeftFrom": "7500",
+        "LeftTo": "7598",
+        "RightFrom": "7501",
+        "RightTo": "7599",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20987599105419,
+          33.96935400816365
+        ]
+      },
+      "id": 159,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7600",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "00",
+        "First2Dig": "76",
+        "REFNAME": "< 00",
+        "TEXT": "< 00",
+        "TXTMEMO": "< 00",
+        "FullName": "STATE ST",
+        "LeftFrom": "7600",
+        "LeftTo": "7650",
+        "RightFrom": "7601",
+        "RightTo": "7635",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20991703609528,
+          33.969124018625905
+        ]
+      },
+      "id": 160,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7604",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "04",
+        "First2Dig": "76",
+        "REFNAME": "< 04",
+        "TEXT": "< 04",
+        "TXTMEMO": "< 04",
+        "FullName": "STATE ST",
+        "LeftFrom": "7600",
+        "LeftTo": "7650",
+        "RightFrom": "7601",
+        "RightTo": "7635",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20992288508234,
+          33.969070760411434
+        ]
+      },
+      "id": 161,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7608",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "08",
+        "First2Dig": "76",
+        "REFNAME": "< 08",
+        "TEXT": "< 08",
+        "TXTMEMO": "< 08",
+        "FullName": "STATE ST",
+        "LeftFrom": "7600",
+        "LeftTo": "7650",
+        "RightFrom": "7601",
+        "RightTo": "7635",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2099317150354,
+          33.969022336416074
+        ]
+      },
+      "id": 162,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7612",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "12",
+        "First2Dig": "76",
+        "REFNAME": "< 12",
+        "TEXT": "< 12",
+        "TXTMEMO": "< 12",
+        "FullName": "STATE ST",
+        "LeftFrom": "7600",
+        "LeftTo": "7650",
+        "RightFrom": "7601",
+        "RightTo": "7635",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20994343865567,
+          33.96893276281671
+        ]
+      },
+      "id": 163,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7614",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "14",
+        "First2Dig": "76",
+        "REFNAME": "< 14",
+        "TEXT": "< 14",
+        "TXTMEMO": "< 14",
+        "FullName": "STATE ST",
+        "LeftFrom": "7600",
+        "LeftTo": "7650",
+        "RightFrom": "7601",
+        "RightTo": "7635",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20995224983673,
+          33.96886012200961
+        ]
+      },
+      "id": 164,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7618",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "18",
+        "First2Dig": "76",
+        "REFNAME": "< 18",
+        "TEXT": "< 18",
+        "TXTMEMO": "< 18",
+        "FullName": "STATE ST",
+        "LeftFrom": "7600",
+        "LeftTo": "7650",
+        "RightFrom": "7601",
+        "RightTo": "7635",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20997568103839,
+          33.96873180870471
+        ]
+      },
+      "id": 165,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7622",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "22",
+        "First2Dig": "76",
+        "REFNAME": "< 22",
+        "TEXT": "< 22",
+        "TXTMEMO": "< 22",
+        "FullName": "STATE ST",
+        "LeftFrom": "7600",
+        "LeftTo": "7650",
+        "RightFrom": "7601",
+        "RightTo": "7635",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2099875049161,
+          33.96860833810756
+        ]
+      },
+      "id": 166,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7624",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "24",
+        "First2Dig": "76",
+        "REFNAME": "< 24",
+        "TEXT": "< 24",
+        "TXTMEMO": "< 24",
+        "FullName": "STATE ST",
+        "LeftFrom": "7600",
+        "LeftTo": "7650",
+        "RightFrom": "7601",
+        "RightTo": "7635",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21000505720703,
+          33.968516339609444
+        ]
+      },
+      "id": 167,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "790103",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "0103",
+        "First2Dig": "79",
+        "REFNAME": "01> 03>",
+        "TEXT": "01> 03>",
+        "TXTMEMO": "01> 03>",
+        "FullName": "STATE ST",
+        "LeftFrom": "7900",
+        "LeftTo": "7998",
+        "RightFrom": "7901",
+        "RightTo": "7999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21107237350702,
+          33.96508656139191
+        ]
+      },
+      "id": 168,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "790507",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "0507",
+        "First2Dig": "79",
+        "REFNAME": "05> 07>",
+        "TEXT": "05> 07>",
+        "TXTMEMO": "05> 07>",
+        "FullName": "STATE ST",
+        "LeftFrom": "7900",
+        "LeftTo": "7998",
+        "RightFrom": "7901",
+        "RightTo": "7999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21107904516305,
+          33.96503435698362
+        ]
+      },
+      "id": 169,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7913",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "13",
+        "First2Dig": "79",
+        "REFNAME": "13>",
+        "TEXT": "13>",
+        "TXTMEMO": "13>",
+        "FullName": "STATE ST",
+        "LeftFrom": "7900",
+        "LeftTo": "7998",
+        "RightFrom": "7901",
+        "RightTo": "7999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21094720902043,
+          33.964940770137424
+        ]
+      },
+      "id": 170,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7917",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "17",
+        "First2Dig": "79",
+        "REFNAME": "17>",
+        "TEXT": "17>",
+        "TXTMEMO": "17>",
+        "FullName": "STATE ST",
+        "LeftFrom": "7900",
+        "LeftTo": "7998",
+        "RightFrom": "7901",
+        "RightTo": "7999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21097377764832,
+          33.964811624319964
+        ]
+      },
+      "id": 171,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7919",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "19",
+        "First2Dig": "79",
+        "REFNAME": "19>",
+        "TEXT": "19>",
+        "TXTMEMO": "19>",
+        "FullName": "STATE ST",
+        "LeftFrom": "7900",
+        "LeftTo": "7998",
+        "RightFrom": "7901",
+        "RightTo": "7999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21100042516798,
+          33.96462749328077
+        ]
+      },
+      "id": 172,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7923",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "23",
+        "First2Dig": "79",
+        "REFNAME": "23>",
+        "TEXT": "23>",
+        "TXTMEMO": "23>",
+        "FullName": "STATE ST",
+        "LeftFrom": "7900",
+        "LeftTo": "7998",
+        "RightFrom": "7901",
+        "RightTo": "7999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21101384586073,
+          33.96450383044339
+        ]
+      },
+      "id": 173,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "7925",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "25",
+        "First2Dig": "79",
+        "REFNAME": "25>",
+        "TEXT": "25>",
+        "TXTMEMO": "25>",
+        "FullName": "STATE ST",
+        "LeftFrom": "7900",
+        "LeftTo": "7998",
+        "RightFrom": "7901",
+        "RightTo": "7999",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21103168934977,
+          33.96442327631388
+        ]
+      },
+      "id": 174,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "HouseNum": "8029",
+        "StreetName": "STATE",
+        "StreetType": "ST",
+        "Last2Dig": "29",
+        "First2Dig": "80",
+        "REFNAME": "29>",
+        "TEXT": "29>",
+        "TXTMEMO": "29>",
+        "FullName": "STATE ST",
+        "LeftFrom": "8000",
+        "LeftTo": "8098",
+        "RightFrom": "8001",
+        "RightTo": "8099",
+        "PreDir": "",
+        "PreType": "",
+        "PostType": "STREET",
+        "PostDir": "",
+        "PostMod": "",
+        "PreDirAbbr": "",
+        "PostDirAbb": "",
+        "PreTypeAbb": "",
+        "PostTypeAb": "ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21103710755321,
+          33.96438292292378
+        ]
+      },
+      "id": 175,
+      "type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[-118.18998340453263,33.983169486130862]},"properties":{"FID":0,"PreDir":" ","PreType":" ","HouseNum":"6125","StreetName":"Pine","SufDir":" ","StreetType":"Ave","UnitType":" ","UnitName":" ","ZipCode":"90255","FullName":"Pine Ave","Address":"6125 Pine Ave 90255"}}]
+}
