@@ -1,0 +1,4830 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3510 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3510",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.202248788,
+          33.9850555589336
+        ]
+      },
+      "id": 1,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3511 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3511",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20222135434958,
+          33.98447689052234
+        ]
+      },
+      "id": 2,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3511 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3511",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20223928921422,
+          33.983561233087286
+        ]
+      },
+      "id": 3,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3513 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3513",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20213887822668,
+          33.98537374290808
+        ]
+      },
+      "id": 4,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3514 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3514",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2021115963915,
+          33.98504885065109
+        ]
+      },
+      "id": 5,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3514 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3514",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20207714779701,
+          33.983996034783544
+        ]
+      },
+      "id": 6,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3515 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3515",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20208758172903,
+          33.98446214203184
+        ]
+      },
+      "id": 7,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3516 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3516",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20187396055782,
+          33.98398802064714
+        ]
+      },
+      "id": 8,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3519 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3519",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20191030998747,
+          33.98543281890183
+        ]
+      },
+      "id": 9,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3519 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3519",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20189885646762,
+          33.984517424277115
+        ]
+      },
+      "id": 10,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3519 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3519",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20186096193567,
+          33.98360020302896
+        ]
+      },
+      "id": 11,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3519 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3519",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20200038406102,
+          33.98272690392968
+        ]
+      },
+      "id": 12,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3520 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3520",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20193403539247,
+          33.9849165068392
+        ]
+      },
+      "id": 13,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3523 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3523",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2017676718934,
+          33.985406423123315
+        ]
+      },
+      "id": 14,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3523 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3523",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20175140520026,
+          33.98448986025337
+        ]
+      },
+      "id": 15,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3524 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3524",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20182079736101,
+          33.984885665518604
+        ]
+      },
+      "id": 16,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3524 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3524",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20167251874526,
+          33.98395898010403
+        ]
+      },
+      "id": 17,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3525 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3525",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20165331815437,
+          33.9835712070462
+        ]
+      },
+      "id": 18,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3525 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3525",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20180398359382,
+          33.98270707499476
+        ]
+      },
+      "id": 19,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3527 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3527",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20162146479272,
+          33.984477321803894
+        ]
+      },
+      "id": 20,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3528 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3528",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20169181276093,
+          33.98487218784684
+        ]
+      },
+      "id": 21,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3529 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3529",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20163819681319,
+          33.98539311312879
+        ]
+      },
+      "id": 22,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3529 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3529",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20149109319384,
+          33.98355368892999
+        ]
+      },
+      "id": 23,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3530 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3530",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20156164687626,
+          33.98485834891104
+        ]
+      },
+      "id": 24,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3530 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3530",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20143345818353,
+          33.983934355187564
+        ]
+      },
+      "id": 25,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3531 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3531",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2014901382847,
+          33.98537850781143
+        ]
+      },
+      "id": 26,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3531 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3531",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20149577341648,
+          33.9844641777706
+        ]
+      },
+      "id": 27,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3533 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3533",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20136220291688,
+          33.98354209112767
+        ]
+      },
+      "id": 28,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3535 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3535",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20137116361185,
+          33.98445230895855
+        ]
+      },
+      "id": 29,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3535 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3535",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2016077520099,
+          33.982687404716565
+        ]
+      },
+      "id": 30,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3536 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3536",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20121046219403,
+          33.98391126098858
+        ]
+      },
+      "id": 31,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3537 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3537",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2013228306563,
+          33.98536070701889
+        ]
+      },
+      "id": 32,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3537 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3537",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20122890730177,
+          33.98352687468937
+        ]
+      },
+      "id": 33,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3537 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3537",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20141146383213,
+          33.98266765919997
+        ]
+      },
+      "id": 34,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3538 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3538",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20144017668355,
+          33.98484775313678
+        ]
+      },
+      "id": 35,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3539 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3539",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20124581359539,
+          33.98443958354034
+        ]
+      },
+      "id": 36,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3540 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3540",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20131713354074,
+          33.98483361848364
+        ]
+      },
+      "id": 37,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3541 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3541",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20115409829984,
+          33.98534431327369
+        ]
+      },
+      "id": 38,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3543 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3543",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20111437389964,
+          33.98442586147925
+        ]
+      },
+      "id": 39,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3544 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3544",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20118716887872,
+          33.98482094749803
+        ]
+      },
+      "id": 40,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3547 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3547",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20099138824907,
+          33.98532657504272
+        ]
+      },
+      "id": 41,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3548 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3548",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20105478595192,
+          33.98480798154183
+        ]
+      },
+      "id": 42,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3601 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3601",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20121530770668,
+          33.982647933045946
+        ]
+      },
+      "id": 43,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3602 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3602",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20092415294332,
+          33.98479440851437
+        ]
+      },
+      "id": 44,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3602 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3602",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20103346893023,
+          33.983894236051924
+        ]
+      },
+      "id": 45,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3603 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3603",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20094786397524,
+          33.984408622866866
+        ]
+      },
+      "id": 46,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3603 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3603",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2010947052865,
+          33.98351460797969
+        ]
+      },
+      "id": 47,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3605 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3605",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20084580188423,
+          33.98531190937978
+        ]
+      },
+      "id": 48,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3606 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3606",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2007798619491,
+          33.98477984629659
+        ]
+      },
+      "id": 49,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3606 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3606",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20086829839389,
+          33.98387637014411
+        ]
+      },
+      "id": 50,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3607 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3607",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20071341536415,
+          33.985298949457466
+        ]
+      },
+      "id": 51,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3607 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3607",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20096609618221,
+          33.98350152562269
+        ]
+      },
+      "id": 52,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3608 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3608",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20073815945868,
+          33.98386232545964
+        ]
+      },
+      "id": 53,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3609 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3609",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20101941119435,
+          33.98262846014976
+        ]
+      },
+      "id": 54,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3610 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3610",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20063768379246,
+          33.98476489450902
+        ]
+      },
+      "id": 55,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3610 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3610",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2005956668917,
+          33.98385001112616
+        ]
+      },
+      "id": 56,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3611 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3611",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20058194602402,
+          33.98528517092533
+        ]
+      },
+      "id": 57,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3611 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3611",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20075197644609,
+          33.98438982969912
+        ]
+      },
+      "id": 58,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3611 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3611",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20083592939925,
+          33.98348772817709
+        ]
+      },
+      "id": 59,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3614 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3614",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20052259433321,
+          33.98475378327254
+        ]
+      },
+      "id": 60,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3615 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3615",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2008235892422,
+          33.98260860810029
+        ]
+      },
+      "id": 61,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3617 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3617",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20045168132468,
+          33.985271833351746
+        ]
+      },
+      "id": 62,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3617 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3617",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20055576821834,
+          33.98436960562393
+        ]
+      },
+      "id": 63,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3618 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3618",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20039890799669,
+          33.98474104076742
+        ]
+      },
+      "id": 64,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3618 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3618",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20042789842752,
+          33.98383252211768
+        ]
+      },
+      "id": 65,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3619 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3619",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20032138608262,
+          33.98525843246246
+        ]
+      },
+      "id": 66,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3619 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3619",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20062742682855,
+          33.982588855116525
+        ]
+      },
+      "id": 67,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3621 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3621",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20035862125114,
+          33.98435016440688
+        ]
+      },
+      "id": 68,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3621 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3621",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20070550839306,
+          33.98347536015781
+        ]
+      },
+      "id": 69,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3622 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3622",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20026663646098,
+          33.984727323969125
+        ]
+      },
+      "id": 70,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3623 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3623",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20019113216306,
+          33.98524508147707
+        ]
+      },
+      "id": 71,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3625 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3625",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2005753568814,
+          33.98346143160872
+        ]
+      },
+      "id": 72,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3627 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3627",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20005212236441,
+          33.985231349862815
+        ]
+      },
+      "id": 73,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3627 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3627",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20018417381287,
+          33.98433310156955
+        ]
+      },
+      "id": 74,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3627 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3627",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20044463673621,
+          33.983448502689306
+        ]
+      },
+      "id": 75,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3627 RANDOLPH PL UNIT A HUNTINGTON PARK 90255",
+        "HouseNum": "3627",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "A",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20043109822657,
+          33.9825690835059
+        ]
+      },
+      "id": 76,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3628 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3628",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20010482023392,
+          33.98471222990191
+        ]
+      },
+      "id": 77,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3628 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3628",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20027782407954,
+          33.98381723049861
+        ]
+      },
+      "id": 78,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3631 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3631",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20004259303586,
+          33.98431717242788
+        ]
+      },
+      "id": 79,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3631 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3631",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20031411511872,
+          33.983434204674204
+        ]
+      },
+      "id": 80,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3633 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3633",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19990380332447,
+          33.985215398543495
+        ]
+      },
+      "id": 81,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3633 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3633",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20023493221964,
+          33.98254934988009
+        ]
+      },
+      "id": 82,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3634 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3634",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20014602775262,
+          33.983802998839785
+        ]
+      },
+      "id": 83,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3635 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3635",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19991089552364,
+          33.98430501756345
+        ]
+      },
+      "id": 84,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3638 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3638",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19991143181785,
+          33.98469123347191
+        ]
+      },
+      "id": 85,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3638 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3638",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2000149177386,
+          33.98378983310072
+        ]
+      },
+      "id": 86,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3639 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3639",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19975622180138,
+          33.9852000498185
+        ]
+      },
+      "id": 87,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3639 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3639",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19966148816647,
+          33.98427945271512
+        ]
+      },
+      "id": 88,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3639 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3639",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20003867368628,
+          33.98252962369862
+        ]
+      },
+      "id": 89,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3642 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3642",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19972120187835,
+          33.98475731917395
+        ]
+      },
+      "id": 90,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3642 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3642",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1998828995278,
+          33.9837772252742
+        ]
+      },
+      "id": 91,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3645 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3645",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19960779316698,
+          33.98518505639226
+        ]
+      },
+      "id": 92,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3645 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3645",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19984244120404,
+          33.98250988931875
+        ]
+      },
+      "id": 93,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3646 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3646",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19952298501765,
+          33.98473518757185
+        ]
+      },
+      "id": 94,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3646 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3646",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1997430749572,
+          33.98381842975374
+        ]
+      },
+      "id": 95,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST PL",
+        "Address": "3648 E 61ST PL HUNTINGTON PARK 90255",
+        "HouseNum": "3648",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19962119872596,
+          33.98375012432551
+        ]
+      },
+      "id": 96,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "E",
+        "PreType": "",
+        "StreetName": "61ST",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "E 61ST ST",
+        "Address": "3649 E 61ST ST HUNTINGTON PARK 90255",
+        "HouseNum": "3649",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1994340329399,
+          33.985168132267795
+        ]
+      },
+      "id": 97,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3651 RANDOLPH PL UNIT A HUNTINGTON PARK 90255",
+        "HouseNum": "3651",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "A",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1996462437561,
+          33.98249021080109
+        ]
+      },
+      "id": 98,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3701 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3701",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19939471547656,
+          33.98326389833221
+        ]
+      },
+      "id": 99,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3705 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3705",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19944991425582,
+          33.982470437677755
+        ]
+      },
+      "id": 100,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3707 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3707",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19927069227178,
+          33.983249959320084
+        ]
+      },
+      "id": 101,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3711 RANDOLPH PL UNIT A HUNTINGTON PARK 90255",
+        "HouseNum": "3711",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "A",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19925375902868,
+          33.98245067050894
+        ]
+      },
+      "id": 102,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3717 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3717",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19905743401998,
+          33.98243079234682
+        ]
+      },
+      "id": 103,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3717 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3717",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19907946520233,
+          33.98328601467488
+        ]
+      },
+      "id": 104,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3721 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3721",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19890607238617,
+          33.983268595569456
+        ]
+      },
+      "id": 105,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3723 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3723",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19886161925433,
+          33.98241139388995
+        ]
+      },
+      "id": 106,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3723 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3723",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19880780837218,
+          33.983259414876336
+        ]
+      },
+      "id": 107,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH ST",
+        "Address": "3725 RANDOLPH ST HUNTINGTON PARK 90255",
+        "HouseNum": "3725",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19864589692368,
+          33.983241956286605
+        ]
+      },
+      "id": 108,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3727 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3727",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19866584491291,
+          33.98239139355642
+        ]
+      },
+      "id": 109,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3735 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3735",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19846957559974,
+          33.9823716442466
+        ]
+      },
+      "id": 110,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3741 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3741",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19827335659221,
+          33.98235213255274
+        ]
+      },
+      "id": 111,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "APT",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3747 RANDOLPH PL APARTMENT B HUNTINGTON PARK 90255",
+        "HouseNum": "3747",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "B",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19807756608108,
+          33.982332149337765
+        ]
+      },
+      "id": 112,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "RANDOLPH",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "RANDOLPH PL",
+        "Address": "3755 RANDOLPH PL HUNTINGTON PARK 90255",
+        "HouseNum": "3755",
+        "StreetType": "PL",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1978817055014,
+          33.98231260560444
+        ]
+      },
+      "id": 113,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5921 MIDDLETON ST UNIT 38 HUNTINGTON PARK 90255",
+        "HouseNum": "5921",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "38",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22941311994629,
+          33.98856883184929
+        ]
+      },
+      "id": 114,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5921 MIDDLETON ST UNIT 34 HUNTINGTON PARK 90255",
+        "HouseNum": "5921",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "34",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22871932500124,
+          33.988649625060795
+        ]
+      },
+      "id": 115,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5921 MIDDLETON ST UNIT 119 HUNTINGTON PARK 90255",
+        "HouseNum": "5921",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "119",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22951248080325,
+          33.98864811900111
+        ]
+      },
+      "id": 116,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5925 MIDDLETON ST UNIT 48 HUNTINGTON PARK 90255",
+        "HouseNum": "5925",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "48",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22931375729272,
+          33.9884895446235
+        ]
+      },
+      "id": 117,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5925 MIDDLETON ST UNIT 47 HUNTINGTON PARK 90255",
+        "HouseNum": "5925",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "47",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22951204512034,
+          33.98848916773546
+        ]
+      },
+      "id": 118,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5929 MIDDLETON ST UNIT 123 HUNTINGTON PARK 90255",
+        "HouseNum": "5929",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "123",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22852060149073,
+          33.98849104994114
+        ]
+      },
+      "id": 119,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5929 MIDDLETON ST UNIT 42 HUNTINGTON PARK 90255",
+        "HouseNum": "5929",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "42",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22911525027621,
+          33.98841044651281
+        ]
+      },
+      "id": 120,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5939 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5939",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22920943773542,
+          33.98807763255662
+        ]
+      },
+      "id": 121,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5941 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5941",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2293024897241,
+          33.98794693211527
+        ]
+      },
+      "id": 122,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5943 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5943",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22942440637954,
+          33.98806034850473
+        ]
+      },
+      "id": 123,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5944 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5944",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2287302503117,
+          33.98798974939164
+        ]
+      },
+      "id": 124,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5947 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5947",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22955530618779,
+          33.987730222811614
+        ]
+      },
+      "id": 125,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5948 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5948",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22860856093007,
+          33.988180565883866
+        ]
+      },
+      "id": 126,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5951 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5951",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22930181149607,
+          33.987755499856895
+        ]
+      },
+      "id": 127,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5952 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5952",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2284769667241,
+          33.98813107492702
+        ]
+      },
+      "id": 128,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5956 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5956",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22847625705502,
+          33.98768374374614
+        ]
+      },
+      "id": 129,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5959 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5959",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22920848372458,
+          33.987500061769985
+        ]
+      },
+      "id": 130,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5960 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5960",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2286075287658,
+          33.98776643789707
+        ]
+      },
+      "id": 131,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5968 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5968",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22877736784669,
+          33.98770800483684
+        ]
+      },
+      "id": 132,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "5980 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "5980",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22882392932449,
+          33.98736808898511
+        ]
+      },
+      "id": 133,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6000 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6000",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22884599643947,
+          33.987088800375346
+        ]
+      },
+      "id": 134,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6006 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6006",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22884611591537,
+          33.98698493168233
+        ]
+      },
+      "id": 135,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6010 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6010",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22884627851045,
+          33.986881291531965
+        ]
+      },
+      "id": 136,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6013 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6013",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22941090380247,
+          33.98677056099888
+        ]
+      },
+      "id": 137,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6015 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6015",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22951003199579,
+          33.98670166652931
+        ]
+      },
+      "id": 138,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6016 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6016",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22871794608727,
+          33.98664858898339
+        ]
+      },
+      "id": 139,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6017 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6017",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22941073132596,
+          33.98663314070673
+        ]
+      },
+      "id": 140,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6107 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6107",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22921786033952,
+          33.98541615180513
+        ]
+      },
+      "id": 141,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6124 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6124",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22878989485332,
+          33.98506998255868
+        ]
+      },
+      "id": 142,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6127 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6127",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935886529639,
+          33.9849542441461
+        ]
+      },
+      "id": 143,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6132 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6132",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2286654916612,
+          33.98481556506591
+        ]
+      },
+      "id": 144,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "APT",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6133 MIDDLETON ST APARTMENT A HUNTINGTON PARK 90255",
+        "HouseNum": "6133",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "A",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935862095466,
+          33.98481685071192
+        ]
+      },
+      "id": 145,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6138 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6138",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22866518264074,
+          33.98467816321399
+        ]
+      },
+      "id": 146,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6139 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6139",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935859131026,
+          33.98467945854534
+        ]
+      },
+      "id": 147,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6142 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6142",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22866505418168,
+          33.98454077082322
+        ]
+      },
+      "id": 148,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6143 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6143",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2294824905475,
+          33.984541830032114
+        ]
+      },
+      "id": 149,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6148 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6148",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22878859139784,
+          33.98440312644303
+        ]
+      },
+      "id": 150,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6149 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6149",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935802088001,
+          33.984404664607496
+        ]
+      },
+      "id": 151,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6200 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6200",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22878824913971,
+          33.984265752229526
+        ]
+      },
+      "id": 152,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6212 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6212",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2287879356277,
+          33.98399094876044
+        ]
+      },
+      "id": 153,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6218 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6218",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22878798054344,
+          33.98385354632028
+        ]
+      },
+      "id": 154,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6228 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6228",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22866362765697,
+          33.983716371591264
+        ]
+      },
+      "id": 155,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6301 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6301",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.229183958819,
+          33.98336589372298
+        ]
+      },
+      "id": 156,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6316 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6316",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22878656479855,
+          33.983048628869746
+        ]
+      },
+      "id": 157,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6319 MIDDLETON ST UNIT A HUNTINGTON PARK 90255",
+        "HouseNum": "6319",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "A",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935822569593,
+          33.98298744691517
+        ]
+      },
+      "id": 158,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6322 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6322",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22866243289766,
+          33.982910344449905
+        ]
+      },
+      "id": 159,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6326 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6326",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2287861551668,
+          33.98277178270671
+        ]
+      },
+      "id": 160,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6340 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6340",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22878530715715,
+          33.98235617061114
+        ]
+      },
+      "id": 161,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6346 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6346",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22878521013912,
+          33.982217853779275
+        ]
+      },
+      "id": 162,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6347 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6347",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935705429278,
+          33.982225825623686
+        ]
+      },
+      "id": 163,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6350 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6350",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22878487327088,
+          33.982079297611286
+        ]
+      },
+      "id": 164,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "UNIT",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6351 MIDDLETON ST UNIT A HUNTINGTON PARK 90255",
+        "HouseNum": "6351",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "A",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935685486678,
+          33.98210125634465
+        ]
+      },
+      "id": 165,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6355 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6355",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22948042532067,
+          33.98197642468002
+        ]
+      },
+      "id": 166,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6363 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6363",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22948015492774,
+          33.98182249047754
+        ]
+      },
+      "id": 167,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "APT",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6400 MIDDLETON ST APARTMENT AU HUNTINGTON PARK 90255",
+        "HouseNum": "6400",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "AU",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2285629426833,
+          33.98138952054597
+        ]
+      },
+      "id": 168,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6415 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6415",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935592061893,
+          33.981189081061196
+        ]
+      },
+      "id": 169,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6421 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6421",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935562237824,
+          33.98102549446447
+        ]
+      },
+      "id": 170,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6507 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6507",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935476628378,
+          33.98056092671713
+        ]
+      },
+      "id": 171,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6519 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6519",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22947791363111,
+          33.98024661464749
+        ]
+      },
+      "id": 172,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6531 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6531",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22943609256308,
+          33.9798803615948
+        ]
+      },
+      "id": 173,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6603 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6603",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22918954364513,
+          33.97914657619758
+        ]
+      },
+      "id": 174,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6609 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6609",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2293519886929,
+          33.978987102850404
+        ]
+      },
+      "id": 175,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6707 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6707",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2293510481568,
+          33.978535329974335
+        ]
+      },
+      "id": 176,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6717 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6717",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22935044898051,
+          33.97820187842702
+        ]
+      },
+      "id": 177,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6718 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6718",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22865878933088,
+          33.978199911816624
+        ]
+      },
+      "id": 178,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6722 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6722",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22878315928533,
+          33.97804144532825
+        ]
+      },
+      "id": 179,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6729 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6729",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22947290372677,
+          33.97788701532542
+        ]
+      },
+      "id": 180,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6730 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6730",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2286584614458,
+          33.977886418635734
+        ]
+      },
+      "id": 181,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6802 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6802",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22878284128171,
+          33.97772884995141
+        ]
+      },
+      "id": 182,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6803 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6803",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22934917247447,
+          33.97773015656273
+        ]
+      },
+      "id": 183,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6811 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6811",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22947250487478,
+          33.977572835651735
+        ]
+      },
+      "id": 184,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6817 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6817",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22947217429477,
+          33.97741619085064
+        ]
+      },
+      "id": 185,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6823 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6823",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22947179251076,
+          33.97725886712387
+        ]
+      },
+      "id": 186,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6908 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6908",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22865392136035,
+          33.976616414374384
+        ]
+      },
+      "id": 187,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "6914 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "6914",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2286528847045,
+          33.976460228186134
+        ]
+      },
+      "id": 188,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "7004 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "7004",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22865194327011,
+          33.9761455918024
+        ]
+      },
+      "id": 189,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "7012 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "7012",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22877533136592,
+          33.975988042240154
+        ]
+      },
+      "id": 190,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "7018 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "7018",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22877484537737,
+          33.975831186678356
+        ]
+      },
+      "id": 191,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "7028 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "7028",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22877373685631,
+          33.975525004658074
+        ]
+      },
+      "id": 192,
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "PreDir": "",
+        "PreType": "",
+        "StreetName": "MIDDLETON",
+        "UnitType": "",
+        "ZipCode": "90255",
+        "FullName": "MIDDLETON ST",
+        "Address": "7110 MIDDLETON ST HUNTINGTON PARK 90255",
+        "HouseNum": "7110",
+        "StreetType": "ST",
+        "SufDir": "",
+        "UnitNumber": "",
+        "CityCode": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22856603917609,
+          33.97526911562122
+        ]
+      },
+      "id": 193,
+      "type": "Feature"
+    }
+  ]
+}
